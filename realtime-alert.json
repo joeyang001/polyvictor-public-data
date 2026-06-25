@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-06-25T22:24:00.870Z",
+  "generated_at": "2026-06-25T22:32:00.741Z",
   "window_minutes": 30,
   "count": 2,
   "alerts": [
+    {
+      "id": "c80fe6ee-11d1-464a-9970-d35a96197b82",
+      "ts": "2026-06-25T22:30:51+00:00",
+      "address": "0xd1c537b2a7cba8d365e111bffb9de7b205e2cbd0",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "Under",
+      "price": 0.4895793227322527,
+      "shares": 605374.76,
+      "usd_value": 296378.965,
+      "price_shift_pp": 0.9579322732252704,
+      "alert_reason": "size",
+      "market_id": "2323879",
+      "condition_id": "0xc3b9ac6f43d878b96c1e6819fe45858920b4ab3d61fdf104ceb78c9813787698",
+      "token_id": "98785070553306921293238570652395972134731262903524099075568340091694397138534",
+      "question": "Japan vs. Sweden: O/U 2.5",
+      "link": "https://polyvictor.com/markets/2323879"
+    },
     {
       "id": "41e9b172-1e88-47ed-ad8d-a1bc15c27bda",
       "ts": "2026-06-25T22:22:31+00:00",
@@ -21,24 +39,6 @@
       "token_id": "19056046558166616177125992986908450328347851423042233479789993394270100295648",
       "question": "Will Japan win on 2026-06-25?",
       "link": "https://polyvictor.com/markets/1897329"
-    },
-    {
-      "id": "3ed75ae8-5521-4cb5-8c14-b250268edcc0",
-      "ts": "2026-06-25T21:54:24+00:00",
-      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-      "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.9059995825391066,
-      "shares": 289080.97,
-      "usd_value": 261907.23813999997,
-      "price_shift_pp": -0.00004174608934093271,
-      "alert_reason": "size",
-      "market_id": "1897311",
-      "condition_id": "0x44e25f753ae47dbdf2705d35e0a45db24d3a1b2996b82a1350ade2c7e92c4f93",
-      "token_id": "14621976022388339155866443939403907158807725281606484508612016632018100973573",
-      "question": "Will Ecuador win on 2026-06-25?",
-      "link": "https://polyvictor.com/markets/1897311"
     }
   ]
 }
