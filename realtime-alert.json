@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-06-25T22:50:05.741Z",
+  "generated_at": "2026-06-25T22:54:01.032Z",
   "window_minutes": 30,
   "count": 3,
   "alerts": [
+    {
+      "id": "3e785f0c-1161-45b7-b8c5-197f47b9e322",
+      "ts": "2026-06-25T22:53:01+00:00",
+      "address": "0x664ce9fb97ae1bbd538d7381b2f4e92dab16f49c",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.5965906986666667,
+      "shares": 750000,
+      "usd_value": 447443.02400000003,
+      "price_shift_pp": 0.4106198683357043,
+      "alert_reason": "size",
+      "market_id": "1897329",
+      "condition_id": "0xe1bd581c13be7103749ca1a64d21230ed6693a162fc057d81e3d1e9237fc81f8",
+      "token_id": "19056046558166616177125992986908450328347851423042233479789993394270100295648",
+      "question": "Will Japan win on 2026-06-25?",
+      "link": "https://polyvictor.com/markets/1897329"
+    },
     {
       "id": "07554aa0-0835-4af7-96bb-394c904c522f",
       "ts": "2026-06-25T22:49:10+00:00",
@@ -39,24 +57,6 @@
       "token_id": "98785070553306921293238570652395972134731262903524099075568340091694397138534",
       "question": "Japan vs. Sweden: O/U 2.5",
       "link": "https://polyvictor.com/markets/2323879"
-    },
-    {
-      "id": "41e9b172-1e88-47ed-ad8d-a1bc15c27bda",
-      "ts": "2026-06-25T22:22:31+00:00",
-      "address": "0x664ce9fb97ae1bbd538d7381b2f4e92dab16f49c",
-      "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "No",
-      "price": 0.5599053551590536,
-      "shares": 999999.99,
-      "usd_value": 559905.34956,
-      "price_shift_pp": 0.09054218236177469,
-      "alert_reason": "size",
-      "market_id": "1897329",
-      "condition_id": "0xe1bd581c13be7103749ca1a64d21230ed6693a162fc057d81e3d1e9237fc81f8",
-      "token_id": "19056046558166616177125992986908450328347851423042233479789993394270100295648",
-      "question": "Will Japan win on 2026-06-25?",
-      "link": "https://polyvictor.com/markets/1897329"
     }
   ]
 }
