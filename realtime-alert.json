@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-06-25T23:02:00.982Z",
+  "generated_at": "2026-06-25T23:04:00.892Z",
   "window_minutes": 30,
-  "count": 10,
+  "count": 11,
   "alerts": [
+    {
+      "id": "f6921f8f-86d2-4211-b37c-e7a4947f097c",
+      "ts": "2026-06-25T23:02:29+00:00",
+      "address": "0x83255595ba1fadd2e734cb30a0fb8110301a19cc",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.855180288860223,
+      "shares": 43412,
+      "usd_value": 37125.0867,
+      "price_shift_pp": -8.291093383046311,
+      "alert_reason": "shift",
+      "market_id": "1897340",
+      "condition_id": "0xa3150402afe114c762bcd2e5581dc4d0fe93560718640d8d490e0497350de5ad",
+      "token_id": "28763246044322995220208532073700111687599343514604674596345286876678085708461",
+      "question": "Will Netherlands win on 2026-06-25?",
+      "link": "https://polyvictor.com/markets/1897340"
+    },
     {
       "id": "398c4494-6e6e-44e0-bb95-8d1448892012",
       "ts": "2026-06-25T23:00:15+00:00",
