@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-06-25T23:00:03.270Z",
+  "generated_at": "2026-06-25T23:02:00.982Z",
   "window_minutes": 30,
   "count": 10,
   "alerts": [
+    {
+      "id": "398c4494-6e6e-44e0-bb95-8d1448892012",
+      "ts": "2026-06-25T23:00:15+00:00",
+      "address": "0x664ce9fb97ae1bbd538d7381b2f4e92dab16f49c",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.6139746142400409,
+      "shares": 542337.91,
+      "usd_value": 332981.70908,
+      "price_shift_pp": 1.197461424004087,
+      "alert_reason": "size",
+      "market_id": "1897329",
+      "condition_id": "0xe1bd581c13be7103749ca1a64d21230ed6693a162fc057d81e3d1e9237fc81f8",
+      "token_id": "19056046558166616177125992986908450328347851423042233479789993394270100295648",
+      "question": "Will Japan win on 2026-06-25?",
+      "link": "https://polyvictor.com/markets/1897329"
+    },
     {
       "id": "dc9d1074-5a07-47fb-8463-79d718081391",
       "ts": "2026-06-25T22:59:22+00:00",
@@ -165,24 +183,6 @@
       "token_id": "19056046558166616177125992986908450328347851423042233479789993394270100295648",
       "question": "Will Japan win on 2026-06-25?",
       "link": "https://polyvictor.com/markets/1897329"
-    },
-    {
-      "id": "c80fe6ee-11d1-464a-9970-d35a96197b82",
-      "ts": "2026-06-25T22:30:51+00:00",
-      "address": "0xd1c537b2a7cba8d365e111bffb9de7b205e2cbd0",
-      "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Under",
-      "price": 0.4895793227322527,
-      "shares": 605374.76,
-      "usd_value": 296378.965,
-      "price_shift_pp": 0.9579322732252704,
-      "alert_reason": "size",
-      "market_id": "2323879",
-      "condition_id": "0xc3b9ac6f43d878b96c1e6819fe45858920b4ab3d61fdf104ceb78c9813787698",
-      "token_id": "98785070553306921293238570652395972134731262903524099075568340091694397138534",
-      "question": "Japan vs. Sweden: O/U 2.5",
-      "link": "https://polyvictor.com/markets/2323879"
     }
   ]
 }
