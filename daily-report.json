@@ -1,0 +1,75 @@
+{
+  "schema": "polyvictor.daily-report/v1",
+  "date": "2026-06-25",
+  "generated_at": "2026-06-25T14:00:05.698Z",
+  "status": "success",
+  "tweet_ids": [
+    "2070144997337203043",
+    "2070144998595608892",
+    "2070145000139079903",
+    "2070145001598673123",
+    "2070145003167330336",
+    "2070145004664680503"
+  ],
+  "site": "https://polyvictor.com",
+  "summary": {
+    "window_hours": 24,
+    "total_fills": 1000,
+    "total_volume_usd": 60379295.34531507,
+    "unique_whales": 226,
+    "buy_volume_usd": 53198939.74365505,
+    "sell_volume_usd": 7180355.60166,
+    "top_markets": [
+      {
+        "market_id": "2323939",
+        "question": "Spread: Morocco (-1.5)",
+        "volume_usd": 11515853.780290999,
+        "fills": 108,
+        "link": "https://polyvictor.com/markets/2323939"
+      },
+      {
+        "market_id": "1897279",
+        "question": "Will Morocco win on 2026-06-24?",
+        "volume_usd": 7262077.347293997,
+        "fills": 101,
+        "link": "https://polyvictor.com/markets/1897279"
+      },
+      {
+        "market_id": "1897306",
+        "question": "Will Korea Republic win on 2026-06-24?",
+        "volume_usd": 3779098.406563001,
+        "fills": 61,
+        "link": "https://polyvictor.com/markets/1897306"
+      }
+    ],
+    "top_whales": [
+      {
+        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+        "volume_usd": 5977956.568777001,
+        "fills": 59,
+        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
+      },
+      {
+        "address": "0xd6505aab3c6bef32ae6c96dbd8023d7c4df114fb",
+        "volume_usd": 3749213.977997,
+        "fills": 23,
+        "link": "https://polyvictor.com/whales/0xd6505aab3c6bef32ae6c96dbd8023d7c4df114fb"
+      },
+      {
+        "address": "0xd66ef0c37a2a796a2f151a848d9c9e246cc6051f",
+        "volume_usd": 3183899.9113199995,
+        "fills": 27,
+        "link": "https://polyvictor.com/whales/0xd66ef0c37a2a796a2f151a848d9c9e246cc6051f"
+      }
+    ],
+    "biggest_fill": {
+      "address": "0x7bc14171ccb0d3e6bac219ec6a76211826e28db4",
+      "usd": 599400,
+      "side": "buy",
+      "price": 0.999,
+      "market_id": "2674136",
+      "question": "Alien abduction at Brazil vs Scotland game in Miami?",
+      "link": "https://polyvictor.com/markets/2674136"
+    }
+  }
+}
