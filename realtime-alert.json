@@ -1,0 +1,26 @@
+{
+  "schema": "polyvictor.whale-alert/v1",
+  "generated_at": "2026-06-25T22:18:00.862Z",
+  "window_minutes": 30,
+  "count": 1,
+  "alerts": [
+    {
+      "id": "3ed75ae8-5521-4cb5-8c14-b250268edcc0",
+      "ts": "2026-06-25T21:54:24+00:00",
+      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.9059995825391066,
+      "shares": 289080.97,
+      "usd_value": 261907.23813999997,
+      "price_shift_pp": -0.00004174608934093271,
+      "alert_reason": "size",
+      "market_id": "1897311",
+      "condition_id": "0x44e25f753ae47dbdf2705d35e0a45db24d3a1b2996b82a1350ade2c7e92c4f93",
+      "token_id": "14621976022388339155866443939403907158807725281606484508612016632018100973573",
+      "question": "Will Ecuador win on 2026-06-25?",
+      "link": "https://polyvictor.com/markets/1897311"
+    }
+  ]
+}
