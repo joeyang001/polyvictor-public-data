@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-06-26T20:00:05.746Z",
+  "generated_at": "2026-06-26T21:22:00.680Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "0fb4052f-bd11-4181-9af1-0cf113fdcb61",
-      "ts": "2026-06-26T19:59:58+00:00",
-      "address": "0x40604cb1f958c03bea0b18aa43e4cb0d62f33ec3",
+      "id": "5bc01853-66e0-4a83-937f-31dae01cdf90",
+      "ts": "2026-06-26T21:20:03+00:00",
+      "address": "0x03e8a544e97eeff5753bc1e90d46e5ef22af1697",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "NO",
-      "price": 0.998,
-      "shares": 50000,
-      "usd_value": 49900,
-      "price_shift_pp": 4.800000000000004,
-      "alert_reason": "shift",
-      "market_id": null,
-      "condition_id": "0x7fbf07663368ae5bb37f2e0c60b5ad5ca089491ca90cb65b23f4ecc4a9034311",
-      "token_id": "111744061255376467291834941474513469805522492656559882920640759635173874326270",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.6,
+      "shares": 1202425.13,
+      "usd_value": 721455.0779999999,
+      "price_shift_pp": -0.9999800363338696,
+      "alert_reason": "size",
+      "market_id": "1897392",
+      "condition_id": "0xe322faca2a534900680db54e3a4349a61427d347b6f906d2eeb01f81ae1b082c",
+      "token_id": "21212784061998732060753310583727616688784929823373352237868078199791664491531",
+      "question": "Will Spain win on 2026-06-26?",
+      "link": "https://polyvictor.com/markets/1897392"
     }
   ]
 }
