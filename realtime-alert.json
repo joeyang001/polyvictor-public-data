@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-06-26T19:02:00.725Z",
+  "generated_at": "2026-06-26T19:08:00.851Z",
   "window_minutes": 30,
-  "count": 3,
+  "count": 4,
   "alerts": [
+    {
+      "id": "857742de-7670-4397-8ac8-f3dee2fca64f",
+      "ts": "2026-06-26T19:07:43+00:00",
+      "address": "0x06f22ff6d9362ce82243f8ca594c97485d9c1269",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "Norway",
+      "price": 0.6736783005665345,
+      "shares": 38575.177464,
+      "usd_value": 25987.259998,
+      "price_shift_pp": 6.367830056653457,
+      "alert_reason": "shift",
+      "market_id": "2323832",
+      "condition_id": "0xd6a9536cb35c7d96420a267622aa934b10468aaf2102a7f672dbb53f5fc2e659",
+      "token_id": "86631250602388706934948898437669222934385795939324494554531063490645902487099",
+      "question": "Spread: France (-2.5)",
+      "link": "https://polyvictor.com/markets/2323832"
+    },
     {
       "id": "2264d727-6585-4bd0-97e7-212440d4b576",
       "ts": "2026-06-26T18:59:54+00:00",
