@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-06-26T02:32:01.208Z",
+  "generated_at": "2026-06-26T02:56:01.172Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 3,
   "alerts": [
+    {
+      "id": "eba94f02-184b-43b2-aff1-89903154a846",
+      "ts": "2026-06-26T02:55:13+00:00",
+      "address": "0x90ca00f0a7c263ce9e8a9af5ad044cd4dc9c1a4b",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.999,
+      "shares": 347622.46,
+      "usd_value": 347274.83754000004,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "1494703",
+      "condition_id": "0x5f879a52e5349db7f66d386ca75f1a9bb608fdd6a738a1582681613730b23281",
+      "token_id": "45088423813979757293740549409967318647375825482445492568610910377081706618886",
+      "question": "Will Crude Oil (CL) hit (HIGH) $200 by end of June?",
+      "link": "https://polyvictor.com/markets/1494703"
+    },
     {
       "id": "95781ee1-6d7d-439b-890b-a1528aac0664",
       "ts": "2026-06-26T02:30:40+00:00",
