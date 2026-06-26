@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-06-26T18:46:00.594Z",
+  "generated_at": "2026-06-26T18:50:04.911Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "b9436fdb-5ad6-4f89-9604-fb062c0bf87b",
+      "ts": "2026-06-26T18:49:20+00:00",
+      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.8,
+      "shares": 372321.01,
+      "usd_value": 297856.808,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "1897372",
+      "condition_id": "0x0a164e67541bdcd46143a1d6dd768ccd30eca67f68c510ff824bd67e06ef4738",
+      "token_id": "18743217884084451181326534803259386349719190738348996062011676818990905009388",
+      "question": "Will Senegal win on 2026-06-26?",
+      "link": "https://polyvictor.com/markets/1897372"
+    },
     {
       "id": "e6541de4-a49e-4c52-a624-58090ec88de9",
       "ts": "2026-06-26T18:45:39+00:00",
