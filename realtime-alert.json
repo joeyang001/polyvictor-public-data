@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-06-26T18:00:03.287Z",
+  "generated_at": "2026-06-26T18:46:00.594Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "46785526-fae2-4ddd-9e63-2f475b216c3f",
-      "ts": "2026-06-26T17:57:56+00:00",
-      "address": "0x72254fe1a79fc8fd37de0168be735e6af4bd659a",
+      "id": "e6541de4-a49e-4c52-a624-58090ec88de9",
+      "ts": "2026-06-26T18:45:39+00:00",
+      "address": "0x349606c1b77f3ba668879cbc9347f15a44cf8fc4",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.79,
-      "shares": 325323.25,
-      "usd_value": 257005.36750000002,
-      "price_shift_pp": 0,
+      "outcome_label": "Over",
+      "price": 0.4397071719146996,
+      "shares": 582078.73,
+      "usd_value": 255944.1922,
+      "price_shift_pp": -0.02928280853004006,
       "alert_reason": "size",
-      "market_id": "1897372",
-      "condition_id": "0x0a164e67541bdcd46143a1d6dd768ccd30eca67f68c510ff824bd67e06ef4738",
-      "token_id": "18743217884084451181326534803259386349719190738348996062011676818990905009388",
-      "question": "Will Senegal win on 2026-06-26?",
-      "link": "https://polyvictor.com/markets/1897372"
+      "market_id": "2323825",
+      "condition_id": "0x5fd3de37fb55c6eaa180f343529549296b69b82b58f095aa9794a47fa078f5a8",
+      "token_id": "12898067406022240831687197484725127129967516016135107123130563413806456531540",
+      "question": "Senegal vs. Iraq: O/U 3.5",
+      "link": "https://polyvictor.com/markets/2323825"
     }
   ]
 }
