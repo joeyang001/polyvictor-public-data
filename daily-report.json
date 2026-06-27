@@ -1,68 +1,68 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-06-26",
-  "generated_at": "2026-06-26T14:00:03.261Z",
+  "date": "2026-06-27",
+  "generated_at": "2026-06-27T14:00:03.487Z",
   "status": "failed",
   "tweet_ids": [],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 1000,
-    "total_volume_usd": 61232994.41419603,
-    "unique_whales": 243,
-    "buy_volume_usd": 54839385.11940603,
-    "sell_volume_usd": 6393609.294790001,
+    "total_fills": 977,
+    "total_volume_usd": 55515222.455042966,
+    "unique_whales": 256,
+    "buy_volume_usd": 49535181.279732995,
+    "sell_volume_usd": 5980041.1753100045,
     "top_markets": [
       {
-        "market_id": "1897329",
-        "question": "Will Japan win on 2026-06-25?",
-        "volume_usd": 13801853.688898008,
-        "fills": 134,
-        "link": "https://polyvictor.com/markets/1897329"
+        "market_id": "1897392",
+        "question": "Will Spain win on 2026-06-26?",
+        "volume_usd": 10100603.583972001,
+        "fills": 94,
+        "link": "https://polyvictor.com/markets/1897392"
       },
       {
-        "market_id": "1897356",
-        "question": "Will United States win on 2026-06-25?",
-        "volume_usd": 11676963.961989999,
-        "fills": 141,
-        "link": "https://polyvictor.com/markets/1897356"
+        "market_id": "1897366",
+        "question": "Will France win on 2026-06-26?",
+        "volume_usd": 8463677.420143,
+        "fills": 101,
+        "link": "https://polyvictor.com/markets/1897366"
       },
       {
-        "market_id": "1897315",
-        "question": "Will Germany win on 2026-06-25?",
-        "volume_usd": 5631389.134134999,
-        "fills": 85,
-        "link": "https://polyvictor.com/markets/1897315"
+        "market_id": "1897397",
+        "question": "Will Egypt win on 2026-06-26?",
+        "volume_usd": 2448362.505942,
+        "fills": 34,
+        "link": "https://polyvictor.com/markets/1897397"
       }
     ],
     "top_whales": [
       {
-        "address": "0x664ce9fb97ae1bbd538d7381b2f4e92dab16f49c",
-        "volume_usd": 9562647.078661002,
-        "fills": 69,
-        "link": "https://polyvictor.com/whales/0x664ce9fb97ae1bbd538d7381b2f4e92dab16f49c"
+        "address": "0xd6505aab3c6bef32ae6c96dbd8023d7c4df114fb",
+        "volume_usd": 7100978.859108001,
+        "fills": 47,
+        "link": "https://polyvictor.com/whales/0xd6505aab3c6bef32ae6c96dbd8023d7c4df114fb"
       },
       {
         "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 5543769.890502,
-        "fills": 53,
+        "volume_usd": 3357938.401519999,
+        "fills": 43,
         "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
       },
       {
-        "address": "0xd1c537b2a7cba8d365e111bffb9de7b205e2cbd0",
-        "volume_usd": 2838188.2778729997,
-        "fills": 19,
-        "link": "https://polyvictor.com/whales/0xd1c537b2a7cba8d365e111bffb9de7b205e2cbd0"
+        "address": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
+        "volume_usd": 2022081.9064,
+        "fills": 21,
+        "link": "https://polyvictor.com/whales/0x67542c3219b37fd1610aad290676ff91cdbfe3bc"
       }
     ],
     "biggest_fill": {
-      "address": "0xd1c537b2a7cba8d365e111bffb9de7b205e2cbd0",
-      "usd": 841247.901,
+      "address": "0xd6505aab3c6bef32ae6c96dbd8023d7c4df114fb",
+      "usd": 854868.9617999999,
       "side": "buy",
-      "price": 0.78,
-      "market_id": "1897348",
-      "question": "Will Australia win on 2026-06-25?",
-      "link": "https://polyvictor.com/markets/1897348"
+      "price": 0.42,
+      "market_id": "1897392",
+      "question": "Will Spain win on 2026-06-26?",
+      "link": "https://polyvictor.com/markets/1897392"
     }
   }
 }
