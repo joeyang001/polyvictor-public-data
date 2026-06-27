@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-06-27T20:54:00.556Z",
+  "generated_at": "2026-06-27T20:56:00.731Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "5e1ff23c-05de-42c8-bc6e-553df253d53f",
+      "ts": "2026-06-27T20:55:32+00:00",
+      "address": "0x72254fe1a79fc8fd37de0168be735e6af4bd659a",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.54,
+      "shares": 750000,
+      "usd_value": 405000,
+      "price_shift_pp": 2.880000127269966e-7,
+      "alert_reason": "size",
+      "market_id": "1897423",
+      "condition_id": "0x2cc359648ba6695498c169ceaa44c5444e0479102c453289c47ed9489e7f3e93",
+      "token_id": "23522010053796928314095406008924900761833610419543982088160250459540934114445",
+      "question": "Will Croatia win on 2026-06-27?",
+      "link": "https://polyvictor.com/markets/1897423"
+    },
     {
       "id": "e0e67a56-d0b1-4a53-86c6-1c1aa49c86fa",
       "ts": "2026-06-27T20:53:51+00:00",
