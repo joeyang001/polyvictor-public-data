@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-06-27T14:58:01.427Z",
+  "generated_at": "2026-06-27T17:16:00.881Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "8d2c1422-a6cc-4ed7-aae5-1aba5b84d79e",
-      "ts": "2026-06-27T14:57:19+00:00",
-      "address": "0xc5a2337f82aafe82a7eaae248586fbbc3c736dd9",
-      "side": "sell",
+      "id": "94b9be95-d419-4aa1-a450-416b01e9dff9",
+      "ts": "2026-06-27T17:15:25+00:00",
+      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+      "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "Alejandro Davidovich Fokina",
-      "price": 0.999,
-      "shares": 281029.52,
-      "usd_value": 280748.49048000004,
+      "outcome_label": "No",
+      "price": 0.82,
+      "shares": 377539.89,
+      "usd_value": 309582.7098,
       "price_shift_pp": 0,
       "alert_reason": "size",
-      "market_id": "2698927",
-      "condition_id": "0x29941bbd2d71ae78cca565df160099415cab7f5bca3b71b972f0b9fe31a04de3",
-      "token_id": "45697971622875611035428115259398133938162028211630524111371817805953674507609",
-      "question": "Mallorca Championships: Ethan Quinn vs Alejandro Davidovich Fokina",
-      "link": "https://polyvictor.com/markets/2698927"
+      "market_id": "1897427",
+      "condition_id": "0x137ae42a26fde276b0fced88f502e88a67da8e6acbc2ff8760b7e24d99234192",
+      "token_id": "85684720102068477217877319633679360618670045137392553650793005240485140303201",
+      "question": "Will Ghana win on 2026-06-27?",
+      "link": "https://polyvictor.com/markets/1897427"
     }
   ]
 }
