@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-06-27T01:56:00.589Z",
+  "generated_at": "2026-06-27T02:58:00.438Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "fc3a77f1-3342-4b53-89cc-a4d2658316d8",
-      "ts": "2026-06-27T01:54:50+00:00",
-      "address": "0x344ba216cd7cddb10540bb33714169a6f2bac1e1",
+      "id": "4c29018a-84f5-4578-9e00-b34f6cd9e29c",
+      "ts": "2026-06-27T02:56:35+00:00",
+      "address": "0x72254fe1a79fc8fd37de0168be735e6af4bd659a",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "YES",
-      "price": 0.99,
-      "shares": 125005,
-      "usd_value": 123754.95,
-      "price_shift_pp": 3.0000000000000027,
-      "alert_reason": "shift",
-      "market_id": null,
-      "condition_id": null,
-      "token_id": "86115906629975988057430971732571019513697985806328422451648576904567513249969",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.63,
+      "shares": 644586.4,
+      "usd_value": 406089.43200000003,
+      "price_shift_pp": -0.9436352077671462,
+      "alert_reason": "size",
+      "market_id": "1897397",
+      "condition_id": "0x9623b379f3e25ffa6206f8bc7aedeecd67580944645151350e06cb3efd95c090",
+      "token_id": "56768837194981285965222813073611625645493849723072187189036860746451609713977",
+      "question": "Will Egypt win on 2026-06-26?",
+      "link": "https://polyvictor.com/markets/1897397"
     }
   ]
 }
