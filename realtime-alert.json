@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-06-27T17:16:00.881Z",
+  "generated_at": "2026-06-27T17:20:05.459Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "735070fc-0e9e-46bd-9fad-9c60610e351a",
+      "ts": "2026-06-27T17:19:48+00:00",
+      "address": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Asu Almabayev",
+      "price": 0.85,
+      "shares": 37850.36,
+      "usd_value": 32172.806,
+      "price_shift_pp": -8.999999999999996,
+      "alert_reason": "shift",
+      "market_id": "2535593",
+      "condition_id": "0x272bd80b7bd9b3a2b3c2bfe2749be73d92d9ad0e2ee8f2b0c6080b2ea42f6810",
+      "token_id": "8864821156839874000159054216644959645094086508519198221702758489543471776667",
+      "question": "UFC Fight Night: Asu Almabayev vs. Charles Johnson (Flyweight, Main Card)",
+      "link": "https://polyvictor.com/markets/2535593"
+    },
     {
       "id": "94b9be95-d419-4aa1-a450-416b01e9dff9",
       "ts": "2026-06-27T17:15:25+00:00",
