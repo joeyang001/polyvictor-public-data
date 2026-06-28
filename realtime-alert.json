@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-06-27T23:54:00.866Z",
+  "generated_at": "2026-06-28T00:02:00.605Z",
   "window_minutes": 30,
   "count": 2,
   "alerts": [
+    {
+      "id": "6be25ec5-5f21-4507-a293-7aed4466f9ee",
+      "ts": "2026-06-28T00:01:05+00:00",
+      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.53,
+      "shares": 533775.7,
+      "usd_value": 282901.121,
+      "price_shift_pp": 1.0000000000000009,
+      "alert_reason": "size",
+      "market_id": "1897435",
+      "condition_id": "0x597e0e209cef883bb95c6905f07d8066c3ef35652087d3611c43b93f0ed237c2",
+      "token_id": "14678374678299522590525825239126907418379695630860477400265275048414629888597",
+      "question": "Will Portugal win on 2026-06-27?",
+      "link": "https://polyvictor.com/markets/1897435"
+    },
     {
       "id": "0cd3da4c-ff41-4b77-acbb-5f28da6949b1",
       "ts": "2026-06-27T23:52:36+00:00",
@@ -19,24 +37,6 @@
       "market_id": "1897435",
       "condition_id": "0x597e0e209cef883bb95c6905f07d8066c3ef35652087d3611c43b93f0ed237c2",
       "token_id": "14678374678299522590525825239126907418379695630860477400265275048414629888597",
-      "question": "Will Portugal win on 2026-06-27?",
-      "link": "https://polyvictor.com/markets/1897435"
-    },
-    {
-      "id": "41c05b66-d2f9-46e7-804b-8db4eadf0473",
-      "ts": "2026-06-27T23:28:01+00:00",
-      "address": "0xe2dd72d7ca976e65495d75b8a16ba9eda62b4a23",
-      "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.54,
-      "shares": 925925,
-      "usd_value": 499999.50000000006,
-      "price_shift_pp": 0,
-      "alert_reason": "size",
-      "market_id": "1897435",
-      "condition_id": "0x597e0e209cef883bb95c6905f07d8066c3ef35652087d3611c43b93f0ed237c2",
-      "token_id": "68238163315667435120694805573568977252273759352712823951184501420027891362809",
       "question": "Will Portugal win on 2026-06-27?",
       "link": "https://polyvictor.com/markets/1897435"
     }
