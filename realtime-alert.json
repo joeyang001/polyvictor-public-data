@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-06-28T01:32:00.863Z",
+  "generated_at": "2026-06-28T02:00:06.643Z",
   "window_minutes": 30,
   "count": 2,
   "alerts": [
+    {
+      "id": "b6713b14-955b-4bd6-ad91-e5655e305a84",
+      "ts": "2026-06-28T01:59:49+00:00",
+      "address": "0xe9076a87c5ed90ef16e6fe6529c943baeca0cff6",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.8378228704409807,
+      "shares": 53305.05,
+      "usd_value": 44660.19,
+      "price_shift_pp": 3.782287044098065,
+      "alert_reason": "shift",
+      "market_id": "2323691",
+      "condition_id": null,
+      "token_id": "31592189180796670149538332983312798729848457918546910122577925537993865785264",
+      "question": "Exact Score: Algeria 0 - 0 Austria?",
+      "link": "https://polyvictor.com/markets/2323691"
+    },
     {
       "id": "0efeeee2-80cd-4587-8345-63fffe2facc9",
       "ts": "2026-06-28T01:30:40+00:00",
@@ -21,24 +39,6 @@
       "token_id": "32203747233944015438487799675613943430837031417969455986362970409671575279826",
       "question": "Will DR Congo win on 2026-06-27?",
       "link": "https://polyvictor.com/markets/1897437"
-    },
-    {
-      "id": "d8b32445-28e3-41f5-ab99-ed0c9b0ed2f0",
-      "ts": "2026-06-28T01:23:59+00:00",
-      "address": "0xf387570fc0f9d8fa1f07ce798fc98ff909a361c0",
-      "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "No",
-      "price": 0.9847720287900764,
-      "shares": 38843.94,
-      "usd_value": 38252.4256,
-      "price_shift_pp": 3.477202879007646,
-      "alert_reason": "shift",
-      "market_id": "1897438",
-      "condition_id": "0x57dac5b6332f3d53233950105e7768575e511d90338f3f7be5ce993f424675a7",
-      "token_id": "66321291911401885877367629558925082283714669437830182780796163303570594893286",
-      "question": "Will DR Congo vs. Uzbekistan end in a draw?",
-      "link": "https://polyvictor.com/markets/1897438"
     }
   ]
 }
