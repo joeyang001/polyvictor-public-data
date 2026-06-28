@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-06-28T01:26:00.673Z",
+  "generated_at": "2026-06-28T01:32:00.863Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "0efeeee2-80cd-4587-8345-63fffe2facc9",
+      "ts": "2026-06-28T01:30:40+00:00",
+      "address": "0x56604973f2f37e86c213fef9ac209151258054bf",
+      "side": "sell",
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.999,
+      "shares": 266099.15,
+      "usd_value": 265833.05085,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "1897437",
+      "condition_id": "0x26c84897f375ef75367a1fea2bcf3a1601950962c9424f8635b966cc5d9ff4ba",
+      "token_id": "32203747233944015438487799675613943430837031417969455986362970409671575279826",
+      "question": "Will DR Congo win on 2026-06-27?",
+      "link": "https://polyvictor.com/markets/1897437"
+    },
     {
       "id": "d8b32445-28e3-41f5-ab99-ed0c9b0ed2f0",
       "ts": "2026-06-28T01:23:59+00:00",
