@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-06-28T17:16:00.967Z",
+  "generated_at": "2026-06-28T17:42:00.695Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "dde4f4cb-1691-4c19-a500-2670fb4d4c5d",
+      "ts": "2026-06-28T17:40:39+00:00",
+      "address": "0xe2dd72d7ca976e65495d75b8a16ba9eda62b4a23",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.47,
+      "shares": 1042553,
+      "usd_value": 489999.91,
+      "price_shift_pp": 2.2786039721722773e-8,
+      "alert_reason": "size",
+      "market_id": "2680257",
+      "condition_id": "0x688954ad8e279cc5febef6739d4f87acd3e42ca768ac6a8b621386a8578532ed",
+      "token_id": "90199087582184571392006824212249181438206390069335104256737438436719810132611",
+      "question": "Will Canada win on 2026-06-28?",
+      "link": "https://polyvictor.com/markets/2680257"
+    },
     {
       "id": "72e40e17-ee7e-41a6-8364-5b861ec0b1b4",
       "ts": "2026-06-28T17:14:38+00:00",
