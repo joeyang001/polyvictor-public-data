@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-06-29T04:36:00.654Z",
+  "generated_at": "2026-06-29T16:14:00.750Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "fd1df93a-d70e-4a30-bfc2-daa8950a629a",
-      "ts": "2026-06-29T04:34:53+00:00",
-      "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
+      "id": "ecef8e7d-1c07-4513-b7c5-9f76122ab85f",
+      "ts": "2026-06-29T16:13:21+00:00",
+      "address": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "T1",
-      "price": 0.9865457692307692,
-      "shares": 26000,
-      "usd_value": 25650.19,
-      "price_shift_pp": 6.654576923076916,
-      "alert_reason": "shift",
-      "market_id": "2718535",
-      "condition_id": "0x2d070f10d8e2032b45efc0b8900983588339dd98b1182a6a6ef1618afd91cd96",
-      "token_id": "476865799080240941635743510163894326881531788788555318165601093182300036679",
-      "question": "LoL: T1 vs Karmine Corp - Game 2 Winner",
-      "link": "https://polyvictor.com/markets/2718535"
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.46,
+      "shares": 800000,
+      "usd_value": 368000,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "2690979",
+      "condition_id": "0xf95968b1334c35a5c17867680d783d1d592bb8648b014f7365d03e40e37c99fb",
+      "token_id": "9822096886162353463283370713306283175246929342391362637574593482058866295778",
+      "question": "Will Brazil win on 2026-06-29?",
+      "link": "https://polyvictor.com/markets/2690979"
     }
   ]
 }
