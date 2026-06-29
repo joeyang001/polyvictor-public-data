@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-06-29T20:44:00.879Z",
+  "generated_at": "2026-06-29T20:46:01.514Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "e249d006-3447-4e57-80bd-9be5f4d5b3a6",
+      "ts": "2026-06-29T20:45:17+00:00",
+      "address": "0xf38e6583dfa37026ee25cf0a567b8cef6307a38a",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.988,
+      "shares": 488108.6,
+      "usd_value": 482251.29679999995,
+      "price_shift_pp": 2.7676749780880527e-10,
+      "alert_reason": "size",
+      "market_id": "558963",
+      "condition_id": "0x37a6de1b21803e5f3fb1965116218215d79963af4f7e51659696366267a63a03",
+      "token_id": "64291832879722161879651094688874074984529456778901604558632306686248535158725",
+      "question": "Will Morocco win the 2026 FIFA World Cup?",
+      "link": "https://polyvictor.com/markets/558963"
+    },
     {
       "id": "dc7ecc42-2859-4ca0-9c18-57f635005053",
       "ts": "2026-06-29T20:42:58+00:00",
