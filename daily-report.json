@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-06-28",
-  "generated_at": "2026-06-28T14:00:03.363Z",
+  "date": "2026-06-29",
+  "generated_at": "2026-06-29T14:00:06.893Z",
   "status": "success",
   "tweet_ids": [
-    "2071232158241374306",
-    "2071232159554113779"
+    "2071594560518500851",
+    "2071594562158506419"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 996,
-    "total_volume_usd": 54985722.203880034,
-    "unique_whales": 233,
-    "buy_volume_usd": 48453624.32972001,
-    "sell_volume_usd": 6532097.874160003,
+    "total_fills": 557,
+    "total_volume_usd": 35384203.360201,
+    "unique_whales": 193,
+    "buy_volume_usd": 31122134.52841299,
+    "sell_volume_usd": 4262068.831788,
     "top_markets": [
       {
-        "market_id": "1897423",
-        "question": "Will Croatia win on 2026-06-27?",
-        "volume_usd": 10859080.769306,
-        "fills": 107,
-        "link": "https://polyvictor.com/markets/1897423"
+        "market_id": "2680257",
+        "question": "Will Canada win on 2026-06-28?",
+        "volume_usd": 19803523.099944,
+        "fills": 201,
+        "link": "https://polyvictor.com/markets/2680257"
       },
       {
-        "market_id": "1897435",
-        "question": "Will Portugal win on 2026-06-27?",
-        "volume_usd": 7847784.787941,
-        "fills": 99,
-        "link": "https://polyvictor.com/markets/1897435"
+        "market_id": "2690979",
+        "question": "Will Brazil win on 2026-06-29?",
+        "volume_usd": 1837205.4011119998,
+        "fills": 38,
+        "link": "https://polyvictor.com/markets/2690979"
       },
       {
-        "market_id": "1897444",
-        "question": "Will Algeria vs. Austria end in a draw?",
-        "volume_usd": 3213817.9367919993,
-        "fills": 57,
-        "link": "https://polyvictor.com/markets/1897444"
+        "market_id": "2680253",
+        "question": "Will South Africa win on 2026-06-28?",
+        "volume_usd": 773022.450544,
+        "fills": 13,
+        "link": "https://polyvictor.com/markets/2680253"
       }
     ],
     "top_whales": [
       {
-        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 4357122.616924999,
-        "fills": 52,
-        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
+        "address": "0x349606c1b77f3ba668879cbc9347f15a44cf8fc4",
+        "volume_usd": 3693064.781098999,
+        "fills": 27,
+        "link": "https://polyvictor.com/whales/0x349606c1b77f3ba668879cbc9347f15a44cf8fc4"
       },
       {
         "address": "0x640de3430e9a05e1b1fe04b42d651da1abe99a4c",
-        "volume_usd": 3221276.5154499994,
-        "fills": 27,
+        "volume_usd": 2357703.372,
+        "fills": 14,
         "link": "https://polyvictor.com/whales/0x640de3430e9a05e1b1fe04b42d651da1abe99a4c"
       },
       {
-        "address": "0x72254fe1a79fc8fd37de0168be735e6af4bd659a",
-        "volume_usd": 3191671.7827200005,
-        "fills": 30,
-        "link": "https://polyvictor.com/whales/0x72254fe1a79fc8fd37de0168be735e6af4bd659a"
+        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+        "volume_usd": 2224506.028,
+        "fills": 21,
+        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
       }
     ],
     "biggest_fill": {
-      "address": "0x72254fe1a79fc8fd37de0168be735e6af4bd659a",
-      "usd": 700094.8746,
+      "address": "0x640de3430e9a05e1b1fe04b42d651da1abe99a4c",
+      "usd": 926024.7480000001,
       "side": "buy",
-      "price": 0.54,
-      "market_id": "1897423",
-      "question": "Will Croatia win on 2026-06-27?",
-      "link": "https://polyvictor.com/markets/1897423"
+      "price": 0.44,
+      "market_id": "2680257",
+      "question": "Will Canada win on 2026-06-28?",
+      "link": "https://polyvictor.com/markets/2680257"
     }
   }
 }
