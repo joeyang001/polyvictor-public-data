@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-06-29T19:08:01.364Z",
+  "generated_at": "2026-06-29T19:26:00.777Z",
   "window_minutes": 30,
-  "count": 4,
+  "count": 5,
   "alerts": [
+    {
+      "id": "ce0971d3-cd7c-43d6-8f3b-3fde4592c51d",
+      "ts": "2026-06-29T19:25:52+00:00",
+      "address": "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Germany",
+      "price": 0.87,
+      "shares": 327000,
+      "usd_value": 284490,
+      "price_shift_pp": 1.7400010321466652e-7,
+      "alert_reason": "size",
+      "market_id": "2721769",
+      "condition_id": "0xae9433e408d779f7aa5b1d3d7eb9ef269fbb6d415d3699c119e60c4445e13159",
+      "token_id": "109867102163797756476689039023702000449292282028357626528696685469161678217484",
+      "question": "Germany vs. Paraguay: Team to Advance",
+      "link": "https://polyvictor.com/markets/2721769"
+    },
     {
       "id": "8c5bee9b-2486-447c-a8ca-bb502ae4e744",
       "ts": "2026-06-29T19:06:34+00:00",
