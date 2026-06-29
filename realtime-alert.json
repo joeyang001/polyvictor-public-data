@@ -1,44 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-06-29T21:36:01.343Z",
+  "generated_at": "2026-06-29T23:52:01.463Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 1,
   "alerts": [
     {
-      "id": "c3e7ea3a-9d85-4d6b-914d-d65ed79b5156",
-      "ts": "2026-06-29T21:35:21+00:00",
-      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-      "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "No",
-      "price": 0.64,
-      "shares": 1053795.17,
-      "usd_value": 674428.9088,
-      "price_shift_pp": 0,
-      "alert_reason": "size",
-      "market_id": "2707625",
-      "condition_id": "0x017f79842c76a76ee2fd9d448b73cdfa85dcacd7d03c3b4c0a8e2663c4e84c27",
-      "token_id": "105192800804198710306030209027069357386368877618745447771286084304287043339083",
-      "question": "Will Germany vs. Paraguay end in a draw?",
-      "link": "https://polyvictor.com/markets/2707625"
-    },
-    {
-      "id": "d5904b23-b616-42a7-8e46-e5ecf45ef0e5",
-      "ts": "2026-06-29T21:35:11+00:00",
-      "address": "0x349606c1b77f3ba668879cbc9347f15a44cf8fc4",
+      "id": "81a33d7e-c74b-42d7-b6b1-bc2d23388cdc",
+      "ts": "2026-06-29T23:50:41+00:00",
+      "address": "0xa4b1eac99a65ed70e3d560126febe1086e6c5143",
       "side": "buy",
       "outcome_index": 0,
       "outcome_label": "Yes",
-      "price": 0.3501020890153179,
-      "shares": 802730.83,
-      "usd_value": 281037.7405,
-      "price_shift_pp": 0.010208901531794101,
+      "price": 0.4,
+      "shares": 841282.77,
+      "usd_value": 336513.108,
+      "price_shift_pp": 0,
       "alert_reason": "size",
-      "market_id": "2707625",
-      "condition_id": "0x017f79842c76a76ee2fd9d448b73cdfa85dcacd7d03c3b4c0a8e2663c4e84c27",
-      "token_id": "78992976791828739620420933876609388738726260071189100674116150068585292217601",
-      "question": "Will Germany vs. Paraguay end in a draw?",
-      "link": "https://polyvictor.com/markets/2707625"
+      "market_id": "2690992",
+      "condition_id": "0x8ec1344d38fb55aa4adf043a3d81899bda2762b89bebec5769a81a50c3b9c25f",
+      "token_id": "7274552498925682773418691853971449969741694357120018415935498544583333363785",
+      "question": "Will Netherlands win on 2026-06-29?",
+      "link": "https://polyvictor.com/markets/2690992"
     }
   ]
 }
