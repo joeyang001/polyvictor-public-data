@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-06-30T12:28:01.037Z",
+  "generated_at": "2026-06-30T13:04:00.765Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "2b62b837-34ba-4985-b033-9def1e375c6d",
-      "ts": "2026-06-30T12:26:41+00:00",
+      "id": "784882c0-d0d7-419e-8884-bbe7549ff115",
+      "ts": "2026-06-30T13:03:11+00:00",
       "address": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
       "side": "sell",
       "outcome_index": 0,
-      "outcome_label": "Yannick Hanfmann",
-      "price": 0.8068643724923126,
-      "shares": 38384.47,
-      "usd_value": 30971.061299999998,
-      "price_shift_pp": -4.313562750768741,
+      "outcome_label": "Jesper de Jong",
+      "price": 0.7819946588401664,
+      "shares": 118135.39,
+      "usd_value": 92381.244,
+      "price_shift_pp": -5.800534104783361,
       "alert_reason": "shift",
-      "market_id": "2702184",
-      "condition_id": "0x223788d9b6e7bded740197d5516c7ea517254ae65cc31ebe0ecea4274ef2935d",
-      "token_id": "105900289765072771020999906437896357388899390073406114408937365905329660779840",
-      "question": "Wimbledon ATP: Yannick Hanfmann vs Giovanni Mpetshi Perricard",
-      "link": "https://polyvictor.com/markets/2702184"
+      "market_id": "2702128",
+      "condition_id": "0x81a9bf420ad3960903ebba6bc8b4cbf5275c96b83063452e233a7ee618f6e948",
+      "token_id": "18839419637263701931095804675130165564551337253517096250589471745306665621456",
+      "question": "Wimbledon ATP: Jesper de Jong vs Rinky Hijikata",
+      "link": "https://polyvictor.com/markets/2702128"
     }
   ]
 }
