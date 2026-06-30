@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-06-30T03:52:01.018Z",
+  "generated_at": "2026-06-30T12:28:01.037Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "da997145-a7e9-4d14-85fe-55ae8acc97e0",
-      "ts": "2026-06-30T03:50:16+00:00",
-      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-      "side": "buy",
+      "id": "2b62b837-34ba-4985-b033-9def1e375c6d",
+      "ts": "2026-06-30T12:26:41+00:00",
+      "address": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+      "side": "sell",
       "outcome_index": 0,
-      "outcome_label": "Netherlands",
-      "price": 0.4389188117254618,
-      "shares": 70446.01,
-      "usd_value": 30920.078999999998,
-      "price_shift_pp": 11.891881172546181,
+      "outcome_label": "Yannick Hanfmann",
+      "price": 0.8068643724923126,
+      "shares": 38384.47,
+      "usd_value": 30971.061299999998,
+      "price_shift_pp": -4.313562750768741,
       "alert_reason": "shift",
-      "market_id": "2721771",
-      "condition_id": "0x1d57ae7d429a50e47843a712d7caf62e76b724310707faa892c1146c8e6a6742",
-      "token_id": "19749751708081460508554694952096222040055914588494694335246357620432629309747",
-      "question": "Netherlands vs. Morocco: Team to Advance",
-      "link": "https://polyvictor.com/markets/2721771"
+      "market_id": "2702184",
+      "condition_id": "0x223788d9b6e7bded740197d5516c7ea517254ae65cc31ebe0ecea4274ef2935d",
+      "token_id": "105900289765072771020999906437896357388899390073406114408937365905329660779840",
+      "question": "Wimbledon ATP: Yannick Hanfmann vs Giovanni Mpetshi Perricard",
+      "link": "https://polyvictor.com/markets/2702184"
     }
   ]
 }
