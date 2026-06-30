@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-06-30T13:04:00.765Z",
+  "generated_at": "2026-06-30T16:42:01.185Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "784882c0-d0d7-419e-8884-bbe7549ff115",
-      "ts": "2026-06-30T13:03:11+00:00",
-      "address": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
-      "side": "sell",
+      "id": "cbe7ec7f-62a9-445e-821e-b701c8e5b504",
+      "ts": "2026-06-30T16:40:01+00:00",
+      "address": "0x640de3430e9a05e1b1fe04b42d651da1abe99a4c",
+      "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Jesper de Jong",
-      "price": 0.7819946588401664,
-      "shares": 118135.39,
-      "usd_value": 92381.244,
-      "price_shift_pp": -5.800534104783361,
-      "alert_reason": "shift",
-      "market_id": "2702128",
-      "condition_id": "0x81a9bf420ad3960903ebba6bc8b4cbf5275c96b83063452e233a7ee618f6e948",
-      "token_id": "18839419637263701931095804675130165564551337253517096250589471745306665621456",
-      "question": "Wimbledon ATP: Jesper de Jong vs Rinky Hijikata",
-      "link": "https://polyvictor.com/markets/2702128"
+      "outcome_label": "Côte d'Ivoire",
+      "price": 0.38,
+      "shares": 850000,
+      "usd_value": 323000,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "2721768",
+      "condition_id": "0xdf9b5fe5a7cac5e2c26cd36a08bb1456d61ba7e00c96868e57d38b5775c78ae9",
+      "token_id": "71075692680635805762338224659931385429425196234977615850107878886623188860820",
+      "question": "Côte d'Ivoire vs. Norway: Team to Advance",
+      "link": "https://polyvictor.com/markets/2721768"
     }
   ]
 }
