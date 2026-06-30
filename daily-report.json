@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-06-29",
-  "generated_at": "2026-06-29T14:00:06.893Z",
+  "date": "2026-06-30",
+  "generated_at": "2026-06-30T14:00:07.322Z",
   "status": "success",
   "tweet_ids": [
-    "2071594560518500851",
-    "2071594562158506419"
+    "2071956949478916321",
+    "2071956951152382379"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 557,
-    "total_volume_usd": 35384203.360201,
-    "unique_whales": 193,
-    "buy_volume_usd": 31122134.52841299,
-    "sell_volume_usd": 4262068.831788,
+    "total_fills": 1000,
+    "total_volume_usd": 51840157.985107005,
+    "unique_whales": 297,
+    "buy_volume_usd": 43288211.76181799,
+    "sell_volume_usd": 8551946.223289002,
     "top_markets": [
       {
-        "market_id": "2680257",
-        "question": "Will Canada win on 2026-06-28?",
-        "volume_usd": 19803523.099944,
-        "fills": 201,
-        "link": "https://polyvictor.com/markets/2680257"
+        "market_id": "2707623",
+        "question": "Will Germany win on 2026-06-29?",
+        "volume_usd": 6651844.786949002,
+        "fills": 108,
+        "link": "https://polyvictor.com/markets/2707623"
       },
       {
-        "market_id": "2690979",
-        "question": "Will Brazil win on 2026-06-29?",
-        "volume_usd": 1837205.4011119998,
-        "fills": 38,
-        "link": "https://polyvictor.com/markets/2690979"
+        "market_id": "2690992",
+        "question": "Will Netherlands win on 2026-06-29?",
+        "volume_usd": 3794170.615454,
+        "fills": 75,
+        "link": "https://polyvictor.com/markets/2690992"
       },
       {
-        "market_id": "2680253",
-        "question": "Will South Africa win on 2026-06-28?",
-        "volume_usd": 773022.450544,
-        "fills": 13,
-        "link": "https://polyvictor.com/markets/2680253"
+        "market_id": "2707625",
+        "question": "Will Germany vs. Paraguay end in a draw?",
+        "volume_usd": 3603184.9005360003,
+        "fills": 46,
+        "link": "https://polyvictor.com/markets/2707625"
       }
     ],
     "top_whales": [
       {
-        "address": "0x349606c1b77f3ba668879cbc9347f15a44cf8fc4",
-        "volume_usd": 3693064.781098999,
-        "fills": 27,
-        "link": "https://polyvictor.com/whales/0x349606c1b77f3ba668879cbc9347f15a44cf8fc4"
-      },
-      {
-        "address": "0x640de3430e9a05e1b1fe04b42d651da1abe99a4c",
-        "volume_usd": 2357703.372,
-        "fills": 14,
-        "link": "https://polyvictor.com/whales/0x640de3430e9a05e1b1fe04b42d651da1abe99a4c"
-      },
-      {
         "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 2224506.028,
-        "fills": 21,
+        "volume_usd": 3886307.437328,
+        "fills": 56,
         "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
+      },
+      {
+        "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+        "volume_usd": 1748576.8236989998,
+        "fills": 55,
+        "link": "https://polyvictor.com/whales/0x204f72f35326db932158cba6adff0b9a1da95e14"
+      },
+      {
+        "address": "0x349606c1b77f3ba668879cbc9347f15a44cf8fc4",
+        "volume_usd": 1633325.6984399997,
+        "fills": 18,
+        "link": "https://polyvictor.com/whales/0x349606c1b77f3ba668879cbc9347f15a44cf8fc4"
       }
     ],
     "biggest_fill": {
-      "address": "0x640de3430e9a05e1b1fe04b42d651da1abe99a4c",
-      "usd": 926024.7480000001,
-      "side": "buy",
-      "price": 0.44,
-      "market_id": "2680257",
-      "question": "Will Canada win on 2026-06-28?",
-      "link": "https://polyvictor.com/markets/2680257"
+      "address": "0xf38e6583dfa37026ee25cf0a567b8cef6307a38a",
+      "usd": 711927.27009,
+      "side": "sell",
+      "price": 0.999,
+      "market_id": "558949",
+      "question": "Will Japan win the 2026 FIFA World Cup?",
+      "link": "https://polyvictor.com/markets/558949"
     }
   }
 }
