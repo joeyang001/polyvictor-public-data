@@ -1,44 +1,44 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-06-30T20:28:03.978Z",
+  "generated_at": "2026-06-30T20:50:05.910Z",
   "window_minutes": 30,
   "count": 2,
   "alerts": [
+    {
+      "id": "aee66b49-07a1-404d-8986-b4e1ae170f14",
+      "ts": "2026-06-30T20:48:51+00:00",
+      "address": "0xe8d6abc4bc8ae7598d64ee9d27300016200dd5db",
+      "side": "sell",
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.8402108940747804,
+      "shares": 34212.91,
+      "usd_value": 28746.059699999998,
+      "price_shift_pp": 3.9706823976998096,
+      "alert_reason": "shift",
+      "market_id": "1633611",
+      "condition_id": "0xe6d5e5da83874cd82c9b651a8a5d4fc541a800a295fb62e85124b4f5a04a4b7d",
+      "token_id": "32952048155093419718055060819712841482842350791391116195205201413217889733414",
+      "question": "Will China invade Taiwan by December 31, 2027?",
+      "link": "https://polyvictor.com/markets/1633611"
+    },
     {
       "id": "3d4290a0-a019-4100-935c-df9179d378df",
       "ts": "2026-06-30T20:26:50+00:00",
       "address": "0x84571f1bf97a5c710cbe51daff2dd4556cc887fd",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "YES",
+      "outcome_label": "Yes",
       "price": 0.998995564,
       "shares": 50000,
       "usd_value": 49949.7782,
       "price_shift_pp": 3.099556400000003,
       "alert_reason": "shift",
-      "market_id": null,
+      "market_id": "2729776",
       "condition_id": "0x5dbee5a7c4fc370e933dc9452ee872c83481de4965bd0d78a2cc27e6d04a00f1",
       "token_id": "68381057256493115575320313802182548030405126877393342879421472017186435184888",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
-    },
-    {
-      "id": "afad925a-dae1-488b-9d8d-fe1bbf9f0200",
-      "ts": "2026-06-30T20:01:38+00:00",
-      "address": "0xf38e6583dfa37026ee25cf0a567b8cef6307a38a",
-      "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "No",
-      "price": 0.999,
-      "shares": 693960.81,
-      "usd_value": 693266.8491900001,
-      "price_shift_pp": 0,
-      "alert_reason": "size",
-      "market_id": "558980",
-      "condition_id": "0xd0dbdc94b28c5cffeef64ed6b13e5f0f2324fb177e5ffaa634b48c88fe18d5e7",
-      "token_id": "5505010946036330007136366602843685650332532780067992773464881166501235782352",
-      "question": "Will Sweden win the 2026 FIFA World Cup?",
-      "link": "https://polyvictor.com/markets/558980"
+      "question": "Will NVIDIA (NVDA) close above $200 on June 30?",
+      "link": "https://polyvictor.com/markets/2729776"
     }
   ]
 }
