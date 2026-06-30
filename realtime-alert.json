@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-06-30T20:50:05.910Z",
+  "generated_at": "2026-06-30T20:52:00.962Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 3,
   "alerts": [
+    {
+      "id": "7c8df048-00af-4e53-adb0-793a3c6a0cba",
+      "ts": "2026-06-30T20:51:46+00:00",
+      "address": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+      "side": "sell",
+      "outcome_index": 1,
+      "outcome_label": "Maya Joint",
+      "price": 0.86780946368671,
+      "shares": 57279.58,
+      "usd_value": 49707.7616,
+      "price_shift_pp": -3.2190536313290052,
+      "alert_reason": "shift",
+      "market_id": "2702215",
+      "condition_id": "0x9ce04dc3705208f3a0d99ecc661c910b6cd4a882332caf341f99804d54711f68",
+      "token_id": "101929115119784875265788854171628562854353444100956208234036803420601483411221",
+      "question": "Wimbledon WTA: Serena Williams vs Maya Joint",
+      "link": "https://polyvictor.com/markets/2702215"
+    },
     {
       "id": "aee66b49-07a1-404d-8986-b4e1ae170f14",
       "ts": "2026-06-30T20:48:51+00:00",
