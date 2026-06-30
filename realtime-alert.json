@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-06-30T16:54:01.504Z",
+  "generated_at": "2026-06-30T16:56:00.871Z",
   "window_minutes": 30,
-  "count": 3,
+  "count": 4,
   "alerts": [
+    {
+      "id": "14b2cf00-c803-4d48-80ab-f741733c59cc",
+      "ts": "2026-06-30T16:54:49+00:00",
+      "address": "0x72254fe1a79fc8fd37de0168be735e6af4bd659a",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.3,
+      "shares": 1329817.58,
+      "usd_value": 398945.27400000003,
+      "price_shift_pp": -0.999988893046172,
+      "alert_reason": "size",
+      "market_id": "2707637",
+      "condition_id": "0xe2e3e289d42ce5df6a79676f3339b4e9dd353ba97dfe45d272c030599151cea2",
+      "token_id": "37296312398051842143439670490519490530978107178378280910956718479076858296950",
+      "question": "Will Côte d'Ivoire vs. Norway end in a draw?",
+      "link": "https://polyvictor.com/markets/2707637"
+    },
     {
       "id": "335ad4b7-1604-412f-8006-0874ef121ba7",
       "ts": "2026-06-30T16:52:24+00:00",
