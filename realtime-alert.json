@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-06-30T22:44:00.828Z",
+  "generated_at": "2026-07-01T00:28:00.775Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "ab9fefe1-15b7-4513-b345-5dc2c6403906",
-      "ts": "2026-06-30T22:43:19+00:00",
-      "address": "0xc29e1cef4256f423e5a3e713d886bd25f98da2ca",
-      "side": "sell",
+      "id": "836f741d-135a-4491-b6f1-9558ed1c0f2b",
+      "ts": "2026-07-01T00:27:46+00:00",
+      "address": "0x9f2fe025f84839ca81dd8e0338892605702d2ca8",
+      "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.999,
-      "shares": 262088.15,
-      "usd_value": 261826.06185,
-      "price_shift_pp": 0,
+      "outcome_label": "Mexico",
+      "price": 0.63,
+      "shares": 699599.98,
+      "usd_value": 440747.9874,
+      "price_shift_pp": -1.0000000000000009,
       "alert_reason": "size",
-      "market_id": "2707644",
-      "condition_id": "0x378f7b5c668014d9f6c42c305ec83902f3c8f6c770b336363aed0076ce6ce1c9",
-      "token_id": "91355094557016369228768123360298492968992168419338047915199416797057852525950",
-      "question": "Will France win on 2026-06-30?",
-      "link": "https://polyvictor.com/markets/2707644"
+      "market_id": "2721764",
+      "condition_id": "0xeebaa583402170c5ed255445b525855b58ba7c8fdb587e3fde0708ebf37432b8",
+      "token_id": "16826569968407137417126438652330240454984320557061369909478955628510815559729",
+      "question": "Mexico vs. Ecuador: Team to Advance",
+      "link": "https://polyvictor.com/markets/2721764"
     }
   ]
 }
