@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-01T02:58:00.923Z",
+  "generated_at": "2026-07-01T04:02:01.453Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "48a77a3d-8f5b-4879-8cda-81e29df65344",
-      "ts": "2026-07-01T02:56:12+00:00",
-      "address": "0x095fbca2e0eaf0c9841005135427e1e0117190b2",
+      "id": "d75893c4-83b3-44b2-ad20-2e5737884455",
+      "ts": "2026-07-01T04:00:06+00:00",
+      "address": "0x6ffb4354cbe6e0f9989e3b55564ec5fb8646a834",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.91,
-      "shares": 288125.05,
-      "usd_value": 262193.7955,
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.999,
+      "shares": 400000,
+      "usd_value": 399600,
       "price_shift_pp": 0,
       "alert_reason": "size",
-      "market_id": "2718892",
-      "condition_id": "0x65f5760095b3b903c895b320765ccdd4074b72750458b09fde516f6254bcec67",
-      "token_id": "114468314836265493179349149555121147219378704003010144698095755324094165081893",
-      "question": "Will Mexico win on 2026-06-30?",
-      "link": "https://polyvictor.com/markets/2718892"
+      "market_id": "2633426",
+      "condition_id": "0x17c1591393e9bfcaa68c89086af37ffc1b44db673c56c8bebe07480759c6038a",
+      "token_id": "25499259271551893044047014082390012845946547553034217941957396721179121905676",
+      "question": "US-Iran Final Nuclear Deal by June 30, 2026?",
+      "link": "https://polyvictor.com/markets/2633426"
     }
   ]
 }
