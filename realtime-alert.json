@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-01T08:30:05.779Z",
+  "generated_at": "2026-07-01T15:56:00.822Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "1336c77a-0922-4389-8b3f-492984a802a2",
-      "ts": "2026-07-01T08:29:54+00:00",
-      "address": "0xf38e6583dfa37026ee25cf0a567b8cef6307a38a",
+      "id": "fed23c0b-d402-4542-8faa-baa27db42747",
+      "ts": "2026-07-01T15:55:16+00:00",
+      "address": "0x9f2fe025f84839ca81dd8e0338892605702d2ca8",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "No",
-      "price": 0.999,
-      "shares": 299700,
-      "usd_value": 299400.3,
-      "price_shift_pp": 0.10000000000000009,
+      "outcome_index": 0,
+      "outcome_label": "England",
+      "price": 0.88,
+      "shares": 300000,
+      "usd_value": 264000,
+      "price_shift_pp": 0,
       "alert_reason": "size",
-      "market_id": "558975",
-      "condition_id": "0xfe230d510eaf545198c0d62bb17871e5fe8989f1b19aa54c0c062b858360987c",
-      "token_id": "88156352219650092845199724072742433369069988856568846096337560285593531555407",
-      "question": "Will Austria win the 2026 FIFA World Cup?",
-      "link": "https://polyvictor.com/markets/558975"
+      "market_id": "2721763",
+      "condition_id": "0x89c45b9308fb21b268fde5a742ac0540929638a9c8a9ac9867345b5fe954421f",
+      "token_id": "46908100458635544506498068006656839388912776908064502678712892150869681877532",
+      "question": "England vs. DR Congo: Team to Advance",
+      "link": "https://polyvictor.com/markets/2721763"
     }
   ]
 }
