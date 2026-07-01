@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-01T19:06:01.158Z",
+  "generated_at": "2026-07-01T19:08:01.555Z",
   "window_minutes": 30,
-  "count": 6,
+  "count": 7,
   "alerts": [
+    {
+      "id": "f36c125a-086d-4bb1-8baf-af676bf0690f",
+      "ts": "2026-07-01T19:06:23+00:00",
+      "address": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.53,
+      "shares": 555600,
+      "usd_value": 294468,
+      "price_shift_pp": 0.000012190009390788958,
+      "alert_reason": "size",
+      "market_id": "2718907",
+      "condition_id": "0x9c183f63913cee589ec7a8d584fb7743a541f724edc047837c053c027bdf9074",
+      "token_id": "10989844990030080333609297670891411757055697600785810827263876026375780592917",
+      "question": "Will Belgium win on 2026-07-01?",
+      "link": "https://polyvictor.com/markets/2718907"
+    },
     {
       "id": "0510177e-d91e-4f79-b69d-b1deab4c83d6",
       "ts": "2026-07-01T19:04:59+00:00",
