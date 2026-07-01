@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-01T21:24:01.211Z",
+  "generated_at": "2026-07-01T21:48:12.899Z",
   "window_minutes": 30,
   "count": 2,
   "alerts": [
+    {
+      "id": "341802da-82c4-4185-997e-a053e871eae0",
+      "ts": "2026-07-01T21:46:55+00:00",
+      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.74,
+      "shares": 86024.44,
+      "usd_value": 63658.0856,
+      "price_shift_pp": 3.5307453226887664,
+      "alert_reason": "shift",
+      "market_id": "2719366",
+      "condition_id": "0x5bbca7999abb194c56128b289c19050d5441e88fcb80f1553f69ad26863d110c",
+      "token_id": "52454830292149866374156681639667656451500149979191725323239940273855057595802",
+      "question": "Belgium vs. Senegal: Both Teams to Score",
+      "link": "https://polyvictor.com/markets/2719366"
+    },
     {
       "id": "45496815-90d7-4ccb-a00e-624f6404b386",
       "ts": "2026-07-01T21:22:59+00:00",
@@ -21,24 +39,6 @@
       "token_id": "101186338300259647808521159297117949746868383615820554531962956488824987030486",
       "question": "Will Senegal win on 2026-07-01?",
       "link": "https://polyvictor.com/markets/2718910"
-    },
-    {
-      "id": "790a7c96-0a3e-4c11-bb44-e438ac04a23d",
-      "ts": "2026-07-01T21:06:47+00:00",
-      "address": "0x349606c1b77f3ba668879cbc9347f15a44cf8fc4",
-      "side": "sell",
-      "outcome_index": 0,
-      "outcome_label": "Over",
-      "price": 0.84,
-      "shares": 656297.23,
-      "usd_value": 551289.6732,
-      "price_shift_pp": -0.9999965999994642,
-      "alert_reason": "size",
-      "market_id": "2719358",
-      "condition_id": "0x7ff3ed46b924fc4516f3dd1e918df843c45163e8a064ac023b2c2163f3d16123",
-      "token_id": "52758718707865737987353178008735251563181280141619626196519496768003037777122",
-      "question": "Belgium vs. Senegal: O/U 1.5",
-      "link": "https://polyvictor.com/markets/2719358"
     }
   ]
 }
