@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-01T00:30:06.196Z",
+  "generated_at": "2026-07-01T00:50:05.804Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 3,
   "alerts": [
+    {
+      "id": "b7722fbb-f98d-472b-8b23-4f3cf18a789f",
+      "ts": "2026-07-01T00:49:55+00:00",
+      "address": "0x09b428f7c2b469786286214aa5c90dd9015f7320",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.36,
+      "shares": 1280000,
+      "usd_value": 460800,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "2718893",
+      "condition_id": "0x1f54c5d06e9e7a7a11ed24123ab5743ba5b525745cf1338b7ec23d371e6f55ea",
+      "token_id": "11866110555495951633661793493234198760714743866421175130577619510964118146114",
+      "question": "Will Mexico vs. Ecuador end in a draw?",
+      "link": "https://polyvictor.com/markets/2718893"
+    },
     {
       "id": "64ecc3f6-2a8b-4435-b1e0-5786910a3ef2",
       "ts": "2026-07-01T00:27:53+00:00",
