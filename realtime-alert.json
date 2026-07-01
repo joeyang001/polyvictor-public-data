@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-01T05:04:01.238Z",
+  "generated_at": "2026-07-01T08:30:05.779Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "fca7f178-aa66-4093-9ac5-5ea8e3518f5e",
-      "ts": "2026-07-01T05:01:52+00:00",
-      "address": "0xe639e41094bbeae18f3e6d1790c17299183f082a",
+      "id": "1336c77a-0922-4389-8b3f-492984a802a2",
+      "ts": "2026-07-01T08:29:54+00:00",
+      "address": "0xf38e6583dfa37026ee25cf0a567b8cef6307a38a",
       "side": "buy",
       "outcome_index": 1,
       "outcome_label": "No",
       "price": 0.999,
-      "shares": 480000,
-      "usd_value": 479520,
-      "price_shift_pp": 0,
+      "shares": 299700,
+      "usd_value": 299400.3,
+      "price_shift_pp": 0.10000000000000009,
       "alert_reason": "size",
-      "market_id": "2633426",
-      "condition_id": "0x17c1591393e9bfcaa68c89086af37ffc1b44db673c56c8bebe07480759c6038a",
-      "token_id": "25499259271551893044047014082390012845946547553034217941957396721179121905676",
-      "question": "US-Iran Final Nuclear Deal by June 30, 2026?",
-      "link": "https://polyvictor.com/markets/2633426"
+      "market_id": "558975",
+      "condition_id": "0xfe230d510eaf545198c0d62bb17871e5fe8989f1b19aa54c0c062b858360987c",
+      "token_id": "88156352219650092845199724072742433369069988856568846096337560285593531555407",
+      "question": "Will Austria win the 2026 FIFA World Cup?",
+      "link": "https://polyvictor.com/markets/558975"
     }
   ]
 }
