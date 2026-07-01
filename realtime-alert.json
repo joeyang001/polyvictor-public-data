@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-01T00:28:00.775Z",
+  "generated_at": "2026-07-01T00:30:06.196Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "64ecc3f6-2a8b-4435-b1e0-5786910a3ef2",
+      "ts": "2026-07-01T00:27:53+00:00",
+      "address": "0xa5ea13a81d2b7e8e424b182bdc1db08e756bd96a",
+      "side": "sell",
+      "outcome_index": 0,
+      "outcome_label": "Tampa Bay Rays",
+      "price": 0.3700526412129203,
+      "shares": 95932.44,
+      "usd_value": 35500.052800000005,
+      "price_shift_pp": -5.994735878707969,
+      "alert_reason": "shift",
+      "market_id": "2154786",
+      "condition_id": "0x6004d2c3eed914c555d1e37a79e8cce28445bc0564af72bc0be4d18b3ad07923",
+      "token_id": "100822948280263389611027488934436522630572744435216064403085357428630367823006",
+      "question": "Tampa Bay Rays vs. Boston Red Sox",
+      "link": "https://polyvictor.com/markets/2154786"
+    },
     {
       "id": "836f741d-135a-4491-b6f1-9558ed1c0f2b",
       "ts": "2026-07-01T00:27:46+00:00",
