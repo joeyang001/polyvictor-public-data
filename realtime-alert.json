@@ -1,44 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-01T21:48:12.899Z",
+  "generated_at": "2026-07-01T23:54:00.769Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 1,
   "alerts": [
     {
-      "id": "341802da-82c4-4185-997e-a053e871eae0",
-      "ts": "2026-07-01T21:46:55+00:00",
-      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-      "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "No",
-      "price": 0.74,
-      "shares": 86024.44,
-      "usd_value": 63658.0856,
-      "price_shift_pp": 3.5307453226887664,
-      "alert_reason": "shift",
-      "market_id": "2719366",
-      "condition_id": "0x5bbca7999abb194c56128b289c19050d5441e88fcb80f1553f69ad26863d110c",
-      "token_id": "52454830292149866374156681639667656451500149979191725323239940273855057595802",
-      "question": "Belgium vs. Senegal: Both Teams to Score",
-      "link": "https://polyvictor.com/markets/2719366"
-    },
-    {
-      "id": "45496815-90d7-4ccb-a00e-624f6404b386",
-      "ts": "2026-07-01T21:22:59+00:00",
-      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+      "id": "6e23ff8c-9ca8-4b6f-896b-24cc086a93d4",
+      "ts": "2026-07-01T23:53:55+00:00",
+      "address": "0x10a6fadcbacd66330862206f6199b197e3ad4d8b",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.87,
-      "shares": 379092.26,
-      "usd_value": 329810.2662,
+      "outcome_label": "YES",
+      "price": 0.5,
+      "shares": 515924.8,
+      "usd_value": 257962.4,
       "price_shift_pp": 0,
       "alert_reason": "size",
-      "market_id": "2718910",
-      "condition_id": "0x1525f6e38aad87d60dca762113a3bc8bd48baa8563aca8489b12c79330d77a92",
-      "token_id": "101186338300259647808521159297117949746868383615820554531962956488824987030486",
-      "question": "Will Senegal win on 2026-07-01?",
-      "link": "https://polyvictor.com/markets/2718910"
+      "market_id": null,
+      "condition_id": "0xa964eb76543e3916540cc12c55ecb67cda57a46fa64bd5976fce9d3e2ed2c2c2",
+      "token_id": "76655388229834609277888648020345023678428310920722814543049025341480644906759",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
