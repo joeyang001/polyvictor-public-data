@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-02T18:40:02.669Z",
+  "generated_at": "2026-07-02T18:52:00.950Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "ff665dac-b6f8-430d-be68-db8c527eea26",
+      "ts": "2026-07-02T18:51:44+00:00",
+      "address": "0x640de3430e9a05e1b1fe04b42d651da1abe99a4c",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "Austria",
+      "price": 0.5296900714938957,
+      "shares": 480919.38,
+      "usd_value": 254738.220775,
+      "price_shift_pp": 0.21900874098464973,
+      "alert_reason": "size",
+      "market_id": "2719303",
+      "condition_id": "0xd1b44514a10d1041ecfeff34c4f96400a84a171e3c09944956fa936ec8049a58",
+      "token_id": "49469793176850152747939068199526823062926116289898013326099759349357399255801",
+      "question": "Spread: Spain (-1.5)",
+      "link": "https://polyvictor.com/markets/2719303"
+    },
     {
       "id": "50727e4b-893d-421e-9114-0b4ad9e2b5ee",
       "ts": "2026-07-02T18:37:51+00:00",
