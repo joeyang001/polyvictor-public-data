@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-01T23:54:00.769Z",
+  "generated_at": "2026-07-02T00:32:01.160Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "6e23ff8c-9ca8-4b6f-896b-24cc086a93d4",
-      "ts": "2026-07-01T23:53:55+00:00",
-      "address": "0x10a6fadcbacd66330862206f6199b197e3ad4d8b",
+      "id": "45e26456-9336-4a4c-8ee7-4dfb78b8d88c",
+      "ts": "2026-07-02T00:31:05+00:00",
+      "address": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "YES",
-      "price": 0.5,
-      "shares": 515924.8,
-      "usd_value": 257962.4,
-      "price_shift_pp": 0,
-      "alert_reason": "size",
-      "market_id": null,
-      "condition_id": "0xa964eb76543e3916540cc12c55ecb67cda57a46fa64bd5976fce9d3e2ed2c2c2",
-      "token_id": "76655388229834609277888648020345023678428310920722814543049025341480644906759",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.9,
+      "shares": 52556.89,
+      "usd_value": 47301.201,
+      "price_shift_pp": -5.999999999999995,
+      "alert_reason": "shift",
+      "market_id": "2691004",
+      "condition_id": "0xd8aff2490e3a808f2cbef7970698f72762f8090b78562e388ee6ab500e6821eb",
+      "token_id": "78373670299495103476528806345457760563342359569426932939478200718536157536363",
+      "question": "Will Bosnia and Herzegovina win on 2026-07-01?",
+      "link": "https://polyvictor.com/markets/2691004"
     }
   ]
 }
