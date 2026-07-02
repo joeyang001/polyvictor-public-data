@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-02T14:58:01.154Z",
+  "generated_at": "2026-07-02T15:58:01.872Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "82fd926d-d555-4712-ac2c-3aa4b3e1292b",
-      "ts": "2026-07-02T14:56:48+00:00",
-      "address": "0x9e86ad1cb29ab0ff1e00c89bf68b8db98d926dfb",
-      "side": "sell",
-      "outcome_index": 1,
-      "outcome_label": "NO",
-      "price": 0.6459813540813419,
-      "shares": 44999.66,
-      "usd_value": 29068.941300000002,
-      "price_shift_pp": -3.401864591865811,
+      "id": "f3b5076d-a9c8-4db7-b906-fbf93da06e7e",
+      "ts": "2026-07-02T15:56:02+00:00",
+      "address": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "James Duckworth",
+      "price": 0.3632708446014868,
+      "shares": 100338.09,
+      "usd_value": 36449.90269999999,
+      "price_shift_pp": -11.399621030699914,
       "alert_reason": "shift",
-      "market_id": null,
-      "condition_id": "0x8951c420b7e72ac816572cb19da96805a5c23911f7045d8e1a23ca6faa83182c",
-      "token_id": "11116104047513653976606621672203686236788982561846925917980512746558463427357",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
+      "market_id": "2758059",
+      "condition_id": "0xdbf69c69fe1e6b0bbbea06b89a59a6e7dbb1ec356087d36744b683e8aa1498c3",
+      "token_id": "43607060753312271794309345134245009638549894950142395933804837659919997063244",
+      "question": "Wimbledon ATP: James Duckworth vs Flavio Cobolli",
+      "link": "https://polyvictor.com/markets/2758059"
     }
   ]
 }
