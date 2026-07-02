@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-07-01",
-  "generated_at": "2026-07-01T14:00:03.798Z",
+  "date": "2026-07-02",
+  "generated_at": "2026-07-02T14:00:06.618Z",
   "status": "success",
   "tweet_ids": [
-    "2072319323410984961",
-    "2072319324820258884"
+    "2072681722538291470",
+    "2072681724308336718"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
     "total_fills": 1000,
-    "total_volume_usd": 61600930.55961803,
-    "unique_whales": 283,
-    "buy_volume_usd": 53168615.66288802,
-    "sell_volume_usd": 8432314.89673,
+    "total_volume_usd": 59384207.260042,
+    "unique_whales": 298,
+    "buy_volume_usd": 51086757.31842401,
+    "sell_volume_usd": 8297449.941618001,
     "top_markets": [
       {
-        "market_id": "2707644",
-        "question": "Will France win on 2026-06-30?",
-        "volume_usd": 9597563.267997999,
-        "fills": 153,
-        "link": "https://polyvictor.com/markets/2707644"
+        "market_id": "2718907",
+        "question": "Will Belgium win on 2026-07-01?",
+        "volume_usd": 17232393.772428,
+        "fills": 192,
+        "link": "https://polyvictor.com/markets/2718907"
       },
       {
-        "market_id": "2707942",
-        "question": "Spread: France (-1.5)",
-        "volume_usd": 3864662.61012,
-        "fills": 63,
-        "link": "https://polyvictor.com/markets/2707942"
+        "market_id": "2718910",
+        "question": "Will Senegal win on 2026-07-01?",
+        "volume_usd": 5797940.450196999,
+        "fills": 54,
+        "link": "https://polyvictor.com/markets/2718910"
       },
       {
-        "market_id": "2707996",
-        "question": "Côte d'Ivoire vs. Norway: O/U 2.5",
-        "volume_usd": 3819709.0174160004,
-        "fills": 30,
-        "link": "https://polyvictor.com/markets/2707996"
+        "market_id": "2721762",
+        "question": "Belgium vs. Senegal: Team to Advance",
+        "volume_usd": 3317014.2889859993,
+        "fills": 57,
+        "link": "https://polyvictor.com/markets/2721762"
       }
     ],
     "top_whales": [
       {
+        "address": "0x09b428f7c2b469786286214aa5c90dd9015f7320",
+        "volume_usd": 7325603.731199999,
+        "fills": 34,
+        "link": "https://polyvictor.com/whales/0x09b428f7c2b469786286214aa5c90dd9015f7320"
+      },
+      {
         "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 4447930.08287,
-        "fills": 37,
+        "volume_usd": 5461056.973443998,
+        "fills": 41,
         "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
       },
       {
-        "address": "0x349606c1b77f3ba668879cbc9347f15a44cf8fc4",
-        "volume_usd": 4225690.64664,
-        "fills": 27,
-        "link": "https://polyvictor.com/whales/0x349606c1b77f3ba668879cbc9347f15a44cf8fc4"
-      },
-      {
-        "address": "0xf38e6583dfa37026ee25cf0a567b8cef6307a38a",
-        "volume_usd": 3328125.40928,
-        "fills": 11,
-        "link": "https://polyvictor.com/whales/0xf38e6583dfa37026ee25cf0a567b8cef6307a38a"
+        "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+        "volume_usd": 1659257.816915,
+        "fills": 48,
+        "link": "https://polyvictor.com/whales/0x204f72f35326db932158cba6adff0b9a1da95e14"
       }
     ],
     "biggest_fill": {
-      "address": "0x349606c1b77f3ba668879cbc9347f15a44cf8fc4",
-      "usd": 1012905.5783,
+      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+      "usd": 1357531.14996,
       "side": "buy",
-      "price": 0.77,
-      "market_id": "2707644",
-      "question": "Will France win on 2026-06-30?",
-      "link": "https://polyvictor.com/markets/2707644"
+      "price": 0.999,
+      "market_id": "2718910",
+      "question": "Will Senegal win on 2026-07-01?",
+      "link": "https://polyvictor.com/markets/2718910"
     }
   }
 }
