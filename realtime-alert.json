@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-02T15:58:01.872Z",
+  "generated_at": "2026-07-02T16:02:01.472Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "0e6ac55a-7b76-40ae-bf88-661336e4879b",
+      "ts": "2026-07-02T16:00:37+00:00",
+      "address": "0xc53c4b5eb695a905f5123a9a69c9a41a2e87b769",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "Under 3.5",
+      "price": 0.53,
+      "shares": 189000,
+      "usd_value": 100170,
+      "price_shift_pp": 16.000013690008625,
+      "alert_reason": "shift",
+      "market_id": "2756683",
+      "condition_id": "0xa70b8eec3126899daf847fefae25f62852d39f59b0a5e282ceeb3f424c4e9ddd",
+      "token_id": "24962180775000424828941897972273629137537976048003879870943349795305412345698",
+      "question": "Matteo Berrettini vs. Arthur Fils: Total Sets O/U 3.5",
+      "link": "https://polyvictor.com/markets/2756683"
+    },
     {
       "id": "f3b5076d-a9c8-4db7-b906-fbf93da06e7e",
       "ts": "2026-07-02T15:56:02+00:00",
