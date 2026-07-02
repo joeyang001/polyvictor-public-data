@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-02T22:00:06.256Z",
+  "generated_at": "2026-07-02T22:02:01.320Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "b0cacc4b-a0d4-47ef-a07a-ad2e51bb9167",
+      "ts": "2026-07-02T22:00:59+00:00",
+      "address": "0xf38e6583dfa37026ee25cf0a567b8cef6307a38a",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.997,
+      "shares": 299600,
+      "usd_value": 298701.2,
+      "price_shift_pp": 0.10000000000000009,
+      "alert_reason": "size",
+      "market_id": "558976",
+      "condition_id": "0xe5bd80313b8859e3f5761568ac9498866ea9d4419e4d1b6a877a9a9bd2754cb4",
+      "token_id": "22335540631248526397385139154377717431237265005174891396662761131414559126312",
+      "question": "Will Croatia win the 2026 FIFA World Cup?",
+      "link": "https://polyvictor.com/markets/558976"
+    },
     {
       "id": "001f7c24-09d7-43d2-b793-7d7e77935005",
       "ts": "2026-07-02T21:58:26+00:00",
