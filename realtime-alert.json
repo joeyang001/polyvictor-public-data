@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-02T18:52:00.950Z",
+  "generated_at": "2026-07-02T19:00:02.713Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 3,
   "alerts": [
+    {
+      "id": "840f8612-5746-4b67-823f-998499156bac",
+      "ts": "2026-07-02T18:59:05+00:00",
+      "address": "0x640de3430e9a05e1b1fe04b42d651da1abe99a4c",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.28,
+      "shares": 1370558.94,
+      "usd_value": 383756.50320000004,
+      "price_shift_pp": 0.2500000000000002,
+      "alert_reason": "size",
+      "market_id": "2718913",
+      "condition_id": "0xc5943cca27ce657f519619520b1664829b1209f9a5ef9266be7f2954be1b0260",
+      "token_id": "87195879292900083989013965233465465154610009955293265578539308193346452705988",
+      "question": "Will Spain win on 2026-07-02?",
+      "link": "https://polyvictor.com/markets/2718913"
+    },
     {
       "id": "ff665dac-b6f8-430d-be68-db8c527eea26",
       "ts": "2026-07-02T18:51:44+00:00",
