@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-02T12:48:01.236Z",
+  "generated_at": "2026-07-02T13:00:06.602Z",
   "window_minutes": 30,
-  "count": 3,
+  "count": 4,
   "alerts": [
+    {
+      "id": "ee5190e5-a6d0-4c93-9b68-fb2b6de2d3db",
+      "ts": "2026-07-02T12:58:16+00:00",
+      "address": "0xc53c4b5eb695a905f5123a9a69c9a41a2e87b769",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "Under",
+      "price": 0.51,
+      "shares": 196000,
+      "usd_value": 99960,
+      "price_shift_pp": -4.0000000000000036,
+      "alert_reason": "shift",
+      "market_id": "2756840",
+      "condition_id": "0xadb64b029295d47cdb857ba752c92dad29077a3c2d94e5fd3b446218a615e3f2",
+      "token_id": "60124359220696398476421240908962063357261289062179687126889299878103327965380",
+      "question": "Bergs vs. Faria: Match O/U 40.5",
+      "link": "https://polyvictor.com/markets/2756840"
+    },
     {
       "id": "20f0cafc-5b6e-485a-b157-655a21ced9ce",
       "ts": "2026-07-02T12:47:27+00:00",
