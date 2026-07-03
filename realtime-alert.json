@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-03T20:24:00.896Z",
+  "generated_at": "2026-07-03T20:52:01.012Z",
   "window_minutes": 30,
   "count": 2,
   "alerts": [
+    {
+      "id": "f861eecf-2d37-487c-a873-4a872a5c9101",
+      "ts": "2026-07-03T20:50:41+00:00",
+      "address": "0xa07893a758eab810c30154672768e88251dd419a",
+      "side": "sell",
+      "outcome_index": 1,
+      "outcome_label": "Egypt",
+      "price": 0.9524291516977026,
+      "shares": 264204.99,
+      "usd_value": 251636.53449999998,
+      "price_shift_pp": -0.8745306683141219,
+      "alert_reason": "size",
+      "market_id": "2721766",
+      "condition_id": "0x9ad06dd68a4075ba2ac99fc138f7c1506f236851233b0ec79a130a348af19a82",
+      "token_id": "113533990988000405408509096131183010613197469076988825638338542686677401969065",
+      "question": "Australia vs. Egypt: Team to Advance",
+      "link": "https://polyvictor.com/markets/2721766"
+    },
     {
       "id": "0ac2ad24-8d4e-4510-9525-9c4b367c586a",
       "ts": "2026-07-03T20:23:42+00:00",
@@ -21,24 +39,6 @@
       "token_id": "46902748882556545297799410011718998982864272526236626120789017510313229144236",
       "question": "Australia vs. Egypt: Will the Match Go to a Penalty Shootout?",
       "link": "https://polyvictor.com/markets/2733685"
-    },
-    {
-      "id": "70bdec51-63ad-4993-8556-7c61b5691f56",
-      "ts": "2026-07-03T20:01:16+00:00",
-      "address": "0x545129ec7719de8599872cc52850f9f19462616c",
-      "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Argentina",
-      "price": 0.93,
-      "shares": 300226.75,
-      "usd_value": 279210.8775,
-      "price_shift_pp": 9.300102243869901e-7,
-      "alert_reason": "size",
-      "market_id": "2721765",
-      "condition_id": "0x4a0aa5a56b98476ffbab967ba0eb70d35794ad0f154fbce5b976d6053bb47808",
-      "token_id": "67596909630505748192273119086224135081859582478741941473155557882450542807607",
-      "question": "Argentina vs. Cabo Verde: Team to Advance",
-      "link": "https://polyvictor.com/markets/2721765"
     }
   ]
 }
