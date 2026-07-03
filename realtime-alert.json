@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-03T14:22:00.876Z",
+  "generated_at": "2026-07-03T17:08:01.926Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "2731f66e-7586-4c9e-a703-a0131b4d7b30",
-      "ts": "2026-07-03T14:21:01+00:00",
-      "address": "0xf38e6583dfa37026ee25cf0a567b8cef6307a38a",
-      "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "No",
+      "id": "06613294-0ed3-43bc-9f0c-0b4bb609367c",
+      "ts": "2026-07-03T17:07:50+00:00",
+      "address": "0x08a30a0a0fb71ebddc8907145791030782b88666",
+      "side": "sell",
+      "outcome_index": 0,
+      "outcome_label": "Hubert Hurkacz",
       "price": 0.999,
-      "shares": 300000,
-      "usd_value": 299700,
-      "price_shift_pp": 0.10000000000000009,
+      "shares": 263337.68,
+      "usd_value": 263074.34232,
+      "price_shift_pp": 0,
       "alert_reason": "size",
-      "market_id": "558958",
-      "condition_id": "0x098e2be3df8ab529940c567819f8ef007cf007820e9d627642a5bbfaa42af372",
-      "token_id": "36726371220435722462734467218102931225443889493446335046337202920930764439505",
-      "question": "Will Australia win the 2026 FIFA World Cup?",
-      "link": "https://polyvictor.com/markets/558958"
+      "market_id": "2758140",
+      "condition_id": "0x62893c1171b6e2c91ade4cda7d770f2e43e6b965a196c92dad6ac82666002e18",
+      "token_id": "53975539648480156710618958341377249497415796246629917739929698724645515885275",
+      "question": "Wimbledon ATP: Hubert Hurkacz vs Tommy Paul",
+      "link": "https://polyvictor.com/markets/2758140"
     }
   ]
 }
