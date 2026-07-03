@@ -1,44 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-03T00:26:00.684Z",
+  "generated_at": "2026-07-03T01:02:00.893Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 1,
   "alerts": [
     {
-      "id": "1a48f96d-86a8-4cbc-ab61-2b6a60db1474",
-      "ts": "2026-07-03T00:25:04+00:00",
-      "address": "0xc58df0b98437f613e20916c242403e0a6c009373",
-      "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Croatia",
-      "price": 0.4473767125754471,
-      "shares": 71636.26,
-      "usd_value": 32048.394499999995,
-      "price_shift_pp": -10.762328742455296,
-      "alert_reason": "shift",
-      "market_id": "2721760",
-      "condition_id": "0x917aa2a97c0945edecd7b26b57d31e6d9c87c6e0b7d589c128c9216f345a6051",
-      "token_id": "28269103877018509853085648333831879355041636934344754627617129026392017000778",
-      "question": "Portugal vs. Croatia: Team to Advance",
-      "link": "https://polyvictor.com/markets/2721760"
-    },
-    {
-      "id": "dc69942d-b724-4c60-bb3f-53ef5f5706c8",
-      "ts": "2026-07-03T00:16:08+00:00",
-      "address": "0x83255595ba1fadd2e734cb30a0fb8110301a19cc",
+      "id": "b1bf929b-0f17-43f9-ba92-776ee534ff38",
+      "ts": "2026-07-03T01:00:15+00:00",
+      "address": "0xeab371130d62d766d16af2645733c37e432b4d7a",
       "side": "buy",
       "outcome_index": 0,
       "outcome_label": "Yes",
-      "price": 0.5326578569568307,
-      "shares": 60244.89,
-      "usd_value": 32089.913999999997,
-      "price_shift_pp": 4.015785695683066,
+      "price": 0.9733338283728438,
+      "shares": 36158.73,
+      "usd_value": 35194.5151,
+      "price_shift_pp": 3.1707247878797085,
       "alert_reason": "shift",
-      "market_id": "2718922",
-      "condition_id": "0xd23b4810d916942c2c7b71d9f0f5e3248adc0e4017d8ffa5dd0b1fe721beb0f2",
-      "token_id": "87174293490112529998913581015460784091668285134964562963484251070427507993480",
-      "question": "Will Croatia win on 2026-07-02?",
-      "link": "https://polyvictor.com/markets/2718922"
+      "market_id": "2718919",
+      "condition_id": "0x43bde2aa4a2067139451beb84649e5acaff989a3a0817fb1c592046c993d4168",
+      "token_id": "105300101902444670024314531766229236783176275346588264475245645697082520508325",
+      "question": "Will Portugal win on 2026-07-02?",
+      "link": "https://polyvictor.com/markets/2718919"
     }
   ]
 }
