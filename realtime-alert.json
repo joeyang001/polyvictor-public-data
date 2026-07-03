@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-03T17:54:01.059Z",
+  "generated_at": "2026-07-03T18:04:01.804Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 3,
   "alerts": [
+    {
+      "id": "3927c33f-59e9-4bda-b2ba-46d6ea21152a",
+      "ts": "2026-07-03T18:03:30+00:00",
+      "address": "0x08a30a0a0fb71ebddc8907145791030782b88666",
+      "side": "sell",
+      "outcome_index": 0,
+      "outcome_label": "Aryna Sabalenka",
+      "price": 0.999,
+      "shares": 280414.13,
+      "usd_value": 280133.71587,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "2758051",
+      "condition_id": "0x30c1310922cb477c1dcb0417d7030f30d5721b4ee09cf166624c6f7fc1f720df",
+      "token_id": "108850660893779163494114987210374046525775394993226975318633404595698027239552",
+      "question": "Wimbledon WTA: Aryna Sabalenka vs Jelena Ostapenko",
+      "link": "https://polyvictor.com/markets/2758051"
+    },
     {
       "id": "68268ba8-4640-4b49-9c72-fe5ca8458892",
       "ts": "2026-07-03T17:51:59+00:00",
