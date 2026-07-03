@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-03T11:44:00.688Z",
+  "generated_at": "2026-07-03T14:22:00.876Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "991096c6-d729-4e59-a9f5-138ea4432787",
-      "ts": "2026-07-03T11:42:36+00:00",
-      "address": "0x7523cafcee7bcf2db9a79d80e0d79b88a9a54c4c",
-      "side": "sell",
+      "id": "2731f66e-7586-4c9e-a703-a0131b4d7b30",
+      "ts": "2026-07-03T14:21:01+00:00",
+      "address": "0xf38e6583dfa37026ee25cf0a567b8cef6307a38a",
+      "side": "buy",
       "outcome_index": 1,
       "outcome_label": "No",
-      "price": 0.997,
-      "shares": 279393.51,
-      "usd_value": 278555.32947,
-      "price_shift_pp": 0,
+      "price": 0.999,
+      "shares": 300000,
+      "usd_value": 299700,
+      "price_shift_pp": 0.10000000000000009,
       "alert_reason": "size",
-      "market_id": "1971905",
-      "condition_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
-      "token_id": "77669758102929718590160851391714019116736856202333459817343190730743895177270",
-      "question": "Strait of Hormuz traffic returns to normal by end of June?",
-      "link": "https://polyvictor.com/markets/1971905"
+      "market_id": "558958",
+      "condition_id": "0x098e2be3df8ab529940c567819f8ef007cf007820e9d627642a5bbfaa42af372",
+      "token_id": "36726371220435722462734467218102931225443889493446335046337202920930764439505",
+      "question": "Will Australia win the 2026 FIFA World Cup?",
+      "link": "https://polyvictor.com/markets/558958"
     }
   ]
 }
