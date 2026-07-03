@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-03T20:02:00.877Z",
+  "generated_at": "2026-07-03T20:24:00.896Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "0ac2ad24-8d4e-4510-9525-9c4b367c586a",
+      "ts": "2026-07-03T20:23:42+00:00",
+      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.71,
+      "shares": 500000,
+      "usd_value": 355000,
+      "price_shift_pp": 0.0000021798249649762624,
+      "alert_reason": "size",
+      "market_id": "2733685",
+      "condition_id": "0x0b1b1ffddfa79a82ca8a470f2aae0f987b8f0a80f81b18887cd096ba96007ebf",
+      "token_id": "46902748882556545297799410011718998982864272526236626120789017510313229144236",
+      "question": "Australia vs. Egypt: Will the Match Go to a Penalty Shootout?",
+      "link": "https://polyvictor.com/markets/2733685"
+    },
     {
       "id": "70bdec51-63ad-4993-8556-7c61b5691f56",
       "ts": "2026-07-03T20:01:16+00:00",
