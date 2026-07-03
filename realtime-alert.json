@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-03T01:02:00.893Z",
+  "generated_at": "2026-07-03T01:08:01.153Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "c4da81dc-64c4-424a-a159-eb13c4eb2877",
+      "ts": "2026-07-03T01:06:29+00:00",
+      "address": "0x40604cb1f958c03bea0b18aa43e4cb0d62f33ec3",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.98,
+      "shares": 26510.22,
+      "usd_value": 25980.015600000002,
+      "price_shift_pp": 4.0000000000000036,
+      "alert_reason": "shift",
+      "market_id": "2719053",
+      "condition_id": null,
+      "token_id": "113534017472064608323448814253588021804143094022611486814287656771903146043718",
+      "question": "Exact Score: Portugal 2 - 1 Croatia?",
+      "link": "https://polyvictor.com/markets/2719053"
+    },
     {
       "id": "b1bf929b-0f17-43f9-ba92-776ee534ff38",
       "ts": "2026-07-03T01:00:15+00:00",
