@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-03T04:24:00.778Z",
+  "generated_at": "2026-07-03T05:00:05.892Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "f953d89b-5e87-4564-b6bd-5fb68272fa03",
-      "ts": "2026-07-03T04:22:23+00:00",
-      "address": "0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654",
-      "side": "buy",
+      "id": "272713c6-dc77-4c60-a975-b7a65697aa2e",
+      "ts": "2026-07-03T04:59:04+00:00",
+      "address": "0x545129ec7719de8599872cc52850f9f19462616c",
+      "side": "sell",
       "outcome_index": 1,
-      "outcome_label": "Under",
-      "price": 0.7590279027393312,
-      "shares": 65809.13,
-      "usd_value": 49950.965925000004,
-      "price_shift_pp": 3.4027903343497923,
-      "alert_reason": "shift",
-      "market_id": "2719232",
-      "condition_id": "0xcbf0b584d791f8d2d428cbdb148217ce5ab49a54934aa2ad5374a995741609e6",
-      "token_id": "46907208992910478274435056043061944114070533586366787154289535640024006676222",
-      "question": "Switzerland vs. Algeria: O/U 3.5",
-      "link": "https://polyvictor.com/markets/2719232"
+      "outcome_label": "No",
+      "price": 0.9975,
+      "shares": 282500,
+      "usd_value": 281793.75,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "2718928",
+      "condition_id": "0x4dd987594593e7e1fca9a4e0bc4301cc9320b3c51255fde088d40763ed01a69d",
+      "token_id": "48841977935449392210913682401847804540825724047164511511643077750489095576615",
+      "question": "Will Algeria win on 2026-07-02?",
+      "link": "https://polyvictor.com/markets/2718928"
     }
   ]
 }
