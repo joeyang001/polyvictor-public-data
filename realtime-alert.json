@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-03T17:08:01.926Z",
+  "generated_at": "2026-07-03T17:50:09.988Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "06613294-0ed3-43bc-9f0c-0b4bb609367c",
-      "ts": "2026-07-03T17:07:50+00:00",
-      "address": "0x08a30a0a0fb71ebddc8907145791030782b88666",
-      "side": "sell",
-      "outcome_index": 0,
-      "outcome_label": "Hubert Hurkacz",
-      "price": 0.999,
-      "shares": 263337.68,
-      "usd_value": 263074.34232,
+      "id": "e041973b-144d-4760-80e2-2dfbbf16b3d5",
+      "ts": "2026-07-03T17:50:04+00:00",
+      "address": "0x640de3430e9a05e1b1fe04b42d651da1abe99a4c",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.6,
+      "shares": 831997.64,
+      "usd_value": 499198.584,
       "price_shift_pp": 0,
       "alert_reason": "size",
-      "market_id": "2758140",
-      "condition_id": "0x62893c1171b6e2c91ade4cda7d770f2e43e6b965a196c92dad6ac82666002e18",
-      "token_id": "53975539648480156710618958341377249497415796246629917739929698724645515885275",
-      "question": "Wimbledon ATP: Hubert Hurkacz vs Tommy Paul",
-      "link": "https://polyvictor.com/markets/2758140"
+      "market_id": "2707656",
+      "condition_id": "0xf3a4ebc0e59aadc6c37a49f7e50c34233925d15868fbdef7a83c4da274e1dfb3",
+      "token_id": "58876399413754290886505678293424340402660358045313477456726319086629610453597",
+      "question": "Will Egypt win on 2026-07-03?",
+      "link": "https://polyvictor.com/markets/2707656"
     }
   ]
 }
