@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-03T07:46:01.112Z",
+  "generated_at": "2026-07-03T08:48:00.992Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "eb6c0844-7a78-46af-a580-370469449a1f",
-      "ts": "2026-07-03T07:45:03+00:00",
-      "address": "0x90a50913050e7320799ca2f51aed42f37684c3f1",
+      "id": "7d2ea18c-9868-44db-b223-feda7e963e5a",
+      "ts": "2026-07-03T08:47:49+00:00",
+      "address": "0xbaa2bcb5439e985ce4ccf815b4700027d1b92c73",
       "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "NO",
-      "price": 0.987,
-      "shares": 35232.92,
-      "usd_value": 34774.89204,
-      "price_shift_pp": 96.7,
+      "outcome_label": "No",
+      "price": 0.8822754198155871,
+      "shares": 71378.96,
+      "usd_value": 62975.901900000004,
+      "price_shift_pp": 6.227541981558716,
       "alert_reason": "shift",
-      "market_id": null,
-      "condition_id": "0x0f217a0b720046cebdacc8df3005aeff13d6d689cfb6a16e6a02ca5c1fad3bbb",
-      "token_id": "93822705965302676019188693774925375071013449379320186029667736540173756160486",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
+      "market_id": "2686769",
+      "condition_id": null,
+      "token_id": "75658129469642677428107762473911474770056236283203014540908853100726765149941",
+      "question": "Iran full airspace closure by July 15?",
+      "link": "https://polyvictor.com/markets/2686769"
     }
   ]
 }
