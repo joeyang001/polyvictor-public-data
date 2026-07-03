@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-03T08:48:00.992Z",
+  "generated_at": "2026-07-03T11:44:00.688Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "7d2ea18c-9868-44db-b223-feda7e963e5a",
-      "ts": "2026-07-03T08:47:49+00:00",
-      "address": "0xbaa2bcb5439e985ce4ccf815b4700027d1b92c73",
-      "side": "buy",
+      "id": "991096c6-d729-4e59-a9f5-138ea4432787",
+      "ts": "2026-07-03T11:42:36+00:00",
+      "address": "0x7523cafcee7bcf2db9a79d80e0d79b88a9a54c4c",
+      "side": "sell",
       "outcome_index": 1,
       "outcome_label": "No",
-      "price": 0.8822754198155871,
-      "shares": 71378.96,
-      "usd_value": 62975.901900000004,
-      "price_shift_pp": 6.227541981558716,
-      "alert_reason": "shift",
-      "market_id": "2686769",
-      "condition_id": null,
-      "token_id": "75658129469642677428107762473911474770056236283203014540908853100726765149941",
-      "question": "Iran full airspace closure by July 15?",
-      "link": "https://polyvictor.com/markets/2686769"
+      "price": 0.997,
+      "shares": 279393.51,
+      "usd_value": 278555.32947,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "1971905",
+      "condition_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+      "token_id": "77669758102929718590160851391714019116736856202333459817343190730743895177270",
+      "question": "Strait of Hormuz traffic returns to normal by end of June?",
+      "link": "https://polyvictor.com/markets/1971905"
     }
   ]
 }
