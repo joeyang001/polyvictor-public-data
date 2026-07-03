@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-03T01:52:01.444Z",
+  "generated_at": "2026-07-03T04:24:00.778Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "a3adce1f-600d-43ca-9c36-2f454a7244ef",
-      "ts": "2026-07-03T01:51:13+00:00",
-      "address": "0x7d787c72c8317046fda90814a93c87fc192529a5",
+      "id": "f953d89b-5e87-4564-b6bd-5fb68272fa03",
+      "ts": "2026-07-03T04:22:23+00:00",
+      "address": "0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Switzerland",
-      "price": 0.66974886178117,
-      "shares": 402800.4,
-      "usd_value": 269775.109425,
-      "price_shift_pp": 0.22488657861703398,
-      "alert_reason": "size",
-      "market_id": "2721759",
-      "condition_id": "0x76c1eda0b4e4c7c0164389c74014e83ab29de3234749bfb22db5bc3bff34e593",
-      "token_id": "56547095651364690723637523202901254978281882262069988263172165588505993952880",
-      "question": "Switzerland vs. Algeria: Team to Advance",
-      "link": "https://polyvictor.com/markets/2721759"
+      "outcome_index": 1,
+      "outcome_label": "Under",
+      "price": 0.7590279027393312,
+      "shares": 65809.13,
+      "usd_value": 49950.965925000004,
+      "price_shift_pp": 3.4027903343497923,
+      "alert_reason": "shift",
+      "market_id": "2719232",
+      "condition_id": "0xcbf0b584d791f8d2d428cbdb148217ce5ab49a54934aa2ad5374a995741609e6",
+      "token_id": "46907208992910478274435056043061944114070533586366787154289535640024006676222",
+      "question": "Switzerland vs. Algeria: O/U 3.5",
+      "link": "https://polyvictor.com/markets/2719232"
     }
   ]
 }
