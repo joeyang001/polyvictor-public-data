@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-07-02",
-  "generated_at": "2026-07-02T14:00:06.618Z",
+  "date": "2026-07-03",
+  "generated_at": "2026-07-03T14:00:06.827Z",
   "status": "success",
   "tweet_ids": [
-    "2072681722538291470",
-    "2072681724308336718"
+    "2073044111859310654",
+    "2073044113209925834"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 1000,
-    "total_volume_usd": 59384207.260042,
-    "unique_whales": 298,
-    "buy_volume_usd": 51086757.31842401,
-    "sell_volume_usd": 8297449.941618001,
+    "total_fills": 998,
+    "total_volume_usd": 50445379.79261905,
+    "unique_whales": 310,
+    "buy_volume_usd": 41235010.642049015,
+    "sell_volume_usd": 9210369.150569998,
     "top_markets": [
       {
-        "market_id": "2718907",
-        "question": "Will Belgium win on 2026-07-01?",
-        "volume_usd": 17232393.772428,
-        "fills": 192,
-        "link": "https://polyvictor.com/markets/2718907"
+        "market_id": "2719303",
+        "question": "Spread: Spain (-1.5)",
+        "volume_usd": 5952074.565533,
+        "fills": 79,
+        "link": "https://polyvictor.com/markets/2719303"
       },
       {
-        "market_id": "2718910",
-        "question": "Will Senegal win on 2026-07-01?",
-        "volume_usd": 5797940.450196999,
-        "fills": 54,
-        "link": "https://polyvictor.com/markets/2718910"
+        "market_id": "2718913",
+        "question": "Will Spain win on 2026-07-02?",
+        "volume_usd": 4596527.846977999,
+        "fills": 58,
+        "link": "https://polyvictor.com/markets/2718913"
       },
       {
-        "market_id": "2721762",
-        "question": "Belgium vs. Senegal: Team to Advance",
-        "volume_usd": 3317014.2889859993,
-        "fills": 57,
-        "link": "https://polyvictor.com/markets/2721762"
+        "market_id": "2718925",
+        "question": "Will Switzerland win on 2026-07-02?",
+        "volume_usd": 4026466.1052249996,
+        "fills": 67,
+        "link": "https://polyvictor.com/markets/2718925"
       }
     ],
     "top_whales": [
       {
-        "address": "0x09b428f7c2b469786286214aa5c90dd9015f7320",
-        "volume_usd": 7325603.731199999,
-        "fills": 34,
-        "link": "https://polyvictor.com/whales/0x09b428f7c2b469786286214aa5c90dd9015f7320"
-      },
-      {
-        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 5461056.973443998,
-        "fills": 41,
-        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
+        "address": "0x640de3430e9a05e1b1fe04b42d651da1abe99a4c",
+        "volume_usd": 2528893.2408600003,
+        "fills": 21,
+        "link": "https://polyvictor.com/whales/0x640de3430e9a05e1b1fe04b42d651da1abe99a4c"
       },
       {
         "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-        "volume_usd": 1659257.816915,
-        "fills": 48,
+        "volume_usd": 1888353.362776,
+        "fills": 53,
         "link": "https://polyvictor.com/whales/0x204f72f35326db932158cba6adff0b9a1da95e14"
+      },
+      {
+        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+        "volume_usd": 1769693.2545999999,
+        "fills": 33,
+        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
       }
     ],
     "biggest_fill": {
-      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-      "usd": 1357531.14996,
+      "address": "0x709e8dcb133555794decc598e07f2c923b8366f5",
+      "usd": 739406.88,
       "side": "buy",
-      "price": 0.999,
-      "market_id": "2718910",
-      "question": "Will Senegal win on 2026-07-01?",
-      "link": "https://polyvictor.com/markets/2718910"
+      "price": 0.72,
+      "market_id": "2718913",
+      "question": "Will Spain win on 2026-07-02?",
+      "link": "https://polyvictor.com/markets/2718913"
     }
   }
 }
