@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-04T00:08:01.162Z",
+  "generated_at": "2026-07-04T00:12:00.600Z",
   "window_minutes": 30,
   "count": 2,
   "alerts": [
+    {
+      "id": "22871a93-169d-41ab-933a-9c601b5d8be3",
+      "ts": "2026-07-04T00:11:52+00:00",
+      "address": "0x9468bb7e53c8a5f13cc283f2aed950ebf9865d4b",
+      "side": "sell",
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.999,
+      "shares": 1000000.93,
+      "usd_value": 999000.9290700001,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "2707658",
+      "condition_id": "0xb81d9a63be774f9c3db1b96af4d0e869128643a29c6eb922c0d8a20137880120",
+      "token_id": "47254411859814230823241329698941341210081957128105405938574965184636004790922",
+      "question": "Will Argentina win on 2026-07-03?",
+      "link": "https://polyvictor.com/markets/2707658"
+    },
     {
       "id": "1b7dfca3-e225-4d90-8ee3-209ca7af7216",
       "ts": "2026-07-04T00:06:29+00:00",
@@ -21,24 +39,6 @@
       "token_id": "110634710495919008162344319806653962838927025655326729643366261455929381225666",
       "question": "Argentina vs. Cabo Verde: Will the Match Go to a Penalty Shootout?",
       "link": "https://polyvictor.com/markets/2733683"
-    },
-    {
-      "id": "3321dc4f-6f43-4db0-982a-f5c79441d581",
-      "ts": "2026-07-03T23:41:44+00:00",
-      "address": "0xcbc672c301b466809f48521989bb262d4da30018",
-      "side": "sell",
-      "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.4641962508326902,
-      "shares": 53966.65,
-      "usd_value": 25051.1166,
-      "price_shift_pp": -3.5803749167309773,
-      "alert_reason": "shift",
-      "market_id": "2707658",
-      "condition_id": "0xb81d9a63be774f9c3db1b96af4d0e869128643a29c6eb922c0d8a20137880120",
-      "token_id": "43456878767945280970650160648663035360756131789534577706790459269909777535061",
-      "question": "Will Argentina win on 2026-07-03?",
-      "link": "https://polyvictor.com/markets/2707658"
     }
   ]
 }
