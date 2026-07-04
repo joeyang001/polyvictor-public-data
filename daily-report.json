@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-07-03",
-  "generated_at": "2026-07-03T14:00:06.827Z",
+  "date": "2026-07-04",
+  "generated_at": "2026-07-04T14:00:04.427Z",
   "status": "success",
   "tweet_ids": [
-    "2073044111859310654",
-    "2073044113209925834"
+    "2073406489901891824",
+    "2073406491181158408"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 998,
-    "total_volume_usd": 50445379.79261905,
-    "unique_whales": 310,
-    "buy_volume_usd": 41235010.642049015,
-    "sell_volume_usd": 9210369.150569998,
+    "total_fills": 1000,
+    "total_volume_usd": 51251666.82767396,
+    "unique_whales": 294,
+    "buy_volume_usd": 41368810.15499701,
+    "sell_volume_usd": 9882856.672677003,
     "top_markets": [
       {
-        "market_id": "2719303",
-        "question": "Spread: Spain (-1.5)",
-        "volume_usd": 5952074.565533,
-        "fills": 79,
-        "link": "https://polyvictor.com/markets/2719303"
+        "market_id": "2707658",
+        "question": "Will Argentina win on 2026-07-03?",
+        "volume_usd": 6163798.442196003,
+        "fills": 83,
+        "link": "https://polyvictor.com/markets/2707658"
       },
       {
-        "market_id": "2718913",
-        "question": "Will Spain win on 2026-07-02?",
-        "volume_usd": 4596527.846977999,
-        "fills": 58,
-        "link": "https://polyvictor.com/markets/2718913"
+        "market_id": "2721765",
+        "question": "Argentina vs. Cabo Verde: Team to Advance",
+        "volume_usd": 3548635.4340910013,
+        "fills": 70,
+        "link": "https://polyvictor.com/markets/2721765"
       },
       {
-        "market_id": "2718925",
-        "question": "Will Switzerland win on 2026-07-02?",
-        "volume_usd": 4026466.1052249996,
-        "fills": 67,
-        "link": "https://polyvictor.com/markets/2718925"
+        "market_id": "2719177",
+        "question": "Spread: Colombia (-1.5)",
+        "volume_usd": 2863647.4087880002,
+        "fills": 25,
+        "link": "https://polyvictor.com/markets/2719177"
       }
     ],
     "top_whales": [
       {
-        "address": "0x640de3430e9a05e1b1fe04b42d651da1abe99a4c",
-        "volume_usd": 2528893.2408600003,
-        "fills": 21,
-        "link": "https://polyvictor.com/whales/0x640de3430e9a05e1b1fe04b42d651da1abe99a4c"
-      },
-      {
         "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-        "volume_usd": 1888353.362776,
-        "fills": 53,
+        "volume_usd": 2013266.0126949998,
+        "fills": 50,
         "link": "https://polyvictor.com/whales/0x204f72f35326db932158cba6adff0b9a1da95e14"
       },
       {
+        "address": "0x640de3430e9a05e1b1fe04b42d651da1abe99a4c",
+        "volume_usd": 1990755.1266999997,
+        "fills": 12,
+        "link": "https://polyvictor.com/whales/0x640de3430e9a05e1b1fe04b42d651da1abe99a4c"
+      },
+      {
         "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 1769693.2545999999,
-        "fills": 33,
+        "volume_usd": 1975307.68304,
+        "fills": 26,
         "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
       }
     ],
     "biggest_fill": {
-      "address": "0x709e8dcb133555794decc598e07f2c923b8366f5",
-      "usd": 739406.88,
-      "side": "buy",
-      "price": 0.72,
-      "market_id": "2718913",
-      "question": "Will Spain win on 2026-07-02?",
-      "link": "https://polyvictor.com/markets/2718913"
+      "address": "0x9468bb7e53c8a5f13cc283f2aed950ebf9865d4b",
+      "usd": 999000.9290700001,
+      "side": "sell",
+      "price": 0.999,
+      "market_id": "2707658",
+      "question": "Will Argentina win on 2026-07-03?",
+      "link": "https://polyvictor.com/markets/2707658"
     }
   }
 }
