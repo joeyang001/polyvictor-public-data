@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-04T22:54:00.816Z",
+  "generated_at": "2026-07-04T22:56:00.931Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "7c0e27b7-2c02-4ca0-bbfe-f5cc1bcb691a",
+      "ts": "2026-07-04T22:53:59+00:00",
+      "address": "0xfec8b587154a3ff00dfd2773d30a768a50ee50f7",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "Paraguay",
+      "price": 0.7952255852632883,
+      "shares": 52815.202094,
+      "usd_value": 41999.999996000006,
+      "price_shift_pp": 3.522569702822431,
+      "alert_reason": "shift",
+      "market_id": "2754873",
+      "condition_id": "0x17b566faa4c085b49020ab355d4b81f01037634c6b17b15f455861f3cfb0ab55",
+      "token_id": "20482855091620181376363423373816347541336681082369014762166611637141533316129",
+      "question": "Spread: France (-1.5)",
+      "link": "https://polyvictor.com/markets/2754873"
+    },
     {
       "id": "daee4c6d-8e2e-4574-9ab6-3c33b7d4cd2e",
       "ts": "2026-07-04T22:53:20+00:00",
