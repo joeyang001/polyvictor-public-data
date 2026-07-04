@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-04T10:44:01.018Z",
+  "generated_at": "2026-07-04T15:34:00.961Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "db19881c-bc7f-4b7d-9af2-c281699420f4",
-      "ts": "2026-07-04T10:42:26+00:00",
-      "address": "0x4be1fa92e6ceaf886aac0bbec3be6c527133aa70",
-      "side": "sell",
-      "outcome_index": 0,
-      "outcome_label": "Bilibili Gaming",
-      "price": 0.999,
-      "shares": 300429.36,
-      "usd_value": 300128.93064,
+      "id": "00c411c9-5012-419d-8cdf-98959d333971",
+      "ts": "2026-07-04T15:32:17+00:00",
+      "address": "0x25d3d4e435ac54775b873708c25705321c31efe2",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.84,
+      "shares": 423364.59,
+      "usd_value": 355626.25560000003,
       "price_shift_pp": 0,
       "alert_reason": "size",
-      "market_id": "2755529",
-      "condition_id": "0xac6dd0094fb0f6384507e950ff971e2a80b1bd4cd2b32b37a5a7b5dc888e1e59",
-      "token_id": "42188668576720861566047242491361406918800785996841855587021061155156808083019",
-      "question": "LoL: Bilibili Gaming vs T1 (BO5) - Mid-Season Invitational Playoffs",
-      "link": "https://polyvictor.com/markets/2755529"
+      "market_id": "2740917",
+      "condition_id": "0xd510cba5f5ee6a45a3141d3d4a260b48e7d06bde072db95afe60c13b2f10d862",
+      "token_id": "11263816773062132614077322307882909551135079093893055759804813369043643400419",
+      "question": "Will Canada win on 2026-07-04?",
+      "link": "https://polyvictor.com/markets/2740917"
     }
   ]
 }
