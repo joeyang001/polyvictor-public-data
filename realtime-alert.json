@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-04T15:36:00.907Z",
+  "generated_at": "2026-07-04T15:38:01.280Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 3,
   "alerts": [
+    {
+      "id": "b9204fb5-fa03-49ee-9d82-4bf388bfad7f",
+      "ts": "2026-07-04T15:36:01+00:00",
+      "address": "0x640de3430e9a05e1b1fe04b42d651da1abe99a4c",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.45,
+      "shares": 1785000,
+      "usd_value": 803250,
+      "price_shift_pp": 0.000006553403469888863,
+      "alert_reason": "size",
+      "market_id": "2740921",
+      "condition_id": "0xa947b7c696453a288460a8e12aae31b854ca02d0b87970ffc259cec8a9fffcd2",
+      "token_id": "65668323357092153659635952271884062785503105920888052743329065374587829550790",
+      "question": "Will Morocco win on 2026-07-04?",
+      "link": "https://polyvictor.com/markets/2740921"
+    },
     {
       "id": "ada8f1ec-3e40-4d5b-9f0f-a93fe66a6435",
       "ts": "2026-07-04T15:34:23+00:00",
