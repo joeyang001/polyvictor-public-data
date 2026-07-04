@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-04T21:00:04.239Z",
+  "generated_at": "2026-07-04T21:14:01.025Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 3,
   "alerts": [
+    {
+      "id": "70fdb01e-d2ba-4dfd-8fec-90267c96acc8",
+      "ts": "2026-07-04T21:12:30+00:00",
+      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "Under",
+      "price": 0.69,
+      "shares": 1100000,
+      "usd_value": 758999.9999999999,
+      "price_shift_pp": 4.133111630721942e-7,
+      "alert_reason": "size",
+      "market_id": "2754885",
+      "condition_id": "0x254dfc6376b0fc88498424548750b885f3f2028674e853061b5234cd2f519ed0",
+      "token_id": "55669177104213086410609258473030278150313428281140298294302693704677819688547",
+      "question": "Paraguay vs. France: O/U 3.5",
+      "link": "https://polyvictor.com/markets/2754885"
+    },
     {
       "id": "18cd1835-2ed2-422b-87be-58874ae7e1cd",
       "ts": "2026-07-04T20:59:49+00:00",
