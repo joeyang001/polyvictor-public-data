@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-04T21:46:01.293Z",
+  "generated_at": "2026-07-04T22:54:00.816Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "344cd7f6-58ae-41ec-8b6d-bdb456a0a864",
-      "ts": "2026-07-04T21:45:48+00:00",
-      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "id": "daee4c6d-8e2e-4574-9ab6-3c33b7d4cd2e",
+      "ts": "2026-07-04T22:53:20+00:00",
+      "address": "0xfc25f141ed27bb1787338d2c4e7f51e3a15e1f7f",
       "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "Under",
-      "price": 0.89,
-      "shares": 54501,
-      "usd_value": 48505.89,
-      "price_shift_pp": -4.0000000000000036,
-      "alert_reason": "shift",
-      "market_id": "2754886",
-      "condition_id": "0xf73ff3d254a05e720446d01b3462cf8410c4117123a3f38a49192ba58e6ce0a8",
-      "token_id": "79481933683995790397808921235737232870251729429638902436601200312159772849373",
-      "question": "Paraguay vs. France: O/U 4.5",
-      "link": "https://polyvictor.com/markets/2754886"
+      "outcome_label": "No",
+      "price": 0.998,
+      "shares": 335748.81,
+      "usd_value": 335077.31238,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "2754625",
+      "condition_id": "0x184ca107b54330d8e47c581aebc31426e9063943edd4c98ddafe2eb01307f62b",
+      "token_id": "43206349733795320404561682906083340686502197494152995596556037060237152808546",
+      "question": "Will Paraguay win on 2026-07-04?",
+      "link": "https://polyvictor.com/markets/2754625"
     }
   ]
 }
