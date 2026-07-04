@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-03T23:42:00.880Z",
+  "generated_at": "2026-07-04T00:08:01.162Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "1b7dfca3-e225-4d90-8ee3-209ca7af7216",
+      "ts": "2026-07-04T00:06:29+00:00",
+      "address": "0xfc454cdf9d2eed0379f6b47ce0c4183fc645911f",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.5069413391264905,
+      "shares": 73677.73,
+      "usd_value": 37350.287110000005,
+      "price_shift_pp": -41.30525883566698,
+      "alert_reason": "shift",
+      "market_id": "2733683",
+      "condition_id": "0xaf282982da4ccdb8b9dcd1e2e75e205032409828ec826203a3ff4f64c764a314",
+      "token_id": "110634710495919008162344319806653962838927025655326729643366261455929381225666",
+      "question": "Argentina vs. Cabo Verde: Will the Match Go to a Penalty Shootout?",
+      "link": "https://polyvictor.com/markets/2733683"
+    },
     {
       "id": "3321dc4f-6f43-4db0-982a-f5c79441d581",
       "ts": "2026-07-03T23:41:44+00:00",
