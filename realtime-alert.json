@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-04T00:46:00.769Z",
+  "generated_at": "2026-07-04T00:48:01.431Z",
   "window_minutes": 30,
-  "count": 3,
+  "count": 4,
   "alerts": [
+    {
+      "id": "720fd99a-9b39-4244-94fb-8cfee1f308e6",
+      "ts": "2026-07-04T00:47:20+00:00",
+      "address": "0x545129ec7719de8599872cc52850f9f19462616c",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.9,
+      "shares": 331000,
+      "usd_value": 297900,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "2718933",
+      "condition_id": "0xfc35bff2ad7d9edefa77d1df366161a4aebebed33e5dda6ff932ce7c8e00edfb",
+      "token_id": "103342324942471319985602539818363146547812329708347340456245582195138932754822",
+      "question": "Will Ghana win on 2026-07-03?",
+      "link": "https://polyvictor.com/markets/2718933"
+    },
     {
       "id": "ebabac39-b389-489d-96b7-3f366689c807",
       "ts": "2026-07-04T00:45:38+00:00",
