@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-05T08:34:00.746Z",
+  "generated_at": "2026-07-05T11:46:01.170Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "94867e6e-b3d4-499e-b7ec-90e952f470e9",
-      "ts": "2026-07-05T08:33:37+00:00",
-      "address": "0x9b491485819135564450669aeadb2d85f7b104a8",
+      "id": "5920c556-6770-4086-9240-0e8e75fa0251",
+      "ts": "2026-07-05T11:45:24+00:00",
+      "address": "0xf5fabdcdc6eb6d9765a228824f16cca9c91f62df",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Hanwha Life Esports",
-      "price": 0.9609622204445921,
-      "shares": 36065.93395,
-      "usd_value": 34657.999971,
-      "price_shift_pp": 3.096222199459353,
-      "alert_reason": "shift",
-      "market_id": "2782726",
-      "condition_id": "0x6712b31ae3f121a332d8c27bdc386be7dfef1fe4ba3993d71e1807480f102038",
-      "token_id": "72325953274545115582475636973414800511389855671031095123743763273507981916945",
-      "question": "LoL: Hanwha Life Esports vs G2 Esports - Game 3 Winner",
-      "link": "https://polyvictor.com/markets/2782726"
+      "outcome_label": "Jessica Pegula",
+      "price": 0.6802345149477702,
+      "shares": 464230.11,
+      "usd_value": 315785.3437,
+      "price_shift_pp": -0.9765485052229739,
+      "alert_reason": "size",
+      "market_id": "2784870",
+      "condition_id": "0x6eb007d26596439facaa305089ed4c1edfc69637290945b9e972a8d7252d60fe",
+      "token_id": "9402658186476981449297926455433259782700456836943485902555614463682869258615",
+      "question": "Wimbledon WTA: Jessica Pegula vs Iva Jovic",
+      "link": "https://polyvictor.com/markets/2784870"
     }
   ]
 }
