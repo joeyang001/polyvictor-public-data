@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-05T22:00:05.900Z",
+  "generated_at": "2026-07-05T22:20:05.736Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 3,
   "alerts": [
+    {
+      "id": "16d5090f-c2b4-463f-b024-0feabc62cc24",
+      "ts": "2026-07-05T22:18:21+00:00",
+      "address": "0xc58df0b98437f613e20916c242403e0a6c009373",
+      "side": "sell",
+      "outcome_index": 1,
+      "outcome_label": "Norway",
+      "price": 0.999,
+      "shares": 250614.58,
+      "usd_value": 250363.96542,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "2754869",
+      "condition_id": "0xad9e90bf3ccd05f9c3d4a25f49109d5f860225c26faec54b52edec93c4ba4e62",
+      "token_id": "106148171596919935631806889016637733543934425578771785458420429149403991410824",
+      "question": "Brazil vs. Norway: Team to Advance",
+      "link": "https://polyvictor.com/markets/2754869"
+    },
     {
       "id": "b596d9c0-23c6-4cc5-b570-254bbb250bfd",
       "ts": "2026-07-05T21:58:00+00:00",
