@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-05T00:40:05.873Z",
+  "generated_at": "2026-07-05T08:34:00.746Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "0c14f1dc-33f1-42d9-94b7-0434bf341094",
-      "ts": "2026-07-05T00:40:01+00:00",
-      "address": "0x07a9bf6d9a913df0e149bb2d652998b57fd832c8",
+      "id": "94867e6e-b3d4-499e-b7ec-90e952f470e9",
+      "ts": "2026-07-05T08:33:37+00:00",
+      "address": "0x9b491485819135564450669aeadb2d85f7b104a8",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "No",
-      "price": 0.8999999999976,
-      "shares": 333333.333332,
-      "usd_value": 299999.99999800004,
-      "price_shift_pp": 0.999999999760004,
-      "alert_reason": "size",
-      "market_id": "560317",
-      "condition_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
-      "token_id": "87073899845581463485186346288398658568334162612963837182986759797304993556208",
-      "question": "Putin out as President of Russia by December 31, 2026?",
-      "link": "https://polyvictor.com/markets/560317"
+      "outcome_index": 0,
+      "outcome_label": "Hanwha Life Esports",
+      "price": 0.9609622204445921,
+      "shares": 36065.93395,
+      "usd_value": 34657.999971,
+      "price_shift_pp": 3.096222199459353,
+      "alert_reason": "shift",
+      "market_id": "2782726",
+      "condition_id": "0x6712b31ae3f121a332d8c27bdc386be7dfef1fe4ba3993d71e1807480f102038",
+      "token_id": "72325953274545115582475636973414800511389855671031095123743763273507981916945",
+      "question": "LoL: Hanwha Life Esports vs G2 Esports - Game 3 Winner",
+      "link": "https://polyvictor.com/markets/2782726"
     }
   ]
 }
