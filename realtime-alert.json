@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-05T21:58:01.312Z",
+  "generated_at": "2026-07-05T22:00:05.900Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "b596d9c0-23c6-4cc5-b570-254bbb250bfd",
+      "ts": "2026-07-05T21:58:00+00:00",
+      "address": "0xe9076a87c5ed90ef16e6fe6529c943baeca0cff6",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.9532048624213066,
+      "shares": 36227.63,
+      "usd_value": 34532.35307,
+      "price_shift_pp": 9.320486242130666,
+      "alert_reason": "shift",
+      "market_id": "2754709",
+      "condition_id": null,
+      "token_id": "103676420349079870009780406413445367420480763821449063297252748877005470899989",
+      "question": "Exact Score: Brazil 0 - 2 Norway?",
+      "link": "https://polyvictor.com/markets/2754709"
+    },
     {
       "id": "cf63f7b5-c9d3-4644-a6b7-a6dbb7dc805b",
       "ts": "2026-07-05T21:57:19+00:00",
