@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-05T11:46:01.170Z",
+  "generated_at": "2026-07-05T12:22:01.305Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "5920c556-6770-4086-9240-0e8e75fa0251",
-      "ts": "2026-07-05T11:45:24+00:00",
-      "address": "0xf5fabdcdc6eb6d9765a228824f16cca9c91f62df",
+      "id": "4bc0db42-9153-4131-a98d-9bbc68254712",
+      "ts": "2026-07-05T12:20:27+00:00",
+      "address": "0x64c572d3977251aaf5801f3558a5d4766a41d255",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Jessica Pegula",
-      "price": 0.6802345149477702,
-      "shares": 464230.11,
-      "usd_value": 315785.3437,
-      "price_shift_pp": -0.9765485052229739,
-      "alert_reason": "size",
-      "market_id": "2784870",
-      "condition_id": "0x6eb007d26596439facaa305089ed4c1edfc69637290945b9e972a8d7252d60fe",
-      "token_id": "9402658186476981449297926455433259782700456836943485902555614463682869258615",
-      "question": "Wimbledon WTA: Jessica Pegula vs Iva Jovic",
-      "link": "https://polyvictor.com/markets/2784870"
+      "outcome_index": 1,
+      "outcome_label": "BIG",
+      "price": 0.9505555742575537,
+      "shares": 30180.97,
+      "usd_value": 28688.68927,
+      "price_shift_pp": 19.055557425755364,
+      "alert_reason": "shift",
+      "market_id": "2798720",
+      "condition_id": "0x4a8747df809927f689475a61f3ddd3a4717d34a3f1ab0c5a8d0a77057636ccac",
+      "token_id": "13161546813964734942543655579657003701525377055344762834988449289269550049951",
+      "question": "Counter-Strike: B8 vs BIG - Map 2 Winner",
+      "link": "https://polyvictor.com/markets/2798720"
     }
   ]
 }
