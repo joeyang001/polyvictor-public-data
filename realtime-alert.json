@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-06T15:20:05.759Z",
+  "generated_at": "2026-07-06T16:44:01.093Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "fa1291fe-5508-488e-9db3-7fee03c06c5c",
-      "ts": "2026-07-06T15:19:06+00:00",
-      "address": "0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654",
+      "id": "757e1b2f-c453-4dea-a0dd-90d3e1ae7ed6",
+      "ts": "2026-07-06T16:43:33+00:00",
+      "address": "0xf38e6583dfa37026ee25cf0a567b8cef6307a38a",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Madison Keys",
-      "price": 0.5892603178131836,
-      "shares": 119205.25,
-      "usd_value": 70242.9235,
-      "price_shift_pp": -3.073968218681644,
-      "alert_reason": "shift",
-      "market_id": "2799814",
-      "condition_id": "0xcfd05b8542186b65050be56282039a00a5099d36b956408b440cddac4bff1f96",
-      "token_id": "52345071228943355853094658544966241022495343779786879606859929039680818056647",
-      "question": "Wimbledon WTA: Madison Keys vs Linda Noskova",
-      "link": "https://polyvictor.com/markets/2799814"
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.998,
+      "shares": 301000,
+      "usd_value": 300398,
+      "price_shift_pp": 0.10000000000000009,
+      "alert_reason": "size",
+      "market_id": "558968",
+      "condition_id": "0x7412d284c8f63791fec807f9b1f61c6fe61163621775a3dc8686cd2575272abe",
+      "token_id": "65652065262666433168143828460188123377751865571317729312655170081534213236077",
+      "question": "Will Egypt win the 2026 FIFA World Cup?",
+      "link": "https://polyvictor.com/markets/558968"
     }
   ]
 }
