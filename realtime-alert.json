@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-06T18:58:01.148Z",
+  "generated_at": "2026-07-06T19:00:06.145Z",
   "window_minutes": 30,
-  "count": 4,
+  "count": 5,
   "alerts": [
+    {
+      "id": "245af1d3-5887-41fe-8033-ef4a9c9a0ecd",
+      "ts": "2026-07-06T18:58:46+00:00",
+      "address": "0x72254fe1a79fc8fd37de0168be735e6af4bd659a",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Over",
+      "price": 0.55,
+      "shares": 499999.99,
+      "usd_value": 274999.99450000003,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "2782125",
+      "condition_id": "0xeb83b484265e531f2420e8b6a5f64b6b80258cf9bb45cb421cee504772ca20a7",
+      "token_id": "88475667688782863717642869047652137781022923009270820927860015653483877011402",
+      "question": "Portugal vs. Spain: O/U 2.5",
+      "link": "https://polyvictor.com/markets/2782125"
+    },
     {
       "id": "ba0f5913-28e4-4dc4-bf9b-4a45bd41b2b2",
       "ts": "2026-07-06T18:57:31+00:00",
