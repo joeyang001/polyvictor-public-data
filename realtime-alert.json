@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-06T21:08:01.767Z",
+  "generated_at": "2026-07-06T21:12:02.151Z",
   "window_minutes": 30,
-  "count": 4,
+  "count": 5,
   "alerts": [
+    {
+      "id": "4fa29698-3b1d-4ac3-bbc0-04e58c4b356f",
+      "ts": "2026-07-06T21:10:08+00:00",
+      "address": "0x09b428f7c2b469786286214aa5c90dd9015f7320",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "Belgium",
+      "price": 0.47,
+      "shares": 1222661.26,
+      "usd_value": 574650.7922,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "2766989",
+      "condition_id": "0x83d646ac5646bf847f2dc0ce9c18c4d8909bbb7b050b31075afb9b67d3802b33",
+      "token_id": "90379632725832148117828959910559970163920103735864050457319074142102846066573",
+      "question": "United States vs. Belgium: Team to Advance",
+      "link": "https://polyvictor.com/markets/2766989"
+    },
     {
       "id": "51adf106-cf7a-4c26-bcb9-a8af90fc69eb",
       "ts": "2026-07-06T21:07:14+00:00",
