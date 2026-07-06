@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-06T01:40:03.936Z",
+  "generated_at": "2026-07-06T01:44:01.272Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 3,
   "alerts": [
+    {
+      "id": "97ed8479-3ffe-413d-aea0-6a810430a9d4",
+      "ts": "2026-07-06T01:42:13+00:00",
+      "address": "0x996ac56c9e72b6ca38a30ae9f6e85152d9afe3cc",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Over",
+      "price": 0.9120947376730967,
+      "shares": 30147.88,
+      "usd_value": 27497.7227,
+      "price_shift_pp": 3.2094737673096674,
+      "alert_reason": "shift",
+      "market_id": "2767004",
+      "condition_id": "0x882f0d33b6fff38f764d031355b1cdb4068683dc4e4a26cd91274fee77dd7065",
+      "token_id": "33712481100420046644490883687526558682189854239761200687095523614004358326816",
+      "question": "Mexico vs. England: O/U 2.5",
+      "link": "https://polyvictor.com/markets/2767004"
+    },
     {
       "id": "f13388bf-b073-4741-9012-8ab78e22182e",
       "ts": "2026-07-06T01:38:52+00:00",
