@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-06T21:12:02.151Z",
+  "generated_at": "2026-07-06T21:34:01.075Z",
   "window_minutes": 30,
-  "count": 5,
+  "count": 6,
   "alerts": [
+    {
+      "id": "8d935349-ef17-47ab-92ca-7c1ff972893f",
+      "ts": "2026-07-06T21:33:41+00:00",
+      "address": "0x09b428f7c2b469786286214aa5c90dd9015f7320",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.63,
+      "shares": 495313.57,
+      "usd_value": 312047.5491,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "2766773",
+      "condition_id": "0xf5a0c2d5b6bf0a7b9899aaf4c6237b08e1dbf8d17430fac4de8468a6e2df2e0e",
+      "token_id": "44841574945369576314376827369817188859915687431769500334835533062509494840858",
+      "question": "Will United States win on 2026-07-06?",
+      "link": "https://polyvictor.com/markets/2766773"
+    },
     {
       "id": "4fa29698-3b1d-4ac3-bbc0-04e58c4b356f",
       "ts": "2026-07-06T21:10:08+00:00",
