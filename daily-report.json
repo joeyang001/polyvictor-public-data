@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-07-05",
-  "generated_at": "2026-07-05T14:00:04.847Z",
+  "date": "2026-07-06",
+  "generated_at": "2026-07-06T14:00:03.037Z",
   "status": "success",
   "tweet_ids": [
-    "2073768878912540927",
-    "2073768880871207187"
+    "2074131258313937174",
+    "2074131260016918719"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
     "total_fills": 1000,
-    "total_volume_usd": 64070273.01834703,
+    "total_volume_usd": 51395962.385279976,
     "unique_whales": 305,
-    "buy_volume_usd": 51585706.15531403,
-    "sell_volume_usd": 12484566.863033,
+    "buy_volume_usd": 41610841.995133966,
+    "sell_volume_usd": 9785120.390145997,
     "top_markets": [
       {
-        "market_id": "2740921",
-        "question": "Will Morocco win on 2026-07-04?",
-        "volume_usd": 14052077.474327995,
-        "fills": 119,
-        "link": "https://polyvictor.com/markets/2740921"
+        "market_id": "2767034",
+        "question": "Mexico vs. England: Team to Advance",
+        "volume_usd": 9284841.514916997,
+        "fills": 164,
+        "link": "https://polyvictor.com/markets/2767034"
       },
       {
-        "market_id": "2754873",
-        "question": "Spread: France (-1.5)",
-        "volume_usd": 8426069.816178001,
-        "fills": 74,
-        "link": "https://polyvictor.com/markets/2754873"
+        "market_id": "2754869",
+        "question": "Brazil vs. Norway: Team to Advance",
+        "volume_usd": 3839898.092105,
+        "fills": 33,
+        "link": "https://polyvictor.com/markets/2754869"
       },
       {
-        "market_id": "2740917",
-        "question": "Will Canada win on 2026-07-04?",
-        "volume_usd": 6465271.625554,
-        "fills": 37,
-        "link": "https://polyvictor.com/markets/2740917"
+        "market_id": "2766762",
+        "question": "Will England win on 2026-07-05?",
+        "volume_usd": 3041967.952770001,
+        "fills": 54,
+        "link": "https://polyvictor.com/markets/2766762"
       }
     ],
     "top_whales": [
       {
-        "address": "0xbf323edbbb4492ef9397917bfee804193e8a3b90",
-        "volume_usd": 4374880.807099001,
-        "fills": 16,
-        "link": "https://polyvictor.com/whales/0xbf323edbbb4492ef9397917bfee804193e8a3b90"
+        "address": "0x4be1fa92e6ceaf886aac0bbec3be6c527133aa70",
+        "volume_usd": 1923021.6433889996,
+        "fills": 32,
+        "link": "https://polyvictor.com/whales/0x4be1fa92e6ceaf886aac0bbec3be6c527133aa70"
       },
       {
-        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 3990607.635994999,
-        "fills": 39,
-        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
+        "address": "0x72254fe1a79fc8fd37de0168be735e6af4bd659a",
+        "volume_usd": 1797002.03296,
+        "fills": 30,
+        "link": "https://polyvictor.com/whales/0x72254fe1a79fc8fd37de0168be735e6af4bd659a"
       },
       {
-        "address": "0x349606c1b77f3ba668879cbc9347f15a44cf8fc4",
-        "volume_usd": 3730167.4282969995,
-        "fills": 17,
-        "link": "https://polyvictor.com/whales/0x349606c1b77f3ba668879cbc9347f15a44cf8fc4"
+        "address": "0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654",
+        "volume_usd": 1492316.4012199999,
+        "fills": 15,
+        "link": "https://polyvictor.com/whales/0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654"
       }
     ],
     "biggest_fill": {
-      "address": "0x349606c1b77f3ba668879cbc9347f15a44cf8fc4",
-      "usd": 1325000,
+      "address": "0x09b428f7c2b469786286214aa5c90dd9015f7320",
+      "usd": 649999.44,
       "side": "buy",
-      "price": 0.53,
-      "market_id": "2740921",
-      "question": "Will Morocco win on 2026-07-04?",
-      "link": "https://polyvictor.com/markets/2740921"
+      "price": 0.72,
+      "market_id": "2754869",
+      "question": "Brazil vs. Norway: Team to Advance",
+      "link": "https://polyvictor.com/markets/2754869"
     }
   }
 }
