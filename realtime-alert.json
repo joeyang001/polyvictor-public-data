@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-06T16:44:01.093Z",
+  "generated_at": "2026-07-06T17:58:01.424Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "757e1b2f-c453-4dea-a0dd-90d3e1ae7ed6",
-      "ts": "2026-07-06T16:43:33+00:00",
-      "address": "0xf38e6583dfa37026ee25cf0a567b8cef6307a38a",
+      "id": "22f6f3c0-a911-4c56-882f-247124305033",
+      "ts": "2026-07-06T17:56:30+00:00",
+      "address": "0x42477970683d4d0a52ec7082fee5d760cc5591c4",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "No",
-      "price": 0.998,
-      "shares": 301000,
-      "usd_value": 300398,
-      "price_shift_pp": 0.10000000000000009,
-      "alert_reason": "size",
-      "market_id": "558968",
-      "condition_id": "0x7412d284c8f63791fec807f9b1f61c6fe61163621775a3dc8686cd2575272abe",
-      "token_id": "65652065262666433168143828460188123377751865571317729312655170081534213236077",
-      "question": "Will Egypt win the 2026 FIFA World Cup?",
-      "link": "https://polyvictor.com/markets/558968"
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.735550037551086,
+      "shares": 46296.93,
+      "usd_value": 34053.7086,
+      "price_shift_pp": 42.56837264978384,
+      "alert_reason": "shift",
+      "market_id": "2782157",
+      "condition_id": "0x822abdeaa207351f8837bbfaca73a626aaa4b422902be0b1738cc1264ddfe5e2",
+      "token_id": "25578228527024938351628981751750052915155473948338019037577322826731365635007",
+      "question": "Portugal vs. Spain: Will the Match Go to a Penalty Shootout?",
+      "link": "https://polyvictor.com/markets/2782157"
     }
   ]
 }
