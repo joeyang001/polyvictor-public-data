@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-06T02:50:02.296Z",
+  "generated_at": "2026-07-06T03:06:01.336Z",
   "window_minutes": 30,
   "count": 2,
   "alerts": [
+    {
+      "id": "9ae21dc5-a64b-42d8-8d82-aef2715192fd",
+      "ts": "2026-07-06T03:05:00+00:00",
+      "address": "0x43372356634781eea88d61bbdd7824cdce958882",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.9984748287164092,
+      "shares": 30421.77,
+      "usd_value": 30375.37159,
+      "price_shift_pp": 3.447482871640928,
+      "alert_reason": "shift",
+      "market_id": "2071518",
+      "condition_id": "0x0cb2ec02d56d1dfdac788428b40a0e6ffcc0476c02602b21db91688cf74516e6",
+      "token_id": "44842965987473325983162328689997819096526327013729797846376035924525793054604",
+      "question": "Will Mexico reach the 2026 FIFA World Cup final?",
+      "link": "https://polyvictor.com/markets/2071518"
+    },
     {
       "id": "0aeec481-5229-4a89-bda1-5b75b7d1f5dc",
       "ts": "2026-07-06T02:49:07+00:00",
@@ -21,24 +39,6 @@
       "token_id": "28050273107329445091421253379726103392289010420763288222105568959497520229250",
       "question": "Mexico vs. England: Team to Advance",
       "link": "https://polyvictor.com/markets/2767034"
-    },
-    {
-      "id": "5255e5d1-7509-420d-99d1-3c39cf43b199",
-      "ts": "2026-07-06T02:29:57+00:00",
-      "address": "0x688051ca7cd43270d8f26b48ecdc9beb2d23cf03",
-      "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Over",
-      "price": 0.9730876181132943,
-      "shares": 30829.7006,
-      "usd_value": 29999.999924,
-      "price_shift_pp": 3.408762340344784,
-      "alert_reason": "shift",
-      "market_id": "2767006",
-      "condition_id": "0x49479fd3ce388c802dc47becd1d23fc6f8ad89ac5a31378810d9ad754582fb04",
-      "token_id": "11797172117343276563466457271712291778565702290200309285182121462291083522337",
-      "question": "Mexico vs. England: O/U 4.5",
-      "link": "https://polyvictor.com/markets/2767006"
     }
   ]
 }
