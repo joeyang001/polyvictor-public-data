@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-07T14:58:01.512Z",
+  "generated_at": "2026-07-07T15:04:05.913Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 3,
   "alerts": [
+    {
+      "id": "6ffc6115-51a9-4c26-bf02-399645a4e151",
+      "ts": "2026-07-07T15:03:05+00:00",
+      "address": "0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Naomi Osaka",
+      "price": 0.5765731468463301,
+      "shares": 104227.46,
+      "usd_value": 60094.7546,
+      "price_shift_pp": -9.593128730432266,
+      "alert_reason": "shift",
+      "market_id": "2812510",
+      "condition_id": "0xbe68c46611e18d6598e3882388af9567901b78ca3937edcecd3facc0d698c370",
+      "token_id": "32416183037253537110250743714067621855761298044523860318616963052023268394995",
+      "question": "Wimbledon WTA: Naomi Osaka vs Karolina Muchova",
+      "link": "https://polyvictor.com/markets/2812510"
+    },
     {
       "id": "f7fa13ae-d7d1-4325-9307-fac1fe724c6d",
       "ts": "2026-07-07T14:56:24+00:00",
