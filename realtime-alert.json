@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-06T23:24:00.767Z",
+  "generated_at": "2026-07-07T09:50:02.457Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "f8abbf14-9bdf-4c7b-a554-019ab9b9c554",
-      "ts": "2026-07-06T23:23:04+00:00",
-      "address": "0xe9a6ed2e4d4ee8ce47cd47cac834746dc4cf627b",
+      "id": "ea92b3e9-7216-438d-9575-49420626ce1a",
+      "ts": "2026-07-07T09:48:52+00:00",
+      "address": "0x65018f9fc473f6e920b8929a375d39c26a461220",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Over",
-      "price": 0.5400209248597491,
-      "shares": 934295.39,
-      "usd_value": 504539.06059999997,
-      "price_shift_pp": 0.002092485974902747,
+      "outcome_label": "Argentina",
+      "price": 0.86,
+      "shares": 290936.34,
+      "usd_value": 250205.25240000003,
+      "price_shift_pp": 0,
       "alert_reason": "size",
-      "market_id": "2766957",
-      "condition_id": "0x2f3e8ba123deb05e3aff47ad738429054f345fbb872b9305510706bff3aa8c3e",
-      "token_id": "45153883873264418888983679390154102478572008103167785031305860518942991206760",
-      "question": "United States vs. Belgium: O/U 2.5",
-      "link": "https://polyvictor.com/markets/2766957"
+      "market_id": "2793969",
+      "condition_id": "0x7f481c96a3bf0d8292a2515e3dd0e709e5bdd240189b81fc98f8003480b4eb14",
+      "token_id": "62322024443983575289896387710034399425619931224187000571202629586505505867789",
+      "question": "Argentina vs. Egypt: Team to Advance",
+      "link": "https://polyvictor.com/markets/2793969"
     }
   ]
 }
