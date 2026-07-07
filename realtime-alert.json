@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-07T15:04:05.913Z",
+  "generated_at": "2026-07-07T15:08:00.900Z",
   "window_minutes": 30,
   "count": 3,
   "alerts": [
+    {
+      "id": "1f80ee33-5308-4f00-bf86-d0039ee8b4b4",
+      "ts": "2026-07-07T15:07:48+00:00",
+      "address": "0x2e25b222e2080c377fc1fb2b9f926315f0f4d49e",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "Under",
+      "price": 0.53,
+      "shares": 511504.53,
+      "usd_value": 271097.4009,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "2793939",
+      "condition_id": "0x4df0608dd27fe2a79cf6ad387b9f0e4ba1df864d8abf275c01273c297ea94942",
+      "token_id": "83177786221987399266027702528594386022641819645587568014461911704819388964343",
+      "question": "Argentina vs. Egypt: O/U 2.5",
+      "link": "https://polyvictor.com/markets/2793939"
+    },
     {
       "id": "6ffc6115-51a9-4c26-bf02-399645a4e151",
       "ts": "2026-07-07T15:03:05+00:00",
@@ -39,24 +57,6 @@
       "token_id": "65652065262666433168143828460188123377751865571317729312655170081534213236077",
       "question": "Will Egypt win the 2026 FIFA World Cup?",
       "link": "https://polyvictor.com/markets/558968"
-    },
-    {
-      "id": "3e423113-a16a-4c43-8343-d95507c3f616",
-      "ts": "2026-07-07T14:35:08+00:00",
-      "address": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
-      "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "No",
-      "price": 0.93,
-      "shares": 407153.51,
-      "usd_value": 378652.76430000004,
-      "price_shift_pp": 0,
-      "alert_reason": "size",
-      "market_id": "2793741",
-      "condition_id": "0x971eb98daab3a11a1dd3b76e14ae962f8e5980ec6a3d499529b5f19b75108d4a",
-      "token_id": "34540998510618112670520542034558139652694657466670033556242205558762918802135",
-      "question": "Will Egypt win on 2026-07-07?",
-      "link": "https://polyvictor.com/markets/2793741"
     }
   ]
 }
