@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-07T18:06:09.163Z",
+  "generated_at": "2026-07-07T18:08:01.668Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 4,
   "alerts": [
+    {
+      "id": "32fd57f5-7286-4234-8f8c-9b0440bcce02",
+      "ts": "2026-07-07T17:58:57+00:00",
+      "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Argentina",
+      "price": 0.98,
+      "shares": 36000,
+      "usd_value": 35280,
+      "price_shift_pp": 6.999999999999995,
+      "alert_reason": "shift",
+      "market_id": "2793969",
+      "condition_id": "0x7f481c96a3bf0d8292a2515e3dd0e709e5bdd240189b81fc98f8003480b4eb14",
+      "token_id": "62322024443983575289896387710034399425619931224187000571202629586505505867789",
+      "question": "Argentina vs. Egypt: Team to Advance",
+      "link": "https://polyvictor.com/markets/2793969"
+    },
     {
       "id": "2d3ead78-406f-4641-88c9-fe72b3f1b58b",
       "ts": "2026-07-07T17:57:00+00:00",
@@ -21,6 +39,24 @@
       "token_id": "87390712702935875353084647255226721799646621048501318482801979643152933271064",
       "question": "Will Argentina win on 2026-07-07?",
       "link": "https://polyvictor.com/markets/2793738"
+    },
+    {
+      "id": "b2007279-3189-4e57-a2f5-4bf78a55ad32",
+      "ts": "2026-07-07T17:55:54+00:00",
+      "address": "0x06f22ff6d9362ce82243f8ca594c97485d9c1269",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Argentina",
+      "price": 0.76,
+      "shares": 39881.5,
+      "usd_value": 30309.94,
+      "price_shift_pp": -20.999999999999996,
+      "alert_reason": "shift",
+      "market_id": "2793969",
+      "condition_id": "0x7f481c96a3bf0d8292a2515e3dd0e709e5bdd240189b81fc98f8003480b4eb14",
+      "token_id": "62322024443983575289896387710034399425619931224187000571202629586505505867789",
+      "question": "Argentina vs. Egypt: Team to Advance",
+      "link": "https://polyvictor.com/markets/2793969"
     },
     {
       "id": "410e8438-017d-4b49-85a7-2e1645a8c16b",
