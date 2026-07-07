@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-07T23:04:00.825Z",
+  "generated_at": "2026-07-07T23:12:01.279Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "f67848ae-6872-48cd-b325-d8c17567fe47",
+      "ts": "2026-07-07T23:00:43+00:00",
+      "address": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "Pittsburgh Pirates",
+      "price": 0.6,
+      "shares": 466666.666665,
+      "usd_value": 279999.999999,
+      "price_shift_pp": 1.3395096143398177e-8,
+      "alert_reason": "size",
+      "market_id": "2756141",
+      "condition_id": "0xcd84f901e5b49d769f43d1d78fdf5e913bd736be0dedb7acff688b9655e04ca4",
+      "token_id": "27393078759515090071970345862545062693790887322826581353409403681821771881535",
+      "question": "Atlanta Braves vs. Pittsburgh Pirates",
+      "link": "https://polyvictor.com/markets/2756141"
+    },
     {
       "id": "a7d5c9a9-69b3-403a-83ac-798eb9371152",
       "ts": "2026-07-07T22:52:35+00:00",
