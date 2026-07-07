@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-07T11:56:01.003Z",
+  "generated_at": "2026-07-07T12:18:00.797Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "28b94838-f105-4bcf-aa00-17d8c56efa2d",
+      "ts": "2026-07-07T12:17:52+00:00",
+      "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.92,
+      "shares": 374330.2826,
+      "usd_value": 344383.859992,
+      "price_shift_pp": 2.200957194276043e-7,
+      "alert_reason": "size",
+      "market_id": "2793741",
+      "condition_id": "0x971eb98daab3a11a1dd3b76e14ae962f8e5980ec6a3d499529b5f19b75108d4a",
+      "token_id": "34540998510618112670520542034558139652694657466670033556242205558762918802135",
+      "question": "Will Egypt win on 2026-07-07?",
+      "link": "https://polyvictor.com/markets/2793741"
+    },
     {
       "id": "e4c97798-6c6c-4642-8611-4c6a3c9803b3",
       "ts": "2026-07-07T11:53:58+00:00",
