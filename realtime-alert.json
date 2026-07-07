@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-07T18:48:00.982Z",
+  "generated_at": "2026-07-07T19:12:04.332Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "de6b8491-a410-4dfb-8a25-7b487561bc07",
-      "ts": "2026-07-07T18:23:34+00:00",
-      "address": "0x3b21433b0407e45d683cad1fcb6ba0a6b33ba230",
+      "id": "e38a4a81-f35c-4083-9ed5-1583c80fe212",
+      "ts": "2026-07-07T18:49:15+00:00",
+      "address": "0x095fbca2e0eaf0c9841005135427e1e0117190b2",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Milwaukee Brewers",
-      "price": 0.65,
-      "shares": 78024.8,
-      "usd_value": 50716.12,
-      "price_shift_pp": 19,
-      "alert_reason": "shift",
-      "market_id": "2115519",
-      "condition_id": "0xee7ae055adc4025cc518ef72efab4a9c01c6b1a54febfcbd3ba5e3977cc62949",
-      "token_id": "10404345588870219048467917286191559204142325255541162691271640020235421264037",
-      "question": "Milwaukee Brewers vs. St. Louis Cardinals",
-      "link": "https://polyvictor.com/markets/2115519"
+      "outcome_index": 1,
+      "outcome_label": "Under",
+      "price": 0.6,
+      "shares": 1392898.44,
+      "usd_value": 835739.0639999999,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "2793894",
+      "condition_id": "0xd894e6a98b1d031f77aa51cfb9a6abaff2bb8dbc82c5f66e4f2cd31aaa8f097a",
+      "token_id": "107946244718384703617809562714968495117399426450636457273805542096826211941309",
+      "question": "Switzerland vs. Colombia: O/U 2.5",
+      "link": "https://polyvictor.com/markets/2793894"
     }
   ]
 }
