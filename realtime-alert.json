@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-07T17:34:03.587Z",
+  "generated_at": "2026-07-07T17:54:01.331Z",
   "window_minutes": 30,
-  "count": 4,
+  "count": 5,
   "alerts": [
+    {
+      "id": "410e8438-017d-4b49-85a7-2e1645a8c16b",
+      "ts": "2026-07-07T17:48:24+00:00",
+      "address": "0xfea31bc088000ff909be1dfd8d0e3f2c7ef2d227",
+      "side": "sell",
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.8618362297255827,
+      "shares": 35518.9,
+      "usd_value": 30611.474860000002,
+      "price_shift_pp": -3.816377027441731,
+      "alert_reason": "shift",
+      "market_id": "558938",
+      "condition_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
+      "token_id": "115428153746996892211798999366308897078723117634059783423375188043903703749062",
+      "question": "Will Argentina win the 2026 FIFA World Cup?",
+      "link": "https://polyvictor.com/markets/558938"
+    },
     {
       "id": "18e2f0b4-b1e0-479e-aafe-032a20164bee",
       "ts": "2026-07-07T17:31:05+00:00",
