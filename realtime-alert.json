@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-07T18:08:01.668Z",
+  "generated_at": "2026-07-07T18:16:01.594Z",
   "window_minutes": 30,
-  "count": 4,
+  "count": 6,
   "alerts": [
+    {
+      "id": "4afb838e-7c0b-48d2-94f9-9a7aea5a8f13",
+      "ts": "2026-07-07T18:02:06+00:00",
+      "address": "0xe9076a87c5ed90ef16e6fe6529c943baeca0cff6",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.9862352980275869,
+      "shares": 25860.816363,
+      "usd_value": 25504.849933,
+      "price_shift_pp": 5.4235298027586865,
+      "alert_reason": "shift",
+      "market_id": "2793738",
+      "condition_id": "0xa7b5b123f9fd38f83fbe19773a5d04e38208b370ca66be27b9688155e7b5c60a",
+      "token_id": "87390712702935875353084647255226721799646621048501318482801979643152933271064",
+      "question": "Will Argentina win on 2026-07-07?",
+      "link": "https://polyvictor.com/markets/2793738"
+    },
     {
       "id": "32fd57f5-7286-4234-8f8c-9b0440bcce02",
       "ts": "2026-07-07T17:58:57+00:00",
@@ -21,6 +39,24 @@
       "token_id": "62322024443983575289896387710034399425619931224187000571202629586505505867789",
       "question": "Argentina vs. Egypt: Team to Advance",
       "link": "https://polyvictor.com/markets/2793969"
+    },
+    {
+      "id": "b6146579-cd32-4832-a204-e2819d08700d",
+      "ts": "2026-07-07T17:58:53+00:00",
+      "address": "0xf8371076fb3df0fcfcdb4d9f16bbe98bb241bd42",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.9303301926108792,
+      "shares": 32246.615488,
+      "usd_value": 29999.999998,
+      "price_shift_pp": -4.266980738912074,
+      "alert_reason": "shift",
+      "market_id": "2793738",
+      "condition_id": "0xa7b5b123f9fd38f83fbe19773a5d04e38208b370ca66be27b9688155e7b5c60a",
+      "token_id": "87390712702935875353084647255226721799646621048501318482801979643152933271064",
+      "question": "Will Argentina win on 2026-07-07?",
+      "link": "https://polyvictor.com/markets/2793738"
     },
     {
       "id": "2d3ead78-406f-4641-88c9-fe72b3f1b58b",
