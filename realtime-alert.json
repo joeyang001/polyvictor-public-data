@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-07T18:18:04.038Z",
+  "generated_at": "2026-07-07T18:22:00.913Z",
   "window_minutes": 30,
   "count": 7,
   "alerts": [
+    {
+      "id": "8548dfa1-f970-418a-9684-7b9b2c8c4fed",
+      "ts": "2026-07-07T18:05:19+00:00",
+      "address": "0xd5ccdf772f795547e299de57f47966e24de8dea4",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.999,
+      "shares": 74637.39,
+      "usd_value": 74562.75261,
+      "price_shift_pp": 3.01036821705426,
+      "alert_reason": "shift",
+      "market_id": "2071544",
+      "condition_id": "0x4b28dd865163ffc0f1901a7b547c4c40b3d17d14fdd67f90ef13ad38bdecba01",
+      "token_id": "112974973359506608548143664025540780361883132440359371746411017497156054286624",
+      "question": "Will Egypt reach the 2026 FIFA World Cup final?",
+      "link": "https://polyvictor.com/markets/2071544"
+    },
     {
       "id": "4afb838e-7c0b-48d2-94f9-9a7aea5a8f13",
       "ts": "2026-07-07T18:02:06+00:00",
@@ -111,24 +129,6 @@
       "token_id": "62322024443983575289896387710034399425619931224187000571202629586505505867789",
       "question": "Argentina vs. Egypt: Team to Advance",
       "link": "https://polyvictor.com/markets/2793969"
-    },
-    {
-      "id": "410e8438-017d-4b49-85a7-2e1645a8c16b",
-      "ts": "2026-07-07T17:48:24+00:00",
-      "address": "0xfea31bc088000ff909be1dfd8d0e3f2c7ef2d227",
-      "side": "sell",
-      "outcome_index": 1,
-      "outcome_label": "No",
-      "price": 0.8618362297255827,
-      "shares": 35518.9,
-      "usd_value": 30611.474860000002,
-      "price_shift_pp": -3.816377027441731,
-      "alert_reason": "shift",
-      "market_id": "558938",
-      "condition_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
-      "token_id": "115428153746996892211798999366308897078723117634059783423375188043903703749062",
-      "question": "Will Argentina win the 2026 FIFA World Cup?",
-      "link": "https://polyvictor.com/markets/558938"
     }
   ]
 }
