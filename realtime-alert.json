@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-07T09:50:02.457Z",
+  "generated_at": "2026-07-07T10:34:00.789Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "ea92b3e9-7216-438d-9575-49420626ce1a",
-      "ts": "2026-07-07T09:48:52+00:00",
-      "address": "0x65018f9fc473f6e920b8929a375d39c26a461220",
+      "id": "125453e8-1d23-4808-bb13-80d1a7401e65",
+      "ts": "2026-07-07T10:33:12+00:00",
+      "address": "0x8b4bca1d794779e66e023d44391b2a86c5ab541b",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Argentina",
-      "price": 0.86,
-      "shares": 290936.34,
-      "usd_value": 250205.25240000003,
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.998,
+      "shares": 750000,
+      "usd_value": 748500,
       "price_shift_pp": 0,
       "alert_reason": "size",
-      "market_id": "2793969",
-      "condition_id": "0x7f481c96a3bf0d8292a2515e3dd0e709e5bdd240189b81fc98f8003480b4eb14",
-      "token_id": "62322024443983575289896387710034399425619931224187000571202629586505505867789",
-      "question": "Argentina vs. Egypt: Team to Advance",
-      "link": "https://polyvictor.com/markets/2793969"
+      "market_id": "558968",
+      "condition_id": "0x7412d284c8f63791fec807f9b1f61c6fe61163621775a3dc8686cd2575272abe",
+      "token_id": "65652065262666433168143828460188123377751865571317729312655170081534213236077",
+      "question": "Will Egypt win the 2026 FIFA World Cup?",
+      "link": "https://polyvictor.com/markets/558968"
     }
   ]
 }
