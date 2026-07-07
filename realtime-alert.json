@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-07T10:34:00.789Z",
+  "generated_at": "2026-07-07T11:56:01.003Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "125453e8-1d23-4808-bb13-80d1a7401e65",
-      "ts": "2026-07-07T10:33:12+00:00",
-      "address": "0x8b4bca1d794779e66e023d44391b2a86c5ab541b",
+      "id": "e4c97798-6c6c-4642-8611-4c6a3c9803b3",
+      "ts": "2026-07-07T11:53:58+00:00",
+      "address": "0xaa08417743ca4ed010ce0d27899b530e50fad98a",
       "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "No",
-      "price": 0.998,
-      "shares": 750000,
-      "usd_value": 748500,
-      "price_shift_pp": 0,
-      "alert_reason": "size",
-      "market_id": "558968",
-      "condition_id": "0x7412d284c8f63791fec807f9b1f61c6fe61163621775a3dc8686cd2575272abe",
-      "token_id": "65652065262666433168143828460188123377751865571317729312655170081534213236077",
-      "question": "Will Egypt win the 2026 FIFA World Cup?",
-      "link": "https://polyvictor.com/markets/558968"
+      "outcome_label": "Luca Staeheli",
+      "price": 0.9968365952310839,
+      "shares": 30291.16,
+      "usd_value": 30195.3368,
+      "price_shift_pp": 5.683662972674874,
+      "alert_reason": "shift",
+      "market_id": "2818328",
+      "condition_id": "0x8af44f32430c5cf0ad32011e71d9e39ecafbc03543b2834bb0153c26df3b5975",
+      "token_id": "56953019600247676839387672803027044167683180561747831412866222927743307714328",
+      "question": "Liege: Buvaysar Gadamauri vs Luca Staeheli",
+      "link": "https://polyvictor.com/markets/2818328"
     }
   ]
 }
