@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-07T16:00:06.375Z",
+  "generated_at": "2026-07-07T16:22:01.339Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "335e4cb8-563c-4021-a8b3-588d1d6bef34",
+      "ts": "2026-07-07T16:20:15+00:00",
+      "address": "0xf387570fc0f9d8fa1f07ce798fc98ff909a361c0",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.5115849861462319,
+      "shares": 50401.45,
+      "usd_value": 25784.6251,
+      "price_shift_pp": -13.20144065266604,
+      "alert_reason": "shift",
+      "market_id": "2793738",
+      "condition_id": "0xa7b5b123f9fd38f83fbe19773a5d04e38208b370ca66be27b9688155e7b5c60a",
+      "token_id": "87390712702935875353084647255226721799646621048501318482801979643152933271064",
+      "question": "Will Argentina win on 2026-07-07?",
+      "link": "https://polyvictor.com/markets/2793738"
+    },
     {
       "id": "5a296d1d-83bb-4cfc-a45b-2f866c50a7ad",
       "ts": "2026-07-07T15:59:48+00:00",
