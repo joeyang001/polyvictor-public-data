@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-07T14:36:01.253Z",
+  "generated_at": "2026-07-07T14:58:01.512Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "f7fa13ae-d7d1-4325-9307-fac1fe724c6d",
+      "ts": "2026-07-07T14:56:24+00:00",
+      "address": "0x9bb1bc70c9e098f2f297416d06a0aa3992534dbe",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.998,
+      "shares": 400000,
+      "usd_value": 399200,
+      "price_shift_pp": 0.10000000000000009,
+      "alert_reason": "size",
+      "market_id": "558968",
+      "condition_id": "0x7412d284c8f63791fec807f9b1f61c6fe61163621775a3dc8686cd2575272abe",
+      "token_id": "65652065262666433168143828460188123377751865571317729312655170081534213236077",
+      "question": "Will Egypt win the 2026 FIFA World Cup?",
+      "link": "https://polyvictor.com/markets/558968"
+    },
     {
       "id": "3e423113-a16a-4c43-8343-d95507c3f616",
       "ts": "2026-07-07T14:35:08+00:00",
