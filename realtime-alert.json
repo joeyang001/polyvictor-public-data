@@ -1,8 +1,8 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-07T18:16:01.594Z",
+  "generated_at": "2026-07-07T18:18:04.038Z",
   "window_minutes": 30,
-  "count": 6,
+  "count": 7,
   "alerts": [
     {
       "id": "4afb838e-7c0b-48d2-94f9-9a7aea5a8f13",
@@ -21,6 +21,24 @@
       "token_id": "87390712702935875353084647255226721799646621048501318482801979643152933271064",
       "question": "Will Argentina win on 2026-07-07?",
       "link": "https://polyvictor.com/markets/2793738"
+    },
+    {
+      "id": "12400a69-0515-4955-9848-97b38ef98c92",
+      "ts": "2026-07-07T17:59:36+00:00",
+      "address": "0xfea31bc088000ff909be1dfd8d0e3f2c7ef2d227",
+      "side": "sell",
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.831,
+      "shares": 775606.46,
+      "usd_value": 644528.96826,
+      "price_shift_pp": 0.8000000000000007,
+      "alert_reason": "size",
+      "market_id": "558938",
+      "condition_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
+      "token_id": "115428153746996892211798999366308897078723117634059783423375188043903703749062",
+      "question": "Will Argentina win the 2026 FIFA World Cup?",
+      "link": "https://polyvictor.com/markets/558938"
     },
     {
       "id": "32fd57f5-7286-4234-8f8c-9b0440bcce02",
