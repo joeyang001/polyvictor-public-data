@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-07T19:12:04.332Z",
+  "generated_at": "2026-07-07T19:34:06.011Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "e38a4a81-f35c-4083-9ed5-1583c80fe212",
-      "ts": "2026-07-07T18:49:15+00:00",
-      "address": "0x095fbca2e0eaf0c9841005135427e1e0117190b2",
+      "id": "70158f0c-d1da-4b56-8ae5-4adef7c07fa1",
+      "ts": "2026-07-07T19:07:08+00:00",
+      "address": "0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654",
       "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "Under",
-      "price": 0.6,
-      "shares": 1392898.44,
-      "usd_value": 835739.0639999999,
-      "price_shift_pp": 0,
-      "alert_reason": "size",
-      "market_id": "2793894",
-      "condition_id": "0xd894e6a98b1d031f77aa51cfb9a6abaff2bb8dbc82c5f66e4f2cd31aaa8f097a",
-      "token_id": "107946244718384703617809562714968495117399426450636457273805542096826211941309",
-      "question": "Switzerland vs. Colombia: O/U 2.5",
-      "link": "https://polyvictor.com/markets/2793894"
+      "outcome_label": "Novak Djokovic",
+      "price": 0.4656299703112822,
+      "shares": 72589.829165,
+      "usd_value": 33799.999999,
+      "price_shift_pp": -5.437002760871762,
+      "alert_reason": "shift",
+      "market_id": "2812533",
+      "condition_id": "0x71cf19220d20cbad74d50c08f51995fc8aa7f93455878bffbbec739d1d63cee6",
+      "token_id": "49873799164796771869657972052132938365146814465619211100058162508347908684077",
+      "question": "Wimbledon ATP: Felix Auger-Aliassime vs Novak Djokovic",
+      "link": "https://polyvictor.com/markets/2812533"
     }
   ]
 }
