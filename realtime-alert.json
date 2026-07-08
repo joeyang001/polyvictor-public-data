@@ -1,26 +1,44 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-08T09:24:03.514Z",
+  "generated_at": "2026-07-08T09:44:02.666Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "8a8aa191-950f-4549-b290-5442740b61ae",
+      "ts": "2026-07-08T09:43:11+00:00",
+      "address": "0x4ef4fd07f71603dde6337de4ab3fa8e7309ce76b",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "G2 Esports",
+      "price": 0.8366392541572539,
+      "shares": 36196.37,
+      "usd_value": 30283.304000000004,
+      "price_shift_pp": 44.797365415725395,
+      "alert_reason": "shift",
+      "market_id": "2815243",
+      "condition_id": "0x9ccdbb03592ab891710a37b6c451fdaee9ee6be936ae253454fc1461dc879365",
+      "token_id": "5727272654081695879671633443851088030941262284133110819958047939985714065533",
+      "question": "LoL: G2 Esports vs T1 - Game 4 Winner",
+      "link": "https://polyvictor.com/markets/2815243"
+    },
     {
       "id": "f98a3e11-79e9-4241-b0a3-8ae9674653f4",
       "ts": "2026-07-08T09:23:54+00:00",
       "address": "0x08a30a0a0fb71ebddc8907145791030782b88666",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "YES",
+      "outcome_label": "Rebeka Masarova",
       "price": 0.7207737796900192,
       "shares": 48961.74,
       "usd_value": 35290.3384,
       "price_shift_pp": 3.0773779690019265,
       "alert_reason": "shift",
-      "market_id": null,
+      "market_id": "2822328",
       "condition_id": "0xd587dc94b4f50a3bb51b32b3bd1625dfc2ba28eb60996b5714a9e03b2a82fb0a",
       "token_id": "46537720193561919966715296756533876252837847765453564776126578080643612525928",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
+      "question": "Contrexeville: Rebeka Masarova vs Francesca Curmi",
+      "link": "https://polyvictor.com/markets/2822328"
     }
   ]
 }
