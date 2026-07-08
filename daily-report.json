@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-07-07",
-  "generated_at": "2026-07-07T14:00:04.955Z",
+  "date": "2026-07-08",
+  "generated_at": "2026-07-08T14:00:06.659Z",
   "status": "success",
   "tweet_ids": [
-    "2074493655226675483",
-    "2074493656950509590"
+    "2074856050491080964",
+    "2074856051992559717"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
     "total_fills": 1000,
-    "total_volume_usd": 62310946.666713014,
-    "unique_whales": 286,
-    "buy_volume_usd": 56078256.80033299,
-    "sell_volume_usd": 6232689.86638,
+    "total_volume_usd": 67207482.99479009,
+    "unique_whales": 329,
+    "buy_volume_usd": 55626169.139428064,
+    "sell_volume_usd": 11581313.855361992,
     "top_markets": [
       {
-        "market_id": "2781973",
-        "question": "Will Portugal win on 2026-07-06?",
-        "volume_usd": 8062978.837836999,
-        "fills": 73,
-        "link": "https://polyvictor.com/markets/2781973"
+        "market_id": "2446852",
+        "question": "Will Ronaldo Cry at the World Cup?",
+        "volume_usd": 14717640.02437,
+        "fills": 122,
+        "link": "https://polyvictor.com/markets/2446852"
       },
       {
-        "market_id": "2766773",
-        "question": "Will United States win on 2026-07-06?",
-        "volume_usd": 7123168.100314002,
-        "fills": 86,
-        "link": "https://polyvictor.com/markets/2766773"
+        "market_id": "2793924",
+        "question": "Switzerland vs. Colombia: Team to Advance",
+        "volume_usd": 5405396.222460999,
+        "fills": 88,
+        "link": "https://polyvictor.com/markets/2793924"
       },
       {
-        "market_id": "2766989",
-        "question": "United States vs. Belgium: Team to Advance",
-        "volume_usd": 6844370.875686001,
-        "fills": 123,
-        "link": "https://polyvictor.com/markets/2766989"
+        "market_id": "2793753",
+        "question": "Will Switzerland win on 2026-07-07?",
+        "volume_usd": 3218258.8640960003,
+        "fills": 34,
+        "link": "https://polyvictor.com/markets/2793753"
       }
     ],
     "top_whales": [
       {
-        "address": "0x72254fe1a79fc8fd37de0168be735e6af4bd659a",
-        "volume_usd": 4411027.793818001,
-        "fills": 18,
-        "link": "https://polyvictor.com/whales/0x72254fe1a79fc8fd37de0168be735e6af4bd659a"
+        "address": "0xed107a85a4585a381e48c7f7ca4144909e7dd2e5",
+        "volume_usd": 5804704.35779,
+        "fills": 24,
+        "link": "https://polyvictor.com/whales/0xed107a85a4585a381e48c7f7ca4144909e7dd2e5"
       },
       {
-        "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-        "volume_usd": 2905054.6294789985,
-        "fills": 62,
-        "link": "https://polyvictor.com/whales/0x204f72f35326db932158cba6adff0b9a1da95e14"
+        "address": "0x2785e7022dc20757108204b13c08cea8613b70ae",
+        "volume_usd": 3180389.6168100005,
+        "fills": 28,
+        "link": "https://polyvictor.com/whales/0x2785e7022dc20757108204b13c08cea8613b70ae"
       },
       {
-        "address": "0x09b428f7c2b469786286214aa5c90dd9015f7320",
-        "volume_usd": 2901359.3370350003,
-        "fills": 17,
-        "link": "https://polyvictor.com/whales/0x09b428f7c2b469786286214aa5c90dd9015f7320"
+        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+        "volume_usd": 2635869.8632380003,
+        "fills": 26,
+        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
       }
     ],
     "biggest_fill": {
-      "address": "0x8b4bca1d794779e66e023d44391b2a86c5ab541b",
-      "usd": 748544.91,
+      "address": "0xed107a85a4585a381e48c7f7ca4144909e7dd2e5",
+      "usd": 2927161.76814,
       "side": "buy",
-      "price": 0.998,
-      "market_id": "558968",
-      "question": "Will Egypt win the 2026 FIFA World Cup?",
-      "link": "https://polyvictor.com/markets/558968"
+      "price": 0.999,
+      "market_id": "2446852",
+      "question": "Will Ronaldo Cry at the World Cup?",
+      "link": "https://polyvictor.com/markets/2446852"
     }
   }
 }
