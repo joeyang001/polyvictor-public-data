@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-07T23:48:00.769Z",
+  "generated_at": "2026-07-08T02:52:04.012Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "0c54b24f-3aea-4bc1-a069-4c44e461d7c3",
-      "ts": "2026-07-07T23:46:00+00:00",
-      "address": "0xed107a85a4585a381e48c7f7ca4144909e7dd2e5",
+      "id": "75f1b19b-c415-4e49-8158-f7857e63a470",
+      "ts": "2026-07-08T02:51:42+00:00",
+      "address": "0x547f2917d51f2e63ab382dcf641d4e0240162937",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.999,
-      "shares": 2930091.86,
-      "usd_value": 2927161.76814,
-      "price_shift_pp": 0.10000000000000009,
-      "alert_reason": "size",
-      "market_id": "2446852",
-      "condition_id": "0x86f5b0f1934bb39421651ad2ba0f04494700ba9e95663a5c141a8674c4978c15",
-      "token_id": "70563299267515386481251787764905458483722161674933642786238649081287869119194",
-      "question": "Will Ronaldo Cry at the World Cup?",
-      "link": "https://polyvictor.com/markets/2446852"
+      "outcome_index": 1,
+      "outcome_label": "Under",
+      "price": 0.6799989180638033,
+      "shares": 231067.23,
+      "usd_value": 157125.4664,
+      "price_shift_pp": 5.999891806380331,
+      "alert_reason": "shift",
+      "market_id": "2840408",
+      "condition_id": "0xad9f34e40df9963db08acc5fe8db7c56b9c5131c8287f5736f77528d60f0239b",
+      "token_id": "83244921174582043472239266379418406699026745885446473217276244905625872010900",
+      "question": "Colorado Rockies vs. Los Angeles Dodgers: O/U 8.5",
+      "link": "https://polyvictor.com/markets/2840408"
     }
   ]
 }
