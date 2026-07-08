@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-08T17:28:04.913Z",
+  "generated_at": "2026-07-08T17:36:03.648Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "deafc473-ef63-437e-9997-f2e85cb6e0b2",
+      "ts": "2026-07-08T17:35:10+00:00",
+      "address": "0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Miguel Damas",
+      "price": 0.5108605231858269,
+      "shares": 52851.999271,
+      "usd_value": 26999.999999,
+      "price_shift_pp": 4.384939564619817,
+      "alert_reason": "shift",
+      "market_id": "2822410",
+      "condition_id": "0x62013339c6532d6db20371f9dcc0b0ff5f428d5952afac12059910312cf89dde",
+      "token_id": "64707532680523293681267013042486106932686402978203738197163957979762588211711",
+      "question": "Liege: Miguel Damas vs Gilles Arnaud Bailly",
+      "link": "https://polyvictor.com/markets/2822410"
+    },
     {
       "id": "cd640f02-eea1-43c1-b052-8c2ae719dfdf",
       "ts": "2026-07-08T17:26:15+00:00",
