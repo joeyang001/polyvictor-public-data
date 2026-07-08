@@ -1,44 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-08T17:36:03.648Z",
+  "generated_at": "2026-07-08T18:28:03.531Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 1,
   "alerts": [
     {
-      "id": "deafc473-ef63-437e-9997-f2e85cb6e0b2",
-      "ts": "2026-07-08T17:35:10+00:00",
+      "id": "61a027cb-4170-439b-885b-48fd272c8a17",
+      "ts": "2026-07-08T18:26:23+00:00",
       "address": "0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Miguel Damas",
-      "price": 0.5108605231858269,
-      "shares": 52851.999271,
-      "usd_value": 26999.999999,
-      "price_shift_pp": 4.384939564619817,
+      "outcome_label": "Zsombor Piros",
+      "price": 0.4188704387077153,
+      "shares": 73914.36,
+      "usd_value": 30960.5404,
+      "price_shift_pp": 3.887043870771528,
       "alert_reason": "shift",
-      "market_id": "2822410",
-      "condition_id": "0x62013339c6532d6db20371f9dcc0b0ff5f428d5952afac12059910312cf89dde",
-      "token_id": "64707532680523293681267013042486106932686402978203738197163957979762588211711",
-      "question": "Liege: Miguel Damas vs Gilles Arnaud Bailly",
-      "link": "https://polyvictor.com/markets/2822410"
-    },
-    {
-      "id": "cd640f02-eea1-43c1-b052-8c2ae719dfdf",
-      "ts": "2026-07-08T17:26:15+00:00",
-      "address": "0x07a9bf6d9a913df0e149bb2d652998b57fd832c8",
-      "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "No",
-      "price": 0.91,
-      "shares": 315137.47,
-      "usd_value": 286775.0977,
-      "price_shift_pp": 1.7086443371283622e-9,
-      "alert_reason": "size",
-      "market_id": "560317",
-      "condition_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
-      "token_id": "87073899845581463485186346288398658568334162612963837182986759797304993556208",
-      "question": "Putin out as President of Russia by December 31, 2026?",
-      "link": "https://polyvictor.com/markets/560317"
+      "market_id": "2833271",
+      "condition_id": "0x010048d1206b30658bbaaa7f3147ed6e50855a959bcba38b91420a0938bcdd36",
+      "token_id": "108053643524301791890219144267741075348208623866480356961147035750242648943553",
+      "question": "Iasi: Zsombor Piros vs Damir Dzumhur",
+      "link": "https://polyvictor.com/markets/2833271"
     }
   ]
 }
