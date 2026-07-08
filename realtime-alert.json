@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-08T19:08:00.805Z",
+  "generated_at": "2026-07-08T20:44:05.014Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "044106ba-d6b4-4ef9-a3bf-bcf6a559aedf",
-      "ts": "2026-07-08T19:06:50+00:00",
-      "address": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
-      "side": "sell",
+      "id": "7c52c16f-3e15-4d0a-8db6-5a2a0bf659cc",
+      "ts": "2026-07-08T20:42:31+00:00",
+      "address": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+      "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "Damir Dzumhur",
-      "price": 0.7099171669032598,
-      "shares": 58194.13,
-      "usd_value": 41313.0119,
-      "price_shift_pp": -4.008283309674021,
+      "outcome_label": "NO",
+      "price": 0.88,
+      "shares": 63618.36,
+      "usd_value": 55984.156800000004,
+      "price_shift_pp": -3.4999990849981844,
       "alert_reason": "shift",
-      "market_id": "2833271",
-      "condition_id": "0x010048d1206b30658bbaaa7f3147ed6e50855a959bcba38b91420a0938bcdd36",
-      "token_id": "107380030831044983247013132115135546025621986654457813866732513813532855405460",
-      "question": "Iasi: Zsombor Piros vs Damir Dzumhur",
-      "link": "https://polyvictor.com/markets/2833271"
+      "market_id": null,
+      "condition_id": "0x646e8d486121704dd4a7457029116242e0c13bdc00c112d2c049ff3215e3dbb1",
+      "token_id": "207353606612543178563808734905652281422690269673495216981699128716220721789",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
