@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-08T06:02:00.839Z",
+  "generated_at": "2026-07-08T09:24:03.514Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "ed4c4c18-d2b5-4bbd-8599-49c141cbc891",
-      "ts": "2026-07-08T06:01:24+00:00",
-      "address": "0xed107a85a4585a381e48c7f7ca4144909e7dd2e5",
+      "id": "f98a3e11-79e9-4241-b0a3-8ae9674653f4",
+      "ts": "2026-07-08T09:23:54+00:00",
+      "address": "0x08a30a0a0fb71ebddc8907145791030782b88666",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "No",
-      "price": 0.999,
-      "shares": 815172.52,
-      "usd_value": 814357.34748,
-      "price_shift_pp": 0,
-      "alert_reason": "size",
-      "market_id": "2737922",
-      "condition_id": "0x73cddb048a6dc727cbdf49a043cc8e6928c9fa533ca89a43aaf597a769ad9731",
-      "token_id": "72742683753361146839644720578360559524703253831663878265860963440252807532884",
-      "question": "Will Iran announce withdrawal from MOU negotiations by July 7?",
-      "link": "https://polyvictor.com/markets/2737922"
+      "outcome_index": 0,
+      "outcome_label": "YES",
+      "price": 0.7207737796900192,
+      "shares": 48961.74,
+      "usd_value": 35290.3384,
+      "price_shift_pp": 3.0773779690019265,
+      "alert_reason": "shift",
+      "market_id": null,
+      "condition_id": "0xd587dc94b4f50a3bb51b32b3bd1625dfc2ba28eb60996b5714a9e03b2a82fb0a",
+      "token_id": "46537720193561919966715296756533876252837847765453564776126578080643612525928",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
