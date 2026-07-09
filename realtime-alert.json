@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-09T03:38:04.371Z",
+  "generated_at": "2026-07-09T08:48:00.934Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "2874cfbb-0c51-421a-8902-dee9dbad02e7",
-      "ts": "2026-07-09T03:37:32+00:00",
-      "address": "0xe821d8e43faefdf27538c0a9c3a803601ec03128",
+      "id": "e7a3533f-9d4b-4f00-bd10-a878a44eec13",
+      "ts": "2026-07-09T08:47:00+00:00",
+      "address": "0x8d06b69858838de58452d964bbde54b33f6a7910",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Los Angeles Sparks",
-      "price": 0.8787334664585906,
-      "shares": 39945.036042,
-      "usd_value": 35101.039989,
-      "price_shift_pp": 3.5797390822539743,
+      "outcome_index": 0,
+      "outcome_label": "YES",
+      "price": 0.7191794004946619,
+      "shares": 40500.39,
+      "usd_value": 29127.0462,
+      "price_shift_pp": -3.082059950533811,
       "alert_reason": "shift",
-      "market_id": "2677496",
-      "condition_id": "0xd4c76ff896b64bd2f958133bdbfd0b83b2ef82661b5eced1686f8df617fe19fd",
-      "token_id": "23070897998100539979075975857633442431765174498785491597150879046499988160896",
-      "question": "Indiana Fever vs. Los Angeles Sparks",
-      "link": "https://polyvictor.com/markets/2677496"
+      "market_id": null,
+      "condition_id": "0x6c68b3e948e539e9d181c5236c52b2850193057990b36860ffde4f23463a7911",
+      "token_id": "74048664596024813765628034073933817159855515119198065204746393994785179866310",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
