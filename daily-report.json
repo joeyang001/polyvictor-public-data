@@ -1,66 +1,66 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-07-08",
-  "generated_at": "2026-07-08T14:00:06.659Z",
+  "date": "2026-07-09",
+  "generated_at": "2026-07-09T14:00:08.117Z",
   "status": "success",
   "tweet_ids": [
-    "2074856050491080964",
-    "2074856051992559717"
+    "2075218444551651755",
+    "2075218445860208843"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 1000,
-    "total_volume_usd": 67207482.99479009,
-    "unique_whales": 329,
-    "buy_volume_usd": 55626169.139428064,
-    "sell_volume_usd": 11581313.855361992,
+    "total_fills": 493,
+    "total_volume_usd": 32478072.235725973,
+    "unique_whales": 183,
+    "buy_volume_usd": 28160902.801545985,
+    "sell_volume_usd": 4317169.43418,
     "top_markets": [
       {
         "market_id": "2446852",
         "question": "Will Ronaldo Cry at the World Cup?",
-        "volume_usd": 14717640.02437,
-        "fills": 122,
+        "volume_usd": 12935576.99075,
+        "fills": 70,
         "link": "https://polyvictor.com/markets/2446852"
       },
       {
-        "market_id": "2793924",
-        "question": "Switzerland vs. Colombia: Team to Advance",
-        "volume_usd": 5405396.222460999,
-        "fills": 88,
-        "link": "https://polyvictor.com/markets/2793924"
+        "market_id": "2814671",
+        "question": "LoL: Bilibili Gaming vs Hanwha Life Esports (BO5) - Mid-Season Invitational Playoffs",
+        "volume_usd": 1698495.593768,
+        "fills": 29,
+        "link": "https://polyvictor.com/markets/2814671"
       },
       {
-        "market_id": "2793753",
-        "question": "Will Switzerland win on 2026-07-07?",
-        "volume_usd": 3218258.8640960003,
-        "fills": 34,
-        "link": "https://polyvictor.com/markets/2793753"
+        "market_id": "560317",
+        "question": "Putin out as President of Russia by December 31, 2026?",
+        "volume_usd": 1016859.3707999999,
+        "fills": 7,
+        "link": "https://polyvictor.com/markets/560317"
       }
     ],
     "top_whales": [
       {
-        "address": "0xed107a85a4585a381e48c7f7ca4144909e7dd2e5",
-        "volume_usd": 5804704.35779,
-        "fills": 24,
-        "link": "https://polyvictor.com/whales/0xed107a85a4585a381e48c7f7ca4144909e7dd2e5"
+        "address": "0x7072dd52161bae614bec6905846a53c9a3a53413",
+        "volume_usd": 2997000,
+        "fills": 3,
+        "link": "https://polyvictor.com/whales/0x7072dd52161bae614bec6905846a53c9a3a53413"
       },
       {
-        "address": "0x2785e7022dc20757108204b13c08cea8613b70ae",
-        "volume_usd": 3180389.6168100005,
-        "fills": 28,
-        "link": "https://polyvictor.com/whales/0x2785e7022dc20757108204b13c08cea8613b70ae"
+        "address": "0xfd7c64f694ceeaaf7dbdc6337c80b457f028dc40",
+        "volume_usd": 2534409.28377,
+        "fills": 14,
+        "link": "https://polyvictor.com/whales/0xfd7c64f694ceeaaf7dbdc6337c80b457f028dc40"
       },
       {
-        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 2635869.8632380003,
-        "fills": 26,
-        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
+        "address": "0xe29bdcbf3bc35326f439008b35e77db15dc3ff35",
+        "volume_usd": 1930336.54119,
+        "fills": 3,
+        "link": "https://polyvictor.com/whales/0xe29bdcbf3bc35326f439008b35e77db15dc3ff35"
       }
     ],
     "biggest_fill": {
-      "address": "0xed107a85a4585a381e48c7f7ca4144909e7dd2e5",
-      "usd": 2927161.76814,
+      "address": "0xfd7c64f694ceeaaf7dbdc6337c80b457f028dc40",
+      "usd": 1652174.01216,
       "side": "buy",
       "price": 0.999,
       "market_id": "2446852",
