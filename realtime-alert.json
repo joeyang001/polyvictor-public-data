@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-09T12:36:01.438Z",
+  "generated_at": "2026-07-09T12:38:00.869Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "18d49ef5-67f0-4c36-bf2b-4ed7e865d7ca",
+      "ts": "2026-07-09T12:36:24+00:00",
+      "address": "0x4be1fa92e6ceaf886aac0bbec3be6c527133aa70",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Karolina Muchova",
+      "price": 0.5587217755072034,
+      "shares": 566137.72,
+      "usd_value": 316313.47209999996,
+      "price_shift_pp": 0.8721775507203322,
+      "alert_reason": "size",
+      "market_id": "2836509",
+      "condition_id": "0x04068db9551ef3a2ad5212a54ba6a19bfe53c2c9c5bd15b57a751bec0ecd69ed",
+      "token_id": "30589351320221260937131738252924785802918342208696444969930731800604471482567",
+      "question": "Wimbledon WTA: Karolina Muchova vs Coco Gauff",
+      "link": "https://polyvictor.com/markets/2836509"
+    },
     {
       "id": "c1de679f-abee-460f-8219-f36fa085a12c",
       "ts": "2026-07-09T12:34:17+00:00",
