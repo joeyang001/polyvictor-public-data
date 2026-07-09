@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-08T20:44:05.014Z",
+  "generated_at": "2026-07-09T00:30:06.115Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "7c52c16f-3e15-4d0a-8db6-5a2a0bf659cc",
-      "ts": "2026-07-08T20:42:31+00:00",
-      "address": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+      "id": "f215869a-8cb5-4f8d-ba8f-f5606b12458e",
+      "ts": "2026-07-09T00:28:28+00:00",
+      "address": "0xc8ab97a9089a9ff7e6ef0688e6e591a066946418",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "NO",
-      "price": 0.88,
-      "shares": 63618.36,
-      "usd_value": 55984.156800000004,
-      "price_shift_pp": -3.4999990849981844,
-      "alert_reason": "shift",
-      "market_id": null,
-      "condition_id": "0x646e8d486121704dd4a7457029116242e0c13bdc00c112d2c049ff3215e3dbb1",
-      "token_id": "207353606612543178563808734905652281422690269673495216981699128716220721789",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.999,
+      "shares": 550000,
+      "usd_value": 549450,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "2446852",
+      "condition_id": "0x86f5b0f1934bb39421651ad2ba0f04494700ba9e95663a5c141a8674c4978c15",
+      "token_id": "70563299267515386481251787764905458483722161674933642786238649081287869119194",
+      "question": "Will Ronaldo Cry at the World Cup?",
+      "link": "https://polyvictor.com/markets/2446852"
     }
   ]
 }
