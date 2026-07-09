@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-09T19:14:05.773Z",
+  "generated_at": "2026-07-09T19:20:05.985Z",
   "window_minutes": 30,
   "count": 3,
   "alerts": [
+    {
+      "id": "858010f7-3f6a-4c79-b3c6-74b3c4aa1deb",
+      "ts": "2026-07-09T19:18:26+00:00",
+      "address": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "Under",
+      "price": 0.4924999999994012,
+      "shares": 668019.47208,
+      "usd_value": 328999.58999899996,
+      "price_shift_pp": 3.447870877693049e-8,
+      "alert_reason": "size",
+      "market_id": "2805534",
+      "condition_id": "0x2037b257e602784d35e800c8c7880f56331791e03aaacae5864d8a78db303948",
+      "token_id": "42115536001056138040341269844934783864818287815046268439188983247857629155936",
+      "question": "France vs. Morocco: O/U 2.5",
+      "link": "https://polyvictor.com/markets/2805534"
+    },
     {
       "id": "4957b6c5-90ce-4f08-a8cc-d4edffee1dc8",
       "ts": "2026-07-09T19:12:50+00:00",
@@ -39,24 +57,6 @@
       "token_id": "9960730538953424872395269226492042217076986411134502781457275538702381849893",
       "question": "France vs. Morocco: O/U 2.5",
       "link": "https://polyvictor.com/markets/2805534"
-    },
-    {
-      "id": "3ced4023-cfe5-4383-9fd2-e40e4387d1f3",
-      "ts": "2026-07-09T18:45:47+00:00",
-      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-      "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Over",
-      "price": 0.74,
-      "shares": 381277.2,
-      "usd_value": 282145.128,
-      "price_shift_pp": 0.0000010360001856390966,
-      "alert_reason": "size",
-      "market_id": "2805532",
-      "condition_id": "0xcf5e859e3e1aa529e1e0887908da4513b64a5eab239d492146c1a3c234eeb38e",
-      "token_id": "1261872180781241748549252632393873773763138228311730625155313535184156754455",
-      "question": "France vs. Morocco: O/U 1.5",
-      "link": "https://polyvictor.com/markets/2805532"
     }
   ]
 }
