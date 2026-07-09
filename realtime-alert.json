@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-09T19:22:01.192Z",
+  "generated_at": "2026-07-09T19:24:01.728Z",
   "window_minutes": 30,
-  "count": 4,
+  "count": 5,
   "alerts": [
+    {
+      "id": "295db85e-0e71-4786-8891-4a8dab7a0343",
+      "ts": "2026-07-09T19:23:46+00:00",
+      "address": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "Under",
+      "price": 0.4924999999994228,
+      "shares": 636654.010151,
+      "usd_value": 313552.099999,
+      "price_shift_pp": 0.0000011362887186727733,
+      "alert_reason": "size",
+      "market_id": "2805534",
+      "condition_id": "0x2037b257e602784d35e800c8c7880f56331791e03aaacae5864d8a78db303948",
+      "token_id": "42115536001056138040341269844934783864818287815046268439188983247857629155936",
+      "question": "France vs. Morocco: O/U 2.5",
+      "link": "https://polyvictor.com/markets/2805534"
+    },
     {
       "id": "699bbd1f-5931-494a-b8d4-e105da6d6c36",
       "ts": "2026-07-09T19:20:28+00:00",
