@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-09T18:46:01.295Z",
+  "generated_at": "2026-07-09T19:08:02.509Z",
   "window_minutes": 30,
   "count": 4,
   "alerts": [
+    {
+      "id": "f3a75c3d-8eea-484a-9618-3da6910a6a4f",
+      "ts": "2026-07-09T19:06:57+00:00",
+      "address": "0x095fbca2e0eaf0c9841005135427e1e0117190b2",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Over",
+      "price": 0.4895931826568707,
+      "shares": 625408.01,
+      "usd_value": 306195.498075,
+      "price_shift_pp": 0.20931826568706957,
+      "alert_reason": "size",
+      "market_id": "2805534",
+      "condition_id": "0x2037b257e602784d35e800c8c7880f56331791e03aaacae5864d8a78db303948",
+      "token_id": "9960730538953424872395269226492042217076986411134502781457275538702381849893",
+      "question": "France vs. Morocco: O/U 2.5",
+      "link": "https://polyvictor.com/markets/2805534"
+    },
     {
       "id": "3ced4023-cfe5-4383-9fd2-e40e4387d1f3",
       "ts": "2026-07-09T18:45:47+00:00",
@@ -57,24 +75,6 @@
       "token_id": "9960730538953424872395269226492042217076986411134502781457275538702381849893",
       "question": "France vs. Morocco: O/U 2.5",
       "link": "https://polyvictor.com/markets/2805534"
-    },
-    {
-      "id": "8d55d31b-ea64-4f75-849a-22645ac40ad6",
-      "ts": "2026-07-09T18:21:41+00:00",
-      "address": "0xd1c537b2a7cba8d365e111bffb9de7b205e2cbd0",
-      "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.605,
-      "shares": 781922.93,
-      "usd_value": 473063.37265000003,
-      "price_shift_pp": 5.638591815682048e-8,
-      "alert_reason": "size",
-      "market_id": "2804853",
-      "condition_id": "0xc09537a0976d0927901432859fbb6dfe5d23d1d69bb4e8355253e7b142a44e83",
-      "token_id": "59376244379747988336832016917908236721650516433890704080422157946407884434153",
-      "question": "Will France win on 2026-07-09?",
-      "link": "https://polyvictor.com/markets/2804853"
     }
   ]
 }
