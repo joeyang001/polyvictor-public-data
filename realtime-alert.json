@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-09T16:22:06.378Z",
+  "generated_at": "2026-07-09T16:34:01.570Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "1ecb170f-3734-49c4-9993-1f0180d3b56a",
+      "ts": "2026-07-09T16:33:54+00:00",
+      "address": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+      "side": "sell",
+      "outcome_index": 1,
+      "outcome_label": "Linda Noskova",
+      "price": 0.68235824481793,
+      "shares": 43091.37,
+      "usd_value": 29403.751600000003,
+      "price_shift_pp": -4.764174934206977,
+      "alert_reason": "shift",
+      "market_id": "2846376",
+      "condition_id": "0xd7cf3f4318d38dd719f1e14f0220d34f9c8900dfb6fbd96fdb2aacad9eccff26",
+      "token_id": "20327630055362949376608003802566227463418678659463883922638057682331855766484",
+      "question": "Wimbledon WTA: Marta Kostyuk vs Linda Noskova",
+      "link": "https://polyvictor.com/markets/2846376"
+    },
     {
       "id": "483dee47-a79e-42cc-8b72-0d56fd207a08",
       "ts": "2026-07-09T16:21:03+00:00",
