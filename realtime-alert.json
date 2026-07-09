@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-09T13:40:02.467Z",
+  "generated_at": "2026-07-09T15:08:01.285Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "54b87e2b-cc3d-465f-a55e-ec0f5b6d986d",
-      "ts": "2026-07-09T13:38:13+00:00",
-      "address": "0xc53c4b5eb695a905f5123a9a69c9a41a2e87b769",
+      "id": "5a4e6b5a-5e70-443e-bde4-43b47ce3b88b",
+      "ts": "2026-07-09T15:07:00+00:00",
+      "address": "0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Under",
-      "price": 0.48,
-      "shares": 207929.22,
-      "usd_value": 99806.0256,
-      "price_shift_pp": -12,
+      "outcome_index": 0,
+      "outcome_label": "YES",
+      "price": 0.6313413823283285,
+      "shares": 75032.97,
+      "usd_value": 47371.419,
+      "price_shift_pp": 8.134138232832843,
       "alert_reason": "shift",
-      "market_id": "2837447",
-      "condition_id": "0x9fec95b07c9cbedf9c9cf2165a0703bcdc9bb1cfe34746e38dfa405b83dd787c",
-      "token_id": "10439117497802084532160383567159394631025157438659483623441446311897247767812",
-      "question": "Muchova vs. Gauff: Match O/U 21.5",
-      "link": "https://polyvictor.com/markets/2837447"
+      "market_id": null,
+      "condition_id": "0x5a5efa588a1cb355aa3fe82e357bc50092ff52354b636a7ff5793abc8b5241fe",
+      "token_id": "108285013878803071573753077355054999471040032607337667387708087188664134886836",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
