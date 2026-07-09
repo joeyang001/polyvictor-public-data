@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-09T11:36:00.950Z",
+  "generated_at": "2026-07-09T12:36:01.438Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "10122860-8dec-4fde-8ab5-d2df4524bec5",
-      "ts": "2026-07-09T11:35:20+00:00",
-      "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
-      "side": "buy",
+      "id": "c1de679f-abee-460f-8219-f36fa085a12c",
+      "ts": "2026-07-09T12:34:17+00:00",
+      "address": "0x4be1fa92e6ceaf886aac0bbec3be6c527133aa70",
+      "side": "sell",
       "outcome_index": 0,
       "outcome_label": "Bilibili Gaming",
-      "price": 0.9783024141843972,
-      "shares": 35250,
-      "usd_value": 34485.1601,
-      "price_shift_pp": 3.720521418439726,
-      "alert_reason": "shift",
-      "market_id": "2814670",
-      "condition_id": "0x71d513cd8f99d2805e4ce75df19e18bebf46d4f43d45cd5dc8cf50856982ea41",
-      "token_id": "79117020931286590387471436100030452388806937594869517787410410991055065589292",
-      "question": "LoL: Bilibili Gaming vs Hanwha Life Esports - Game 4 Winner",
-      "link": "https://polyvictor.com/markets/2814670"
+      "price": 0.999,
+      "shares": 409597.59,
+      "usd_value": 409187.99241,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "2814671",
+      "condition_id": "0x487187034dadebc71441bd70c34351eb189c12a05c99220eb43be41b919e9261",
+      "token_id": "54865409545970127818483222224309761077922946344974606824700577010363479992269",
+      "question": "LoL: Bilibili Gaming vs Hanwha Life Esports (BO5) - Mid-Season Invitational Playoffs",
+      "link": "https://polyvictor.com/markets/2814671"
     }
   ]
 }
