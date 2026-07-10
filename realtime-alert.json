@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-10T02:24:00.909Z",
+  "generated_at": "2026-07-10T10:28:05.642Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "e37212b5-6f27-4007-8119-7578a5e59e20",
-      "ts": "2026-07-10T02:23:40+00:00",
-      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+      "id": "501bc359-b81b-4e41-81c7-0cbdf07b6c92",
+      "ts": "2026-07-10T10:27:37+00:00",
+      "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
       "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "San Francisco Giants",
-      "price": 0.65,
-      "shares": 500000,
-      "usd_value": 325000,
-      "price_shift_pp": 8.344031798834806e-7,
-      "alert_reason": "size",
-      "market_id": "2783463",
-      "condition_id": "0x5f84b35f40306898505957cdad421f8209f2f6e1931e3af2e71e7c720420e00c",
-      "token_id": "87425337755498046748892657878275836792485023918587769125264445732459257793868",
-      "question": "Colorado Rockies vs. San Francisco Giants",
-      "link": "https://polyvictor.com/markets/2783463"
+      "outcome_label": "LYON",
+      "price": 0.9842512134947587,
+      "shares": 26394.84,
+      "usd_value": 25979.153299999998,
+      "price_shift_pp": 3.425121349475879,
+      "alert_reason": "shift",
+      "market_id": "2844843",
+      "condition_id": "0xce8bc40907b928e7d02717975855be7272c3589f8fdd1f70b9f03ea14f280577",
+      "token_id": "9306033963311851564212548176894914508758998308587255967584753177135725757149",
+      "question": "LoL: G2 Esports vs LYON - Game 3 Winner",
+      "link": "https://polyvictor.com/markets/2844843"
     }
   ]
 }
