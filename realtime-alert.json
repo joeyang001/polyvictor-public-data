@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-10T21:00:06.222Z",
+  "generated_at": "2026-07-10T22:04:00.854Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "3b6576e9-e50d-4ad0-a665-69c2b07ff038",
-      "ts": "2026-07-10T20:59:11+00:00",
-      "address": "0x83255595ba1fadd2e734cb30a0fb8110301a19cc",
+      "id": "208997e3-1e2a-4a1d-9e1a-a8ae81196cbf",
+      "ts": "2026-07-10T22:03:28+00:00",
+      "address": "0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Under",
-      "price": 0.9824622077051925,
-      "shares": 29850,
-      "usd_value": 29326.4969,
-      "price_shift_pp": 3.7462207705192596,
+      "outcome_index": 0,
+      "outcome_label": "YES",
+      "price": 0.4744274284974617,
+      "shares": 56241.36,
+      "usd_value": 26682.443800000005,
+      "price_shift_pp": 9.637724553875815,
       "alert_reason": "shift",
-      "market_id": "2829384",
-      "condition_id": "0x21e4b9c78709570a2d0c61c9b12111f73a3c10d10cb682dd8a82dbc2a1ffb230",
-      "token_id": "51175853526966319193146001956168132362758735299318153014636197343269448415964",
-      "question": "Spain vs. Belgium: O/U 3.5",
-      "link": "https://polyvictor.com/markets/2829384"
+      "market_id": null,
+      "condition_id": "0xb6efc33be09794dce521cded40103f624c81b47e4ac875bc85fd4cb8b6d343e6",
+      "token_id": "104649865370723855743328653005849006822297674310933740228530765677455525363517",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
