@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-10T10:28:05.642Z",
+  "generated_at": "2026-07-10T11:24:01.724Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "501bc359-b81b-4e41-81c7-0cbdf07b6c92",
-      "ts": "2026-07-10T10:27:37+00:00",
-      "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
+      "id": "48aa4f4a-10b9-4e66-8217-894ac85561ca",
+      "ts": "2026-07-10T11:22:31+00:00",
+      "address": "0xf5fabdcdc6eb6d9765a228824f16cca9c91f62df",
       "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "LYON",
-      "price": 0.9842512134947587,
-      "shares": 26394.84,
-      "usd_value": 25979.153299999998,
-      "price_shift_pp": 3.425121349475879,
-      "alert_reason": "shift",
-      "market_id": "2844843",
-      "condition_id": "0xce8bc40907b928e7d02717975855be7272c3589f8fdd1f70b9f03ea14f280577",
-      "token_id": "9306033963311851564212548176894914508758998308587255967584753177135725757149",
-      "question": "LoL: G2 Esports vs LYON - Game 3 Winner",
-      "link": "https://polyvictor.com/markets/2844843"
+      "outcome_label": "Alexander Zverev",
+      "price": 0.86,
+      "shares": 1160000,
+      "usd_value": 997600,
+      "price_shift_pp": 2.5864664854324815e-7,
+      "alert_reason": "size",
+      "market_id": "2851088",
+      "condition_id": "0x528663818f8f40350e20d63acd3dbae9955ddbdd03860019a752c699aa6e5f31",
+      "token_id": "78334358978805601866743907030457743625112492721014343161957148240182609461662",
+      "question": "Wimbledon ATP: Arthur Fery vs Alexander Zverev",
+      "link": "https://polyvictor.com/markets/2851088"
     }
   ]
 }
