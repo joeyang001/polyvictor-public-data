@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-11T05:54:01.146Z",
+  "generated_at": "2026-07-11T14:18:02.180Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "a8800947-46a8-47a1-8a19-6f78ddce11ad",
-      "ts": "2026-07-11T05:52:16+00:00",
-      "address": "0x8a269634753d90783f52c58e5ae9a8b9679e937e",
-      "side": "sell",
+      "id": "dacaceaf-8d59-4f94-b793-288b7f09f4f6",
+      "ts": "2026-07-11T14:16:28+00:00",
+      "address": "0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654",
+      "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Colorado Rockies",
-      "price": 0.6250959637199484,
-      "shares": 41834.56,
-      "usd_value": 26150.6146,
-      "price_shift_pp": -7.49040362800516,
+      "outcome_label": "YES",
+      "price": 0.5290183599317783,
+      "shares": 94514.678102,
+      "usd_value": 49999.999999,
+      "price_shift_pp": 3.901835993177827,
       "alert_reason": "shift",
-      "market_id": "2795056",
-      "condition_id": "0x58fb28277f01ff73ccf08a758225ed51a00267d06e6369701cfbb931f527bf92",
-      "token_id": "10018595505718458232870149847188489364618736438815361272271287461115737845369",
-      "question": "Colorado Rockies vs. San Francisco Giants",
-      "link": "https://polyvictor.com/markets/2795056"
+      "market_id": null,
+      "condition_id": "0x8eabefec667cb9e4d9c7fd39c52dc39f1b5eaddd5335ce5ac552e47f956a90a2",
+      "token_id": "7131770797392135518715178100109000034884164197367504571987721418485971812364",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
