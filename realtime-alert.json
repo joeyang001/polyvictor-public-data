@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-11T17:36:01.344Z",
+  "generated_at": "2026-07-11T18:04:00.958Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "33cf3d7e-2840-4bf8-87c5-10723a7f0ed7",
+      "ts": "2026-07-11T18:03:46+00:00",
+      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "Norway",
+      "price": 0.97,
+      "shares": 368922.74,
+      "usd_value": 357855.0578,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "2815570",
+      "condition_id": "0xe971a859f8579c7bfe1dabe35d766ea024dc279f966594ea0c4445057b248c78",
+      "token_id": "73003332315398126744609352413122303929967458717456487549623666059601977771633",
+      "question": "Spread: England (-3.5)",
+      "link": "https://polyvictor.com/markets/2815570"
+    },
     {
       "id": "b7deaf8d-344a-40d4-8637-9acef8eb717f",
       "ts": "2026-07-11T17:34:37+00:00",
