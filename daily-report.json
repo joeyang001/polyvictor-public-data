@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-07-10",
-  "generated_at": "2026-07-10T14:00:06.580Z",
+  "date": "2026-07-11",
+  "generated_at": "2026-07-11T14:00:07.821Z",
   "status": "success",
   "tweet_ids": [
-    "2075580826268369097",
-    "2075580827522462087"
+    "2075943218982551797",
+    "2075943220576469268"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 872,
-    "total_volume_usd": 53770752.71078606,
-    "unique_whales": 315,
-    "buy_volume_usd": 48082416.46913505,
-    "sell_volume_usd": 5688336.241651,
+    "total_fills": 729,
+    "total_volume_usd": 35554432.894292995,
+    "unique_whales": 256,
+    "buy_volume_usd": 30260868.45335902,
+    "sell_volume_usd": 5293564.440934001,
     "top_markets": [
       {
-        "market_id": "2805534",
-        "question": "France vs. Morocco: O/U 2.5",
-        "volume_usd": 10179236.096311,
-        "fills": 109,
-        "link": "https://polyvictor.com/markets/2805534"
+        "market_id": "2836554",
+        "question": "Wimbledon ATP: Jannik Sinner vs Novak Djokovic",
+        "volume_usd": 4866073.200519999,
+        "fills": 63,
+        "link": "https://polyvictor.com/markets/2836554"
       },
       {
-        "market_id": "2804853",
-        "question": "Will France win on 2026-07-09?",
-        "volume_usd": 6257634.162389999,
-        "fills": 101,
-        "link": "https://polyvictor.com/markets/2804853"
+        "market_id": "2829164",
+        "question": "Will Spain win on 2026-07-10?",
+        "volume_usd": 4393193.117614999,
+        "fills": 85,
+        "link": "https://polyvictor.com/markets/2829164"
       },
       {
-        "market_id": "2446852",
-        "question": "Will Ronaldo Cry at the World Cup?",
-        "volume_usd": 4513629.3525,
-        "fills": 31,
-        "link": "https://polyvictor.com/markets/2446852"
+        "market_id": "2829371",
+        "question": "Spread: Spain (-1.5)",
+        "volume_usd": 3077752.578795,
+        "fills": 27,
+        "link": "https://polyvictor.com/markets/2829371"
       }
     ],
     "top_whales": [
       {
-        "address": "0x095fbca2e0eaf0c9841005135427e1e0117190b2",
-        "volume_usd": 6081557.168676999,
-        "fills": 40,
-        "link": "https://polyvictor.com/whales/0x095fbca2e0eaf0c9841005135427e1e0117190b2"
+        "address": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
+        "volume_usd": 3530671.80411,
+        "fills": 34,
+        "link": "https://polyvictor.com/whales/0xc2e7800b5af46e6093872b177b7a5e7f0563be51"
       },
       {
-        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 2172977.975583,
-        "fills": 25,
-        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
+        "address": "0x09b428f7c2b469786286214aa5c90dd9015f7320",
+        "volume_usd": 2124040.873525,
+        "fills": 11,
+        "link": "https://polyvictor.com/whales/0x09b428f7c2b469786286214aa5c90dd9015f7320"
       },
       {
-        "address": "0xad6524acf884fb3c8f76d6c9908a75d7c09d970b",
-        "volume_usd": 1998000,
-        "fills": 1,
-        "link": "https://polyvictor.com/whales/0xad6524acf884fb3c8f76d6c9908a75d7c09d970b"
+        "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+        "volume_usd": 1179813.8219100002,
+        "fills": 33,
+        "link": "https://polyvictor.com/whales/0x204f72f35326db932158cba6adff0b9a1da95e14"
       }
     ],
     "biggest_fill": {
-      "address": "0xad6524acf884fb3c8f76d6c9908a75d7c09d970b",
-      "usd": 1998000,
+      "address": "0x09b428f7c2b469786286214aa5c90dd9015f7320",
+      "usd": 614012.6778000001,
       "side": "buy",
-      "price": 0.999,
-      "market_id": "2446852",
-      "question": "Will Ronaldo Cry at the World Cup?",
-      "link": "https://polyvictor.com/markets/2446852"
+      "price": 0.645,
+      "market_id": "2829371",
+      "question": "Spread: Spain (-1.5)",
+      "link": "https://polyvictor.com/markets/2829371"
     }
   }
 }
