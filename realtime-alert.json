@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-11T20:58:00.803Z",
+  "generated_at": "2026-07-11T21:54:01.530Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "59e366b9-10be-43c1-a5af-14016c7d84f3",
-      "ts": "2026-07-11T20:56:08+00:00",
-      "address": "0xe30e74595517de48f1fb19f4553dd3d9f1e96b87",
-      "side": "buy",
+      "id": "9bef95be-d220-4624-9ebd-9ad45d66e6af",
+      "ts": "2026-07-11T21:53:38+00:00",
+      "address": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+      "side": "sell",
       "outcome_index": 0,
       "outcome_label": "Yes",
-      "price": 0.5358762875892857,
-      "shares": 560000,
-      "usd_value": 300090.72105,
-      "price_shift_pp": 0.08762979858202291,
+      "price": 0.999,
+      "shares": 319295.99,
+      "usd_value": 318976.69401,
+      "price_shift_pp": 0,
       "alert_reason": "size",
-      "market_id": "2815444",
-      "condition_id": "0x0f5e01cf1cabb6c49e424f230ca77a2ccd3e1ac63b31ae03ef749ac2bde7fa0e",
-      "token_id": "866370305411260885620344443432925550941005016614412438009174244566837236043",
-      "question": "Will England win on 2026-07-11?",
-      "link": "https://polyvictor.com/markets/2815444"
+      "market_id": "2815584",
+      "condition_id": "0x85b78ea85ddd6f9b23ee88c1e0ebca096cf44c63a53c1b071fe768f47ff04f42",
+      "token_id": "41541051281405629546819933973213146053964263261685803058159141864482667348900",
+      "question": "Norway vs. England: Both Teams to Score",
+      "link": "https://polyvictor.com/markets/2815584"
     }
   ]
 }
