@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-11T22:22:01.463Z",
+  "generated_at": "2026-07-11T22:28:00.942Z",
   "window_minutes": 30,
   "count": 3,
   "alerts": [
+    {
+      "id": "98b09ec5-2829-4192-b087-3bf549a9da2f",
+      "ts": "2026-07-11T22:26:32+00:00",
+      "address": "0x2cff41636fe21fad120fed603d54d4fdd96259db",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Max Holloway",
+      "price": 0.73,
+      "shares": 406403.24,
+      "usd_value": 296674.3652,
+      "price_shift_pp": 5.839999595025347e-8,
+      "alert_reason": "size",
+      "market_id": "2289164",
+      "condition_id": "0xc851fc5ae688d3d67bccb7c8f0ca475f61ebda796cfcddca7230042de6b48cfd",
+      "token_id": "71338886078132794561606040245522732654223397726318877516126885558857760131397",
+      "question": "UFC 329: Max Holloway vs. Conor McGregor (Welterweight, Main Card)",
+      "link": "https://polyvictor.com/markets/2289164"
+    },
     {
       "id": "3b297469-29e0-4c47-b6b3-de6c3d487217",
       "ts": "2026-07-11T22:20:10+00:00",
@@ -39,24 +57,6 @@
       "token_id": "66082135606951057009011728225486601433299281782863774365604638758451994216174",
       "question": "Norway vs. England: O/U 4.5",
       "link": "https://polyvictor.com/markets/2815579"
-    },
-    {
-      "id": "9bef95be-d220-4624-9ebd-9ad45d66e6af",
-      "ts": "2026-07-11T21:53:38+00:00",
-      "address": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
-      "side": "sell",
-      "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.999,
-      "shares": 319295.99,
-      "usd_value": 318976.69401,
-      "price_shift_pp": 0,
-      "alert_reason": "size",
-      "market_id": "2815584",
-      "condition_id": "0x85b78ea85ddd6f9b23ee88c1e0ebca096cf44c63a53c1b071fe768f47ff04f42",
-      "token_id": "41541051281405629546819933973213146053964263261685803058159141864482667348900",
-      "question": "Norway vs. England: Both Teams to Score",
-      "link": "https://polyvictor.com/markets/2815584"
     }
   ]
 }
