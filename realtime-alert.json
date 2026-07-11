@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-11T19:48:01.209Z",
+  "generated_at": "2026-07-11T20:58:00.803Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "0cec7a6a-58b4-4d70-968b-9b087750d55f",
-      "ts": "2026-07-11T19:46:20+00:00",
-      "address": "0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3",
+      "id": "59e366b9-10be-43c1-a5af-14016c7d84f3",
+      "ts": "2026-07-11T20:56:08+00:00",
+      "address": "0xe30e74595517de48f1fb19f4553dd3d9f1e96b87",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Over",
-      "price": 0.6835398501167953,
-      "shares": 40634.00575,
-      "usd_value": 27774.962199999994,
-      "price_shift_pp": 22.74872825811166,
-      "alert_reason": "shift",
-      "market_id": "2846719",
-      "condition_id": "0x6dacb41c98f2f689b26f7b3d66352f678f17b517872673b3c1574cc29e64cf84",
-      "token_id": "12335646031021976807502797060361718014101515840831893080338336999483596833129",
-      "question": "Argentina vs. Switzerland: O/U 8.5 Total Corners",
-      "link": "https://polyvictor.com/markets/2846719"
+      "outcome_label": "Yes",
+      "price": 0.5358762875892857,
+      "shares": 560000,
+      "usd_value": 300090.72105,
+      "price_shift_pp": 0.08762979858202291,
+      "alert_reason": "size",
+      "market_id": "2815444",
+      "condition_id": "0x0f5e01cf1cabb6c49e424f230ca77a2ccd3e1ac63b31ae03ef749ac2bde7fa0e",
+      "token_id": "866370305411260885620344443432925550941005016614412438009174244566837236043",
+      "question": "Will England win on 2026-07-11?",
+      "link": "https://polyvictor.com/markets/2815444"
     }
   ]
 }
