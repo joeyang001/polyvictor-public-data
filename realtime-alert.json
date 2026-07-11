@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-11T22:18:01.069Z",
+  "generated_at": "2026-07-11T22:22:01.463Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 3,
   "alerts": [
+    {
+      "id": "3b297469-29e0-4c47-b6b3-de6c3d487217",
+      "ts": "2026-07-11T22:20:10+00:00",
+      "address": "0x8a494445bf79d56e8a1d59aba33e92dd2435d999",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.8817934880693588,
+      "shares": 51530.34,
+      "usd_value": 45439.11825,
+      "price_shift_pp": -4.729331006576687,
+      "alert_reason": "shift",
+      "market_id": "558935",
+      "condition_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
+      "token_id": "77121637225348873006259930776623502125079210522997384841464684944292365296940",
+      "question": "Will England win the 2026 FIFA World Cup?",
+      "link": "https://polyvictor.com/markets/558935"
+    },
     {
       "id": "11f27c76-b652-4c9e-a282-0a04fa0ddf48",
       "ts": "2026-07-11T22:17:13+00:00",
