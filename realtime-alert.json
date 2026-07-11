@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-11T21:54:01.530Z",
+  "generated_at": "2026-07-11T22:18:01.069Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "11f27c76-b652-4c9e-a282-0a04fa0ddf48",
+      "ts": "2026-07-11T22:17:13+00:00",
+      "address": "0x8b16b1826de28c2e2206a932016efbc703829281",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Over",
+      "price": 0.5771082876258619,
+      "shares": 51983.311696,
+      "usd_value": 29999.999997999996,
+      "price_shift_pp": 19.960828762586186,
+      "alert_reason": "shift",
+      "market_id": "2815579",
+      "condition_id": "0xfd7bc8c2b08924ce8e14222d839b913c2883254c824ea0512dd9646afbf64ae4",
+      "token_id": "66082135606951057009011728225486601433299281782863774365604638758451994216174",
+      "question": "Norway vs. England: O/U 4.5",
+      "link": "https://polyvictor.com/markets/2815579"
+    },
     {
       "id": "9bef95be-d220-4624-9ebd-9ad45d66e6af",
       "ts": "2026-07-11T21:53:38+00:00",
