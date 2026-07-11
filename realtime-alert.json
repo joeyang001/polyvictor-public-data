@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-11T19:16:01.357Z",
+  "generated_at": "2026-07-11T19:48:01.209Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "f0bca9e0-e52a-4edb-a435-3b95d8367624",
-      "ts": "2026-07-11T19:14:08+00:00",
-      "address": "0x09b428f7c2b469786286214aa5c90dd9015f7320",
+      "id": "0cec7a6a-58b4-4d70-968b-9b087750d55f",
+      "ts": "2026-07-11T19:46:20+00:00",
+      "address": "0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "England",
-      "price": 0.6625,
-      "shares": 450000,
-      "usd_value": 298125,
-      "price_shift_pp": 0.000002767797713243425,
-      "alert_reason": "size",
-      "market_id": "2815607",
-      "condition_id": "0xccc07a8317079457585bc88e387b58d2bb94576ee2c9cea63b2f2adb7ed1a836",
-      "token_id": "50489327015344012699222620659068944307834324237590238863966676298308808973282",
-      "question": "Norway vs. England: Team to Advance",
-      "link": "https://polyvictor.com/markets/2815607"
+      "outcome_index": 0,
+      "outcome_label": "Over",
+      "price": 0.6835398501167953,
+      "shares": 40634.00575,
+      "usd_value": 27774.962199999994,
+      "price_shift_pp": 22.74872825811166,
+      "alert_reason": "shift",
+      "market_id": "2846719",
+      "condition_id": "0x6dacb41c98f2f689b26f7b3d66352f678f17b517872673b3c1574cc29e64cf84",
+      "token_id": "12335646031021976807502797060361718014101515840831893080338336999483596833129",
+      "question": "Argentina vs. Switzerland: O/U 8.5 Total Corners",
+      "link": "https://polyvictor.com/markets/2846719"
     }
   ]
 }
