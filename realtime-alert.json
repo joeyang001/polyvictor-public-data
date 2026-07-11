@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-10T23:18:01.031Z",
+  "generated_at": "2026-07-11T02:22:00.947Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "21202e0a-8472-49f6-b6bc-087e2f244c41",
-      "ts": "2026-07-10T23:16:58+00:00",
-      "address": "0xe9076a87c5ed90ef16e6fe6529c943baeca0cff6",
+      "id": "c118cb0b-ec3b-46bc-9995-3abb41750a56",
+      "ts": "2026-07-11T02:21:40+00:00",
+      "address": "0xa01c0a5e4f8c1114e95c68ee97694bc95e51766c",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Mi New York",
-      "price": 0.3869744792879361,
-      "shares": 73832.827559,
-      "usd_value": 28571.419999,
-      "price_shift_pp": 3.697459595462871,
+      "outcome_index": 1,
+      "outcome_label": "NO",
+      "price": 0.79995872,
+      "shares": 50000,
+      "usd_value": 39997.936,
+      "price_shift_pp": 4.995872000000001,
       "alert_reason": "shift",
-      "market_id": "2846551",
-      "condition_id": "0xb6efc33be09794dce521cded40103f624c81b47e4ac875bc85fd4cb8b6d343e6",
-      "token_id": "104649865370723855743328653005849006822297674310933740228530765677455525363517",
-      "question": "Major League Cricket: Mi New York vs Seattle Orcas",
-      "link": "https://polyvictor.com/markets/2846551"
+      "market_id": null,
+      "condition_id": "0xe39b667bfcd612695566c9a6aeb9f9125c70ce9761f870e9acf3263af9be58f0",
+      "token_id": "85281633640033050420020962504599582146455334808676539189440558162152837142996",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
