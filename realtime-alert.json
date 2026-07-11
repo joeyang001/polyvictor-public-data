@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-11T14:18:02.180Z",
+  "generated_at": "2026-07-11T17:36:01.344Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "dacaceaf-8d59-4f94-b793-288b7f09f4f6",
-      "ts": "2026-07-11T14:16:28+00:00",
-      "address": "0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654",
+      "id": "b7deaf8d-344a-40d4-8637-9acef8eb717f",
+      "ts": "2026-07-11T17:34:37+00:00",
+      "address": "0x65018f9fc473f6e920b8929a375d39c26a461220",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "YES",
-      "price": 0.5290183599317783,
-      "shares": 94514.678102,
-      "usd_value": 49999.999999,
-      "price_shift_pp": 3.901835993177827,
-      "alert_reason": "shift",
-      "market_id": null,
-      "condition_id": "0x8eabefec667cb9e4d9c7fd39c52dc39f1b5eaddd5335ce5ac552e47f956a90a2",
-      "token_id": "7131770797392135518715178100109000034884164197367504571987721418485971812364",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
+      "outcome_label": "Argentina",
+      "price": 0.7532232138835901,
+      "shares": 359919.01,
+      "usd_value": 271099.35345000005,
+      "price_shift_pp": -0.17767861164098564,
+      "alert_reason": "size",
+      "market_id": "2844263",
+      "condition_id": "0x0891e4792a016a079765dd25029639cd731f7dc0bde3d65d6002b2b19dae2777",
+      "token_id": "26218726019311053184755697987866017884925318332399265731080389538226679668554",
+      "question": "Argentina vs. Switzerland: Team to Advance",
+      "link": "https://polyvictor.com/markets/2844263"
     }
   ]
 }
