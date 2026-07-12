@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-12T10:56:06.064Z",
+  "generated_at": "2026-07-12T11:00:06.976Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 3,
   "alerts": [
+    {
+      "id": "5cb3cbb6-15a9-42ae-a412-285a95607b3a",
+      "ts": "2026-07-12T10:59:23+00:00",
+      "address": "0x7583d5f8a1031ff4afcdc6db4e2143bfd41b4df2",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "Hanwha Life Esports",
+      "price": 0.4971472872188702,
+      "shares": 144824.99,
+      "usd_value": 71999.3509,
+      "price_shift_pp": 4.714728721887019,
+      "alert_reason": "shift",
+      "market_id": "2881372",
+      "condition_id": "0xa95d48279f55ae3288220263c0eb8a28197828121b878ff91671695ce88df46c",
+      "token_id": "84104155166664241168677772017558194627461051637496189752497483985843587782825",
+      "question": "LoL: Bilibili Gaming vs Hanwha Life Esports (BO5) - Mid-Season Invitational Playoffs",
+      "link": "https://polyvictor.com/markets/2881372"
+    },
     {
       "id": "088dddef-5648-4a0c-a783-abce878cfe72",
       "ts": "2026-07-12T10:55:20+00:00",
