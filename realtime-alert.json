@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-12T14:18:01.479Z",
+  "generated_at": "2026-07-12T20:14:00.988Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "f43ee48b-15fc-420a-a49e-486d855cf6b4",
-      "ts": "2026-07-12T14:17:01+00:00",
-      "address": "0x4cb5a6cf70340f068148a740f9ec96cbea75ef29",
+      "id": "978d0c1c-fb76-4549-909c-953ff976813b",
+      "ts": "2026-07-12T20:13:46+00:00",
+      "address": "0x547f2917d51f2e63ab382dcf641d4e0240162937",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Jannik Sinner",
-      "price": 0.82,
-      "shares": 680000,
-      "usd_value": 557600,
-      "price_shift_pp": 0.0000024404797405175316,
-      "alert_reason": "size",
-      "market_id": "2874512",
-      "condition_id": "0xb96585ac41b808bac0bcfa00f39a92990c64dc413804368c7191ad4e1cd299a5",
-      "token_id": "9773257986905054314865535114315861131161367765154232062156777240810251974291",
-      "question": "Wimbledon ATP: Jannik Sinner vs Alexander Zverev",
-      "link": "https://polyvictor.com/markets/2874512"
+      "outcome_index": 1,
+      "outcome_label": "Under",
+      "price": 0.6172651193198753,
+      "shares": 56214.516113,
+      "usd_value": 34699.25999599999,
+      "price_shift_pp": 9.726511931987524,
+      "alert_reason": "shift",
+      "market_id": "2883559",
+      "condition_id": "0x6b19c4e372a4ba29d3771e180c4d10d28fa5aab96a0588aa974afe42e5dc2b0d",
+      "token_id": "17863837838893767844395402702425864404636652669777870904075608737957890443715",
+      "question": "Arizona Diamondbacks vs. Los Angeles Dodgers: O/U 9.5",
+      "link": "https://polyvictor.com/markets/2883559"
     }
   ]
 }
