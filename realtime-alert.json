@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-12T03:38:00.900Z",
+  "generated_at": "2026-07-12T03:48:01.518Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "364dbf80-e8b2-49ad-878c-fa1a964cc5ed",
+      "ts": "2026-07-12T03:46:11+00:00",
+      "address": "0x2cf1cac528bd9c5fbdcf7120a55db4d86b663ec7",
+      "side": "sell",
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.999,
+      "shares": 440000,
+      "usd_value": 439560,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "558974",
+      "condition_id": "0x3a26ca6425e2d98f14935670bc22cdb0744defc6f6d83c65f8c413a921c5c70c",
+      "token_id": "45315272750116791836504013666029583517532908319286234834610455739871173419179",
+      "question": "Will Switzerland win the 2026 FIFA World Cup?",
+      "link": "https://polyvictor.com/markets/558974"
+    },
     {
       "id": "4c2d235f-97ea-4644-bd18-dabebb13f4bb",
       "ts": "2026-07-12T03:36:27+00:00",
