@@ -1,68 +1,68 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-07-12",
-  "generated_at": "2026-07-12T14:00:06.948Z",
+  "date": "2026-07-13",
+  "generated_at": "2026-07-13T14:00:09.194Z",
   "status": "success",
   "tweet_ids": [
-    "2076305603304079520",
-    "2076305604767842671"
+    "2076668000241897637",
+    "2076668001412174332"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 1000,
-    "total_volume_usd": 54088437.6893411,
-    "unique_whales": 322,
-    "buy_volume_usd": 43402264.001952074,
-    "sell_volume_usd": 10686173.687389001,
+    "total_fills": 239,
+    "total_volume_usd": 11635953.710995996,
+    "unique_whales": 115,
+    "buy_volume_usd": 9631312.965881,
+    "sell_volume_usd": 2004640.7451149998,
     "top_markets": [
       {
-        "market_id": "2289164",
-        "question": "UFC 329: Max Holloway vs. Conor McGregor (Welterweight, Main Card)",
-        "volume_usd": 5245134.943279,
-        "fills": 65,
-        "link": "https://polyvictor.com/markets/2289164"
+        "market_id": "2874512",
+        "question": "Wimbledon ATP: Jannik Sinner vs Alexander Zverev",
+        "volume_usd": 2048212.549003,
+        "fills": 34,
+        "link": "https://polyvictor.com/markets/2874512"
       },
       {
-        "market_id": "2815607",
-        "question": "Norway vs. England: Team to Advance",
-        "volume_usd": 4040976.2538160016,
-        "fills": 67,
-        "link": "https://polyvictor.com/markets/2815607"
+        "market_id": "2725667",
+        "question": "Indiana Fever vs. Las Vegas Aces",
+        "volume_usd": 1720573.8329900003,
+        "fills": 16,
+        "link": "https://polyvictor.com/markets/2725667"
       },
       {
-        "market_id": "2844263",
-        "question": "Argentina vs. Switzerland: Team to Advance",
-        "volume_usd": 3964438.2068810007,
-        "fills": 97,
-        "link": "https://polyvictor.com/markets/2844263"
+        "market_id": "2880319",
+        "question": "France vs. Spain: Team to Advance",
+        "volume_usd": 1226817.360911,
+        "fills": 25,
+        "link": "https://polyvictor.com/markets/2880319"
       }
     ],
     "top_whales": [
       {
-        "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-        "volume_usd": 2367828.8875289992,
-        "fills": 61,
-        "link": "https://polyvictor.com/whales/0x204f72f35326db932158cba6adff0b9a1da95e14"
+        "address": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+        "volume_usd": 1570775.737395,
+        "fills": 19,
+        "link": "https://polyvictor.com/whales/0x6d20c35f65d9899b6d6b74f8466e824580f9a165"
       },
       {
-        "address": "0xf5fabdcdc6eb6d9765a228824f16cca9c91f62df",
-        "volume_usd": 2156594.4658999997,
-        "fills": 7,
-        "link": "https://polyvictor.com/whales/0xf5fabdcdc6eb6d9765a228824f16cca9c91f62df"
+        "address": "0x4cb5a6cf70340f068148a740f9ec96cbea75ef29",
+        "volume_usd": 859011.97318,
+        "fills": 8,
+        "link": "https://polyvictor.com/whales/0x4cb5a6cf70340f068148a740f9ec96cbea75ef29"
       },
       {
         "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 1724040.785105,
-        "fills": 23,
+        "volume_usd": 649980.22143,
+        "fills": 10,
         "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
       }
     ],
     "biggest_fill": {
-      "address": "0xf5fabdcdc6eb6d9765a228824f16cca9c91f62df",
-      "usd": 595846.206,
+      "address": "0x4cb5a6cf70340f068148a740f9ec96cbea75ef29",
+      "usd": 557600,
       "side": "buy",
-      "price": 0.81,
+      "price": 0.82,
       "market_id": "2874512",
       "question": "Wimbledon ATP: Jannik Sinner vs Alexander Zverev",
       "link": "https://polyvictor.com/markets/2874512"
