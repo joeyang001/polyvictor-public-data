@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-13T15:38:01.564Z",
+  "generated_at": "2026-07-13T20:58:01.549Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "512b09c5-7468-4a26-ab52-303f3ce70713",
-      "ts": "2026-07-13T15:36:52+00:00",
-      "address": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
-      "side": "sell",
+      "id": "78d18ec4-9618-40aa-a302-26f77f91a1ca",
+      "ts": "2026-07-13T20:57:06+00:00",
+      "address": "0x408fe71e6b5401ecd6733970cb6f1a25e984b2f4",
+      "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Magda Linette",
-      "price": 0.6515953110039637,
-      "shares": 38466.23,
-      "usd_value": 25064.415100000002,
-      "price_shift_pp": -3.8404687961036243,
+      "outcome_label": "Rio Noguchi",
+      "price": 0.5416567474824204,
+      "shares": 49867.34,
+      "usd_value": 27010.981190000002,
+      "price_shift_pp": 4.465674748242043,
       "alert_reason": "shift",
-      "market_id": "2885062",
-      "condition_id": "0x8ae217a25db4e6da760cd681b3de4a7764b2270ac268364011f99e850b9d3aec",
-      "token_id": "187725986431703648202802579775614603882666012537625186515724619711610079375",
-      "question": "Athens Open: Magda Linette vs Mai Hontama",
-      "link": "https://polyvictor.com/markets/2885062"
+      "market_id": "2891340",
+      "condition_id": "0x4a5ef0dc228fa695831944c8ec9bdd29733e515153c80b740a69c41c97c0dae7",
+      "token_id": "37470246857297359839229222451195380099027029625480466838731570261862690680020",
+      "question": "Lincoln: Rio Noguchi vs Charles Broom",
+      "link": "https://polyvictor.com/markets/2891340"
     }
   ]
 }
