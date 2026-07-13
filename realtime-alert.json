@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-13T20:58:01.549Z",
+  "generated_at": "2026-07-13T21:02:01.654Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "2d19da7d-47d0-42b5-8d8b-36366a1ebffe",
+      "ts": "2026-07-13T21:00:16+00:00",
+      "address": "0xe9076a87c5ed90ef16e6fe6529c943baeca0cff6",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Paul Inchauspe",
+      "price": 0.4962950351072985,
+      "shares": 57569.4254,
+      "usd_value": 28571.420000000002,
+      "price_shift_pp": 6.629503510729851,
+      "alert_reason": "shift",
+      "market_id": "2885150",
+      "condition_id": "0x1f7462ff3232c104fbfe117d792d0c2ac0bb5ff6e221a0f74234401da5f6ffc5",
+      "token_id": "27870108755228988919245459855104607249022037054828047676624651715740565828720",
+      "question": "Pozoblanco: Paul Inchauspe vs Hamish Stewart",
+      "link": "https://polyvictor.com/markets/2885150"
+    },
     {
       "id": "78d18ec4-9618-40aa-a302-26f77f91a1ca",
       "ts": "2026-07-13T20:57:06+00:00",
