@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-14T13:42:01.468Z",
+  "generated_at": "2026-07-14T14:16:01.856Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "082dd8fd-a264-4a52-8412-c638fa2604ae",
-      "ts": "2026-07-14T13:40:37+00:00",
-      "address": "0x060f34e5aa82cc11c2a54c9edf3e6a0632925a9d",
-      "side": "sell",
-      "outcome_index": 0,
-      "outcome_label": "YES",
-      "price": 0.999,
-      "shares": 33634.33,
-      "usd_value": 33600.69567,
-      "price_shift_pp": 11.899999999999999,
+      "id": "f192241d-ce9b-40f5-803a-36e6886f68bc",
+      "ts": "2026-07-14T14:15:37+00:00",
+      "address": "0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "Quentin Halys",
+      "price": 0.405053417406334,
+      "shares": 92836.78,
+      "usd_value": 37603.854999999996,
+      "price_shift_pp": -4.148300312799713,
       "alert_reason": "shift",
-      "market_id": null,
-      "condition_id": "0x48a09bf3c0a576d6d179fcfcbf6f5194af86d28569a365d175acfc2a1703f8f2",
-      "token_id": "32627959929201612033927267431664395109464119087632834855256496569608705863451",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
+      "market_id": "2898977",
+      "condition_id": "0x8af580ae52b4e94b66020eff19fdfd3ab3e8dfb6e005fb56ea0f020738a2a52b",
+      "token_id": "32868486217080507360896737010310033209750768788772659327468390295204833590135",
+      "question": "Swiss Open: Federico Cina vs Quentin Halys",
+      "link": "https://polyvictor.com/markets/2898977"
     }
   ]
 }
