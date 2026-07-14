@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-14T12:32:01.281Z",
+  "generated_at": "2026-07-14T13:42:01.468Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "04ae57d0-cba6-458b-b9ee-2a595c3d1c09",
-      "ts": "2026-07-14T12:31:00+00:00",
-      "address": "0x4755188644460fc8140a18ccefc1e80b6a5e4158",
-      "side": "buy",
+      "id": "082dd8fd-a264-4a52-8412-c638fa2604ae",
+      "ts": "2026-07-14T13:40:37+00:00",
+      "address": "0x060f34e5aa82cc11c2a54c9edf3e6a0632925a9d",
+      "side": "sell",
       "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.879115047,
-      "shares": 100000,
-      "usd_value": 87911.5047,
-      "price_shift_pp": 3.9115047000000014,
+      "outcome_label": "YES",
+      "price": 0.999,
+      "shares": 33634.33,
+      "usd_value": 33600.69567,
+      "price_shift_pp": 11.899999999999999,
       "alert_reason": "shift",
-      "market_id": "1654958",
-      "condition_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
-      "token_id": "111604417349377875799825956621596386269673370070912696668140891647145772186047",
-      "question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-      "link": "https://polyvictor.com/markets/1654958"
+      "market_id": null,
+      "condition_id": "0x48a09bf3c0a576d6d179fcfcbf6f5194af86d28569a365d175acfc2a1703f8f2",
+      "token_id": "32627959929201612033927267431664395109464119087632834855256496569608705863451",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
