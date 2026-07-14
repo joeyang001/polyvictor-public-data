@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-14T16:10:05.951Z",
+  "generated_at": "2026-07-14T16:48:01.307Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "38910628-92ed-4427-aa86-70f5f2ded540",
-      "ts": "2026-07-14T16:09:48+00:00",
-      "address": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+      "id": "64d4dde7-c415-4e84-9c14-e3089d7545c3",
+      "ts": "2026-07-14T16:46:33+00:00",
+      "address": "0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654",
       "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "PlayTime",
-      "price": 0.46999999999201,
-      "shares": 63829.787233,
-      "usd_value": 29999.999999,
-      "price_shift_pp": -3.9999978587988814,
+      "outcome_label": "Stan Wawrinka",
+      "price": 0.4546047476868579,
+      "shares": 90961.77,
+      "usd_value": 41351.652500000004,
+      "price_shift_pp": 3.4604747686857893,
       "alert_reason": "shift",
-      "market_id": "2896789",
-      "condition_id": "0x0fbf11375faff96f8c645931a2abf8a3f196f7ef3ec9b384324bc26085ee2dac",
-      "token_id": "28893747825103874962587184711153510614806252999492691235410767946508363057798",
-      "question": "Dota 2: Vici Gaming vs PlayTime (BO3) - Esports World Cup Survival",
-      "link": "https://polyvictor.com/markets/2896789"
+      "market_id": "2885080",
+      "condition_id": "0xbad1f3098c59886aa53ff7e81dedf6d2e2e70f81fd1052eb8a745fb3c142abe2",
+      "token_id": "101114292651107246187548581845141558306657560047245781470020571996797263539846",
+      "question": "Swiss Open: Jaime Faria vs Stan Wawrinka",
+      "link": "https://polyvictor.com/markets/2885080"
     }
   ]
 }
