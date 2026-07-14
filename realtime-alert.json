@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-14T17:48:01.153Z",
+  "generated_at": "2026-07-14T17:54:00.872Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 3,
   "alerts": [
+    {
+      "id": "2ba8684f-43fc-4f16-8966-937cc9fb5040",
+      "ts": "2026-07-14T17:53:40+00:00",
+      "address": "0x09b428f7c2b469786286214aa5c90dd9015f7320",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "Spain",
+      "price": 0.4325,
+      "shares": 636754.02,
+      "usd_value": 275396.11365,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "2880319",
+      "condition_id": "0xecba7b1db1c698ab73b3572abfcde327a02b5112676144e049edcc1e1e0f5b0b",
+      "token_id": "46421815574359643620514688756609814860051932583278915389775335554413697029363",
+      "question": "France vs. Spain: Team to Advance",
+      "link": "https://polyvictor.com/markets/2880319"
+    },
     {
       "id": "e3364bc6-99c7-4c5c-ad38-c3cb1b06a7d1",
       "ts": "2026-07-14T17:46:23+00:00",
