@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-14T17:28:01.526Z",
+  "generated_at": "2026-07-14T17:48:01.153Z",
   "window_minutes": 30,
   "count": 2,
   "alerts": [
+    {
+      "id": "e3364bc6-99c7-4c5c-ad38-c3cb1b06a7d1",
+      "ts": "2026-07-14T17:46:23+00:00",
+      "address": "0xf836034ff89835a6bcc84898bb8c1af28c5043fa",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "France",
+      "price": 0.57,
+      "shares": 601817.95,
+      "usd_value": 343036.23149999994,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "2880319",
+      "condition_id": "0xecba7b1db1c698ab73b3572abfcde327a02b5112676144e049edcc1e1e0f5b0b",
+      "token_id": "112548421964662546558474258688565408276000153279440324883721010878524791926004",
+      "question": "France vs. Spain: Team to Advance",
+      "link": "https://polyvictor.com/markets/2880319"
+    },
     {
       "id": "f50e2519-fae3-4f85-a3e0-552716e70a9f",
       "ts": "2026-07-14T17:26:28+00:00",
@@ -21,24 +39,6 @@
       "token_id": "114008288197553961583518307739897802587067075299935011621746237390478872496575",
       "question": "Will France win on 2026-07-14?",
       "link": "https://polyvictor.com/markets/2879968"
-    },
-    {
-      "id": "943f3a58-bdd6-481e-947f-caa064a18168",
-      "ts": "2026-07-14T17:10:41+00:00",
-      "address": "0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654",
-      "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Stan Wawrinka",
-      "price": 0.676966508871504,
-      "shares": 74319.98,
-      "usd_value": 50312.1374,
-      "price_shift_pp": 3.696650887150399,
-      "alert_reason": "shift",
-      "market_id": "2885080",
-      "condition_id": "0xbad1f3098c59886aa53ff7e81dedf6d2e2e70f81fd1052eb8a745fb3c142abe2",
-      "token_id": "101114292651107246187548581845141558306657560047245781470020571996797263539846",
-      "question": "Swiss Open: Jaime Faria vs Stan Wawrinka",
-      "link": "https://polyvictor.com/markets/2885080"
     }
   ]
 }
