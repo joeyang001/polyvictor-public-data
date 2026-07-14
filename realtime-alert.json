@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-14T20:42:01.263Z",
+  "generated_at": "2026-07-14T20:48:00.834Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "177e17e1-a517-4a76-9951-6a27494dfe8f",
+      "ts": "2026-07-14T20:47:37+00:00",
+      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.982,
+      "shares": 1665550.68,
+      "usd_value": 1635570.76776,
+      "price_shift_pp": 0.10000000000000009,
+      "alert_reason": "size",
+      "market_id": "558936",
+      "condition_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
+      "token_id": "32270411694523539495262303868629477861017829722282576458031815333486368239544",
+      "question": "Will France win the 2026 FIFA World Cup?",
+      "link": "https://polyvictor.com/markets/558936"
+    },
     {
       "id": "dbe751dd-3af7-4cfb-82eb-06c810a12368",
       "ts": "2026-07-14T20:40:08+00:00",
