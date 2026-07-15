@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-15T17:56:01.531Z",
+  "generated_at": "2026-07-15T18:02:02.058Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 3,
   "alerts": [
+    {
+      "id": "0f66bf29-9472-4fea-9ada-581cb8ef35d1",
+      "ts": "2026-07-15T18:01:03+00:00",
+      "address": "0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Pablo Carreno Busta",
+      "price": 0.5502062504523397,
+      "shares": 66874.52,
+      "usd_value": 36794.778900000005,
+      "price_shift_pp": 11.020626723200195,
+      "alert_reason": "shift",
+      "market_id": "2926114",
+      "condition_id": "0x60535d7c4b63626521d54c34b202880cce594a08b4a8910467a949429ff56254",
+      "token_id": "42885597123116701342708719240251430289863660564730349336174483425936796512712",
+      "question": "Croatia Open: Pablo Carreno Busta vs Camilo Ugo Carabelli",
+      "link": "https://polyvictor.com/markets/2926114"
+    },
     {
       "id": "f8167b5d-ad36-46d4-bddf-e843084cabea",
       "ts": "2026-07-15T17:54:43+00:00",
