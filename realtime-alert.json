@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-15T15:46:00.673Z",
+  "generated_at": "2026-07-15T16:36:01.117Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "70f27d46-b9f6-4487-9966-1664dd870a3f",
-      "ts": "2026-07-15T15:44:55+00:00",
-      "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
+      "id": "8140661a-b8d0-480f-a4f9-59726c4ec69c",
+      "ts": "2026-07-15T16:35:27+00:00",
+      "address": "0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "GAM Esports",
-      "price": 0.986698208071857,
-      "shares": 41807.48,
-      "usd_value": 41251.365600000005,
-      "price_shift_pp": 9.001577707023356,
+      "outcome_index": 0,
+      "outcome_label": "Liam Draxl",
+      "price": 0.4195446485093087,
+      "shares": 71022.08,
+      "usd_value": 29796.933590000004,
+      "price_shift_pp": -9.04553507372432,
       "alert_reason": "shift",
-      "market_id": "2933979",
-      "condition_id": "0xc5a2d8124c534050420a43c642e026f285374ef9b5a99222f2864f60b70509c4",
-      "token_id": "39985611323664028005533396046172176575844786566799946540163760307204265040371",
-      "question": "LoL: Movistar KOI vs GAM Esports - Game 2 Winner",
-      "link": "https://polyvictor.com/markets/2933979"
+      "market_id": "2916794",
+      "condition_id": "0x7ac78f673cf8819bbf8929c52aa6da6c78e846ebf0bf2e99fa15e7ccadebd835",
+      "token_id": "12093038110047959862365496419573213018992494392433166239660856006088416861645",
+      "question": "Granby: Liam Draxl vs James Kent Trotter",
+      "link": "https://polyvictor.com/markets/2916794"
     }
   ]
 }
