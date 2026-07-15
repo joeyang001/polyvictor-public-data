@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-15T19:42:01.172Z",
+  "generated_at": "2026-07-15T19:46:00.730Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 3,
   "alerts": [
+    {
+      "id": "cd9dac7e-6445-475a-bf64-3679b6895d64",
+      "ts": "2026-07-15T19:45:31+00:00",
+      "address": "0x8f2f8a33f00b924acacb4eb86c99b2930cffc8b9",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.9659420948366264,
+      "shares": 31057.7623,
+      "usd_value": 29999.999977,
+      "price_shift_pp": 5.594209483662638,
+      "alert_reason": "shift",
+      "market_id": "2891199",
+      "condition_id": null,
+      "token_id": "41576400725282321233813406914059926970112928868924563836598080141145724811538",
+      "question": "England vs. Argentina: Draw at halftime?",
+      "link": "https://polyvictor.com/markets/2891199"
+    },
     {
       "id": "63f40a20-1fa2-4e82-bbb4-adbe04f31d60",
       "ts": "2026-07-15T19:41:46+00:00",
