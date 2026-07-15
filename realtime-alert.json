@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-15T18:44:01.480Z",
+  "generated_at": "2026-07-15T18:50:04.362Z",
   "window_minutes": 30,
   "count": 2,
   "alerts": [
+    {
+      "id": "c1d4aaca-87af-4b61-844e-99de3b83b128",
+      "ts": "2026-07-15T18:49:04+00:00",
+      "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "MIBR.LOS",
+      "price": 0.9475888876190476,
+      "shares": 52500,
+      "usd_value": 49748.4166,
+      "price_shift_pp": -4.241111238095241,
+      "alert_reason": "shift",
+      "market_id": "2934772",
+      "condition_id": "0x925968ed580de3b13a3f36b8cda2bac0b7847c0f271176d58293dfdd5b55e2fa",
+      "token_id": "94313301163629861560340708446812533803180503615540947215856148310384187832808",
+      "question": "LoL: MIBR.LOS vs LYON - Game 2 Winner",
+      "link": "https://polyvictor.com/markets/2934772"
+    },
     {
       "id": "c0d7bcf5-f864-4c44-9a77-33fca465d592",
       "ts": "2026-07-15T18:43:48+00:00",
@@ -21,24 +39,6 @@
       "token_id": "59458073578322831545784967048379645202850050992392426394980623102028749472257",
       "question": "England vs. Argentina: Both Teams to Score",
       "link": "https://polyvictor.com/markets/2891672"
-    },
-    {
-      "id": "5f48b8b5-8187-4a8a-ace7-03954e97e07d",
-      "ts": "2026-07-15T18:19:50+00:00",
-      "address": "0xb4d250f58c26840e09723a83ce9c8149aa32ce99",
-      "side": "sell",
-      "outcome_index": 0,
-      "outcome_label": "Kym",
-      "price": 0.999,
-      "shares": 30625.1,
-      "usd_value": 30594.474899999997,
-      "price_shift_pp": 54.89999999999999,
-      "alert_reason": "shift",
-      "market_id": "2923863",
-      "condition_id": "0x3bcab4b36a8c5a443c389f445fbc4db2365148c260fc6f717d8b06d769a4ffbe",
-      "token_id": "39579672856936486802106305431552391978973738709815035948515010664631469332114",
-      "question": "Set 2 Winner: Kym vs Tsitsipas",
-      "link": "https://polyvictor.com/markets/2923863"
     }
   ]
 }
