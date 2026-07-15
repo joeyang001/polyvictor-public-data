@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-15T20:16:01.102Z",
+  "generated_at": "2026-07-15T20:48:01.059Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "b5d66b9b-dd69-46e7-8b13-d6fd74fee3ef",
-      "ts": "2026-07-15T20:15:34+00:00",
-      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-      "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "No",
-      "price": 0.8274318840238543,
-      "shares": 1359358.85,
-      "usd_value": 1124776.85432,
-      "price_shift_pp": -0.5728320418907584,
-      "alert_reason": "size",
-      "market_id": "558938",
-      "condition_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
-      "token_id": "115428153746996892211798999366308897078723117634059783423375188043903703749062",
-      "question": "Will Argentina win the 2026 FIFA World Cup?",
-      "link": "https://polyvictor.com/markets/558938"
+      "id": "a10f6ff0-9c0b-49be-b330-7af234261077",
+      "ts": "2026-07-15T20:46:07+00:00",
+      "address": "0x8f2f8a33f00b924acacb4eb86c99b2930cffc8b9",
+      "side": "sell",
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.6715359502945072,
+      "shares": 38601.77,
+      "usd_value": 25922.476299999995,
+      "price_shift_pp": -27.846404970549276,
+      "alert_reason": "shift",
+      "market_id": "2891672",
+      "condition_id": "0xf5bc8db22aa41f0d3f8a1064e63d6c990301187dad76e246fa13009a2934ef5a",
+      "token_id": "59458073578322831545784967048379645202850050992392426394980623102028749472257",
+      "question": "England vs. Argentina: Both Teams to Score",
+      "link": "https://polyvictor.com/markets/2891672"
     }
   ]
 }
