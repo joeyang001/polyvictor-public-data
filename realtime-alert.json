@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-15T16:36:01.117Z",
+  "generated_at": "2026-07-15T16:54:02.355Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "649aea76-4e99-4ce4-beac-4bec8721d962",
+      "ts": "2026-07-15T16:53:37+00:00",
+      "address": "0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Daniel Altmaier",
+      "price": 0.2393229434377225,
+      "shares": 110903.222306,
+      "usd_value": 26541.685599,
+      "price_shift_pp": 3.9322943437722495,
+      "alert_reason": "shift",
+      "market_id": "2923065",
+      "condition_id": "0x7b456d32d21f1b6f035e466a1f4af0ea09861b4f648d52afcaccf100f957988d",
+      "token_id": "63798021858230187715631682958760755012565868512148491757851387423218672836452",
+      "question": "Swedish Open: Daniel Altmaier vs Luciano Darderi",
+      "link": "https://polyvictor.com/markets/2923065"
+    },
     {
       "id": "8140661a-b8d0-480f-a4f9-59726c4ec69c",
       "ts": "2026-07-15T16:35:27+00:00",
