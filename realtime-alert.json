@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-15T18:02:02.058Z",
+  "generated_at": "2026-07-15T18:20:03.527Z",
   "window_minutes": 30,
-  "count": 3,
+  "count": 4,
   "alerts": [
+    {
+      "id": "5f48b8b5-8187-4a8a-ace7-03954e97e07d",
+      "ts": "2026-07-15T18:19:50+00:00",
+      "address": "0xb4d250f58c26840e09723a83ce9c8149aa32ce99",
+      "side": "sell",
+      "outcome_index": 0,
+      "outcome_label": "Kym",
+      "price": 0.999,
+      "shares": 30625.1,
+      "usd_value": 30594.474899999997,
+      "price_shift_pp": 54.89999999999999,
+      "alert_reason": "shift",
+      "market_id": "2923863",
+      "condition_id": "0x3bcab4b36a8c5a443c389f445fbc4db2365148c260fc6f717d8b06d769a4ffbe",
+      "token_id": "39579672856936486802106305431552391978973738709815035948515010664631469332114",
+      "question": "Set 2 Winner: Kym vs Tsitsipas",
+      "link": "https://polyvictor.com/markets/2923863"
+    },
     {
       "id": "0f66bf29-9472-4fea-9ada-581cb8ef35d1",
       "ts": "2026-07-15T18:01:03+00:00",
