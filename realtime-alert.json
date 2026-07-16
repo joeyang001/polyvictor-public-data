@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-16T19:54:03.087Z",
+  "generated_at": "2026-07-16T21:48:01.887Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "5af5c89f-3312-45b6-b268-b0730daef7eb",
-      "ts": "2026-07-16T19:53:34+00:00",
-      "address": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+      "id": "6f1ce03e-ef11-4237-896a-250eee27fc13",
+      "ts": "2026-07-16T21:46:55+00:00",
+      "address": "0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Danka Kovinic",
-      "price": 0.5925804352889575,
-      "shares": 82646.25,
-      "usd_value": 48974.550800000005,
-      "price_shift_pp": 8.258043528895753,
+      "outcome_index": 1,
+      "outcome_label": "NO",
+      "price": 0.6681835065481051,
+      "shares": 44897.845734,
+      "usd_value": 29999.999999000003,
+      "price_shift_pp": -5.973670673668908,
       "alert_reason": "shift",
-      "market_id": "2922842",
-      "condition_id": "0x4220a18459ff4cc9a189c305766a4fa4ca291751facacf0954c940e0f2c01918",
-      "token_id": "101374864204035592971879723093385156811599477106873950185975857514911454914778",
-      "question": "Rome: Danka Kovinic vs Julia Riera",
-      "link": "https://polyvictor.com/markets/2922842"
+      "market_id": null,
+      "condition_id": "0x55a1cfcc9019d4b24a354b40dba2951566b39595a4f3fc394ab2dbf2e752616e",
+      "token_id": "19354653082108780584797820655586429809915435278406758885905678362247043999184",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
