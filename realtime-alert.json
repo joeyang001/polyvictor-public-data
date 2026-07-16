@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-15T22:10:02.232Z",
+  "generated_at": "2026-07-16T09:50:05.723Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "ed5bce47-0ab8-4f54-809c-ccb99245eaf8",
-      "ts": "2026-07-15T22:08:16+00:00",
-      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+      "id": "57ef7241-29e4-4067-a970-828ddeefc180",
+      "ts": "2026-07-16T09:48:19+00:00",
+      "address": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.42,
-      "shares": 875824,
-      "usd_value": 367846.07999999996,
-      "price_shift_pp": 0.0000016998314367189238,
-      "alert_reason": "size",
-      "market_id": "558938",
-      "condition_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
-      "token_id": "18812649149814341758733697580460697418474693998558159483117100240528657629879",
-      "question": "Will Argentina win the 2026 FIFA World Cup?",
-      "link": "https://polyvictor.com/markets/558938"
+      "outcome_label": "Bilibili Gaming",
+      "price": 0.9725625941777643,
+      "shares": 79145.54,
+      "usd_value": 76973.9917,
+      "price_shift_pp": 5.2562594177764215,
+      "alert_reason": "shift",
+      "market_id": "2934008",
+      "condition_id": "0x8b5120790c8f89cfd7a6666fb413990f9ef740d2b0826b2690dbc5fd6788f5c4",
+      "token_id": "70525128262764055870160562204690240056431537111217862142336783763143485506254",
+      "question": "LoL: Bilibili Gaming vs T1 (BO1) - Esports World Cup Group C",
+      "link": "https://polyvictor.com/markets/2934008"
     }
   ]
 }
