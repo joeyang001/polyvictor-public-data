@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-07-15",
-  "generated_at": "2026-07-15T14:00:07.412Z",
+  "date": "2026-07-16",
+  "generated_at": "2026-07-16T14:00:07.277Z",
   "status": "success",
   "tweet_ids": [
-    "2077392769132134733",
-    "2077392770436624815"
+    "2077755156406411545",
+    "2077755157635338726"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 944,
-    "total_volume_usd": 53652077.54110514,
-    "unique_whales": 292,
-    "buy_volume_usd": 45431615.708122075,
-    "sell_volume_usd": 8220461.832983001,
+    "total_fills": 819,
+    "total_volume_usd": 41628366.24042,
+    "unique_whales": 311,
+    "buy_volume_usd": 32011947.804332994,
+    "sell_volume_usd": 9616418.436086997,
     "top_markets": [
       {
-        "market_id": "2880319",
-        "question": "France vs. Spain: Team to Advance",
-        "volume_usd": 13461112.331764992,
-        "fills": 191,
-        "link": "https://polyvictor.com/markets/2880319"
+        "market_id": "2891695",
+        "question": "England vs. Argentina: Team to Advance",
+        "volume_usd": 5424396.629415002,
+        "fills": 109,
+        "link": "https://polyvictor.com/markets/2891695"
       },
       {
-        "market_id": "2879968",
-        "question": "Will France win on 2026-07-14?",
-        "volume_usd": 8304873.269894002,
-        "fills": 100,
-        "link": "https://polyvictor.com/markets/2879968"
+        "market_id": "2891165",
+        "question": "Will England win on 2026-07-15?",
+        "volume_usd": 4790622.8968630005,
+        "fills": 104,
+        "link": "https://polyvictor.com/markets/2891165"
       },
       {
-        "market_id": "2880287",
-        "question": "France vs. Spain: O/U 2.5",
-        "volume_usd": 4746904.554417002,
-        "fills": 73,
-        "link": "https://polyvictor.com/markets/2880287"
+        "market_id": "558938",
+        "question": "Will Argentina win the 2026 FIFA World Cup?",
+        "volume_usd": 3766623.2035720004,
+        "fills": 44,
+        "link": "https://polyvictor.com/markets/558938"
       }
     ],
     "top_whales": [
       {
-        "address": "0x09b428f7c2b469786286214aa5c90dd9015f7320",
-        "volume_usd": 9902776.761749998,
-        "fills": 81,
-        "link": "https://polyvictor.com/whales/0x09b428f7c2b469786286214aa5c90dd9015f7320"
-      },
-      {
         "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 3868433.6250980007,
-        "fills": 27,
+        "volume_usd": 3008572.0249860003,
+        "fills": 22,
         "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
       },
       {
-        "address": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
-        "volume_usd": 3126989.9485139996,
-        "fills": 40,
-        "link": "https://polyvictor.com/whales/0x361b16e3ddfe1d415d41008daac2631d94ab74fe"
+        "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+        "volume_usd": 2347054.6535340003,
+        "fills": 80,
+        "link": "https://polyvictor.com/whales/0x204f72f35326db932158cba6adff0b9a1da95e14"
+      },
+      {
+        "address": "0x8042d175fa3c31fc48b22accbad216564d8f3680",
+        "volume_usd": 2064264.3183199996,
+        "fills": 29,
+        "link": "https://polyvictor.com/whales/0x8042d175fa3c31fc48b22accbad216564d8f3680"
       }
     ],
     "biggest_fill": {
       "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-      "usd": 1635570.76776,
+      "usd": 1124776.85432,
       "side": "buy",
-      "price": 0.982,
-      "market_id": "558936",
-      "question": "Will France win the 2026 FIFA World Cup?",
-      "link": "https://polyvictor.com/markets/558936"
+      "price": 0.8274318840238543,
+      "market_id": "558938",
+      "question": "Will Argentina win the 2026 FIFA World Cup?",
+      "link": "https://polyvictor.com/markets/558938"
     }
   }
 }
