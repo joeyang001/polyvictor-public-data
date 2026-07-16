@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-16T18:16:01.330Z",
+  "generated_at": "2026-07-16T18:26:04.611Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "408e329f-847d-4c0b-9436-0c549aeee026",
+      "ts": "2026-07-16T18:25:27+00:00",
+      "address": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Heroic",
+      "price": 0.9193068350859022,
+      "shares": 37074.15,
+      "usd_value": 34082.5195,
+      "price_shift_pp": 22.93068350859022,
+      "alert_reason": "shift",
+      "market_id": "2938408",
+      "condition_id": "0xb415ceb63b33538726384111d29d8e67597138c4e6fa0b43121926b5c8c7a342",
+      "token_id": "109615875890856401735146532577025250185417586082311288334915658330339825916026",
+      "question": "Counter-Strike: Heroic vs Phantom (BO3) - Stake Ranked Episode 3 Playoffs",
+      "link": "https://polyvictor.com/markets/2938408"
+    },
     {
       "id": "45769bfc-5771-43c9-8273-55a3cf2f177b",
       "ts": "2026-07-16T18:15:17+00:00",
