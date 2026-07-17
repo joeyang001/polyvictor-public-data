@@ -1,44 +1,44 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-17T10:34:01.223Z",
+  "generated_at": "2026-07-17T10:46:01.092Z",
   "window_minutes": 30,
   "count": 2,
   "alerts": [
+    {
+      "id": "abec7e3d-65bf-4c93-914a-c400fd550d86",
+      "ts": "2026-07-17T10:44:36+00:00",
+      "address": "0x565ca59275f81991bd9877d7fa8404c5ecf6519e",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Up",
+      "price": 0.799964696,
+      "shares": 50000,
+      "usd_value": 39998.2348,
+      "price_shift_pp": 3.6154131336976314,
+      "alert_reason": "shift",
+      "market_id": "2945365",
+      "condition_id": "0x7a87c344c3d1809c52c9db8c1c74e7019597450dd53d7bd23e43a51f826842de",
+      "token_id": "50282652404465913297681133302653884365705616243194062228143222017840030324021",
+      "question": "BNB Up or Down - July 17, 6:45AM-6:50AM ET",
+      "link": "https://polyvictor.com/markets/2945365"
+    },
     {
       "id": "360bb17e-0f31-4a91-8357-dd4a8cd497ff",
       "ts": "2026-07-17T10:33:05+00:00",
       "address": "0x565ca59275f81991bd9877d7fa8404c5ecf6519e",
       "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "NO",
+      "outcome_label": "Down",
       "price": 0.7998472222222222,
       "shares": 90000,
       "usd_value": 71986.25,
       "price_shift_pp": 22.98472222222222,
       "alert_reason": "shift",
-      "market_id": null,
+      "market_id": "2945139",
       "condition_id": "0xb78362110fc131cce84a07d496846f07e34b2eec108e15ad943d83add706e7b3",
       "token_id": "112937533783992103495389755505755044378490206251797289937615389876294121322945",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
-    },
-    {
-      "id": "2dbc29f1-e9e1-467d-9b74-dba5e1191905",
-      "ts": "2026-07-17T10:08:54+00:00",
-      "address": "0x565ca59275f81991bd9877d7fa8404c5ecf6519e",
-      "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Down",
-      "price": 0.7704277525,
-      "shares": 80000,
-      "usd_value": 61634.220199999996,
-      "price_shift_pp": 66.04277524999999,
-      "alert_reason": "shift",
-      "market_id": "2945038",
-      "condition_id": "0xadd3440ad9bf434d31c3584564631d20d94e9385018f8a3d1b7cb2fa5a4ce1d6",
-      "token_id": "22964215743627118906637684546528312510949116170566573024197875303506975463413",
-      "question": "BNB Up or Down - July 17, 6:05AM-6:10AM ET",
-      "link": "https://polyvictor.com/markets/2945038"
+      "question": "BNB Up or Down - July 17, 6:30AM-6:35AM ET",
+      "link": "https://polyvictor.com/markets/2945139"
     }
   ]
 }
