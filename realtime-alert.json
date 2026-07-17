@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-17T10:46:01.092Z",
+  "generated_at": "2026-07-17T11:14:01.196Z",
   "window_minutes": 30,
   "count": 2,
   "alerts": [
+    {
+      "id": "23a0ba24-1412-4def-b773-9fe6cfd140be",
+      "ts": "2026-07-17T11:12:42+00:00",
+      "address": "0x565ca59275f81991bd9877d7fa8404c5ecf6519e",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "YES",
+      "price": 0.6698433975,
+      "shares": 80000,
+      "usd_value": 53587.4718,
+      "price_shift_pp": 15.984339749999998,
+      "alert_reason": "shift",
+      "market_id": null,
+      "condition_id": "0x9a080c46b078cff07915e2675f130aa9df88b71fbc5f9d5af5417b039877a509",
+      "token_id": "59696358554465301088614122087633595856012424554616053790166472484098492690580",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
+    },
     {
       "id": "abec7e3d-65bf-4c93-914a-c400fd550d86",
       "ts": "2026-07-17T10:44:36+00:00",
@@ -21,24 +39,6 @@
       "token_id": "50282652404465913297681133302653884365705616243194062228143222017840030324021",
       "question": "BNB Up or Down - July 17, 6:45AM-6:50AM ET",
       "link": "https://polyvictor.com/markets/2945365"
-    },
-    {
-      "id": "360bb17e-0f31-4a91-8357-dd4a8cd497ff",
-      "ts": "2026-07-17T10:33:05+00:00",
-      "address": "0x565ca59275f81991bd9877d7fa8404c5ecf6519e",
-      "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Down",
-      "price": 0.7998472222222222,
-      "shares": 90000,
-      "usd_value": 71986.25,
-      "price_shift_pp": 22.98472222222222,
-      "alert_reason": "shift",
-      "market_id": "2945139",
-      "condition_id": "0xb78362110fc131cce84a07d496846f07e34b2eec108e15ad943d83add706e7b3",
-      "token_id": "112937533783992103495389755505755044378490206251797289937615389876294121322945",
-      "question": "BNB Up or Down - July 17, 6:30AM-6:35AM ET",
-      "link": "https://polyvictor.com/markets/2945139"
     }
   ]
 }
