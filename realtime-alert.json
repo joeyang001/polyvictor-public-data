@@ -1,26 +1,44 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-17T09:30:02.792Z",
+  "generated_at": "2026-07-17T09:54:01.969Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "48cb0a39-02b6-4184-891b-ba2b86aaf61e",
+      "ts": "2026-07-17T09:53:41+00:00",
+      "address": "0x565ca59275f81991bd9877d7fa8404c5ecf6519e",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "NO",
+      "price": 0.796416138,
+      "shares": 50000,
+      "usd_value": 39820.8069,
+      "price_shift_pp": 64.6416138,
+      "alert_reason": "shift",
+      "market_id": null,
+      "condition_id": "0x3875a2fd937ea71ba419e0205a3278dfa84788ed9a71aa66d45b8606238ba5dc",
+      "token_id": "104293203468592639349934319981195762583837940971048814969556752818726192063301",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
+    },
     {
       "id": "62e6a906-5d8d-45bf-b1ad-5f5594671b33",
       "ts": "2026-07-17T09:28:32+00:00",
       "address": "0x565ca59275f81991bd9877d7fa8404c5ecf6519e",
       "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "NO",
+      "outcome_label": "Down",
       "price": 0.89995,
       "shares": 30000,
       "usd_value": 26998.5,
       "price_shift_pp": 12.871950062160408,
       "alert_reason": "shift",
-      "market_id": null,
+      "market_id": "2944463",
       "condition_id": "0x7523af511e70aa407db33d2583dfe51b382ff56499e9eb5400c4023db170e6df",
       "token_id": "34432783223412455217066444117287024208813369526506381558054584825306948223838",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
+      "question": "BNB Up or Down - July 17, 5:25AM-5:30AM ET",
+      "link": "https://polyvictor.com/markets/2944463"
     }
   ]
 }
