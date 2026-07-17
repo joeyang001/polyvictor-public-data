@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-17T19:44:00.874Z",
+  "generated_at": "2026-07-17T22:16:00.938Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "0747aa4d-497c-4787-a25b-29359fd380a8",
-      "ts": "2026-07-17T19:42:44+00:00",
-      "address": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+      "id": "c8c6296d-ee0b-410d-9f9b-6a9ca6e2a1ae",
+      "ts": "2026-07-17T22:14:58+00:00",
+      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
       "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "No",
-      "price": 0.9692194420440108,
-      "shares": 332960.67,
-      "usd_value": 322711.9548,
-      "price_shift_pp": -0.07805579559891918,
-      "alert_reason": "size",
-      "market_id": "2942018",
-      "condition_id": null,
-      "token_id": "6378631776633584701711096755651961644025777081603563784626403545311285914224",
-      "question": "Exact Score: Spain 3 - 0 Argentina?",
-      "link": "https://polyvictor.com/markets/2942018"
+      "outcome_label": "NO",
+      "price": 0.36,
+      "shares": 92654.75,
+      "usd_value": 33355.71,
+      "price_shift_pp": -3.0000000000000027,
+      "alert_reason": "shift",
+      "market_id": null,
+      "condition_id": "0x5a3d9a107c0e19086f4b306b8c7d25417145c21b7849e255534de555bd8d29a6",
+      "token_id": "41848051358178221406754413513409620023060362444959250379838821986848415786889",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
