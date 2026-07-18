@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-18T22:02:01.086Z",
+  "generated_at": "2026-07-18T22:18:01.668Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "5a0746e1-30ac-440e-b783-364f59bb8214",
+      "ts": "2026-07-18T22:17:30+00:00",
+      "address": "0xf78024882a7b298247485ed485732b1e35c6be2c",
+      "side": "sell",
+      "outcome_index": 0,
+      "outcome_label": "France",
+      "price": 0.1832957919160441,
+      "shares": 229299.37,
+      "usd_value": 42029.60961,
+      "price_shift_pp": -3.570419594177801,
+      "alert_reason": "shift",
+      "market_id": "2943451",
+      "condition_id": "0xaeec5397b4ee2ce20555c0099f0dcf4de4648a2f080c2d10b65ceaff9c26d7a8",
+      "token_id": "68383229798738153843260173110368067454393737148304707811610243859638727205428",
+      "question": "France vs. England: Team to Win",
+      "link": "https://polyvictor.com/markets/2943451"
+    },
     {
       "id": "1d2f5704-f2e1-4600-aedb-352c49e673a2",
       "ts": "2026-07-18T22:01:17+00:00",
