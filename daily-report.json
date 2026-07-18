@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-07-17",
-  "generated_at": "2026-07-17T14:00:07.656Z",
+  "date": "2026-07-18",
+  "generated_at": "2026-07-18T14:00:06.976Z",
   "status": "success",
   "tweet_ids": [
-    "2078117545932910913",
-    "2078117547128332673"
+    "2078479930833117664",
+    "2078479932087324787"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 402,
-    "total_volume_usd": 17913989.721599992,
-    "unique_whales": 140,
-    "buy_volume_usd": 13538087.405542001,
-    "sell_volume_usd": 4375902.3160580015,
+    "total_fills": 382,
+    "total_volume_usd": 16301768.48571001,
+    "unique_whales": 143,
+    "buy_volume_usd": 11608774.866240002,
+    "sell_volume_usd": 4692993.61947,
     "top_markets": [
+      {
+        "market_id": "2943451",
+        "question": "France vs. England: Team to Win",
+        "volume_usd": 1068906.17406,
+        "fills": 18,
+        "link": "https://polyvictor.com/markets/2943451"
+      },
       {
         "market_id": "558938",
         "question": "Will Argentina win the 2026 FIFA World Cup?",
-        "volume_usd": 1503742.2304119996,
-        "fills": 30,
+        "volume_usd": 873235.86812,
+        "fills": 37,
         "link": "https://polyvictor.com/markets/558938"
       },
       {
-        "market_id": "2938102",
-        "question": "Croatia Open: Alex Molcan vs Alejandro Davidovich Fokina",
-        "volume_usd": 1410308.904956,
-        "fills": 22,
-        "link": "https://polyvictor.com/markets/2938102"
-      },
-      {
-        "market_id": "2870228",
-        "question": "New York Mets vs. Philadelphia Phillies",
-        "volume_usd": 1115624.7897380001,
-        "fills": 20,
-        "link": "https://polyvictor.com/markets/2870228"
+        "market_id": "2959706",
+        "question": "LoL: T1 vs Karmine Corp (BO3) - Esports World Cup Playoffs",
+        "volume_usd": 789814.1201620001,
+        "fills": 16,
+        "link": "https://polyvictor.com/markets/2959706"
       }
     ],
     "top_whales": [
       {
-        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 1347728.212226,
-        "fills": 24,
-        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
+        "address": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+        "volume_usd": 762216.37259,
+        "fills": 7,
+        "link": "https://polyvictor.com/whales/0x84cfffc3f16dcc353094de30d4a45226eccd2f63"
       },
       {
-        "address": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
-        "volume_usd": 1194996.7075659998,
-        "fills": 20,
-        "link": "https://polyvictor.com/whales/0x6d20c35f65d9899b6d6b74f8466e824580f9a165"
+        "address": "0xe9076a87c5ed90ef16e6fe6529c943baeca0cff6",
+        "volume_usd": 678892.8377289999,
+        "fills": 7,
+        "link": "https://polyvictor.com/whales/0xe9076a87c5ed90ef16e6fe6529c943baeca0cff6"
       },
       {
-        "address": "0x565ca59275f81991bd9877d7fa8404c5ecf6519e",
-        "volume_usd": 1099834.3784999999,
-        "fills": 21,
-        "link": "https://polyvictor.com/whales/0x565ca59275f81991bd9877d7fa8404c5ecf6519e"
+        "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+        "volume_usd": 632185.9705579999,
+        "fills": 17,
+        "link": "https://polyvictor.com/whales/0x204f72f35326db932158cba6adff0b9a1da95e14"
       }
     ],
     "biggest_fill": {
-      "address": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
-      "usd": 203796,
-      "side": "sell",
-      "price": 0.999,
-      "market_id": "2938102",
-      "question": "Croatia Open: Alex Molcan vs Alejandro Davidovich Fokina",
-      "link": "https://polyvictor.com/markets/2938102"
+      "address": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+      "usd": 322711.9548,
+      "side": "buy",
+      "price": 0.9692194420440108,
+      "market_id": null,
+      "question": "(unresolved market)",
+      "link": "https://polyvictor.com/whales"
     }
   }
 }
