@@ -1,44 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-18T20:00:04.552Z",
+  "generated_at": "2026-07-18T20:46:00.759Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 1,
   "alerts": [
     {
-      "id": "bc3c6831-be9c-424b-8576-c8696820af04",
-      "ts": "2026-07-18T19:59:32+00:00",
-      "address": "0x9f2fe025f84839ca81dd8e0338892605702d2ca8",
+      "id": "a145fc79-137b-49ed-9cf1-1f5209360643",
+      "ts": "2026-07-18T20:45:17+00:00",
+      "address": "0xc3acf5878a03523d09a3ac859943445d7baeb964",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "France",
-      "price": 0.68,
-      "shares": 480539.58,
-      "usd_value": 326766.9144,
+      "outcome_label": "Yes",
+      "price": 0.56,
+      "shares": 582815.02,
+      "usd_value": 326376.41120000003,
       "price_shift_pp": 0,
       "alert_reason": "size",
-      "market_id": "2943451",
-      "condition_id": "0xaeec5397b4ee2ce20555c0099f0dcf4de4648a2f080c2d10b65ceaff9c26d7a8",
-      "token_id": "68383229798738153843260173110368067454393737148304707811610243859638727205428",
-      "question": "France vs. England: Team to Win",
-      "link": "https://polyvictor.com/markets/2943451"
-    },
-    {
-      "id": "1802435a-189b-4684-a961-0afeb399c3ab",
-      "ts": "2026-07-18T19:45:12+00:00",
-      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-      "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "No",
-      "price": 0.77,
-      "shares": 810382.57,
-      "usd_value": 623994.5789,
-      "price_shift_pp": 0,
-      "alert_reason": "size",
-      "market_id": "2941973",
-      "condition_id": "0xaf767784230a131d5c4dc31e6b3cc4b4e898e03af20a75d5935a75100a76a46f",
-      "token_id": "34385162543059510571975707768358382063196208867331187336985212373807572088934",
-      "question": "Will England win on 2026-07-18?",
-      "link": "https://polyvictor.com/markets/2941973"
+      "market_id": "2941971",
+      "condition_id": "0xc41f543ccb7a1a35a200c28096cc2e5c2351c54546087f4f6cf5c4ef3e0c1aa5",
+      "token_id": "27017352779469567119021515174282416893555366624071034758236558815968401338728",
+      "question": "Will France win on 2026-07-18?",
+      "link": "https://polyvictor.com/markets/2941971"
     }
   ]
 }
