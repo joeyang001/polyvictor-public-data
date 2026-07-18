@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-18T20:46:00.759Z",
+  "generated_at": "2026-07-18T21:12:01.076Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "efea4cce-28bf-47e3-9fe8-69dde5fb22d2",
+      "ts": "2026-07-18T21:11:09+00:00",
+      "address": "0x06f22ff6d9362ce82243f8ca594c97485d9c1269",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.64,
+      "shares": 39906.796875,
+      "usd_value": 25540.350000000002,
+      "price_shift_pp": -10.999999999999998,
+      "alert_reason": "shift",
+      "market_id": "2941971",
+      "condition_id": "0xc41f543ccb7a1a35a200c28096cc2e5c2351c54546087f4f6cf5c4ef3e0c1aa5",
+      "token_id": "24700818764893371447983775874874488061572200819525844393509377284018768095208",
+      "question": "Will France win on 2026-07-18?",
+      "link": "https://polyvictor.com/markets/2941971"
+    },
     {
       "id": "a145fc79-137b-49ed-9cf1-1f5209360643",
       "ts": "2026-07-18T20:45:17+00:00",
