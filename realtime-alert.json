@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-18T22:18:01.668Z",
+  "generated_at": "2026-07-18T22:32:01.099Z",
   "window_minutes": 30,
   "count": 2,
   "alerts": [
+    {
+      "id": "a0f52011-a2d2-4017-8fb2-152a33992944",
+      "ts": "2026-07-18T22:30:08+00:00",
+      "address": "0x83255595ba1fadd2e734cb30a0fb8110301a19cc",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "England",
+      "price": 0.6069907016797722,
+      "shares": 51164.08,
+      "usd_value": 31056.12082,
+      "price_shift_pp": 4.699070167977215,
+      "alert_reason": "shift",
+      "market_id": "2943451",
+      "condition_id": "0xaeec5397b4ee2ce20555c0099f0dcf4de4648a2f080c2d10b65ceaff9c26d7a8",
+      "token_id": "19937769871419809473954673695368929587069246301853660575164489787400178851999",
+      "question": "France vs. England: Team to Win",
+      "link": "https://polyvictor.com/markets/2943451"
+    },
     {
       "id": "5a0746e1-30ac-440e-b783-364f59bb8214",
       "ts": "2026-07-18T22:17:30+00:00",
@@ -21,24 +39,6 @@
       "token_id": "68383229798738153843260173110368067454393737148304707811610243859638727205428",
       "question": "France vs. England: Team to Win",
       "link": "https://polyvictor.com/markets/2943451"
-    },
-    {
-      "id": "1d2f5704-f2e1-4600-aedb-352c49e673a2",
-      "ts": "2026-07-18T22:01:17+00:00",
-      "address": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
-      "side": "sell",
-      "outcome_index": 0,
-      "outcome_label": "Over",
-      "price": 0.999,
-      "shares": 361332.23,
-      "usd_value": 360970.89777,
-      "price_shift_pp": 0,
-      "alert_reason": "size",
-      "market_id": "2942114",
-      "condition_id": "0x8ee99ee9a4b5e2c9ef24d5eadd17890a8961f1bfd9a3f3f321d40cf0f617efc6",
-      "token_id": "95915378873861214136464741197731679476285197462037980287078869056825510229415",
-      "question": "France vs. England: O/U 3.5",
-      "link": "https://polyvictor.com/markets/2942114"
     }
   ]
 }
