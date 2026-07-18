@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-17T22:16:00.938Z",
+  "generated_at": "2026-07-18T08:00:06.987Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "c8c6296d-ee0b-410d-9f9b-6a9ca6e2a1ae",
-      "ts": "2026-07-17T22:14:58+00:00",
-      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+      "id": "bdca6a8d-b1d9-4b69-8db8-b43ccace64ce",
+      "ts": "2026-07-18T07:58:55+00:00",
+      "address": "0xe549581668a5751c1972d3ad2d1991d900bd2d54",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "NO",
-      "price": 0.36,
-      "shares": 92654.75,
-      "usd_value": 33355.71,
-      "price_shift_pp": -3.0000000000000027,
-      "alert_reason": "shift",
-      "market_id": null,
-      "condition_id": "0x5a3d9a107c0e19086f4b306b8c7d25417145c21b7849e255534de555bd8d29a6",
-      "token_id": "41848051358178221406754413513409620023060362444959250379838821986848415786889",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.52,
+      "shares": 500000,
+      "usd_value": 260000,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "2941971",
+      "condition_id": "0xc41f543ccb7a1a35a200c28096cc2e5c2351c54546087f4f6cf5c4ef3e0c1aa5",
+      "token_id": "27017352779469567119021515174282416893555366624071034758236558815968401338728",
+      "question": "Will France win on 2026-07-18?",
+      "link": "https://polyvictor.com/markets/2941971"
     }
   ]
 }
