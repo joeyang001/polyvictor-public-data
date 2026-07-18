@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-18T22:32:01.099Z",
+  "generated_at": "2026-07-18T22:48:01.030Z",
   "window_minutes": 30,
   "count": 2,
   "alerts": [
+    {
+      "id": "7e4682d4-0ee5-4451-bce1-fc0dffc576ff",
+      "ts": "2026-07-18T22:47:26+00:00",
+      "address": "0x83255595ba1fadd2e734cb30a0fb8110301a19cc",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.7497877202927453,
+      "shares": 54139.89,
+      "usd_value": 40593.424699999996,
+      "price_shift_pp": -8.021227970725464,
+      "alert_reason": "shift",
+      "market_id": "2941972",
+      "condition_id": "0x4822d1452ba17d280b2c271db0e58df7866c9b494040649ab6c6ae8bb7363b18",
+      "token_id": "112547101819436418115775183743525115211037676921707460770609242558856503450400",
+      "question": "Will France vs. England end in a draw?",
+      "link": "https://polyvictor.com/markets/2941972"
+    },
     {
       "id": "a0f52011-a2d2-4017-8fb2-152a33992944",
       "ts": "2026-07-18T22:30:08+00:00",
@@ -19,24 +37,6 @@
       "market_id": "2943451",
       "condition_id": "0xaeec5397b4ee2ce20555c0099f0dcf4de4648a2f080c2d10b65ceaff9c26d7a8",
       "token_id": "19937769871419809473954673695368929587069246301853660575164489787400178851999",
-      "question": "France vs. England: Team to Win",
-      "link": "https://polyvictor.com/markets/2943451"
-    },
-    {
-      "id": "5a0746e1-30ac-440e-b783-364f59bb8214",
-      "ts": "2026-07-18T22:17:30+00:00",
-      "address": "0xf78024882a7b298247485ed485732b1e35c6be2c",
-      "side": "sell",
-      "outcome_index": 0,
-      "outcome_label": "France",
-      "price": 0.1832957919160441,
-      "shares": 229299.37,
-      "usd_value": 42029.60961,
-      "price_shift_pp": -3.570419594177801,
-      "alert_reason": "shift",
-      "market_id": "2943451",
-      "condition_id": "0xaeec5397b4ee2ce20555c0099f0dcf4de4648a2f080c2d10b65ceaff9c26d7a8",
-      "token_id": "68383229798738153843260173110368067454393737148304707811610243859638727205428",
       "question": "France vs. England: Team to Win",
       "link": "https://polyvictor.com/markets/2943451"
     }
