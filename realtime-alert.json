@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-19T22:06:01.044Z",
+  "generated_at": "2026-07-19T22:08:01.081Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 3,
   "alerts": [
+    {
+      "id": "87d9dbc1-a191-4de9-b87d-00cd58f1ea32",
+      "ts": "2026-07-19T22:06:15+00:00",
+      "address": "0xc8ec6d4cef5c5fe8409ef69303c37f05b678e8f1",
+      "side": "sell",
+      "outcome_index": 0,
+      "outcome_label": "Spain",
+      "price": 0.9975,
+      "shares": 318043.44,
+      "usd_value": 317248.3314,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "2942083",
+      "condition_id": "0x4b045e092c3166aa29d4864c11dffe7e316daafdac5677f11aa5cd16065fd042",
+      "token_id": "21489275813654264105403246157265887827595023709508765470113828829105196462288",
+      "question": "Spain vs. Argentina: Team to Advance",
+      "link": "https://polyvictor.com/markets/2942083"
+    },
     {
       "id": "44698340-d0ed-4386-b469-f0faeb4260e3",
       "ts": "2026-07-19T22:05:50+00:00",
