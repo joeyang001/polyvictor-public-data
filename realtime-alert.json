@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-19T03:30:06.673Z",
+  "generated_at": "2026-07-19T09:06:00.802Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "6d7e9358-a73e-4cef-83b7-b5c2c4f8fecb",
-      "ts": "2026-07-19T03:28:35+00:00",
-      "address": "0xd84949634cf9aac74cab066cb978ac33ac676ac7",
+      "id": "3a784229-6cb2-445a-b3be-9a0da0b59d87",
+      "ts": "2026-07-19T09:04:06+00:00",
+      "address": "0xe8d6abc4bc8ae7598d64ee9d27300016200dd5db",
       "side": "sell",
       "outcome_index": 1,
-      "outcome_label": "Yunchaokete Bu",
-      "price": 0.5690200417093093,
-      "shares": 51787,
-      "usd_value": 29467.840900000003,
-      "price_shift_pp": -3.097995829069067,
+      "outcome_label": "No",
+      "price": 0.6329190375221428,
+      "shares": 46199.92,
+      "usd_value": 29240.808899999996,
+      "price_shift_pp": 19.277456020389756,
       "alert_reason": "shift",
-      "market_id": "2968649",
-      "condition_id": "0x025965534230f7496d6e29a5f44dde3b30b3a2cdb9c4cd3fa3cf0daa5e958681",
-      "token_id": "59384756100998624407749241643501757237481236539481066804193971112430826335212",
-      "question": "Lincoln: Mark Lajal vs Yunchaokete Bu",
-      "link": "https://polyvictor.com/markets/2968649"
+      "market_id": "1633611",
+      "condition_id": "0xe6d5e5da83874cd82c9b651a8a5d4fc541a800a295fb62e85124b4f5a04a4b7d",
+      "token_id": "32952048155093419718055060819712841482842350791391116195205201413217889733414",
+      "question": "Will China invade Taiwan by December 31, 2027?",
+      "link": "https://polyvictor.com/markets/1633611"
     }
   ]
 }
