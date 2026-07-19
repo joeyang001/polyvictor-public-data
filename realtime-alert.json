@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-19T18:12:01.349Z",
+  "generated_at": "2026-07-19T18:26:01.377Z",
   "window_minutes": 30,
   "count": 2,
   "alerts": [
+    {
+      "id": "0e2e7b23-737b-475d-bba8-727c9b791a9d",
+      "ts": "2026-07-19T18:25:33+00:00",
+      "address": "0x7c1ee865a785de4c00ee90ed86a38489fb8bbab3",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.409,
+      "shares": 773985.8,
+      "usd_value": 316560.1922,
+      "price_shift_pp": -0.09999688399899287,
+      "alert_reason": "size",
+      "market_id": "558934",
+      "condition_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+      "token_id": "112680630004798425069810935278212000865453267506345451433803052322987302357330",
+      "question": "Will Spain win the 2026 FIFA World Cup?",
+      "link": "https://polyvictor.com/markets/558934"
+    },
     {
       "id": "ca6852ab-4fa9-432b-b033-9f3e9cc3b2d4",
       "ts": "2026-07-19T18:10:22+00:00",
@@ -21,24 +39,6 @@
       "token_id": "4394372887385518214471608448209527405727552777602031099972143344338178308080",
       "question": "Will Spain win the 2026 FIFA World Cup?",
       "link": "https://polyvictor.com/markets/558934"
-    },
-    {
-      "id": "43901c3a-3f0a-45f8-a476-97bae500a09a",
-      "ts": "2026-07-19T17:53:28+00:00",
-      "address": "0xa2cd4ccda9a1f95949df7a3355c4c2daa0642ba0",
-      "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.93,
-      "shares": 278118.74,
-      "usd_value": 258650.4282,
-      "price_shift_pp": 1.0000000000000009,
-      "alert_reason": "size",
-      "market_id": "2069638",
-      "condition_id": "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e",
-      "token_id": "109346928118758112535699085058290058645349086894874742550948182824395861480007",
-      "question": "Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?",
-      "link": "https://polyvictor.com/markets/2069638"
     }
   ]
 }
