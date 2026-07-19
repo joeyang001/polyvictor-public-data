@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-19T18:30:02.804Z",
+  "generated_at": "2026-07-19T18:44:01.337Z",
   "window_minutes": 30,
   "count": 3,
   "alerts": [
+    {
+      "id": "bd56d20b-97b2-423c-950e-72d2198db916",
+      "ts": "2026-07-19T18:42:54+00:00",
+      "address": "0x3a6a2e7a7707c720219228eb8efa7398bc0e458e",
+      "side": "sell",
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.584,
+      "shares": 525000,
+      "usd_value": 306600,
+      "price_shift_pp": -0.10000000000000009,
+      "alert_reason": "size",
+      "market_id": "558934",
+      "condition_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+      "token_id": "4394372887385518214471608448209527405727552777602031099972143344338178308080",
+      "question": "Will Spain win the 2026 FIFA World Cup?",
+      "link": "https://polyvictor.com/markets/558934"
+    },
     {
       "id": "0167cbdf-2b58-48ad-aa07-be2744213d99",
       "ts": "2026-07-19T18:28:46+00:00",
@@ -37,24 +55,6 @@
       "market_id": "558934",
       "condition_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
       "token_id": "112680630004798425069810935278212000865453267506345451433803052322987302357330",
-      "question": "Will Spain win the 2026 FIFA World Cup?",
-      "link": "https://polyvictor.com/markets/558934"
-    },
-    {
-      "id": "ca6852ab-4fa9-432b-b033-9f3e9cc3b2d4",
-      "ts": "2026-07-19T18:10:22+00:00",
-      "address": "0x89b43cb12b5073b99c5c23d401f788167fceee59",
-      "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.5919999999997444,
-      "shares": 1314430.185808,
-      "usd_value": 778142.669998,
-      "price_shift_pp": 0.09999999997444275,
-      "alert_reason": "size",
-      "market_id": "558934",
-      "condition_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
-      "token_id": "4394372887385518214471608448209527405727552777602031099972143344338178308080",
       "question": "Will Spain win the 2026 FIFA World Cup?",
       "link": "https://polyvictor.com/markets/558934"
     }
