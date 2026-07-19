@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-19T16:48:01.175Z",
+  "generated_at": "2026-07-19T17:54:01.563Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "68587449-e4ee-41cf-8df3-72c750f1f05a",
-      "ts": "2026-07-19T16:47:20+00:00",
-      "address": "0x547f2917d51f2e63ab382dcf641d4e0240162937",
+      "id": "43901c3a-3f0a-45f8-a476-97bae500a09a",
+      "ts": "2026-07-19T17:53:28+00:00",
+      "address": "0xa2cd4ccda9a1f95949df7a3355c4c2daa0642ba0",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Under",
-      "price": 0.6499839191546989,
-      "shares": 43530.05,
-      "usd_value": 28293.8325,
-      "price_shift_pp": 5.998392969765554,
-      "alert_reason": "shift",
-      "market_id": "2966353",
-      "condition_id": "0x2d8a314dfb6fe0e93b7693933a08f0ab27afe2779f88abf7bbea5a46df9eb3d3",
-      "token_id": "48755373824753568696378934588079333354417542199578753466410910978393407330792",
-      "question": "Los Angeles Dodgers vs. New York Yankees: O/U 8.5",
-      "link": "https://polyvictor.com/markets/2966353"
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.93,
+      "shares": 278118.74,
+      "usd_value": 258650.4282,
+      "price_shift_pp": 1.0000000000000009,
+      "alert_reason": "size",
+      "market_id": "2069638",
+      "condition_id": "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e",
+      "token_id": "109346928118758112535699085058290058645349086894874742550948182824395861480007",
+      "question": "Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?",
+      "link": "https://polyvictor.com/markets/2069638"
     }
   ]
 }
