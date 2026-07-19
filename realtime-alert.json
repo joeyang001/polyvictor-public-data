@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-19T12:56:05.640Z",
+  "generated_at": "2026-07-19T13:46:03.789Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "8028932f-4308-4c0c-ade5-6120455293c3",
-      "ts": "2026-07-19T12:54:05+00:00",
-      "address": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
-      "side": "sell",
+      "id": "2fafd392-fe89-4237-9029-cf489d77ab64",
+      "ts": "2026-07-19T13:45:36+00:00",
+      "address": "0xe3f1fb88b9eabc743e2a2d947e2efdba5e99bd92",
+      "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Andrey Rublev",
-      "price": 0.7861040582457475,
-      "shares": 47993.89,
-      "usd_value": 37728.191699999996,
-      "price_shift_pp": 4.357274395733635,
-      "alert_reason": "shift",
-      "market_id": "2980272",
-      "condition_id": "0xf8ac0137233acbb557852ddc40e51fe669dabb3f133fe286f06bdcd5a72c27f2",
-      "token_id": "49247286686648579203980902715196056201563444584071671430243835926924252456727",
-      "question": "Swedish Open: Andrey Rublev vs Luciano Darderi",
-      "link": "https://polyvictor.com/markets/2980272"
+      "outcome_label": "Yes",
+      "price": 0.591,
+      "shares": 1022378.83,
+      "usd_value": 604225.88853,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "558934",
+      "condition_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+      "token_id": "4394372887385518214471608448209527405727552777602031099972143344338178308080",
+      "question": "Will Spain win the 2026 FIFA World Cup?",
+      "link": "https://polyvictor.com/markets/558934"
     }
   ]
 }
