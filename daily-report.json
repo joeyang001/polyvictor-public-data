@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-07-18",
-  "generated_at": "2026-07-18T14:00:06.976Z",
+  "date": "2026-07-19",
+  "generated_at": "2026-07-19T14:00:08.150Z",
   "status": "success",
   "tweet_ids": [
-    "2078479930833117664",
-    "2078479932087324787"
+    "2078842321676767604",
+    "2078842323601887245"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 382,
-    "total_volume_usd": 16301768.48571001,
-    "unique_whales": 143,
-    "buy_volume_usd": 11608774.866240002,
-    "sell_volume_usd": 4692993.61947,
+    "total_fills": 1000,
+    "total_volume_usd": 47182424.975250095,
+    "unique_whales": 270,
+    "buy_volume_usd": 36277948.97520504,
+    "sell_volume_usd": 10904476.000044994,
     "top_markets": [
+      {
+        "market_id": "2941971",
+        "question": "Will France win on 2026-07-18?",
+        "volume_usd": 5071040.792233999,
+        "fills": 93,
+        "link": "https://polyvictor.com/markets/2941971"
+      },
       {
         "market_id": "2943451",
         "question": "France vs. England: Team to Win",
-        "volume_usd": 1068906.17406,
-        "fills": 18,
+        "volume_usd": 4363541.232848999,
+        "fills": 84,
         "link": "https://polyvictor.com/markets/2943451"
       },
       {
-        "market_id": "558938",
-        "question": "Will Argentina win the 2026 FIFA World Cup?",
-        "volume_usd": 873235.86812,
-        "fills": 37,
-        "link": "https://polyvictor.com/markets/558938"
-      },
-      {
-        "market_id": "2959706",
-        "question": "LoL: T1 vs Karmine Corp (BO3) - Esports World Cup Playoffs",
-        "volume_usd": 789814.1201620001,
-        "fills": 16,
-        "link": "https://polyvictor.com/markets/2959706"
+        "market_id": "2941973",
+        "question": "Will England win on 2026-07-18?",
+        "volume_usd": 2904125.1000980004,
+        "fills": 50,
+        "link": "https://polyvictor.com/markets/2941973"
       }
     ],
     "top_whales": [
       {
-        "address": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
-        "volume_usd": 762216.37259,
-        "fills": 7,
-        "link": "https://polyvictor.com/whales/0x84cfffc3f16dcc353094de30d4a45226eccd2f63"
+        "address": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+        "volume_usd": 1888503.61072,
+        "fills": 29,
+        "link": "https://polyvictor.com/whales/0x4bff30af91642dc7d2b19a8664378fe55c45fc26"
       },
       {
-        "address": "0xe9076a87c5ed90ef16e6fe6529c943baeca0cff6",
-        "volume_usd": 678892.8377289999,
-        "fills": 7,
-        "link": "https://polyvictor.com/whales/0xe9076a87c5ed90ef16e6fe6529c943baeca0cff6"
+        "address": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+        "volume_usd": 1874797.16512,
+        "fills": 37,
+        "link": "https://polyvictor.com/whales/0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf"
       },
       {
         "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-        "volume_usd": 632185.9705579999,
-        "fills": 17,
+        "volume_usd": 1598761.2911460001,
+        "fills": 47,
         "link": "https://polyvictor.com/whales/0x204f72f35326db932158cba6adff0b9a1da95e14"
       }
     ],
     "biggest_fill": {
-      "address": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
-      "usd": 322711.9548,
+      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+      "usd": 623994.5789,
       "side": "buy",
-      "price": 0.9692194420440108,
-      "market_id": null,
-      "question": "(unresolved market)",
-      "link": "https://polyvictor.com/whales"
+      "price": 0.77,
+      "market_id": "2941973",
+      "question": "Will England win on 2026-07-18?",
+      "link": "https://polyvictor.com/markets/2941973"
     }
   }
 }
