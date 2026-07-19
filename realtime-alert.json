@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-19T16:02:03.008Z",
+  "generated_at": "2026-07-19T16:48:01.175Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "192cc046-4436-45d7-bd2e-a870aa53e825",
-      "ts": "2026-07-19T16:01:38+00:00",
-      "address": "0x9ba708d51ab57633e6418c9b886dd842ff02f56b",
+      "id": "68587449-e4ee-41cf-8df3-72c750f1f05a",
+      "ts": "2026-07-19T16:47:20+00:00",
+      "address": "0x547f2917d51f2e63ab382dcf641d4e0240162937",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.409,
-      "shares": 631478.76,
-      "usd_value": 258274.81284,
-      "price_shift_pp": 0.00001120660813591634,
-      "alert_reason": "size",
-      "market_id": "558938",
-      "condition_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
-      "token_id": "18812649149814341758733697580460697418474693998558159483117100240528657629879",
-      "question": "Will Argentina win the 2026 FIFA World Cup?",
-      "link": "https://polyvictor.com/markets/558938"
+      "outcome_index": 1,
+      "outcome_label": "Under",
+      "price": 0.6499839191546989,
+      "shares": 43530.05,
+      "usd_value": 28293.8325,
+      "price_shift_pp": 5.998392969765554,
+      "alert_reason": "shift",
+      "market_id": "2966353",
+      "condition_id": "0x2d8a314dfb6fe0e93b7693933a08f0ab27afe2779f88abf7bbea5a46df9eb3d3",
+      "token_id": "48755373824753568696378934588079333354417542199578753466410910978393407330792",
+      "question": "Los Angeles Dodgers vs. New York Yankees: O/U 8.5",
+      "link": "https://polyvictor.com/markets/2966353"
     }
   ]
 }
