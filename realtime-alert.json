@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-19T09:58:00.883Z",
+  "generated_at": "2026-07-19T12:56:05.640Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "b3d105ba-5c97-4458-8899-0bc37d1f5134",
-      "ts": "2026-07-19T09:57:33+00:00",
-      "address": "0xe8d6abc4bc8ae7598d64ee9d27300016200dd5db",
-      "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "No",
-      "price": 0.9002047916494397,
-      "shares": 73407.29,
-      "usd_value": 66081.59419999999,
-      "price_shift_pp": 4.641465403476075,
+      "id": "8028932f-4308-4c0c-ade5-6120455293c3",
+      "ts": "2026-07-19T12:54:05+00:00",
+      "address": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+      "side": "sell",
+      "outcome_index": 0,
+      "outcome_label": "Andrey Rublev",
+      "price": 0.7861040582457475,
+      "shares": 47993.89,
+      "usd_value": 37728.191699999996,
+      "price_shift_pp": 4.357274395733635,
       "alert_reason": "shift",
-      "market_id": "1633611",
-      "condition_id": "0xe6d5e5da83874cd82c9b651a8a5d4fc541a800a295fb62e85124b4f5a04a4b7d",
-      "token_id": "32952048155093419718055060819712841482842350791391116195205201413217889733414",
-      "question": "Will China invade Taiwan by December 31, 2027?",
-      "link": "https://polyvictor.com/markets/1633611"
+      "market_id": "2980272",
+      "condition_id": "0xf8ac0137233acbb557852ddc40e51fe669dabb3f133fe286f06bdcd5a72c27f2",
+      "token_id": "49247286686648579203980902715196056201563444584071671430243835926924252456727",
+      "question": "Swedish Open: Andrey Rublev vs Luciano Darderi",
+      "link": "https://polyvictor.com/markets/2980272"
     }
   ]
 }
