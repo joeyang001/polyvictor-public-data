@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-19T13:46:03.789Z",
+  "generated_at": "2026-07-19T13:50:05.770Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "64f1304b-f6a6-4912-90be-cd23170d47f4",
+      "ts": "2026-07-19T13:48:17+00:00",
+      "address": "0xe3f1fb88b9eabc743e2a2d947e2efdba5e99bd92",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.591,
+      "shares": 559293.92,
+      "usd_value": 330542.70672,
+      "price_shift_pp": 3.9432501708347445e-8,
+      "alert_reason": "size",
+      "market_id": "558934",
+      "condition_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+      "token_id": "4394372887385518214471608448209527405727552777602031099972143344338178308080",
+      "question": "Will Spain win the 2026 FIFA World Cup?",
+      "link": "https://polyvictor.com/markets/558934"
+    },
     {
       "id": "2fafd392-fe89-4237-9029-cf489d77ab64",
       "ts": "2026-07-19T13:45:36+00:00",
