@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-07-19",
-  "generated_at": "2026-07-19T14:00:08.150Z",
+  "date": "2026-07-20",
+  "generated_at": "2026-07-20T14:00:05.616Z",
   "status": "success",
   "tweet_ids": [
-    "2078842321676767604",
-    "2078842323601887245"
+    "2079204699912171763",
+    "2079204701132792245"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
     "total_fills": 1000,
-    "total_volume_usd": 47182424.975250095,
-    "unique_whales": 270,
-    "buy_volume_usd": 36277948.97520504,
-    "sell_volume_usd": 10904476.000044994,
+    "total_volume_usd": 65081988.87562509,
+    "unique_whales": 314,
+    "buy_volume_usd": 39298547.841129,
+    "sell_volume_usd": 25783441.034496,
     "top_markets": [
       {
-        "market_id": "2941971",
-        "question": "Will France win on 2026-07-18?",
-        "volume_usd": 5071040.792233999,
-        "fills": 93,
-        "link": "https://polyvictor.com/markets/2941971"
+        "market_id": "558934",
+        "question": "Will Spain win the 2026 FIFA World Cup?",
+        "volume_usd": 26199362.097003985,
+        "fills": 155,
+        "link": "https://polyvictor.com/markets/558934"
       },
       {
-        "market_id": "2943451",
-        "question": "France vs. England: Team to Win",
-        "volume_usd": 4363541.232848999,
-        "fills": 84,
-        "link": "https://polyvictor.com/markets/2943451"
+        "market_id": "2942083",
+        "question": "Spain vs. Argentina: Team to Advance",
+        "volume_usd": 9268929.71213,
+        "fills": 160,
+        "link": "https://polyvictor.com/markets/2942083"
       },
       {
-        "market_id": "2941973",
-        "question": "Will England win on 2026-07-18?",
-        "volume_usd": 2904125.1000980004,
-        "fills": 50,
-        "link": "https://polyvictor.com/markets/2941973"
+        "market_id": "2941975",
+        "question": "Will Spain vs. Argentina end in a draw?",
+        "volume_usd": 2788653.3486349997,
+        "fills": 44,
+        "link": "https://polyvictor.com/markets/2941975"
       }
     ],
     "top_whales": [
       {
-        "address": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
-        "volume_usd": 1888503.61072,
-        "fills": 29,
-        "link": "https://polyvictor.com/whales/0x4bff30af91642dc7d2b19a8664378fe55c45fc26"
+        "address": "0xe3f1fb88b9eabc743e2a2d947e2efdba5e99bd92",
+        "volume_usd": 6140858.13581,
+        "fills": 9,
+        "link": "https://polyvictor.com/whales/0xe3f1fb88b9eabc743e2a2d947e2efdba5e99bd92"
       },
       {
-        "address": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
-        "volume_usd": 1874797.16512,
-        "fills": 37,
-        "link": "https://polyvictor.com/whales/0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf"
+        "address": "0x05a0bf3fa5775a5e38d4ed6688cce88130460df2",
+        "volume_usd": 5012145.04554,
+        "fills": 9,
+        "link": "https://polyvictor.com/whales/0x05a0bf3fa5775a5e38d4ed6688cce88130460df2"
       },
       {
-        "address": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-        "volume_usd": 1598761.2911460001,
-        "fills": 47,
-        "link": "https://polyvictor.com/whales/0x204f72f35326db932158cba6adff0b9a1da95e14"
+        "address": "0x89b43cb12b5073b99c5c23d401f788167fceee59",
+        "volume_usd": 3404308.5138580003,
+        "fills": 3,
+        "link": "https://polyvictor.com/whales/0x89b43cb12b5073b99c5c23d401f788167fceee59"
       }
     ],
     "biggest_fill": {
-      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-      "usd": 623994.5789,
-      "side": "buy",
-      "price": 0.77,
-      "market_id": "2941973",
-      "question": "Will England win on 2026-07-18?",
-      "link": "https://polyvictor.com/markets/2941973"
+      "address": "0xe3f1fb88b9eabc743e2a2d947e2efdba5e99bd92",
+      "usd": 2397768.32151,
+      "side": "sell",
+      "price": 0.999,
+      "market_id": "558934",
+      "question": "Will Spain win the 2026 FIFA World Cup?",
+      "link": "https://polyvictor.com/markets/558934"
     }
   }
 }
