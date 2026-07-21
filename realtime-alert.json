@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-21T20:58:01.311Z",
+  "generated_at": "2026-07-21T23:48:00.945Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "ab73789e-3d9e-4eff-9248-62f4f919f020",
-      "ts": "2026-07-21T20:56:20+00:00",
-      "address": "0x69c5c6f6a4dda665991c203bc8d5df3e006b1e01",
-      "side": "sell",
-      "outcome_index": 1,
-      "outcome_label": "No",
-      "price": 0.829714950846914,
-      "shares": 51102.59,
-      "usd_value": 42400.582949999996,
-      "price_shift_pp": -6.3285049153085975,
-      "alert_reason": "shift",
-      "market_id": "1931108",
-      "condition_id": "0xaf12bd1a9ec448b428e5879f180b9b05d17cdf6a6af3c20d8a4b7327ca6bfd37",
-      "token_id": "85418243160365189973163574658090696894227655236478183199339782372790668936005",
-      "question": "Will LeBron James play for the Golden State Warriors in 2026-27?",
-      "link": "https://polyvictor.com/markets/1931108"
+      "id": "fa91948f-f64c-4fbf-8e56-873f14935b90",
+      "ts": "2026-07-21T23:46:48+00:00",
+      "address": "0xf8915fa27cdb6b455fe0b94cb887a37934b65d36",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.998,
+      "shares": 402542.05,
+      "usd_value": 401736.9659,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "2470848",
+      "condition_id": "0xc0b7319f73f248310b059c231fb069e64dbd68ca81dd9933728ca192b54c3cc4",
+      "token_id": "64778757908501179476331390591326653229579537200061619395979045269181713848562",
+      "question": "Will Trump be in the WC Champions Photo?",
+      "link": "https://polyvictor.com/markets/2470848"
     }
   ]
 }
