@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-21T02:14:05.117Z",
+  "generated_at": "2026-07-21T07:48:01.386Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "2f16dc0b-43e2-442b-8989-8be6ba84293d",
-      "ts": "2026-07-21T02:13:51+00:00",
-      "address": "0x7b0f0ac9487b3e8bf5be5dde1a7e3ace84604633",
+      "id": "e439ef72-bcfb-4089-9c65-1d63682049a1",
+      "ts": "2026-07-21T07:46:22+00:00",
+      "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Minnesota Lynx",
-      "price": 0.7819384027306931,
-      "shares": 38366.193414,
-      "usd_value": 29999.999997,
-      "price_shift_pp": 3.193840273069315,
+      "outcome_label": "BNK FEARX",
+      "price": 0.9882528238934086,
+      "shares": 28574.91,
+      "usd_value": 28239.235500000003,
+      "price_shift_pp": 3.825282389340867,
       "alert_reason": "shift",
-      "market_id": "2825565",
-      "condition_id": "0x08729c6fb825e149d823b63fd2c2783070918f925d0b70ad22a4851779fce0c9",
-      "token_id": "78451303686149004261408789676618308395660645141128598169090734730626057831919",
-      "question": "Minnesota Lynx vs. Seattle Storm",
-      "link": "https://polyvictor.com/markets/2825565"
+      "market_id": "3006537",
+      "condition_id": "0x3af79c0d941a1ad4085248fe2fb42b561713b033f18da99da791f5c353ccb947",
+      "token_id": "81198565112758991902888904390403886269279924515028266080499017053411997460125",
+      "question": "LoL: BNK FEARX vs Dplus KIA (BO1) - KeSPA Cup Group Stage",
+      "link": "https://polyvictor.com/markets/3006537"
     }
   ]
 }
