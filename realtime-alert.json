@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-20T19:30:03.745Z",
+  "generated_at": "2026-07-21T02:14:05.117Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "56d218e9-e2f3-42ab-aa6d-8321b0477951",
-      "ts": "2026-07-20T19:29:03+00:00",
-      "address": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
-      "side": "sell",
+      "id": "2f16dc0b-43e2-442b-8989-8be6ba84293d",
+      "ts": "2026-07-21T02:13:51+00:00",
+      "address": "0x7b0f0ac9487b3e8bf5be5dde1a7e3ace84604633",
+      "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Jerome Kym",
-      "price": 0.7024983373313306,
-      "shares": 36263.99,
-      "usd_value": 25475.392679999997,
-      "price_shift_pp": -3.0501456329021126,
+      "outcome_label": "Minnesota Lynx",
+      "price": 0.7819384027306931,
+      "shares": 38366.193414,
+      "usd_value": 29999.999997,
+      "price_shift_pp": 3.193840273069315,
       "alert_reason": "shift",
-      "market_id": "2980545",
-      "condition_id": "0x381803b9dd2ce69b81c54bd8ec55022a6746fb5c29e449846cf038e069aa3f43",
-      "token_id": "63150807680976964725715115807753802783447042086445159506339197674536716902707",
-      "question": "Zug: Jerome Kym vs Jay Clarke",
-      "link": "https://polyvictor.com/markets/2980545"
+      "market_id": "2825565",
+      "condition_id": "0x08729c6fb825e149d823b63fd2c2783070918f925d0b70ad22a4851779fce0c9",
+      "token_id": "78451303686149004261408789676618308395660645141128598169090734730626057831919",
+      "question": "Minnesota Lynx vs. Seattle Storm",
+      "link": "https://polyvictor.com/markets/2825565"
     }
   ]
 }
