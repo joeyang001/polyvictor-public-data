@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-21T16:12:01.272Z",
+  "generated_at": "2026-07-21T19:34:01.183Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "35e8b370-7757-47f1-9aa3-0592c058a15c",
-      "ts": "2026-07-21T16:10:28+00:00",
-      "address": "0xf8915fa27cdb6b455fe0b94cb887a37934b65d36",
+      "id": "68d3e275-66c5-4c9a-9e1c-a58f36a10ac0",
+      "ts": "2026-07-21T19:32:28+00:00",
+      "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.998,
-      "shares": 388576.68,
-      "usd_value": 387799.52664,
-      "price_shift_pp": 0.10000000000000009,
-      "alert_reason": "size",
-      "market_id": "2470848",
-      "condition_id": "0xc0b7319f73f248310b059c231fb069e64dbd68ca81dd9933728ca192b54c3cc4",
-      "token_id": "64778757908501179476331390591326653229579537200061619395979045269181713848562",
-      "question": "Will Trump be in the WC Champions Photo?",
-      "link": "https://polyvictor.com/markets/2470848"
+      "outcome_label": "Galions",
+      "price": 0.9294856307692309,
+      "shares": 35750,
+      "usd_value": 33229.111300000004,
+      "price_shift_pp": 9.582870046498272,
+      "alert_reason": "shift",
+      "market_id": "3014130",
+      "condition_id": "0xfc42ef043ac408057aea0d538a40f1115809e06fe0e081fe5d21b14aff4acebc",
+      "token_id": "74850629971795995749684651002294902212291479435779698989808033694825269129778",
+      "question": "LoL: Galions vs Joblife (BO1) - LFL Regular Season",
+      "link": "https://polyvictor.com/markets/3014130"
     }
   ]
 }
