@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-21T07:48:01.386Z",
+  "generated_at": "2026-07-21T16:12:01.272Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "e439ef72-bcfb-4089-9c65-1d63682049a1",
-      "ts": "2026-07-21T07:46:22+00:00",
-      "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
+      "id": "35e8b370-7757-47f1-9aa3-0592c058a15c",
+      "ts": "2026-07-21T16:10:28+00:00",
+      "address": "0xf8915fa27cdb6b455fe0b94cb887a37934b65d36",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "BNK FEARX",
-      "price": 0.9882528238934086,
-      "shares": 28574.91,
-      "usd_value": 28239.235500000003,
-      "price_shift_pp": 3.825282389340867,
-      "alert_reason": "shift",
-      "market_id": "3006537",
-      "condition_id": "0x3af79c0d941a1ad4085248fe2fb42b561713b033f18da99da791f5c353ccb947",
-      "token_id": "81198565112758991902888904390403886269279924515028266080499017053411997460125",
-      "question": "LoL: BNK FEARX vs Dplus KIA (BO1) - KeSPA Cup Group Stage",
-      "link": "https://polyvictor.com/markets/3006537"
+      "outcome_label": "Yes",
+      "price": 0.998,
+      "shares": 388576.68,
+      "usd_value": 387799.52664,
+      "price_shift_pp": 0.10000000000000009,
+      "alert_reason": "size",
+      "market_id": "2470848",
+      "condition_id": "0xc0b7319f73f248310b059c231fb069e64dbd68ca81dd9933728ca192b54c3cc4",
+      "token_id": "64778757908501179476331390591326653229579537200061619395979045269181713848562",
+      "question": "Will Trump be in the WC Champions Photo?",
+      "link": "https://polyvictor.com/markets/2470848"
     }
   ]
 }
