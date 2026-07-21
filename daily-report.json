@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-07-20",
-  "generated_at": "2026-07-20T14:00:05.616Z",
+  "date": "2026-07-21",
+  "generated_at": "2026-07-21T14:00:04.890Z",
   "status": "success",
   "tweet_ids": [
-    "2079204699912171763",
-    "2079204701132792245"
+    "2079567085256966350",
+    "2079567086959960319"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 1000,
-    "total_volume_usd": 65081988.87562509,
-    "unique_whales": 314,
-    "buy_volume_usd": 39298547.841129,
-    "sell_volume_usd": 25783441.034496,
+    "total_fills": 242,
+    "total_volume_usd": 9719238.011568002,
+    "unique_whales": 78,
+    "buy_volume_usd": 7909740.475193001,
+    "sell_volume_usd": 1809497.5363749994,
     "top_markets": [
       {
-        "market_id": "558934",
-        "question": "Will Spain win the 2026 FIFA World Cup?",
-        "volume_usd": 26199362.097003985,
-        "fills": 155,
-        "link": "https://polyvictor.com/markets/558934"
+        "market_id": "2470848",
+        "question": "Will Trump be in the WC Champions Photo?",
+        "volume_usd": 1433891.482338,
+        "fills": 28,
+        "link": "https://polyvictor.com/markets/2470848"
       },
       {
-        "market_id": "2942083",
-        "question": "Spain vs. Argentina: Team to Advance",
-        "volume_usd": 9268929.71213,
-        "fills": 160,
-        "link": "https://polyvictor.com/markets/2942083"
+        "market_id": "3006544",
+        "question": "LoL: Gen.G vs T1 (BO1) - KeSPA Cup Group Stage",
+        "volume_usd": 519559.94688000006,
+        "fills": 9,
+        "link": "https://polyvictor.com/markets/3006544"
       },
       {
-        "market_id": "2941975",
-        "question": "Will Spain vs. Argentina end in a draw?",
-        "volume_usd": 2788653.3486349997,
-        "fills": 44,
-        "link": "https://polyvictor.com/markets/2941975"
+        "market_id": "2922131",
+        "question": "Minnesota Twins vs. Cleveland Guardians",
+        "volume_usd": 475254.22570000007,
+        "fills": 9,
+        "link": "https://polyvictor.com/markets/2922131"
       }
     ],
     "top_whales": [
       {
-        "address": "0xe3f1fb88b9eabc743e2a2d947e2efdba5e99bd92",
-        "volume_usd": 6140858.13581,
-        "fills": 9,
-        "link": "https://polyvictor.com/whales/0xe3f1fb88b9eabc743e2a2d947e2efdba5e99bd92"
+        "address": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+        "volume_usd": 921155.9712099999,
+        "fills": 20,
+        "link": "https://polyvictor.com/whales/0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf"
       },
       {
-        "address": "0x05a0bf3fa5775a5e38d4ed6688cce88130460df2",
-        "volume_usd": 5012145.04554,
-        "fills": 9,
-        "link": "https://polyvictor.com/whales/0x05a0bf3fa5775a5e38d4ed6688cce88130460df2"
+        "address": "0xfc25f141ed27bb1787338d2c4e7f51e3a15e1f7f",
+        "volume_usd": 542815.61565,
+        "fills": 10,
+        "link": "https://polyvictor.com/whales/0xfc25f141ed27bb1787338d2c4e7f51e3a15e1f7f"
       },
       {
-        "address": "0x89b43cb12b5073b99c5c23d401f788167fceee59",
-        "volume_usd": 3404308.5138580003,
-        "fills": 3,
-        "link": "https://polyvictor.com/whales/0x89b43cb12b5073b99c5c23d401f788167fceee59"
+        "address": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+        "volume_usd": 449951.64621999994,
+        "fills": 9,
+        "link": "https://polyvictor.com/whales/0x5e9458202b5817a72cf81105ec8a30e6f3705ba1"
       }
     ],
     "biggest_fill": {
-      "address": "0xe3f1fb88b9eabc743e2a2d947e2efdba5e99bd92",
-      "usd": 2397768.32151,
-      "side": "sell",
-      "price": 0.999,
-      "market_id": "558934",
-      "question": "Will Spain win the 2026 FIFA World Cup?",
-      "link": "https://polyvictor.com/markets/558934"
+      "address": "0xc8ab97a9089a9ff7e6ef0688e6e591a066946418",
+      "usd": 228766.0639,
+      "side": "buy",
+      "price": 0.9963738627871545,
+      "market_id": "2470848",
+      "question": "Will Trump be in the WC Champions Photo?",
+      "link": "https://polyvictor.com/markets/2470848"
     }
   }
 }
