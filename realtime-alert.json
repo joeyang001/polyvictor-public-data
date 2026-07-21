@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-21T19:34:01.183Z",
+  "generated_at": "2026-07-21T20:58:01.311Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "68d3e275-66c5-4c9a-9e1c-a58f36a10ac0",
-      "ts": "2026-07-21T19:32:28+00:00",
-      "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
-      "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Galions",
-      "price": 0.9294856307692309,
-      "shares": 35750,
-      "usd_value": 33229.111300000004,
-      "price_shift_pp": 9.582870046498272,
+      "id": "ab73789e-3d9e-4eff-9248-62f4f919f020",
+      "ts": "2026-07-21T20:56:20+00:00",
+      "address": "0x69c5c6f6a4dda665991c203bc8d5df3e006b1e01",
+      "side": "sell",
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.829714950846914,
+      "shares": 51102.59,
+      "usd_value": 42400.582949999996,
+      "price_shift_pp": -6.3285049153085975,
       "alert_reason": "shift",
-      "market_id": "3014130",
-      "condition_id": "0xfc42ef043ac408057aea0d538a40f1115809e06fe0e081fe5d21b14aff4acebc",
-      "token_id": "74850629971795995749684651002294902212291479435779698989808033694825269129778",
-      "question": "LoL: Galions vs Joblife (BO1) - LFL Regular Season",
-      "link": "https://polyvictor.com/markets/3014130"
+      "market_id": "1931108",
+      "condition_id": "0xaf12bd1a9ec448b428e5879f180b9b05d17cdf6a6af3c20d8a4b7327ca6bfd37",
+      "token_id": "85418243160365189973163574658090696894227655236478183199339782372790668936005",
+      "question": "Will LeBron James play for the Golden State Warriors in 2026-27?",
+      "link": "https://polyvictor.com/markets/1931108"
     }
   ]
 }
