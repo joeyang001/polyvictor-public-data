@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-22T16:40:05.837Z",
+  "generated_at": "2026-07-22T17:32:02.405Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "a11e43de-a85a-4d29-b637-08de093740b1",
-      "ts": "2026-07-22T16:39:27+00:00",
+      "id": "70f8837f-8ca4-41ac-a7e2-0b61eb070c0b",
+      "ts": "2026-07-22T17:31:25+00:00",
       "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "YES",
-      "price": 0.9780160264705882,
-      "shares": 34000,
-      "usd_value": 33252.5449,
-      "price_shift_pp": 6.525726903502971,
+      "outcome_index": 1,
+      "outcome_label": "Skillcamp Esport",
+      "price": 0.9827571235733452,
+      "shares": 32084.67,
+      "usd_value": 31531.438000000002,
+      "price_shift_pp": 20.24754334325001,
       "alert_reason": "shift",
-      "market_id": null,
-      "condition_id": "0x1dbd2d76632c6368470ac810907198cf8bd8477de0d0fe7f592147895b954a81",
-      "token_id": "50477218550119742997653520412318100004588205365663359233281150659184612552755",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
+      "market_id": "3026781",
+      "condition_id": "0xbe940b33f1913c37813a99de2cda048ccc3a06927b603a1b654ad6e17cfd8aa7",
+      "token_id": "10563794669768666602607985694323071696252060043041793551361647944902434139954",
+      "question": "LoL: ZYB Esport vs Skillcamp Esport (BO1) - LFL Regular Season",
+      "link": "https://polyvictor.com/markets/3026781"
     }
   ]
 }
