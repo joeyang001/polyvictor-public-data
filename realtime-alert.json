@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-21T23:48:00.945Z",
+  "generated_at": "2026-07-22T01:08:00.801Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "fa91948f-f64c-4fbf-8e56-873f14935b90",
-      "ts": "2026-07-21T23:46:48+00:00",
-      "address": "0xf8915fa27cdb6b455fe0b94cb887a37934b65d36",
+      "id": "5bd2ab11-8dbc-4cfe-9fcd-b948baaaf168",
+      "ts": "2026-07-22T01:06:51+00:00",
+      "address": "0x1465b79bff7992bc703e1aafb3683b1089647072",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.998,
-      "shares": 402542.05,
-      "usd_value": 401736.9659,
-      "price_shift_pp": 0,
-      "alert_reason": "size",
-      "market_id": "2470848",
-      "condition_id": "0xc0b7319f73f248310b059c231fb069e64dbd68ca81dd9933728ca192b54c3cc4",
-      "token_id": "64778757908501179476331390591326653229579537200061619395979045269181713848562",
-      "question": "Will Trump be in the WC Champions Photo?",
-      "link": "https://polyvictor.com/markets/2470848"
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.6132582393817002,
+      "shares": 110558.66,
+      "usd_value": 67801.00918000001,
+      "price_shift_pp": 6.325824213170028,
+      "alert_reason": "shift",
+      "market_id": "701552",
+      "condition_id": "0xcf25ccc8360f3952139fb5e3f14cb9bb0636cb53d0e30e947321ceccab7e9780",
+      "token_id": "38508858428676968447825900892305750232615791339175195608011299023691549494960",
+      "question": "Will Ethereum dip to $1,500 by December 31, 2026?",
+      "link": "https://polyvictor.com/markets/701552"
     }
   ]
 }
