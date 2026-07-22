@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-22T20:24:01.601Z",
+  "generated_at": "2026-07-22T21:14:02.399Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "a33b6bc1-8184-4405-b433-95f476c17d61",
-      "ts": "2026-07-22T20:23:32+00:00",
-      "address": "0x61fefe72aebe7afc69d190bacfad8b561dc70956",
+      "id": "2985af57-c477-4c41-a9fd-2d74952b6e87",
+      "ts": "2026-07-22T21:12:17+00:00",
+      "address": "0xadc2efbf97ce7b25f7a638aabdba196c657cd1c9",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "100 Thieves",
-      "price": 0.9854809905376344,
-      "shares": 46500,
-      "usd_value": 45824.86606,
-      "price_shift_pp": 11.663416970430108,
-      "alert_reason": "shift",
-      "market_id": "2963706",
-      "condition_id": "0xc394bf16191ed6d9023e9a2061492a48b62c890236395d2307a481902b868c19",
-      "token_id": "48319478572910222851796790278417694945064414437880822638933263430430330226480",
-      "question": "Counter-Strike: Team Falcons vs 100 Thieves (BO3) - BLAST Bounty Qualifier",
-      "link": "https://polyvictor.com/markets/2963706"
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.999,
+      "shares": 601348.62,
+      "usd_value": 600747.27138,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "2470848",
+      "condition_id": "0xc0b7319f73f248310b059c231fb069e64dbd68ca81dd9933728ca192b54c3cc4",
+      "token_id": "64778757908501179476331390591326653229579537200061619395979045269181713848562",
+      "question": "Will Trump be in the WC Champions Photo?",
+      "link": "https://polyvictor.com/markets/2470848"
     }
   ]
 }
