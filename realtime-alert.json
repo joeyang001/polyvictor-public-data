@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-22T01:08:00.801Z",
+  "generated_at": "2026-07-22T01:28:01.230Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "aa64327b-8edb-4d40-811f-e646b5a4cd3b",
+      "ts": "2026-07-22T01:27:29+00:00",
+      "address": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Over",
+      "price": 0.8142409650103044,
+      "shares": 31714.48,
+      "usd_value": 25823.228799999997,
+      "price_shift_pp": -8.575903498969561,
+      "alert_reason": "shift",
+      "market_id": "3023296",
+      "condition_id": "0x02967eae916c58a780cd0dbc87eadf00ff490286b465876eb2443db1416159fc",
+      "token_id": "71508472639107550846597254013006795087261762897452477894970042866150372524613",
+      "question": "San Diego Padres vs. Atlanta Braves: O/U 8.5",
+      "link": "https://polyvictor.com/markets/3023296"
+    },
     {
       "id": "5bd2ab11-8dbc-4cfe-9fcd-b948baaaf168",
       "ts": "2026-07-22T01:06:51+00:00",
