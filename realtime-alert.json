@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-22T15:18:00.990Z",
+  "generated_at": "2026-07-22T16:40:05.837Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "283be86e-8541-45df-8e38-59c9b56b69b0",
-      "ts": "2026-07-22T15:15:57+00:00",
-      "address": "0xe52c0a1327a12edc7bd54ea6f37ce00a4ca96924",
+      "id": "a11e43de-a85a-4d29-b637-08de093740b1",
+      "ts": "2026-07-22T16:39:27+00:00",
+      "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "No",
-      "price": 0.993,
-      "shares": 289409.52,
-      "usd_value": 287383.65336,
-      "price_shift_pp": 0,
-      "alert_reason": "size",
-      "market_id": "1654960",
-      "condition_id": "0x2a28cc33492516116690a20d290f9922acbe0ed367ff52a6082154474c7f2971",
-      "token_id": "82752177927542167404038816431416174971863195141383694610771473564093425601859",
-      "question": "Will the Fed increase interest rates by 50+ bps after the July 2026 meeting?",
-      "link": "https://polyvictor.com/markets/1654960"
+      "outcome_index": 0,
+      "outcome_label": "YES",
+      "price": 0.9780160264705882,
+      "shares": 34000,
+      "usd_value": 33252.5449,
+      "price_shift_pp": 6.525726903502971,
+      "alert_reason": "shift",
+      "market_id": null,
+      "condition_id": "0x1dbd2d76632c6368470ac810907198cf8bd8477de0d0fe7f592147895b954a81",
+      "token_id": "50477218550119742997653520412318100004588205365663359233281150659184612552755",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
