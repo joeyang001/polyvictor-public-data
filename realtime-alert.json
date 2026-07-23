@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-23T19:10:02.891Z",
+  "generated_at": "2026-07-23T20:40:03.788Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "16ceae14-8c84-4a05-861a-5e6abcccc131",
-      "ts": "2026-07-23T19:08:17+00:00",
-      "address": "0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654",
+      "id": "a34bab7b-ee74-44c7-819b-7d92f82dc064",
+      "ts": "2026-07-23T20:39:17+00:00",
+      "address": "0x547f2917d51f2e63ab382dcf641d4e0240162937",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Borna Gojo",
-      "price": 0.4982445075201608,
-      "shares": 53448.99,
-      "usd_value": 26630.665699999998,
-      "price_shift_pp": -12.776186956211799,
+      "outcome_index": 1,
+      "outcome_label": "Under",
+      "price": 0.7470334800078094,
+      "shares": 48761.04,
+      "usd_value": 36426.1294,
+      "price_shift_pp": 3.7033480007809483,
       "alert_reason": "shift",
-      "market_id": "3024835",
-      "condition_id": "0x1e0b9139d0c69f31ba16c4d496b05d8942991543ed12202bb87492b81cdc4312",
-      "token_id": "63927679592353045688021700736378360978719644978533186047974580456379259395872",
-      "question": "Bloomfield Hills: Borna Gojo vs Dhakshineswar Suresh",
-      "link": "https://polyvictor.com/markets/3024835"
+      "market_id": "3033009",
+      "condition_id": "0xb8ccd0c8771508db8aeeaae54744399526c6479f7ab4f009a3f4384841849984",
+      "token_id": "76270326059719330883028891107787123303872618389015807262888379056602036752863",
+      "question": "Tampa Bay Rays vs. Toronto Blue Jays: O/U 7.5",
+      "link": "https://polyvictor.com/markets/3033009"
     }
   ]
 }
