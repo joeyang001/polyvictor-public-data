@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-23T04:26:01.229Z",
+  "generated_at": "2026-07-23T06:48:01.421Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "fab68b6c-9439-4ca6-9246-a1bf60694c44",
-      "ts": "2026-07-23T04:23:59+00:00",
-      "address": "0x547f2917d51f2e63ab382dcf641d4e0240162937",
+      "id": "76cf0dc9-0553-4cd3-a1b2-f04d3cafe2f0",
+      "ts": "2026-07-23T06:47:41+00:00",
+      "address": "0xe3cb28f7c62ac636f407014005499d2687b5ac21",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Under",
-      "price": 0.6900952401144216,
-      "shares": 102823.27,
-      "usd_value": 70957.8492,
-      "price_shift_pp": 3.049450546617438,
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.6038580258807263,
+      "shares": 60723.18,
+      "usd_value": 36668.1796,
+      "price_shift_pp": 5.385802588072631,
       "alert_reason": "shift",
-      "market_id": "2861770",
-      "condition_id": "0x01e38b284399b5634d163a31e6e9cfc1ce187db286190252b6de1e93604661c7",
-      "token_id": "64535054586764715275661841559628970810959366494031656218985095670323081296252",
-      "question": "Los Angeles FC vs. Real Salt Lake: O/U 3.5",
-      "link": "https://polyvictor.com/markets/2861770"
+      "market_id": "2118805",
+      "condition_id": "0x1b56e46dba9e7b2bf93db18e7a79de3f97037314a46f8ebc93b541ae5f396200",
+      "token_id": "85826665387206167260072765846747779665709734070578023319734585788378738859863",
+      "question": "Will the Fed decide differently in the next three decisions (Jun–Jul–Sep)?",
+      "link": "https://polyvictor.com/markets/2118805"
     }
   ]
 }
