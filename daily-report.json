@@ -1,68 +1,68 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-07-22",
-  "generated_at": "2026-07-22T14:00:06.016Z",
+  "date": "2026-07-23",
+  "generated_at": "2026-07-23T14:00:07.485Z",
   "status": "success",
   "tweet_ids": [
-    "2079929478164230588",
-    "2079929479468589316"
+    "2080291872241574033",
+    "2080291873407545511"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 373,
-    "total_volume_usd": 18587225.068410013,
-    "unique_whales": 121,
-    "buy_volume_usd": 14084677.547150007,
-    "sell_volume_usd": 4502547.52126,
+    "total_fills": 382,
+    "total_volume_usd": 23647744.285882022,
+    "unique_whales": 114,
+    "buy_volume_usd": 20958811.076262005,
+    "sell_volume_usd": 2688933.2096199994,
     "top_markets": [
       {
         "market_id": "2470848",
         "question": "Will Trump be in the WC Champions Photo?",
-        "volume_usd": 4590511.454848,
+        "volume_usd": 9231912.074309997,
         "fills": 46,
         "link": "https://polyvictor.com/markets/2470848"
       },
       {
-        "market_id": "2934540",
-        "question": "Los Angeles Dodgers vs. Philadelphia Phillies",
-        "volume_usd": 1932052.2544090003,
-        "fills": 22,
-        "link": "https://polyvictor.com/markets/2934540"
+        "market_id": "1654960",
+        "question": "Will the Fed increase interest rates by 50+ bps after the July 2026 meeting?",
+        "volume_usd": 1316169.37537,
+        "fills": 16,
+        "link": "https://polyvictor.com/markets/1654960"
       },
       {
         "market_id": "1654958",
         "question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-        "volume_usd": 1142961.70558,
-        "fills": 30,
+        "volume_usd": 647307.75184,
+        "fills": 14,
         "link": "https://polyvictor.com/markets/1654958"
       }
     ],
     "top_whales": [
       {
-        "address": "0xf8915fa27cdb6b455fe0b94cb887a37934b65d36",
-        "volume_usd": 1428084.2020100001,
-        "fills": 7,
-        "link": "https://polyvictor.com/whales/0xf8915fa27cdb6b455fe0b94cb887a37934b65d36"
+        "address": "0xdcd669c506a938bae9269a84b8bd2bdb220484cd",
+        "volume_usd": 2287767.19275,
+        "fills": 2,
+        "link": "https://polyvictor.com/whales/0xdcd669c506a938bae9269a84b8bd2bdb220484cd"
       },
       {
-        "address": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
-        "volume_usd": 1115602.4915200002,
-        "fills": 25,
-        "link": "https://polyvictor.com/whales/0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf"
+        "address": "0xed107a85a4585a381e48c7f7ca4144909e7dd2e5",
+        "volume_usd": 1998149.85249,
+        "fills": 2,
+        "link": "https://polyvictor.com/whales/0xed107a85a4585a381e48c7f7ca4144909e7dd2e5"
       },
       {
-        "address": "0x69c5c6f6a4dda665991c203bc8d5df3e006b1e01",
-        "volume_usd": 1103604.366534,
-        "fills": 14,
-        "link": "https://polyvictor.com/whales/0x69c5c6f6a4dda665991c203bc8d5df3e006b1e01"
+        "address": "0xadc2efbf97ce7b25f7a638aabdba196c657cd1c9",
+        "volume_usd": 1201524.58012,
+        "fills": 2,
+        "link": "https://polyvictor.com/whales/0xadc2efbf97ce7b25f7a638aabdba196c657cd1c9"
       }
     ],
     "biggest_fill": {
-      "address": "0xf8915fa27cdb6b455fe0b94cb887a37934b65d36",
-      "usd": 401777.13959,
+      "address": "0xdcd669c506a938bae9269a84b8bd2bdb220484cd",
+      "usd": 1143912.19275,
       "side": "buy",
-      "price": 0.998,
+      "price": 0.999,
       "market_id": "2470848",
       "question": "Will Trump be in the WC Champions Photo?",
       "link": "https://polyvictor.com/markets/2470848"
