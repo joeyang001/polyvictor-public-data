@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-23T06:48:01.421Z",
+  "generated_at": "2026-07-23T19:10:02.891Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "76cf0dc9-0553-4cd3-a1b2-f04d3cafe2f0",
-      "ts": "2026-07-23T06:47:41+00:00",
-      "address": "0xe3cb28f7c62ac636f407014005499d2687b5ac21",
+      "id": "16ceae14-8c84-4a05-861a-5e6abcccc131",
+      "ts": "2026-07-23T19:08:17+00:00",
+      "address": "0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.6038580258807263,
-      "shares": 60723.18,
-      "usd_value": 36668.1796,
-      "price_shift_pp": 5.385802588072631,
+      "outcome_label": "Borna Gojo",
+      "price": 0.4982445075201608,
+      "shares": 53448.99,
+      "usd_value": 26630.665699999998,
+      "price_shift_pp": -12.776186956211799,
       "alert_reason": "shift",
-      "market_id": "2118805",
-      "condition_id": "0x1b56e46dba9e7b2bf93db18e7a79de3f97037314a46f8ebc93b541ae5f396200",
-      "token_id": "85826665387206167260072765846747779665709734070578023319734585788378738859863",
-      "question": "Will the Fed decide differently in the next three decisions (Jun–Jul–Sep)?",
-      "link": "https://polyvictor.com/markets/2118805"
+      "market_id": "3024835",
+      "condition_id": "0x1e0b9139d0c69f31ba16c4d496b05d8942991543ed12202bb87492b81cdc4312",
+      "token_id": "63927679592353045688021700736378360978719644978533186047974580456379259395872",
+      "question": "Bloomfield Hills: Borna Gojo vs Dhakshineswar Suresh",
+      "link": "https://polyvictor.com/markets/3024835"
     }
   ]
 }
