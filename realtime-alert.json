@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-24T19:38:01.661Z",
+  "generated_at": "2026-07-24T21:22:00.944Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "e4f27ebe-8ac5-4fd9-93b0-411f6c850bb0",
-      "ts": "2026-07-24T19:37:41+00:00",
-      "address": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
-      "side": "sell",
+      "id": "6371a956-db13-47a4-baa3-b37091f8bf87",
+      "ts": "2026-07-24T21:21:36+00:00",
+      "address": "0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654",
+      "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Alevtina Ibragimova",
-      "price": 0.6678618449369813,
-      "shares": 39496.2,
-      "usd_value": 26378.004999999997,
-      "price_shift_pp": -3.2138155063018647,
+      "outcome_label": "Dhakshineswar Suresh",
+      "price": 0.2702282922345137,
+      "shares": 172097.4,
+      "usd_value": 46505.5865,
+      "price_shift_pp": 3.0228324874515824,
       "alert_reason": "shift",
-      "market_id": "3071977",
-      "condition_id": "0x6fed853a9a8387398ee566310502124a980dea8333c1f3dbbde6d159540dd627",
-      "token_id": "97525120651011731458482229696511501968407116868403542287506490407165214973311",
-      "question": "Palermo: Alevtina Ibragimova vs Clara Burel",
-      "link": "https://polyvictor.com/markets/3071977"
+      "market_id": "3071995",
+      "condition_id": "0xb8ce00b183df613dd40947722d4606f596ad325d5a146e94fe10e29d4caa0722",
+      "token_id": "104184202919579916776888245722887278407401233753101584038791243492503129961004",
+      "question": "Bloomfield Hills: Dhakshineswar Suresh vs Andres Martin",
+      "link": "https://polyvictor.com/markets/3071995"
     }
   ]
 }
