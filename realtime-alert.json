@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-24T00:26:01.160Z",
+  "generated_at": "2026-07-24T19:38:01.661Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "d46ea106-6ce8-4fa0-9d3f-95a3bd8189d6",
-      "ts": "2026-07-24T00:24:49+00:00",
-      "address": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-      "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "No",
-      "price": 0.8575680508397769,
-      "shares": 72931.87,
-      "usd_value": 62544.0416,
-      "price_shift_pp": -5.243194787620753,
+      "id": "e4f27ebe-8ac5-4fd9-93b0-411f6c850bb0",
+      "ts": "2026-07-24T19:37:41+00:00",
+      "address": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+      "side": "sell",
+      "outcome_index": 0,
+      "outcome_label": "Alevtina Ibragimova",
+      "price": 0.6678618449369813,
+      "shares": 39496.2,
+      "usd_value": 26378.004999999997,
+      "price_shift_pp": -3.2138155063018647,
       "alert_reason": "shift",
-      "market_id": "2872545",
-      "condition_id": "0x383f3c177b98b051326d3cfb963a6bd17cfc36423a15e948e912c3b89c0069ce",
-      "token_id": "54729151227267957832474326018865154862743991839689433410222359109987965039179",
-      "question": "Will AA Argentinos Juniors win on 2026-07-23?",
-      "link": "https://polyvictor.com/markets/2872545"
+      "market_id": "3071977",
+      "condition_id": "0x6fed853a9a8387398ee566310502124a980dea8333c1f3dbbde6d159540dd627",
+      "token_id": "97525120651011731458482229696511501968407116868403542287506490407165214973311",
+      "question": "Palermo: Alevtina Ibragimova vs Clara Burel",
+      "link": "https://polyvictor.com/markets/3071977"
     }
   ]
 }
