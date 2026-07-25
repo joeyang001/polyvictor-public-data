@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-25T14:12:01.025Z",
+  "generated_at": "2026-07-25T18:50:02.900Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "2b95b8c2-58ff-4f46-94ab-7146e6815031",
-      "ts": "2026-07-25T14:11:02+00:00",
-      "address": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
-      "side": "sell",
+      "id": "0126383e-3fc8-459b-b9a3-178ce903c0e5",
+      "ts": "2026-07-25T18:48:06+00:00",
+      "address": "0x5d7639ed5fd3c5ebf0fc69d548e1046acd0f9168",
+      "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Thiago Seyboth Wild",
-      "price": 0.7114536994636025,
-      "shares": 39787.66,
-      "usd_value": 28307.0779,
-      "price_shift_pp": -5.854630053639753,
+      "outcome_label": "YES",
+      "price": 0.9100349837893918,
+      "shares": 38555,
+      "usd_value": 35086.3988,
+      "price_shift_pp": 6.003500096111902,
       "alert_reason": "shift",
-      "market_id": "3082154",
-      "condition_id": "0x1f317b48f709363017ec4fbea84bc163b33b4f3c2cc65f1c8683f8a4ada1d753",
-      "token_id": "54848408413854560629459567731369172199432066159720624226286705931703128902197",
-      "question": "Zug: Thiago Seyboth Wild vs Dylan Dietrich",
-      "link": "https://polyvictor.com/markets/3082154"
+      "market_id": null,
+      "condition_id": "0x567c5d957a99261189188483a6e00aed0fd27a277f0c25dc42664f1b3a718f9a",
+      "token_id": "46075044401797313321180342623600741209029802789173884308652205315255206338219",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
