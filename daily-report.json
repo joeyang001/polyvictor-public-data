@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-07-24",
-  "generated_at": "2026-07-24T14:00:04.565Z",
+  "date": "2026-07-25",
+  "generated_at": "2026-07-25T14:00:04.945Z",
   "status": "success",
   "tweet_ids": [
-    "2080654247834640521",
-    "2080654249176826259"
+    "2081016637654745313",
+    "2081016638749438237"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 333,
-    "total_volume_usd": 12272777.546291994,
-    "unique_whales": 96,
-    "buy_volume_usd": 8295369.440602001,
-    "sell_volume_usd": 3977408.1056899996,
+    "total_fills": 433,
+    "total_volume_usd": 16789259.258150004,
+    "unique_whales": 120,
+    "buy_volume_usd": 11198435.205695007,
+    "sell_volume_usd": 5590824.0524550015,
     "top_markets": [
       {
-        "market_id": "2470848",
-        "question": "Will Trump be in the WC Champions Photo?",
-        "volume_usd": 994765.86254,
-        "fills": 15,
-        "link": "https://polyvictor.com/markets/2470848"
+        "market_id": "3068704",
+        "question": "Chicago Cubs vs. Pittsburgh Pirates: O/U 6.5",
+        "volume_usd": 758793.0157999998,
+        "fills": 11,
+        "link": "https://polyvictor.com/markets/3068704"
       },
       {
-        "market_id": "3021251",
-        "question": "Bloomfield Hills: Roger Pascual vs Andres Martin",
-        "volume_usd": 692189.780438,
-        "fills": 14,
-        "link": "https://polyvictor.com/markets/3021251"
+        "market_id": "2963866",
+        "question": "Map Handicap: VIT (-1.5) vs Liquid (+1.5)",
+        "volume_usd": 598856.329596,
+        "fills": 10,
+        "link": "https://polyvictor.com/markets/2963866"
       },
       {
-        "market_id": "1654958",
-        "question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-        "volume_usd": 643952.7415700001,
-        "fills": 20,
-        "link": "https://polyvictor.com/markets/1654958"
+        "market_id": "1931121",
+        "question": "Will LeBron James play for the Philadelphia 76ers in 2026-27?",
+        "volume_usd": 511152.92303899996,
+        "fills": 16,
+        "link": "https://polyvictor.com/markets/1931121"
       }
     ],
     "top_whales": [
       {
         "address": "0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654",
-        "volume_usd": 1964859.5847239997,
-        "fills": 33,
+        "volume_usd": 1464949.6652630002,
+        "fills": 25,
         "link": "https://polyvictor.com/whales/0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654"
       },
       {
         "address": "0x547f2917d51f2e63ab382dcf641d4e0240162937",
-        "volume_usd": 742323.7635799999,
-        "fills": 18,
+        "volume_usd": 1359553.6762799995,
+        "fills": 28,
         "link": "https://polyvictor.com/whales/0x547f2917d51f2e63ab382dcf641d4e0240162937"
       },
       {
-        "address": "0xf8915fa27cdb6b455fe0b94cb887a37934b65d36",
-        "volume_usd": 597147.94431,
-        "fills": 8,
-        "link": "https://polyvictor.com/whales/0xf8915fa27cdb6b455fe0b94cb887a37934b65d36"
+        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+        "volume_usd": 1136252.211003,
+        "fills": 26,
+        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
       }
     ],
     "biggest_fill": {
       "address": "0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654",
-      "usd": 166415.87754,
+      "usd": 171925.3026,
       "side": "sell",
       "price": 0.999,
-      "market_id": "3024828",
-      "question": "Bloomfield Hills: Jacob Fearnley vs Tristan Boyer",
-      "link": "https://polyvictor.com/markets/3024828"
+      "market_id": "3071995",
+      "question": "Bloomfield Hills: Dhakshineswar Suresh vs Andres Martin",
+      "link": "https://polyvictor.com/markets/3071995"
     }
   }
 }
