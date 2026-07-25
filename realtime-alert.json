@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-24T21:22:00.944Z",
+  "generated_at": "2026-07-25T14:12:01.025Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "6371a956-db13-47a4-baa3-b37091f8bf87",
-      "ts": "2026-07-24T21:21:36+00:00",
-      "address": "0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654",
-      "side": "buy",
+      "id": "2b95b8c2-58ff-4f46-94ab-7146e6815031",
+      "ts": "2026-07-25T14:11:02+00:00",
+      "address": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+      "side": "sell",
       "outcome_index": 0,
-      "outcome_label": "Dhakshineswar Suresh",
-      "price": 0.2702282922345137,
-      "shares": 172097.4,
-      "usd_value": 46505.5865,
-      "price_shift_pp": 3.0228324874515824,
+      "outcome_label": "Thiago Seyboth Wild",
+      "price": 0.7114536994636025,
+      "shares": 39787.66,
+      "usd_value": 28307.0779,
+      "price_shift_pp": -5.854630053639753,
       "alert_reason": "shift",
-      "market_id": "3071995",
-      "condition_id": "0xb8ce00b183df613dd40947722d4606f596ad325d5a146e94fe10e29d4caa0722",
-      "token_id": "104184202919579916776888245722887278407401233753101584038791243492503129961004",
-      "question": "Bloomfield Hills: Dhakshineswar Suresh vs Andres Martin",
-      "link": "https://polyvictor.com/markets/3071995"
+      "market_id": "3082154",
+      "condition_id": "0x1f317b48f709363017ec4fbea84bc163b33b4f3c2cc65f1c8683f8a4ada1d753",
+      "token_id": "54848408413854560629459567731369172199432066159720624226286705931703128902197",
+      "question": "Zug: Thiago Seyboth Wild vs Dylan Dietrich",
+      "link": "https://polyvictor.com/markets/3082154"
     }
   ]
 }
