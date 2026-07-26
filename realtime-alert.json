@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-26T03:28:01.094Z",
+  "generated_at": "2026-07-26T16:56:01.229Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "98c5f14c-d03c-4cc7-9eee-2a188a89fbc7",
-      "ts": "2026-07-26T03:26:56+00:00",
-      "address": "0xe9076a87c5ed90ef16e6fe6529c943baeca0cff6",
+      "id": "00b3dcc7-92b6-4481-a0d0-dd3ae6ed0eb4",
+      "ts": "2026-07-26T16:54:49+00:00",
+      "address": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
       "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "Bernard Tomic",
-      "price": 0.9022467279048834,
-      "shares": 45389.3361,
-      "usd_value": 40952.379978,
-      "price_shift_pp": 20.22467279048834,
+      "outcome_label": "Under",
+      "price": 0.7795612,
+      "shares": 40000,
+      "usd_value": 31182.447999999997,
+      "price_shift_pp": 5.9561199999999985,
       "alert_reason": "shift",
-      "market_id": "3099298",
-      "condition_id": "0xccc48a6d2dcbf2326b048c560d44a372711f07747f8bf2be3e109c0df68137e9",
-      "token_id": "42771208957012068886047529560182461434497160615543035377004855200410386128046",
-      "question": "Los Cabos Open, Qualification: Miguel Tobon vs Bernard Tomic",
-      "link": "https://polyvictor.com/markets/3099298"
+      "market_id": "3103365",
+      "condition_id": "0xb1fbcc0e6a923f314c7eea72c40d5a9566a086bea9d7d9ef105d61b90a5f7735",
+      "token_id": "21668458507946349629776881436889363585751313211186560968096517248208304434322",
+      "question": "Cleveland Guardians vs. Tampa Bay Rays: O/U 6.5",
+      "link": "https://polyvictor.com/markets/3103365"
     }
   ]
 }
