@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-26T16:56:01.229Z",
+  "generated_at": "2026-07-26T21:50:05.957Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "00b3dcc7-92b6-4481-a0d0-dd3ae6ed0eb4",
-      "ts": "2026-07-26T16:54:49+00:00",
-      "address": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+      "id": "272a2cbf-be14-41f6-b95f-c60b6384b925",
+      "ts": "2026-07-26T21:48:39+00:00",
+      "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Under",
-      "price": 0.7795612,
-      "shares": 40000,
-      "usd_value": 31182.447999999997,
-      "price_shift_pp": 5.9561199999999985,
+      "outcome_index": 0,
+      "outcome_label": "Team Liquid",
+      "price": 0.9895397893965373,
+      "shares": 31709.83,
+      "usd_value": 31378.1385,
+      "price_shift_pp": 3.953978939653735,
       "alert_reason": "shift",
-      "market_id": "3103365",
-      "condition_id": "0xb1fbcc0e6a923f314c7eea72c40d5a9566a086bea9d7d9ef105d61b90a5f7735",
-      "token_id": "21668458507946349629776881436889363585751313211186560968096517248208304434322",
-      "question": "Cleveland Guardians vs. Tampa Bay Rays: O/U 6.5",
-      "link": "https://polyvictor.com/markets/3103365"
+      "market_id": "2898071",
+      "condition_id": "0x029cd776f47456092231362e79f59590e2192f437e6abeb504375b50a67e8bbc",
+      "token_id": "98533241580714503389902709842371656745269819553624840914310571213290663636131",
+      "question": "LoL: Team Liquid vs Cloud9 - Game 2 Winner",
+      "link": "https://polyvictor.com/markets/2898071"
     }
   ]
 }
