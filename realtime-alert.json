@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-25T20:20:04.304Z",
+  "generated_at": "2026-07-26T03:28:01.094Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "a7458987-ff5f-4e71-9040-2843888d5819",
-      "ts": "2026-07-25T20:18:51+00:00",
-      "address": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
-      "side": "sell",
-      "outcome_index": 0,
-      "outcome_label": "Daria Kasatkina",
-      "price": 0.6500647444601136,
-      "shares": 43092.49,
-      "usd_value": 28012.9085,
-      "price_shift_pp": -4.993525553988631,
+      "id": "98c5f14c-d03c-4cc7-9eee-2a188a89fbc7",
+      "ts": "2026-07-26T03:26:56+00:00",
+      "address": "0xe9076a87c5ed90ef16e6fe6529c943baeca0cff6",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "Bernard Tomic",
+      "price": 0.9022467279048834,
+      "shares": 45389.3361,
+      "usd_value": 40952.379978,
+      "price_shift_pp": 20.22467279048834,
       "alert_reason": "shift",
-      "market_id": "3095900",
-      "condition_id": "0xd915aeea1afcc27b1e6c388b0da198a96dc8a65561c158f8a93ef3f3869d1bf7",
-      "token_id": "54461294900452020025972930670723053039574085217231188153681989350948387539465",
-      "question": "Mubadala Citi DC Open, Qualification: Daria Kasatkina vs Mariam Bolkvadze",
-      "link": "https://polyvictor.com/markets/3095900"
+      "market_id": "3099298",
+      "condition_id": "0xccc48a6d2dcbf2326b048c560d44a372711f07747f8bf2be3e109c0df68137e9",
+      "token_id": "42771208957012068886047529560182461434497160615543035377004855200410386128046",
+      "question": "Los Cabos Open, Qualification: Miguel Tobon vs Bernard Tomic",
+      "link": "https://polyvictor.com/markets/3099298"
     }
   ]
 }
