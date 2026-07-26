@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-07-25",
-  "generated_at": "2026-07-25T14:00:04.945Z",
+  "date": "2026-07-26",
+  "generated_at": "2026-07-26T14:00:07.056Z",
   "status": "success",
   "tweet_ids": [
-    "2081016637654745313",
-    "2081016638749438237"
+    "2081379034210967822",
+    "2081379035368628598"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 433,
-    "total_volume_usd": 16789259.258150004,
-    "unique_whales": 120,
-    "buy_volume_usd": 11198435.205695007,
-    "sell_volume_usd": 5590824.0524550015,
+    "total_fills": 387,
+    "total_volume_usd": 14285996.801082004,
+    "unique_whales": 105,
+    "buy_volume_usd": 10309154.757621998,
+    "sell_volume_usd": 3976842.0434600003,
     "top_markets": [
       {
-        "market_id": "3068704",
-        "question": "Chicago Cubs vs. Pittsburgh Pirates: O/U 6.5",
-        "volume_usd": 758793.0157999998,
+        "market_id": "2907108",
+        "question": "Will Philadelphia Union win on 2026-07-25?",
+        "volume_usd": 642793.4369799999,
         "fills": 11,
-        "link": "https://polyvictor.com/markets/3068704"
+        "link": "https://polyvictor.com/markets/2907108"
       },
       {
-        "market_id": "2963866",
-        "question": "Map Handicap: VIT (-1.5) vs Liquid (+1.5)",
-        "volume_usd": 598856.329596,
-        "fills": 10,
-        "link": "https://polyvictor.com/markets/2963866"
+        "market_id": "3089439",
+        "question": "New York Yankees vs. Philadelphia Phillies: O/U 9.5",
+        "volume_usd": 541445.4008800001,
+        "fills": 7,
+        "link": "https://polyvictor.com/markets/3089439"
       },
       {
-        "market_id": "1931121",
-        "question": "Will LeBron James play for the Philadelphia 76ers in 2026-27?",
-        "volume_usd": 511152.92303899996,
-        "fills": 16,
-        "link": "https://polyvictor.com/markets/1931121"
+        "market_id": "2907042",
+        "question": "Will Columbus Crew win on 2026-07-25?",
+        "volume_usd": 440964.70665,
+        "fills": 11,
+        "link": "https://polyvictor.com/markets/2907042"
       }
     ],
     "top_whales": [
       {
-        "address": "0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654",
-        "volume_usd": 1464949.6652630002,
-        "fills": 25,
-        "link": "https://polyvictor.com/whales/0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654"
+        "address": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
+        "volume_usd": 1355825.3150799996,
+        "fills": 33,
+        "link": "https://polyvictor.com/whales/0xc2e7800b5af46e6093872b177b7a5e7f0563be51"
       },
       {
         "address": "0x547f2917d51f2e63ab382dcf641d4e0240162937",
-        "volume_usd": 1359553.6762799995,
-        "fills": 28,
+        "volume_usd": 764150.4029799999,
+        "fills": 13,
         "link": "https://polyvictor.com/whales/0x547f2917d51f2e63ab382dcf641d4e0240162937"
       },
       {
-        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 1136252.211003,
-        "fills": 26,
-        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
+        "address": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+        "volume_usd": 714425.87719,
+        "fills": 15,
+        "link": "https://polyvictor.com/whales/0xcd30f4698c6f5f3829893e68e183a8e5ea18f316"
       }
     ],
     "biggest_fill": {
-      "address": "0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654",
-      "usd": 171925.3026,
+      "address": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+      "usd": 199800,
       "side": "sell",
       "price": 0.999,
-      "market_id": "3071995",
-      "question": "Bloomfield Hills: Dhakshineswar Suresh vs Andres Martin",
-      "link": "https://polyvictor.com/markets/3071995"
+      "market_id": "2937069",
+      "question": "LoL: ThunderTalk Gaming vs EDward Gaming - Game 2 Winner",
+      "link": "https://polyvictor.com/markets/2937069"
     }
   }
 }
