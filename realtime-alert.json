@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-27T10:00:07.078Z",
+  "generated_at": "2026-07-27T13:44:04.344Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "c17c5829-d1c4-4233-909e-d54f6b59bba6",
-      "ts": "2026-07-27T09:58:20+00:00",
-      "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
+      "id": "a1c6c29b-0ec8-4be8-bc95-81d46053d760",
+      "ts": "2026-07-27T13:42:57+00:00",
+      "address": "0x71edffd0d70a1da823ff07a3c6fc81457294d338",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Hanwha Life Esports",
-      "price": 0.9821290210800216,
-      "shares": 34687.82,
-      "usd_value": 34067.914699999994,
-      "price_shift_pp": 4.2129021080021705,
-      "alert_reason": "shift",
-      "market_id": "3093318",
-      "condition_id": "0xbd4ce9bd5bb45a9bc37099285159ffcc0f09a1e8091558a5526e4628f67a189a",
-      "token_id": "105831353846286596011055565341816356026812330627716988134510281255824759514308",
-      "question": "LoL: Hanwha Life Esports vs Kiwoom DRX (BO1) - KeSPA Cup Group Stage",
-      "link": "https://polyvictor.com/markets/3093318"
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.994,
+      "shares": 262228.01,
+      "usd_value": 260654.64194,
+      "price_shift_pp": 0.10000000000000009,
+      "alert_reason": "size",
+      "market_id": "1654960",
+      "condition_id": "0x2a28cc33492516116690a20d290f9922acbe0ed367ff52a6082154474c7f2971",
+      "token_id": "82752177927542167404038816431416174971863195141383694610771473564093425601859",
+      "question": "Will the Fed increase interest rates by 50+ bps after the July 2026 meeting?",
+      "link": "https://polyvictor.com/markets/1654960"
     }
   ]
 }
