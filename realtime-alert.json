@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-27T19:40:05.900Z",
+  "generated_at": "2026-07-27T23:12:01.005Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "a0ef04d5-224f-4d11-b712-c1c20f1e85a6",
-      "ts": "2026-07-27T19:37:56+00:00",
-      "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
-      "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Bulldog Esports",
-      "price": 0.9889429747897373,
-      "shares": 25395.61,
-      "usd_value": 25114.8101,
-      "price_shift_pp": 6.894297478973721,
+      "id": "dfc6f37c-d29a-4b53-b5f4-85ffd213b7f8",
+      "ts": "2026-07-27T23:10:56+00:00",
+      "address": "0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654",
+      "side": "sell",
+      "outcome_index": 0,
+      "outcome_label": "Kei Nishikori",
+      "price": 0.7814285011574389,
+      "shares": 128481.94,
+      "usd_value": 100399.4498,
+      "price_shift_pp": -3.8571494692762553,
       "alert_reason": "shift",
-      "market_id": "3124551",
-      "condition_id": "0x51e15279251b4c62ffb1a903fb60ae494d1637653cfd7be9be39351ce460a771",
-      "token_id": "65668870951833875177986904492481297633808130683282646901429377536622389124965",
-      "question": "LoL: Arctic Pandas vs Bulldog Esports (BO3) - NLC Regular Season",
-      "link": "https://polyvictor.com/markets/3124551"
+      "market_id": "3109557",
+      "condition_id": "0x29f42c3cd2d40ba0b7e034fc88f3c50086f9c59bf9b311ebfec2ce2e4540b2c1",
+      "token_id": "106522539611570998401342083482011623994278109371431193792372605596140242346303",
+      "question": "Mubadala Citi DC Open: Kei Nishikori vs Juncheng Shang",
+      "link": "https://polyvictor.com/markets/3109557"
     }
   ]
 }
