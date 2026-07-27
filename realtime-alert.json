@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-26T21:50:05.957Z",
+  "generated_at": "2026-07-27T07:34:00.902Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "272a2cbf-be14-41f6-b95f-c60b6384b925",
-      "ts": "2026-07-26T21:48:39+00:00",
+      "id": "7be5aa92-b653-4538-8b6a-211ce97899cf",
+      "ts": "2026-07-27T07:33:19+00:00",
       "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Team Liquid",
-      "price": 0.9895397893965373,
-      "shares": 31709.83,
-      "usd_value": 31378.1385,
-      "price_shift_pp": 3.953978939653735,
+      "outcome_index": 1,
+      "outcome_label": "Hanwha Life Esports",
+      "price": 0.9842742635713426,
+      "shares": 41808.87,
+      "usd_value": 41151.39473,
+      "price_shift_pp": 3.727426390304145,
       "alert_reason": "shift",
-      "market_id": "2898071",
-      "condition_id": "0x029cd776f47456092231362e79f59590e2192f437e6abeb504375b50a67e8bbc",
-      "token_id": "98533241580714503389902709842371656745269819553624840914310571213290663636131",
-      "question": "LoL: Team Liquid vs Cloud9 - Game 2 Winner",
-      "link": "https://polyvictor.com/markets/2898071"
+      "market_id": "3093297",
+      "condition_id": "0xbab76b13e5049ca8da627ceafdffd6ba29ea340af7a69df396eccb7561c6bc1b",
+      "token_id": "18164087338431162472547271494488039802753236302657534084624342442056247938258",
+      "question": "LoL: Dplus KIA vs Hanwha Life Esports (BO1) - KeSPA Cup Group Stage",
+      "link": "https://polyvictor.com/markets/3093297"
     }
   ]
 }
