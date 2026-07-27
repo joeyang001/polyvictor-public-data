@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-27T23:12:01.005Z",
+  "generated_at": "2026-07-27T23:16:01.454Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "b0899505-0886-4526-bc5c-99bed79f9fd6",
+      "ts": "2026-07-27T23:15:50+00:00",
+      "address": "0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Talia Gibson",
+      "price": 0.276560939620715,
+      "shares": 167042.72,
+      "usd_value": 46197.4916,
+      "price_shift_pp": -5.06364806647237,
+      "alert_reason": "shift",
+      "market_id": "3096164",
+      "condition_id": "0x88ee50b8308a18fed72f2f79d830b24675617c38c6a2ed7f8e05b7fc5df5f990",
+      "token_id": "101477490872335227707682481349369478664637559595133773968609831307591438209522",
+      "question": "The Memphis Classic: Talia Gibson vs Tatjana Maria",
+      "link": "https://polyvictor.com/markets/3096164"
+    },
     {
       "id": "dfc6f37c-d29a-4b53-b5f4-85ffd213b7f8",
       "ts": "2026-07-27T23:10:56+00:00",
