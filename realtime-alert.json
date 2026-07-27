@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-27T07:34:00.902Z",
+  "generated_at": "2026-07-27T10:00:07.078Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "7be5aa92-b653-4538-8b6a-211ce97899cf",
-      "ts": "2026-07-27T07:33:19+00:00",
+      "id": "c17c5829-d1c4-4233-909e-d54f6b59bba6",
+      "ts": "2026-07-27T09:58:20+00:00",
       "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
       "side": "buy",
-      "outcome_index": 1,
+      "outcome_index": 0,
       "outcome_label": "Hanwha Life Esports",
-      "price": 0.9842742635713426,
-      "shares": 41808.87,
-      "usd_value": 41151.39473,
-      "price_shift_pp": 3.727426390304145,
+      "price": 0.9821290210800216,
+      "shares": 34687.82,
+      "usd_value": 34067.914699999994,
+      "price_shift_pp": 4.2129021080021705,
       "alert_reason": "shift",
-      "market_id": "3093297",
-      "condition_id": "0xbab76b13e5049ca8da627ceafdffd6ba29ea340af7a69df396eccb7561c6bc1b",
-      "token_id": "18164087338431162472547271494488039802753236302657534084624342442056247938258",
-      "question": "LoL: Dplus KIA vs Hanwha Life Esports (BO1) - KeSPA Cup Group Stage",
-      "link": "https://polyvictor.com/markets/3093297"
+      "market_id": "3093318",
+      "condition_id": "0xbd4ce9bd5bb45a9bc37099285159ffcc0f09a1e8091558a5526e4628f67a189a",
+      "token_id": "105831353846286596011055565341816356026812330627716988134510281255824759514308",
+      "question": "LoL: Hanwha Life Esports vs Kiwoom DRX (BO1) - KeSPA Cup Group Stage",
+      "link": "https://polyvictor.com/markets/3093318"
     }
   ]
 }
