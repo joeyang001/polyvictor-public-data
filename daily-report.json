@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-07-26",
-  "generated_at": "2026-07-26T14:00:07.056Z",
+  "date": "2026-07-27",
+  "generated_at": "2026-07-27T14:00:07.117Z",
   "status": "success",
   "tweet_ids": [
-    "2081379034210967822",
-    "2081379035368628598"
+    "2081741422126899396",
+    "2081741423544614989"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 387,
-    "total_volume_usd": 14285996.801082004,
-    "unique_whales": 105,
-    "buy_volume_usd": 10309154.757621998,
-    "sell_volume_usd": 3976842.0434600003,
+    "total_fills": 307,
+    "total_volume_usd": 14079471.715749009,
+    "unique_whales": 103,
+    "buy_volume_usd": 10812258.532109011,
+    "sell_volume_usd": 3267213.1836400004,
     "top_markets": [
       {
-        "market_id": "2907108",
-        "question": "Will Philadelphia Union win on 2026-07-25?",
-        "volume_usd": 642793.4369799999,
-        "fills": 11,
-        "link": "https://polyvictor.com/markets/2907108"
+        "market_id": "2747025",
+        "question": "Will CXMT’s market cap be 400 billion yuan or greater at market close on IPO day by December 31, 2026?",
+        "volume_usd": 1611987.1419099998,
+        "fills": 14,
+        "link": "https://polyvictor.com/markets/2747025"
       },
       {
-        "market_id": "3089439",
-        "question": "New York Yankees vs. Philadelphia Phillies: O/U 9.5",
-        "volume_usd": 541445.4008800001,
-        "fills": 7,
-        "link": "https://polyvictor.com/markets/3089439"
+        "market_id": "3000575",
+        "question": "New York Yankees vs. Philadelphia Phillies",
+        "volume_usd": 881659.921482,
+        "fills": 15,
+        "link": "https://polyvictor.com/markets/3000575"
       },
       {
-        "market_id": "2907042",
-        "question": "Will Columbus Crew win on 2026-07-25?",
-        "volume_usd": 440964.70665,
-        "fills": 11,
-        "link": "https://polyvictor.com/markets/2907042"
+        "market_id": "1654960",
+        "question": "Will the Fed increase interest rates by 50+ bps after the July 2026 meeting?",
+        "volume_usd": 503410.22375,
+        "fills": 5,
+        "link": "https://polyvictor.com/markets/1654960"
       }
     ],
     "top_whales": [
       {
-        "address": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
-        "volume_usd": 1355825.3150799996,
-        "fills": 33,
-        "link": "https://polyvictor.com/whales/0xc2e7800b5af46e6093872b177b7a5e7f0563be51"
+        "address": "0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1",
+        "volume_usd": 1166278.2521,
+        "fills": 7,
+        "link": "https://polyvictor.com/whales/0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1"
       },
       {
-        "address": "0x547f2917d51f2e63ab382dcf641d4e0240162937",
-        "volume_usd": 764150.4029799999,
-        "fills": 13,
-        "link": "https://polyvictor.com/whales/0x547f2917d51f2e63ab382dcf641d4e0240162937"
+        "address": "0x2117ae94a97d69b78cbc81b6680a62deb1955c26",
+        "volume_usd": 1097843.912,
+        "fills": 6,
+        "link": "https://polyvictor.com/whales/0x2117ae94a97d69b78cbc81b6680a62deb1955c26"
       },
       {
-        "address": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
-        "volume_usd": 714425.87719,
-        "fills": 15,
-        "link": "https://polyvictor.com/whales/0xcd30f4698c6f5f3829893e68e183a8e5ea18f316"
+        "address": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+        "volume_usd": 872672.9937200001,
+        "fills": 14,
+        "link": "https://polyvictor.com/whales/0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf"
       }
     ],
     "biggest_fill": {
-      "address": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
-      "usd": 199800,
-      "side": "sell",
-      "price": 0.999,
-      "market_id": "2937069",
-      "question": "LoL: ThunderTalk Gaming vs EDward Gaming - Game 2 Winner",
-      "link": "https://polyvictor.com/markets/2937069"
+      "address": "0x71edffd0d70a1da823ff07a3c6fc81457294d338",
+      "usd": 260654.64194,
+      "side": "buy",
+      "price": 0.994,
+      "market_id": "1654960",
+      "question": "Will the Fed increase interest rates by 50+ bps after the July 2026 meeting?",
+      "link": "https://polyvictor.com/markets/1654960"
     }
   }
 }
