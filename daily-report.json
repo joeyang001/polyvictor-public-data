@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-07-27",
-  "generated_at": "2026-07-27T14:00:07.117Z",
+  "date": "2026-07-28",
+  "generated_at": "2026-07-28T14:00:04.303Z",
   "status": "success",
   "tweet_ids": [
-    "2081741422126899396",
-    "2081741423544614989"
+    "2082103798252597299",
+    "2082103799389323501"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 307,
-    "total_volume_usd": 14079471.715749009,
-    "unique_whales": 103,
-    "buy_volume_usd": 10812258.532109011,
-    "sell_volume_usd": 3267213.1836400004,
+    "total_fills": 304,
+    "total_volume_usd": 16252073.446221998,
+    "unique_whales": 86,
+    "buy_volume_usd": 13248274.289722003,
+    "sell_volume_usd": 3003799.1565,
     "top_markets": [
       {
-        "market_id": "2747025",
-        "question": "Will CXMT’s market cap be 400 billion yuan or greater at market close on IPO day by December 31, 2026?",
-        "volume_usd": 1611987.1419099998,
-        "fills": 14,
-        "link": "https://polyvictor.com/markets/2747025"
+        "market_id": "1654956",
+        "question": "Will the Fed decrease interest rates by 50+ bps after the July 2026 meeting?",
+        "volume_usd": 2808969.3290999997,
+        "fills": 8,
+        "link": "https://polyvictor.com/markets/1654956"
       },
       {
-        "market_id": "3000575",
-        "question": "New York Yankees vs. Philadelphia Phillies",
-        "volume_usd": 881659.921482,
-        "fills": 15,
-        "link": "https://polyvictor.com/markets/3000575"
+        "market_id": "1654959",
+        "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
+        "volume_usd": 1492853.8457900002,
+        "fills": 23,
+        "link": "https://polyvictor.com/markets/1654959"
       },
       {
-        "market_id": "1654960",
-        "question": "Will the Fed increase interest rates by 50+ bps after the July 2026 meeting?",
-        "volume_usd": 503410.22375,
-        "fills": 5,
-        "link": "https://polyvictor.com/markets/1654960"
+        "market_id": "2967837",
+        "question": "US announces halt in Iran offensive operations by July 31?",
+        "volume_usd": 1377630.22077,
+        "fills": 13,
+        "link": "https://polyvictor.com/markets/2967837"
       }
     ],
     "top_whales": [
       {
-        "address": "0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1",
-        "volume_usd": 1166278.2521,
-        "fills": 7,
-        "link": "https://polyvictor.com/whales/0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1"
+        "address": "0x429332d3f1620f7e17d11f4fcdfc8355bfea5d25",
+        "volume_usd": 1585852.2453100001,
+        "fills": 2,
+        "link": "https://polyvictor.com/whales/0x429332d3f1620f7e17d11f4fcdfc8355bfea5d25"
       },
       {
-        "address": "0x2117ae94a97d69b78cbc81b6680a62deb1955c26",
-        "volume_usd": 1097843.912,
-        "fills": 6,
-        "link": "https://polyvictor.com/whales/0x2117ae94a97d69b78cbc81b6680a62deb1955c26"
+        "address": "0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654",
+        "volume_usd": 1138208.2977749999,
+        "fills": 21,
+        "link": "https://polyvictor.com/whales/0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654"
       },
       {
-        "address": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
-        "volume_usd": 872672.9937200001,
-        "fills": 14,
-        "link": "https://polyvictor.com/whales/0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf"
+        "address": "0x88edd092d799556111e57ff3b2107e24dd406cfb",
+        "volume_usd": 1032998.4727100001,
+        "fills": 3,
+        "link": "https://polyvictor.com/whales/0x88edd092d799556111e57ff3b2107e24dd406cfb"
       }
     ],
     "biggest_fill": {
-      "address": "0x71edffd0d70a1da823ff07a3c6fc81457294d338",
-      "usd": 260654.64194,
+      "address": "0x429332d3f1620f7e17d11f4fcdfc8355bfea5d25",
+      "usd": 792945.94531,
       "side": "buy",
-      "price": 0.994,
-      "market_id": "1654960",
-      "question": "Will the Fed increase interest rates by 50+ bps after the July 2026 meeting?",
-      "link": "https://polyvictor.com/markets/1654960"
+      "price": 0.999,
+      "market_id": "1654956",
+      "question": "Will the Fed decrease interest rates by 50+ bps after the July 2026 meeting?",
+      "link": "https://polyvictor.com/markets/1654956"
     }
   }
 }
