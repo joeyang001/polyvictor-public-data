@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-28T11:30:03.771Z",
+  "generated_at": "2026-07-28T13:58:00.825Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "bc84efc7-d055-4785-b5d0-3e3aa70a451e",
-      "ts": "2026-07-28T11:29:49+00:00",
-      "address": "0xfc25f141ed27bb1787338d2c4e7f51e3a15e1f7f",
-      "side": "buy",
+      "id": "08ec157b-eb6c-4e68-8215-b2c5f4f971ea",
+      "ts": "2026-07-28T13:57:03+00:00",
+      "address": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+      "side": "sell",
       "outcome_index": 0,
-      "outcome_label": "KT Rolster Challengers",
-      "price": 0.9735157558947325,
-      "shares": 31322.88,
-      "usd_value": 30493.317199999998,
-      "price_shift_pp": 3.3515755894732546,
+      "outcome_label": "Clement Tabur",
+      "price": 0.7922489539331897,
+      "shares": 32605.47,
+      "usd_value": 25831.6495,
+      "price_shift_pp": -3.7750748753040186,
       "alert_reason": "shift",
-      "market_id": "3029610",
-      "condition_id": "0x38da844c08f495a7d8bcc24d91d1839ae04c11f0b817bde297cbff527a325afa",
-      "token_id": "71907912393364227934193162235962394211686475118712156924178298419227758903980",
-      "question": "LoL: KT Rolster Challengers vs Dplus KIA Challengers - Game 2 Winner",
-      "link": "https://polyvictor.com/markets/3029610"
+      "market_id": "3109573",
+      "condition_id": "0x48eb3bf806f71fc955ff7a35e0715de05e54e8f4eaea5307b9f57c01345e3233",
+      "token_id": "12932363311703617510152420564583041989728862843204834851718593027108198444936",
+      "question": "Bonn: Clement Tabur vs Henri Squire",
+      "link": "https://polyvictor.com/markets/3109573"
     }
   ]
 }
