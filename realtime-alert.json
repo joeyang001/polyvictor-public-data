@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-28T13:58:00.825Z",
+  "generated_at": "2026-07-28T15:36:02.142Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "08ec157b-eb6c-4e68-8215-b2c5f4f971ea",
-      "ts": "2026-07-28T13:57:03+00:00",
-      "address": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
-      "side": "sell",
-      "outcome_index": 0,
-      "outcome_label": "Clement Tabur",
-      "price": 0.7922489539331897,
-      "shares": 32605.47,
-      "usd_value": 25831.6495,
-      "price_shift_pp": -3.7750748753040186,
-      "alert_reason": "shift",
-      "market_id": "3109573",
-      "condition_id": "0x48eb3bf806f71fc955ff7a35e0715de05e54e8f4eaea5307b9f57c01345e3233",
-      "token_id": "12932363311703617510152420564583041989728862843204834851718593027108198444936",
-      "question": "Bonn: Clement Tabur vs Henri Squire",
-      "link": "https://polyvictor.com/markets/3109573"
+      "id": "176850ab-0ab8-4cc4-b794-608ca01f8ec1",
+      "ts": "2026-07-28T15:35:37+00:00",
+      "address": "0x9d84ce0306f8551e02efef1680475fc0f1dc1344",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.995,
+      "shares": 300000,
+      "usd_value": 298500,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "1654960",
+      "condition_id": "0x2a28cc33492516116690a20d290f9922acbe0ed367ff52a6082154474c7f2971",
+      "token_id": "82752177927542167404038816431416174971863195141383694610771473564093425601859",
+      "question": "Will the Fed increase interest rates by 50+ bps after the July 2026 meeting?",
+      "link": "https://polyvictor.com/markets/1654960"
     }
   ]
 }
