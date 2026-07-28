@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-28T09:36:01.073Z",
+  "generated_at": "2026-07-28T09:54:01.583Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "a206c378-fc32-426f-8132-7eee7698de18",
+      "ts": "2026-07-28T09:52:31+00:00",
+      "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Kiwoom DRX",
+      "price": 0.9842707285869589,
+      "shares": 27467.14,
+      "usd_value": 27035.1019,
+      "price_shift_pp": 3.42707285869589,
+      "alert_reason": "shift",
+      "market_id": "3127817",
+      "condition_id": "0xbc6967fb8439b1ab92abb6be2b67c65bd73f2ed759a5a50688de6e1c56a5f8c7",
+      "token_id": "68751792637308642512365414067475201609999219723548932008406686799580199256762",
+      "question": "LoL: Kiwoom DRX vs KT Rolster - Game 2 Winner",
+      "link": "https://polyvictor.com/markets/3127817"
+    },
     {
       "id": "34c8e310-68a7-43e0-aae9-2e9b4787164b",
       "ts": "2026-07-28T09:35:34+00:00",
