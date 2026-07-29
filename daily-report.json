@@ -1,66 +1,66 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-07-28",
-  "generated_at": "2026-07-28T14:00:04.303Z",
+  "date": "2026-07-29",
+  "generated_at": "2026-07-29T14:00:07.978Z",
   "status": "success",
   "tweet_ids": [
-    "2082103798252597299",
-    "2082103799389323501"
+    "2082466201129681310",
+    "2082466202522190288"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 304,
-    "total_volume_usd": 16252073.446221998,
-    "unique_whales": 86,
-    "buy_volume_usd": 13248274.289722003,
-    "sell_volume_usd": 3003799.1565,
+    "total_fills": 393,
+    "total_volume_usd": 21272385.770690966,
+    "unique_whales": 121,
+    "buy_volume_usd": 16981575.284483988,
+    "sell_volume_usd": 4290810.486207002,
     "top_markets": [
       {
         "market_id": "1654956",
         "question": "Will the Fed decrease interest rates by 50+ bps after the July 2026 meeting?",
-        "volume_usd": 2808969.3290999997,
-        "fills": 8,
+        "volume_usd": 2880064.71138,
+        "fills": 5,
         "link": "https://polyvictor.com/markets/1654956"
       },
       {
-        "market_id": "1654959",
-        "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
-        "volume_usd": 1492853.8457900002,
-        "fills": 23,
-        "link": "https://polyvictor.com/markets/1654959"
+        "market_id": "1654960",
+        "question": "Will the Fed increase interest rates by 50+ bps after the July 2026 meeting?",
+        "volume_usd": 2635017.598207,
+        "fills": 22,
+        "link": "https://polyvictor.com/markets/1654960"
       },
       {
-        "market_id": "2967837",
-        "question": "US announces halt in Iran offensive operations by July 31?",
-        "volume_usd": 1377630.22077,
-        "fills": 13,
-        "link": "https://polyvictor.com/markets/2967837"
+        "market_id": "1654957",
+        "question": "Will the Fed decrease interest rates by 25 bps after the July 2026 meeting?",
+        "volume_usd": 1822971.24114,
+        "fills": 21,
+        "link": "https://polyvictor.com/markets/1654957"
       }
     ],
     "top_whales": [
       {
-        "address": "0x429332d3f1620f7e17d11f4fcdfc8355bfea5d25",
-        "volume_usd": 1585852.2453100001,
-        "fills": 2,
-        "link": "https://polyvictor.com/whales/0x429332d3f1620f7e17d11f4fcdfc8355bfea5d25"
+        "address": "0xe29bdcbf3bc35326f439008b35e77db15dc3ff35",
+        "volume_usd": 2740594.52118,
+        "fills": 4,
+        "link": "https://polyvictor.com/whales/0xe29bdcbf3bc35326f439008b35e77db15dc3ff35"
       },
       {
-        "address": "0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654",
-        "volume_usd": 1138208.2977749999,
-        "fills": 21,
-        "link": "https://polyvictor.com/whales/0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654"
+        "address": "0xed107a85a4585a381e48c7f7ca4144909e7dd2e5",
+        "volume_usd": 1963464.45591,
+        "fills": 19,
+        "link": "https://polyvictor.com/whales/0xed107a85a4585a381e48c7f7ca4144909e7dd2e5"
       },
       {
-        "address": "0x88edd092d799556111e57ff3b2107e24dd406cfb",
-        "volume_usd": 1032998.4727100001,
-        "fills": 3,
-        "link": "https://polyvictor.com/whales/0x88edd092d799556111e57ff3b2107e24dd406cfb"
+        "address": "0x8201c74931d47ca0151715d43406a5eebe208a41",
+        "volume_usd": 1324295.4166299999,
+        "fills": 29,
+        "link": "https://polyvictor.com/whales/0x8201c74931d47ca0151715d43406a5eebe208a41"
       }
     ],
     "biggest_fill": {
-      "address": "0x429332d3f1620f7e17d11f4fcdfc8355bfea5d25",
-      "usd": 792945.94531,
+      "address": "0xe29bdcbf3bc35326f439008b35e77db15dc3ff35",
+      "usd": 1234207.22637,
       "side": "buy",
       "price": 0.999,
       "market_id": "1654956",
