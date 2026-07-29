@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-29T09:24:01.592Z",
+  "generated_at": "2026-07-29T09:52:01.206Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "772b87e7-7367-4bcb-8438-c3c641aeccf7",
+      "ts": "2026-07-29T09:50:16+00:00",
+      "address": "0x4ef4fd07f71603dde6337de4ab3fa8e7309ce76b",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "Anyone's Legend",
+      "price": 0.9888742172752379,
+      "shares": 30799.46,
+      "usd_value": 30456.7919,
+      "price_shift_pp": 4.059444411833812,
+      "alert_reason": "shift",
+      "market_id": "3077395",
+      "condition_id": "0xdfde3937e4541bb0669996fa8d956bc4bab6570beb744aa01f53c783aecfcd10",
+      "token_id": "26566185155555677852481444307772958850240821168178536059715585849755727251015",
+      "question": "LoL: Top Esports vs Anyone's Legend - Game 1 Winner",
+      "link": "https://polyvictor.com/markets/3077395"
+    },
     {
       "id": "a030cd09-cecf-469b-a936-e74cac771a0f",
       "ts": "2026-07-29T09:23:31+00:00",
