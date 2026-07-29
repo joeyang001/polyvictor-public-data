@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-29T12:36:01.810Z",
+  "generated_at": "2026-07-29T18:02:01.132Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "3f817728-60fe-4dbb-9aa9-0f461f2edbbb",
-      "ts": "2026-07-29T12:34:40+00:00",
-      "address": "0xbf00e864ca24efdc18a4aa55d6720b2fb1e31199",
+      "id": "7422d637-f35c-4f43-90d7-66f0a3466f58",
+      "ts": "2026-07-29T18:00:45+00:00",
+      "address": "0xbc97fda9fe1d4b4f5703df47872d9eaf3287ff6c",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Elena Ruxandra Bertea",
-      "price": 0.3397631450625512,
-      "shares": 80082.35,
-      "usd_value": 27209.031099999997,
-      "price_shift_pp": 5.976314506255115,
-      "alert_reason": "shift",
-      "market_id": "3158733",
-      "condition_id": "0x7902a609fc3ac5e61b6fb97e67223bed2363d880da27ef07cfe7c84d21dea6bc",
-      "token_id": "58317202936415547376838815533247178909167938242275858860516870588202870800079",
-      "question": "Targu Mures: Elena Ruxandra Bertea vs Carole Monnet",
-      "link": "https://polyvictor.com/markets/3158733"
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.999,
+      "shares": 264822.28,
+      "usd_value": 264557.45772,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "1654959",
+      "condition_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
+      "token_id": "102979714187432523726496609637889951679226430871494531752837414533106422105296",
+      "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
+      "link": "https://polyvictor.com/markets/1654959"
     }
   ]
 }
