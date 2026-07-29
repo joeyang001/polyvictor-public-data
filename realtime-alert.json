@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-29T02:20:06.092Z",
+  "generated_at": "2026-07-29T09:24:01.592Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "c29f35f7-d5e2-47ee-8087-34cb8d1ec4c8",
-      "ts": "2026-07-29T02:19:52+00:00",
-      "address": "0xe29bdcbf3bc35326f439008b35e77db15dc3ff35",
+      "id": "a030cd09-cecf-469b-a936-e74cac771a0f",
+      "ts": "2026-07-29T09:23:31+00:00",
+      "address": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
       "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "No",
-      "price": 0.999,
-      "shares": 1235380.9,
-      "usd_value": 1234145.5191,
-      "price_shift_pp": 0,
-      "alert_reason": "size",
-      "market_id": "1654956",
-      "condition_id": "0x3d675f1c88099a57c12abca632cf926be1bf430125168321de06234e9930fe1a",
-      "token_id": "81718924566344342339932153243056822500865643754622838691875214933560980686588",
-      "question": "Will the Fed decrease interest rates by 50+ bps after the July 2026 meeting?",
-      "link": "https://polyvictor.com/markets/1654956"
+      "outcome_label": "Nongshim Red Force",
+      "price": 0.9321233740313807,
+      "shares": 32893.47,
+      "usd_value": 30660.772240000002,
+      "price_shift_pp": 3.212337403138066,
+      "alert_reason": "shift",
+      "market_id": "2932570",
+      "condition_id": "0x8c3e8b1c15e4ccb7d57ac960bd6b013fc85d5c9b9b46fac851a26c6e9afe4837",
+      "token_id": "68002605401712583149266296920626892520704627424668931680820389755542508437933",
+      "question": "LoL: Kiwoom DRX vs Nongshim Red Force - Game 2 Winner",
+      "link": "https://polyvictor.com/markets/2932570"
     }
   ]
 }
