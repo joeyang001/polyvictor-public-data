@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-07-29",
-  "generated_at": "2026-07-29T14:00:07.978Z",
+  "date": "2026-07-30",
+  "generated_at": "2026-07-30T14:00:08.179Z",
   "status": "success",
   "tweet_ids": [
-    "2082466201129681310",
-    "2082466202522190288"
+    "2082828590006042769",
+    "2082828591419589120"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 393,
-    "total_volume_usd": 21272385.770690966,
-    "unique_whales": 121,
-    "buy_volume_usd": 16981575.284483988,
-    "sell_volume_usd": 4290810.486207002,
+    "total_fills": 571,
+    "total_volume_usd": 26390868.37181,
+    "unique_whales": 177,
+    "buy_volume_usd": 19589208.493372977,
+    "sell_volume_usd": 6801659.878436999,
     "top_markets": [
       {
-        "market_id": "1654956",
-        "question": "Will the Fed decrease interest rates by 50+ bps after the July 2026 meeting?",
-        "volume_usd": 2880064.71138,
-        "fills": 5,
-        "link": "https://polyvictor.com/markets/1654956"
+        "market_id": "1654958",
+        "question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+        "volume_usd": 5456081.237836,
+        "fills": 95,
+        "link": "https://polyvictor.com/markets/1654958"
       },
       {
-        "market_id": "1654960",
-        "question": "Will the Fed increase interest rates by 50+ bps after the July 2026 meeting?",
-        "volume_usd": 2635017.598207,
-        "fills": 22,
-        "link": "https://polyvictor.com/markets/1654960"
+        "market_id": "1654959",
+        "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
+        "volume_usd": 1409327.7693059999,
+        "fills": 24,
+        "link": "https://polyvictor.com/markets/1654959"
       },
       {
         "market_id": "1654957",
         "question": "Will the Fed decrease interest rates by 25 bps after the July 2026 meeting?",
-        "volume_usd": 1822971.24114,
-        "fills": 21,
+        "volume_usd": 1334347.771663,
+        "fills": 14,
         "link": "https://polyvictor.com/markets/1654957"
       }
     ],
     "top_whales": [
       {
-        "address": "0xe29bdcbf3bc35326f439008b35e77db15dc3ff35",
-        "volume_usd": 2740594.52118,
-        "fills": 4,
-        "link": "https://polyvictor.com/whales/0xe29bdcbf3bc35326f439008b35e77db15dc3ff35"
-      },
-      {
         "address": "0xed107a85a4585a381e48c7f7ca4144909e7dd2e5",
-        "volume_usd": 1963464.45591,
-        "fills": 19,
+        "volume_usd": 1495296.1030330001,
+        "fills": 11,
         "link": "https://polyvictor.com/whales/0xed107a85a4585a381e48c7f7ca4144909e7dd2e5"
       },
       {
-        "address": "0x8201c74931d47ca0151715d43406a5eebe208a41",
-        "volume_usd": 1324295.4166299999,
-        "fills": 29,
-        "link": "https://polyvictor.com/whales/0x8201c74931d47ca0151715d43406a5eebe208a41"
+        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+        "volume_usd": 1358124.603327,
+        "fills": 28,
+        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
+      },
+      {
+        "address": "0xc6587b11a2209e46dfe3928b31c5514a8e33b784",
+        "volume_usd": 1088311.95671,
+        "fills": 11,
+        "link": "https://polyvictor.com/whales/0xc6587b11a2209e46dfe3928b31c5514a8e33b784"
       }
     ],
     "biggest_fill": {
-      "address": "0xe29bdcbf3bc35326f439008b35e77db15dc3ff35",
-      "usd": 1234207.22637,
+      "address": "0xed107a85a4585a381e48c7f7ca4144909e7dd2e5",
+      "usd": 497000,
       "side": "buy",
-      "price": 0.999,
-      "market_id": "1654956",
-      "question": "Will the Fed decrease interest rates by 50+ bps after the July 2026 meeting?",
-      "link": "https://polyvictor.com/markets/1654956"
+      "price": 0.994,
+      "market_id": "1654960",
+      "question": "Will the Fed increase interest rates by 50+ bps after the July 2026 meeting?",
+      "link": "https://polyvictor.com/markets/1654960"
     }
   }
 }
