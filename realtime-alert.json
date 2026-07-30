@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-30T23:20:05.788Z",
+  "generated_at": "2026-07-30T23:22:01.507Z",
   "window_minutes": 30,
-  "count": 3,
+  "count": 4,
   "alerts": [
+    {
+      "id": "1148c8b6-140f-4816-a493-d199223097d6",
+      "ts": "2026-07-30T23:19:59+00:00",
+      "address": "0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "Ben Shelton",
+      "price": 0.6226057834253644,
+      "shares": 46578.430156,
+      "usd_value": 28999.999998,
+      "price_shift_pp": -8.491563793383005,
+      "alert_reason": "shift",
+      "market_id": "3196380",
+      "condition_id": "0x2d965a9bef980997acbf281cc1794eb459e2c7696a8a128ca8bd92537d9fb406",
+      "token_id": "15968398665492070156805759373488437168181277302156116770467877221629234501447",
+      "question": "Mubadala Citi DC Open: Ugo Humbert vs Ben Shelton",
+      "link": "https://polyvictor.com/markets/3196380"
+    },
     {
       "id": "bf213f39-8923-4c31-8916-7a7740fdf2e0",
       "ts": "2026-07-30T23:19:29+00:00",
