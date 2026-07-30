@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-29T18:02:01.132Z",
+  "generated_at": "2026-07-30T05:48:01.088Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "7422d637-f35c-4f43-90d7-66f0a3466f58",
-      "ts": "2026-07-29T18:00:45+00:00",
-      "address": "0xbc97fda9fe1d4b4f5703df47872d9eaf3287ff6c",
+      "id": "5c92909e-c5e0-4fc6-bcb0-4950316f4c97",
+      "ts": "2026-07-30T05:47:05+00:00",
+      "address": "0x7b02b2bac2a30ed5e40b7094e734f4c3dc2a4991",
       "side": "buy",
       "outcome_index": 1,
       "outcome_label": "No",
-      "price": 0.999,
-      "shares": 264822.28,
-      "usd_value": 264557.45772,
-      "price_shift_pp": 0,
+      "price": 0.5768840878789568,
+      "shares": 623749.78,
+      "usd_value": 359831.3229,
+      "price_shift_pp": -0.31159121210431184,
       "alert_reason": "size",
-      "market_id": "1654959",
-      "condition_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
-      "token_id": "102979714187432523726496609637889951679226430871494531752837414533106422105296",
-      "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
-      "link": "https://polyvictor.com/markets/1654959"
+      "market_id": "2252244",
+      "condition_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+      "token_id": "97050921740416192996389806693742575608111328819185493163189880975611314813724",
+      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "link": "https://polyvictor.com/markets/2252244"
     }
   ]
 }
