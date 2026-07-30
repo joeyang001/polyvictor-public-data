@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-30T05:48:01.088Z",
+  "generated_at": "2026-07-30T08:22:01.739Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "5c92909e-c5e0-4fc6-bcb0-4950316f4c97",
-      "ts": "2026-07-30T05:47:05+00:00",
-      "address": "0x7b02b2bac2a30ed5e40b7094e734f4c3dc2a4991",
+      "id": "591bc530-efc2-4aa9-9206-ade356123d93",
+      "ts": "2026-07-30T08:21:48+00:00",
+      "address": "0x565ca59275f81991bd9877d7fa8404c5ecf6519e",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "No",
-      "price": 0.5768840878789568,
-      "shares": 623749.78,
-      "usd_value": 359831.3229,
-      "price_shift_pp": -0.31159121210431184,
-      "alert_reason": "size",
-      "market_id": "2252244",
-      "condition_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
-      "token_id": "97050921740416192996389806693742575608111328819185493163189880975611314813724",
-      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "link": "https://polyvictor.com/markets/2252244"
+      "outcome_index": 0,
+      "outcome_label": "YES",
+      "price": 0.7999849342682122,
+      "shares": 69694.59,
+      "usd_value": 55754.621999999996,
+      "price_shift_pp": 11.571263379872853,
+      "alert_reason": "shift",
+      "market_id": null,
+      "condition_id": "0x8b390228abfbced30356f2bf854a38f17baa8be15ad190aed14ddf716202c251",
+      "token_id": "102379801840832121382137195508187201534546032607813846288988322402900284455032",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
