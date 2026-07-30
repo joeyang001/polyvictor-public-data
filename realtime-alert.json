@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-30T17:58:04.585Z",
+  "generated_at": "2026-07-30T21:32:02.100Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "cb129f17-6319-4c06-8e85-11e53343f5ff",
-      "ts": "2026-07-30T17:56:45+00:00",
-      "address": "0xcdc16095643e158c407da40f9a9a8da24f80bdd8",
-      "side": "sell",
+      "id": "eabbea3f-3822-46b6-a913-d1c525f98056",
+      "ts": "2026-07-30T21:31:16+00:00",
+      "address": "0xe9076a87c5ed90ef16e6fe6529c943baeca0cff6",
+      "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "FC Sheriff Tiraspol",
-      "price": 0.999,
-      "shares": 30568.43,
-      "usd_value": 30537.86157,
-      "price_shift_pp": 23.9,
+      "outcome_label": "NO",
+      "price": 0.1954463582562523,
+      "shares": 212918.88,
+      "usd_value": 41614.219699999994,
+      "price_shift_pp": -24.45536417437477,
       "alert_reason": "shift",
-      "market_id": "2962480",
-      "condition_id": "0x650118fe3c1b7ed200d77547421e3468e3c7f69176e04dafa9b9bf0e30a8c024",
-      "token_id": "24733993402094225898390052781777955520271916708296597363439935169965121716118",
-      "question": "Spread: MH Maccabi Tel Aviv (-1.5)",
-      "link": "https://polyvictor.com/markets/2962480"
+      "market_id": null,
+      "condition_id": "0xb3c10bf9fcfbba2fb10ebf3120108d913ad0cbb25e3925246d0dc02efaae4ba3",
+      "token_id": "7188691977041243182436391898961486649914229466629799558856060533688495773687",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
