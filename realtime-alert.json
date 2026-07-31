@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-31T11:44:01.055Z",
+  "generated_at": "2026-07-31T17:30:06.516Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "04b49296-76e8-4bab-aef7-509f4ce9dffb",
-      "ts": "2026-07-31T11:42:37+00:00",
-      "address": "0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654",
+      "id": "448cd855-8b07-474d-a894-f69dc38825da",
+      "ts": "2026-07-31T17:27:56+00:00",
+      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "YES",
-      "price": 0.5613938953546672,
-      "shares": 124689.635171,
-      "usd_value": 69999.999999,
-      "price_shift_pp": 3.139389535466719,
+      "outcome_index": 1,
+      "outcome_label": "Shifters",
+      "price": 0.63,
+      "shares": 41107.87,
+      "usd_value": 25897.958100000003,
+      "price_shift_pp": -3.0000000000000027,
       "alert_reason": "shift",
-      "market_id": null,
-      "condition_id": "0x95cb5527209cbbabe99812f75b296c5cb86dab75d0b96b6d7802b1e7c5b19ecb",
-      "token_id": "90545008209678085235740117480617853258386755806656014876252227181301345618504",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
+      "market_id": "3129351",
+      "condition_id": "0x21285fe1bb59d6abef7235aef15e96eb5b27bbe335b55b7fcf208e17491ce912",
+      "token_id": "5440507028822975682546447861728849405421215504490710402848789902860379611913",
+      "question": "LoL: Movistar KOI vs Shifters - Game 1 Winner",
+      "link": "https://polyvictor.com/markets/3129351"
     }
   ]
 }
