@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-31T17:30:06.516Z",
+  "generated_at": "2026-07-31T18:50:05.797Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "448cd855-8b07-474d-a894-f69dc38825da",
-      "ts": "2026-07-31T17:27:56+00:00",
-      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+      "id": "e254a9bc-8ddf-4e3b-92ef-012c7536d0d7",
+      "ts": "2026-07-31T18:49:45+00:00",
+      "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
       "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "Shifters",
-      "price": 0.63,
-      "shares": 41107.87,
-      "usd_value": 25897.958100000003,
-      "price_shift_pp": -3.0000000000000027,
+      "outcome_label": "Astralis",
+      "price": 0.8310652768,
+      "shares": 31250,
+      "usd_value": 25970.7899,
+      "price_shift_pp": 3.106527679999993,
       "alert_reason": "shift",
-      "market_id": "3129351",
-      "condition_id": "0x21285fe1bb59d6abef7235aef15e96eb5b27bbe335b55b7fcf208e17491ce912",
-      "token_id": "5440507028822975682546447861728849405421215504490710402848789902860379611913",
-      "question": "LoL: Movistar KOI vs Shifters - Game 1 Winner",
-      "link": "https://polyvictor.com/markets/3129351"
+      "market_id": "3207122",
+      "condition_id": "0x1fb5bcb012a4d86140609abc2c5b6d37b2d19fae8477c02cd07900927a50a678",
+      "token_id": "96178289963040200620703848874877712212637809030966664466182363345407337829935",
+      "question": "Counter-Strike: paiN vs Astralis - Map 2 Winner",
+      "link": "https://polyvictor.com/markets/3207122"
     }
   ]
 }
