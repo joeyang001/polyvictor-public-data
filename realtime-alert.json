@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-31T01:50:02.284Z",
+  "generated_at": "2026-07-31T09:42:01.231Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "7636ea35-2044-40c6-a604-74850af24bbe",
-      "ts": "2026-07-31T01:49:43+00:00",
-      "address": "0xdb859a551fcf56e49416160911476bea7307152f",
+      "id": "db215241-2b26-4d9a-817c-9cb90efbb864",
+      "ts": "2026-07-31T09:41:32+00:00",
+      "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Polina Kudermetova",
-      "price": 0.3722324808845308,
-      "shares": 80594.793683,
-      "usd_value": 29999.999999,
-      "price_shift_pp": 3.223248088453079,
+      "outcome_index": 1,
+      "outcome_label": "T1",
+      "price": 0.9897357012875536,
+      "shares": 58250,
+      "usd_value": 57652.1046,
+      "price_shift_pp": 3.069943667543884,
       "alert_reason": "shift",
-      "market_id": "3191842",
-      "condition_id": "0x82b87cc67dd13cfa574c3b9597160638b0edba293c54f7a668acb62cb54e9855",
-      "token_id": "80341813602535610506335164069646157112888611163813467009861859305455913124438",
-      "question": "Mubadala Citi DC Open: Polina Kudermetova vs Elina Svitolina",
-      "link": "https://polyvictor.com/markets/3191842"
+      "market_id": "2957327",
+      "condition_id": "0x2fde466ea3855fdb5cd10f54d81ae178e7ece896493936883a265c7e3d0c52c7",
+      "token_id": "108300323158838072352460284699992373743502702970710739285589514925380399926542",
+      "question": "LoL: Gen.G vs T1 - Game 2 Winner",
+      "link": "https://polyvictor.com/markets/2957327"
     }
   ]
 }
