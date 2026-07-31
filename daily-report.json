@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-07-30",
-  "generated_at": "2026-07-30T14:00:08.179Z",
+  "date": "2026-07-31",
+  "generated_at": "2026-07-31T14:00:05.263Z",
   "status": "success",
   "tweet_ids": [
-    "2082828590006042769",
-    "2082828591419589120"
+    "2083190965959836096",
+    "2083190967134244914"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 571,
-    "total_volume_usd": 26390868.37181,
-    "unique_whales": 177,
-    "buy_volume_usd": 19589208.493372977,
-    "sell_volume_usd": 6801659.878436999,
+    "total_fills": 390,
+    "total_volume_usd": 17232153.72387701,
+    "unique_whales": 95,
+    "buy_volume_usd": 13145548.893247,
+    "sell_volume_usd": 4086604.8306299997,
     "top_markets": [
       {
-        "market_id": "1654958",
-        "question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-        "volume_usd": 5456081.237836,
-        "fills": 95,
-        "link": "https://polyvictor.com/markets/1654958"
+        "market_id": "3080764",
+        "question": "Chicago Cubs vs. St. Louis Cardinals",
+        "volume_usd": 1076462.91831,
+        "fills": 20,
+        "link": "https://polyvictor.com/markets/3080764"
       },
       {
-        "market_id": "1654959",
-        "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
-        "volume_usd": 1409327.7693059999,
-        "fills": 24,
-        "link": "https://polyvictor.com/markets/1654959"
+        "market_id": "2252243",
+        "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
+        "volume_usd": 979727.11953,
+        "fills": 2,
+        "link": "https://polyvictor.com/markets/2252243"
       },
       {
-        "market_id": "1654957",
-        "question": "Will the Fed decrease interest rates by 25 bps after the July 2026 meeting?",
-        "volume_usd": 1334347.771663,
-        "fills": 14,
-        "link": "https://polyvictor.com/markets/1654957"
+        "market_id": "3196380",
+        "question": "Mubadala Citi DC Open: Ugo Humbert vs Ben Shelton",
+        "volume_usd": 881687.6172,
+        "fills": 11,
+        "link": "https://polyvictor.com/markets/3196380"
       }
     ],
     "top_whales": [
       {
-        "address": "0xed107a85a4585a381e48c7f7ca4144909e7dd2e5",
-        "volume_usd": 1495296.1030330001,
-        "fills": 11,
-        "link": "https://polyvictor.com/whales/0xed107a85a4585a381e48c7f7ca4144909e7dd2e5"
+        "address": "0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654",
+        "volume_usd": 1775505.098611,
+        "fills": 33,
+        "link": "https://polyvictor.com/whales/0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654"
       },
       {
         "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 1358124.603327,
-        "fills": 28,
+        "volume_usd": 1032296.6936930001,
+        "fills": 25,
         "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
       },
       {
-        "address": "0xc6587b11a2209e46dfe3928b31c5514a8e33b784",
-        "volume_usd": 1088311.95671,
-        "fills": 11,
-        "link": "https://polyvictor.com/whales/0xc6587b11a2209e46dfe3928b31c5514a8e33b784"
+        "address": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+        "volume_usd": 1009062.4095299998,
+        "fills": 20,
+        "link": "https://polyvictor.com/whales/0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf"
       }
     ],
     "biggest_fill": {
-      "address": "0xed107a85a4585a381e48c7f7ca4144909e7dd2e5",
-      "usd": 497000,
+      "address": "0xe639e41094bbeae18f3e6d1790c17299183f082a",
+      "usd": 490194.1776,
       "side": "buy",
-      "price": 0.994,
-      "market_id": "1654960",
-      "question": "Will the Fed increase interest rates by 50+ bps after the July 2026 meeting?",
-      "link": "https://polyvictor.com/markets/1654960"
+      "price": 0.9729850387,
+      "market_id": "2252243",
+      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
+      "link": "https://polyvictor.com/markets/2252243"
     }
   }
 }
