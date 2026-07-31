@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-31T18:50:05.797Z",
+  "generated_at": "2026-07-31T19:08:00.849Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "caed48a7-787d-4df8-8100-894ffde9465b",
+      "ts": "2026-07-31T19:07:13+00:00",
+      "address": "0x3954e1c6b7bc5645d9d3425a6f4490889ef122d9",
+      "side": "sell",
+      "outcome_index": 0,
+      "outcome_label": "Xtreme Gaming",
+      "price": 0.999,
+      "shares": 147060.67,
+      "usd_value": 146913.60933,
+      "price_shift_pp": 6.051548703295828,
+      "alert_reason": "shift",
+      "market_id": "3161920",
+      "condition_id": "0x68698ae6f6d90e1ea6cd69ad517ac0be1b16bf95d90a54627632539e2377d1a7",
+      "token_id": "16433769250687370787693556261372116279116257036871860306038827096436603791142",
+      "question": "Dota 2: Xtreme Gaming vs LGD Gaming - Game 1 Winner",
+      "link": "https://polyvictor.com/markets/3161920"
+    },
     {
       "id": "e254a9bc-8ddf-4e3b-92ef-012c7536d0d7",
       "ts": "2026-07-31T18:49:45+00:00",
