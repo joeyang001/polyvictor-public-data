@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-31T09:42:01.231Z",
+  "generated_at": "2026-07-31T11:44:01.055Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "db215241-2b26-4d9a-817c-9cb90efbb864",
-      "ts": "2026-07-31T09:41:32+00:00",
-      "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
+      "id": "04b49296-76e8-4bab-aef7-509f4ce9dffb",
+      "ts": "2026-07-31T11:42:37+00:00",
+      "address": "0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "T1",
-      "price": 0.9897357012875536,
-      "shares": 58250,
-      "usd_value": 57652.1046,
-      "price_shift_pp": 3.069943667543884,
+      "outcome_index": 0,
+      "outcome_label": "YES",
+      "price": 0.5613938953546672,
+      "shares": 124689.635171,
+      "usd_value": 69999.999999,
+      "price_shift_pp": 3.139389535466719,
       "alert_reason": "shift",
-      "market_id": "2957327",
-      "condition_id": "0x2fde466ea3855fdb5cd10f54d81ae178e7ece896493936883a265c7e3d0c52c7",
-      "token_id": "108300323158838072352460284699992373743502702970710739285589514925380399926542",
-      "question": "LoL: Gen.G vs T1 - Game 2 Winner",
-      "link": "https://polyvictor.com/markets/2957327"
+      "market_id": null,
+      "condition_id": "0x95cb5527209cbbabe99812f75b296c5cb86dab75d0b96b6d7802b1e7c5b19ecb",
+      "token_id": "90545008209678085235740117480617853258386755806656014876252227181301345618504",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
