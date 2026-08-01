@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-01T19:30:05.909Z",
+  "generated_at": "2026-08-01T20:44:00.878Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "191b91c6-234b-4a3c-8750-8f1ccda20730",
-      "ts": "2026-08-01T19:29:13+00:00",
-      "address": "0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654",
-      "side": "buy",
+      "id": "b62d2a04-5f30-4dfc-9185-cd898a970633",
+      "ts": "2026-08-01T20:42:55+00:00",
+      "address": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+      "side": "sell",
       "outcome_index": 1,
-      "outcome_label": "NO",
-      "price": 0.3682747219631462,
-      "shares": 108344.45,
-      "usd_value": 39900.52219999999,
-      "price_shift_pp": 3.8274721963146185,
+      "outcome_label": "Christopher O'Connell",
+      "price": 0.5733928509543506,
+      "shares": 65501.61,
+      "usd_value": 37558.1549,
+      "price_shift_pp": 4.339285095435052,
       "alert_reason": "shift",
-      "market_id": null,
-      "condition_id": "0x689a9612ed527be71e10c7d52afa6c7e0c420fdfa32a15ed6af703890a1c0a17",
-      "token_id": "77462004731463370374974505544489005508600886961014031782714463780572955783336",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
+      "market_id": "3253790",
+      "condition_id": "0x9c01359e42325527ac8350d4eeae87fae355897885f1be9ad4e8503f0012a0f3",
+      "token_id": "111081632225570055603837490769397298438468268966522391474690976504541658980697",
+      "question": "Canadian Open, Qualification: Jaime Faria vs Christopher O'Connell",
+      "link": "https://polyvictor.com/markets/3253790"
     }
   ]
 }
