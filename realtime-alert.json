@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-01T01:50:01.338Z",
+  "generated_at": "2026-08-01T07:06:01.253Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "52f7744f-4dc6-458e-b30e-8a6ca65cc516",
-      "ts": "2026-08-01T01:49:32+00:00",
-      "address": "0x9d84ce0306f8551e02efef1680475fc0f1dc1344",
-      "side": "buy",
+      "id": "98e8dd40-ae69-4b26-9f2e-cb2445cb3c0d",
+      "ts": "2026-08-01T07:04:25+00:00",
+      "address": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+      "side": "sell",
       "outcome_index": 1,
-      "outcome_label": "No",
-      "price": 0.9015192821960948,
-      "shares": 55328.76,
-      "usd_value": 49879.944,
-      "price_shift_pp": 3.151928219609479,
+      "outcome_label": "Denis Shapovalov",
+      "price": 0.8156561797156162,
+      "shares": 44066.51,
+      "usd_value": 35943.1212,
+      "price_shift_pp": -4.434381058513493,
       "alert_reason": "shift",
-      "market_id": "678416",
-      "condition_id": "0xe4f4b614a6c2b4ecd8eb700d19c0e6533d3fbd1bc28193b2255394ef74006e6f",
-      "token_id": "95857328899006698426560952919509163544152315663112942013127648104914930931076",
-      "question": "Will Avengers: Doomsday be the top grossing movie of 2026?",
-      "link": "https://polyvictor.com/markets/678416"
+      "market_id": "3238818",
+      "condition_id": "0xcd6fde5dbe1305e949c1db4414d87cb184aa33e92c61085849a89d9d939f3a0d",
+      "token_id": "52460180432673658064525461030310540426274736172445534971251561845466899378018",
+      "question": "Los Cabos Open: Cameron Norrie vs Denis Shapovalov",
+      "link": "https://polyvictor.com/markets/3238818"
     }
   ]
 }
