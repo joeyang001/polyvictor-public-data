@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-01T16:34:02.964Z",
+  "generated_at": "2026-08-01T19:30:05.909Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "20a521c5-835b-46f5-9d22-a1506e89c11a",
-      "ts": "2026-08-01T16:32:52+00:00",
-      "address": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
-      "side": "sell",
+      "id": "191b91c6-234b-4a3c-8750-8f1ccda20730",
+      "ts": "2026-08-01T19:29:13+00:00",
+      "address": "0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654",
+      "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "Nicolas Mejia",
-      "price": 0.3672677749598459,
-      "shares": 79356.86,
-      "usd_value": 29145.217399999998,
-      "price_shift_pp": -4.273221971015389,
+      "outcome_label": "NO",
+      "price": 0.3682747219631462,
+      "shares": 108344.45,
+      "usd_value": 39900.52219999999,
+      "price_shift_pp": 3.8274721963146185,
       "alert_reason": "shift",
-      "market_id": "3253862",
-      "condition_id": "0x590c650c44d537b23bf5fc1a266738a02c9c81c3e1da76c7c7866a66fbf28107",
-      "token_id": "44894275314160655462655500207641877625955341565352472379506096281531357913859",
-      "question": "Canadian Open, Qualification: Marco Trungelliti vs Nicolas Mejia",
-      "link": "https://polyvictor.com/markets/3253862"
+      "market_id": null,
+      "condition_id": "0x689a9612ed527be71e10c7d52afa6c7e0c420fdfa32a15ed6af703890a1c0a17",
+      "token_id": "77462004731463370374974505544489005508600886961014031782714463780572955783336",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
