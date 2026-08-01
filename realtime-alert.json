@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-07-31T23:24:01.595Z",
+  "generated_at": "2026-08-01T01:50:01.338Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "ccd20feb-7c26-492d-92e0-8cfbe2e147fd",
-      "ts": "2026-07-31T23:22:01+00:00",
-      "address": "0xf8371076fb3df0fcfcdb4d9f16bbe98bb241bd42",
+      "id": "52f7744f-4dc6-458e-b30e-8a6ca65cc516",
+      "ts": "2026-08-01T01:49:32+00:00",
+      "address": "0x9d84ce0306f8551e02efef1680475fc0f1dc1344",
       "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "Lorenzo Musetti",
-      "price": 0.5884750886483185,
-      "shares": 118951.509332,
-      "usd_value": 69999.99999899999,
-      "price_shift_pp": -5.152491135168146,
+      "outcome_label": "No",
+      "price": 0.9015192821960948,
+      "shares": 55328.76,
+      "usd_value": 49879.944,
+      "price_shift_pp": 3.151928219609479,
       "alert_reason": "shift",
-      "market_id": "3216246",
-      "condition_id": "0xaeb3725dc916cfc0c0b2017e01628b69bbe826779790e4ac96efd9ac6b050794",
-      "token_id": "14017623442793808904293238352195868481964393451674238664220640350592428635452",
-      "question": "Mubadala Citi DC Open: Rafael Jodar vs Lorenzo Musetti",
-      "link": "https://polyvictor.com/markets/3216246"
+      "market_id": "678416",
+      "condition_id": "0xe4f4b614a6c2b4ecd8eb700d19c0e6533d3fbd1bc28193b2255394ef74006e6f",
+      "token_id": "95857328899006698426560952919509163544152315663112942013127648104914930931076",
+      "question": "Will Avengers: Doomsday be the top grossing movie of 2026?",
+      "link": "https://polyvictor.com/markets/678416"
     }
   ]
 }
