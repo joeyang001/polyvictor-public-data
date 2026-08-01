@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-01T14:06:01.183Z",
+  "generated_at": "2026-08-01T14:14:05.639Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "a394be45-da92-4321-90a1-442f401b093d",
+      "ts": "2026-08-01T14:13:11+00:00",
+      "address": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Kaitlin Quevedo",
+      "price": 0.485091720340314,
+      "shares": 70819.84408,
+      "usd_value": 34354.119999,
+      "price_shift_pp": 3.5091722365313993,
+      "alert_reason": "shift",
+      "market_id": "3248038",
+      "condition_id": "0x3ccff9c75d27b5ba16cae4bc32742e4027929c24cc14efec45b79ea26c4294fe",
+      "token_id": "36543034834169768565494111645967301528230659199854273137924585700345276900493",
+      "question": "Targu Mures: Kaitlin Quevedo vs Francesca Jones",
+      "link": "https://polyvictor.com/markets/3248038"
+    },
     {
       "id": "aedc9477-4075-41c6-905a-0876d78876f2",
       "ts": "2026-08-01T14:04:05+00:00",
