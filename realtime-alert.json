@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-01T08:36:01.196Z",
+  "generated_at": "2026-08-01T10:10:05.940Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "52c057b1-8815-4fae-bdfa-dbe2910f262f",
-      "ts": "2026-08-01T08:35:41+00:00",
-      "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
+      "id": "165df20c-9083-44e5-8efa-f37d51d8cc81",
+      "ts": "2026-08-01T10:08:59+00:00",
+      "address": "0x59229282121256ed2d629ce5adf0e04cc7fb3388",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Nongshim Red Force",
-      "price": 0.9838426522020338,
-      "shares": 26717.12,
-      "usd_value": 26285.4422,
-      "price_shift_pp": 5.3842652202033765,
+      "outcome_label": "BetBoom Team",
+      "price": 0.9714896911417162,
+      "shares": 73626,
+      "usd_value": 71526.9,
+      "price_shift_pp": 24.521629114171628,
       "alert_reason": "shift",
-      "market_id": "2970446",
-      "condition_id": "0xd871abd4155dbd7ee47edeb7c62774cff52ef05128caf402a6df0b4f13269605",
-      "token_id": "94905084380183234402147380188185362910545771932901482062644677277646014921053",
-      "question": "LoL: Nongshim Red Force vs BNK FEARX - Game 1 Winner",
-      "link": "https://polyvictor.com/markets/2970446"
+      "market_id": "3125781",
+      "condition_id": "0x9078ccd777d3604bd7e051b549ae92c4186b6e8fabb7c076634772f5d088715e",
+      "token_id": "19890161744965294742608264233120618382171305954427858552437414317346112204911",
+      "question": "Dota 2: BetBoom Team vs LGD Gaming - Game 1 Winner",
+      "link": "https://polyvictor.com/markets/3125781"
     }
   ]
 }
