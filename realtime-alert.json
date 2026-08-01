@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-01T07:06:01.253Z",
+  "generated_at": "2026-08-01T08:36:01.196Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "98e8dd40-ae69-4b26-9f2e-cb2445cb3c0d",
-      "ts": "2026-08-01T07:04:25+00:00",
-      "address": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
-      "side": "sell",
-      "outcome_index": 1,
-      "outcome_label": "Denis Shapovalov",
-      "price": 0.8156561797156162,
-      "shares": 44066.51,
-      "usd_value": 35943.1212,
-      "price_shift_pp": -4.434381058513493,
+      "id": "52c057b1-8815-4fae-bdfa-dbe2910f262f",
+      "ts": "2026-08-01T08:35:41+00:00",
+      "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Nongshim Red Force",
+      "price": 0.9838426522020338,
+      "shares": 26717.12,
+      "usd_value": 26285.4422,
+      "price_shift_pp": 5.3842652202033765,
       "alert_reason": "shift",
-      "market_id": "3238818",
-      "condition_id": "0xcd6fde5dbe1305e949c1db4414d87cb184aa33e92c61085849a89d9d939f3a0d",
-      "token_id": "52460180432673658064525461030310540426274736172445534971251561845466899378018",
-      "question": "Los Cabos Open: Cameron Norrie vs Denis Shapovalov",
-      "link": "https://polyvictor.com/markets/3238818"
+      "market_id": "2970446",
+      "condition_id": "0xd871abd4155dbd7ee47edeb7c62774cff52ef05128caf402a6df0b4f13269605",
+      "token_id": "94905084380183234402147380188185362910545771932901482062644677277646014921053",
+      "question": "LoL: Nongshim Red Force vs BNK FEARX - Game 1 Winner",
+      "link": "https://polyvictor.com/markets/2970446"
     }
   ]
 }
