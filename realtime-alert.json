@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-01T12:10:05.977Z",
+  "generated_at": "2026-08-01T14:06:01.183Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "5765d8d4-1897-42ba-a86b-ccfec32d9c13",
-      "ts": "2026-08-01T12:08:08+00:00",
-      "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
+      "id": "aedc9477-4075-41c6-905a-0876d78876f2",
+      "ts": "2026-08-01T14:04:05+00:00",
+      "address": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "YES",
-      "price": 0.968989272911891,
-      "shares": 31199.52,
-      "usd_value": 30232.000200000002,
-      "price_shift_pp": 22.398927291189096,
+      "outcome_index": 1,
+      "outcome_label": "Francesca Jones",
+      "price": 0.5934801175122623,
+      "shares": 59606.074332,
+      "usd_value": 35375.019999,
+      "price_shift_pp": -5.65197849877036,
       "alert_reason": "shift",
-      "market_id": null,
-      "condition_id": "0x39902a0eded12085d024edd64084d908ae7e83600b0e1d45dbcb91b7a4b434ab",
-      "token_id": "34921083110903354819553042069917134102620987048832671452145751803945178952567",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
+      "market_id": "3248038",
+      "condition_id": "0x3ccff9c75d27b5ba16cae4bc32742e4027929c24cc14efec45b79ea26c4294fe",
+      "token_id": "67310664200200636082946643705332704033411757233370591574393453490395736280144",
+      "question": "Targu Mures: Kaitlin Quevedo vs Francesca Jones",
+      "link": "https://polyvictor.com/markets/3248038"
     }
   ]
 }
