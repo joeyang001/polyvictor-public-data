@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-01T10:10:05.940Z",
+  "generated_at": "2026-08-01T12:10:05.977Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "165df20c-9083-44e5-8efa-f37d51d8cc81",
-      "ts": "2026-08-01T10:08:59+00:00",
-      "address": "0x59229282121256ed2d629ce5adf0e04cc7fb3388",
+      "id": "5765d8d4-1897-42ba-a86b-ccfec32d9c13",
+      "ts": "2026-08-01T12:08:08+00:00",
+      "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "BetBoom Team",
-      "price": 0.9714896911417162,
-      "shares": 73626,
-      "usd_value": 71526.9,
-      "price_shift_pp": 24.521629114171628,
+      "outcome_label": "YES",
+      "price": 0.968989272911891,
+      "shares": 31199.52,
+      "usd_value": 30232.000200000002,
+      "price_shift_pp": 22.398927291189096,
       "alert_reason": "shift",
-      "market_id": "3125781",
-      "condition_id": "0x9078ccd777d3604bd7e051b549ae92c4186b6e8fabb7c076634772f5d088715e",
-      "token_id": "19890161744965294742608264233120618382171305954427858552437414317346112204911",
-      "question": "Dota 2: BetBoom Team vs LGD Gaming - Game 1 Winner",
-      "link": "https://polyvictor.com/markets/3125781"
+      "market_id": null,
+      "condition_id": "0x39902a0eded12085d024edd64084d908ae7e83600b0e1d45dbcb91b7a4b434ab",
+      "token_id": "34921083110903354819553042069917134102620987048832671452145751803945178952567",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
