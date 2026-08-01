@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-07-31",
-  "generated_at": "2026-07-31T14:00:05.263Z",
+  "date": "2026-08-01",
+  "generated_at": "2026-08-01T14:00:04.694Z",
   "status": "success",
   "tweet_ids": [
-    "2083190965959836096",
-    "2083190967134244914"
+    "2083553351522734414",
+    "2083553352701337677"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 390,
-    "total_volume_usd": 17232153.72387701,
-    "unique_whales": 95,
-    "buy_volume_usd": 13145548.893247,
-    "sell_volume_usd": 4086604.8306299997,
+    "total_fills": 501,
+    "total_volume_usd": 18612982.146859,
+    "unique_whales": 139,
+    "buy_volume_usd": 11140472.968051,
+    "sell_volume_usd": 7472509.178807998,
     "top_markets": [
       {
-        "market_id": "3080764",
-        "question": "Chicago Cubs vs. St. Louis Cardinals",
-        "volume_usd": 1076462.91831,
-        "fills": 20,
-        "link": "https://polyvictor.com/markets/3080764"
+        "market_id": "3162326",
+        "question": "Dota 2: Xtreme Gaming vs LGD Gaming (BO3) - Games of the Future Group D",
+        "volume_usd": 1302526.8378999997,
+        "fills": 15,
+        "link": "https://polyvictor.com/markets/3162326"
       },
       {
-        "market_id": "2252243",
-        "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
-        "volume_usd": 979727.11953,
-        "fills": 2,
-        "link": "https://polyvictor.com/markets/2252243"
+        "market_id": "3207123",
+        "question": "Counter-Strike: paiN vs Astralis (BO3) - BLAST Bounty Playoffs",
+        "volume_usd": 861395.2303599998,
+        "fills": 17,
+        "link": "https://polyvictor.com/markets/3207123"
       },
       {
-        "market_id": "3196380",
-        "question": "Mubadala Citi DC Open: Ugo Humbert vs Ben Shelton",
-        "volume_usd": 881687.6172,
-        "fills": 11,
-        "link": "https://polyvictor.com/markets/3196380"
+        "market_id": "3100481",
+        "question": "New York Yankees vs. Chicago Cubs",
+        "volume_usd": 857337.6870399999,
+        "fills": 23,
+        "link": "https://polyvictor.com/markets/3100481"
       }
     ],
     "top_whales": [
       {
-        "address": "0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654",
-        "volume_usd": 1775505.098611,
-        "fills": 33,
-        "link": "https://polyvictor.com/whales/0x7d6d24d5d9393cc2dd566a95a1cccbe0aa882654"
+        "address": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+        "volume_usd": 1834499.84071,
+        "fills": 22,
+        "link": "https://polyvictor.com/whales/0x6d20c35f65d9899b6d6b74f8466e824580f9a165"
       },
       {
         "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 1032296.6936930001,
-        "fills": 25,
+        "volume_usd": 1603129.5724099998,
+        "fills": 45,
         "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
       },
       {
-        "address": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
-        "volume_usd": 1009062.4095299998,
-        "fills": 20,
-        "link": "https://polyvictor.com/whales/0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf"
+        "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
+        "volume_usd": 762913.2831099998,
+        "fills": 28,
+        "link": "https://polyvictor.com/whales/0xd487f513cfead22d76b6db4567c756b3cf25053e"
       }
     ],
     "biggest_fill": {
-      "address": "0xe639e41094bbeae18f3e6d1790c17299183f082a",
-      "usd": 490194.1776,
-      "side": "buy",
-      "price": 0.9729850387,
-      "market_id": "2252243",
-      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
-      "link": "https://polyvictor.com/markets/2252243"
+      "address": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+      "usd": 209505.285,
+      "side": "sell",
+      "price": 0.999,
+      "market_id": "3162326",
+      "question": "Dota 2: Xtreme Gaming vs LGD Gaming (BO3) - Games of the Future Group D",
+      "link": "https://polyvictor.com/markets/3162326"
     }
   }
 }
