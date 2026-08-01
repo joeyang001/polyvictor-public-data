@@ -1,44 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-01T14:14:05.639Z",
+  "generated_at": "2026-08-01T15:08:02.653Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 1,
   "alerts": [
     {
-      "id": "a394be45-da92-4321-90a1-442f401b093d",
-      "ts": "2026-08-01T14:13:11+00:00",
+      "id": "2055068f-c83f-47f2-adb7-326f583b7d49",
+      "ts": "2026-08-01T15:06:19+00:00",
       "address": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Kaitlin Quevedo",
-      "price": 0.485091720340314,
-      "shares": 70819.84408,
-      "usd_value": 34354.119999,
-      "price_shift_pp": 3.5091722365313993,
+      "outcome_label": "YES",
+      "price": 0.7649027092406138,
+      "shares": 51796.299739,
+      "usd_value": 39619.129999,
+      "price_shift_pp": 3.4902709240613783,
       "alert_reason": "shift",
-      "market_id": "3248038",
-      "condition_id": "0x3ccff9c75d27b5ba16cae4bc32742e4027929c24cc14efec45b79ea26c4294fe",
-      "token_id": "36543034834169768565494111645967301528230659199854273137924585700345276900493",
-      "question": "Targu Mures: Kaitlin Quevedo vs Francesca Jones",
-      "link": "https://polyvictor.com/markets/3248038"
-    },
-    {
-      "id": "aedc9477-4075-41c6-905a-0876d78876f2",
-      "ts": "2026-08-01T14:04:05+00:00",
-      "address": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
-      "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Francesca Jones",
-      "price": 0.5934801175122623,
-      "shares": 59606.074332,
-      "usd_value": 35375.019999,
-      "price_shift_pp": -5.65197849877036,
-      "alert_reason": "shift",
-      "market_id": "3248038",
-      "condition_id": "0x3ccff9c75d27b5ba16cae4bc32742e4027929c24cc14efec45b79ea26c4294fe",
-      "token_id": "67310664200200636082946643705332704033411757233370591574393453490395736280144",
-      "question": "Targu Mures: Kaitlin Quevedo vs Francesca Jones",
-      "link": "https://polyvictor.com/markets/3248038"
+      "market_id": null,
+      "condition_id": "0x234a121ac48ecf87418e762961b8b7b4f10693919968929d5b80129d2e758eca",
+      "token_id": "89549705093452980136130901568366185953089827048465287783418634472118181006156",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
