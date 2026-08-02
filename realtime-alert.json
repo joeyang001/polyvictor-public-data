@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-02T15:30:05.865Z",
+  "generated_at": "2026-08-02T16:14:01.416Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "e6934dd0-e938-45e1-b254-6fe746d1a665",
-      "ts": "2026-08-02T15:28:16+00:00",
-      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-      "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "YES",
-      "price": 0.5,
-      "shares": 56410,
-      "usd_value": 28205,
-      "price_shift_pp": -6.000000000000005,
+      "id": "96ea846f-0fb3-4f89-b9ad-d936cfa45ac7",
+      "ts": "2026-08-02T16:12:11+00:00",
+      "address": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+      "side": "sell",
+      "outcome_index": 1,
+      "outcome_label": "Miomir Kecmanovic",
+      "price": 0.7747715834431619,
+      "shares": 38590.46,
+      "usd_value": 29898.7918,
+      "price_shift_pp": -5.522841646749955,
       "alert_reason": "shift",
-      "market_id": null,
-      "condition_id": "0xfca7aa31737144c305d48dd9046e835695bcf6a68166a60df52f7753bc626905",
-      "token_id": "28184197063750126164671148662585248503629580367726180658845106834581441613105",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
+      "market_id": "3279595",
+      "condition_id": "0x88d2251f33c6e5745edc2424a79578fcbd289667790514b04da8a0392154e539",
+      "token_id": "56882011917273640084823249326001053189225136904142472220170731855262149705156",
+      "question": "National Bank Open: Michael Zheng vs Miomir Kecmanovic",
+      "link": "https://polyvictor.com/markets/3279595"
     }
   ]
 }
