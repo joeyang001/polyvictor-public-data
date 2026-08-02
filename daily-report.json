@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-08-01",
-  "generated_at": "2026-08-01T14:00:04.694Z",
+  "date": "2026-08-02",
+  "generated_at": "2026-08-02T14:00:06.745Z",
   "status": "success",
   "tweet_ids": [
-    "2083553351522734414",
-    "2083553352701337677"
+    "2083915747990921664",
+    "2083915749047857262"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 501,
-    "total_volume_usd": 18612982.146859,
-    "unique_whales": 139,
-    "buy_volume_usd": 11140472.968051,
-    "sell_volume_usd": 7472509.178807998,
+    "total_fills": 515,
+    "total_volume_usd": 21346391.695014987,
+    "unique_whales": 159,
+    "buy_volume_usd": 15887996.408714999,
+    "sell_volume_usd": 5458395.2863000035,
     "top_markets": [
       {
-        "market_id": "3162326",
-        "question": "Dota 2: Xtreme Gaming vs LGD Gaming (BO3) - Games of the Future Group D",
-        "volume_usd": 1302526.8378999997,
-        "fills": 15,
-        "link": "https://polyvictor.com/markets/3162326"
+        "market_id": "665374",
+        "question": "Will the U.S. invade Iran before 2027?",
+        "volume_usd": 1845905.3554999996,
+        "fills": 26,
+        "link": "https://polyvictor.com/markets/665374"
       },
       {
-        "market_id": "3207123",
-        "question": "Counter-Strike: paiN vs Astralis (BO3) - BLAST Bounty Playoffs",
-        "volume_usd": 861395.2303599998,
-        "fills": 17,
-        "link": "https://polyvictor.com/markets/3207123"
+        "market_id": "3155092",
+        "question": "Boston Red Sox vs. Los Angeles Dodgers",
+        "volume_usd": 1331302.0363389999,
+        "fills": 19,
+        "link": "https://polyvictor.com/markets/3155092"
       },
       {
-        "market_id": "3100481",
-        "question": "New York Yankees vs. Chicago Cubs",
-        "volume_usd": 857337.6870399999,
-        "fills": 23,
-        "link": "https://polyvictor.com/markets/3100481"
+        "market_id": "3155076",
+        "question": "Pittsburgh Pirates vs. Cincinnati Reds",
+        "volume_usd": 1054202.99691,
+        "fills": 11,
+        "link": "https://polyvictor.com/markets/3155076"
       }
     ],
     "top_whales": [
       {
         "address": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
-        "volume_usd": 1834499.84071,
-        "fills": 22,
+        "volume_usd": 2407649.992910999,
+        "fills": 42,
         "link": "https://polyvictor.com/whales/0x6d20c35f65d9899b6d6b74f8466e824580f9a165"
       },
       {
         "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 1603129.5724099998,
-        "fills": 45,
+        "volume_usd": 1895272.611603,
+        "fills": 24,
         "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
       },
       {
-        "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
-        "volume_usd": 762913.2831099998,
-        "fills": 28,
-        "link": "https://polyvictor.com/whales/0xd487f513cfead22d76b6db4567c756b3cf25053e"
+        "address": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+        "volume_usd": 1205799.929435,
+        "fills": 32,
+        "link": "https://polyvictor.com/whales/0x5f659bccbc353dbf7bcdffdee73bee60bb482036"
       }
     ],
     "biggest_fill": {
-      "address": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
-      "usd": 209505.285,
-      "side": "sell",
-      "price": 0.999,
-      "market_id": "3162326",
-      "question": "Dota 2: Xtreme Gaming vs LGD Gaming (BO3) - Games of the Future Group D",
-      "link": "https://polyvictor.com/markets/3162326"
+      "address": "0xad96914d7762dac84ebbabafe366ae8ff24dd498",
+      "usd": 267192.08670000004,
+      "side": "buy",
+      "price": 0.77,
+      "market_id": "665374",
+      "question": "Will the U.S. invade Iran before 2027?",
+      "link": "https://polyvictor.com/markets/665374"
     }
   }
 }
