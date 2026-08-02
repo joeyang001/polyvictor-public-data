@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-02T02:10:05.783Z",
+  "generated_at": "2026-08-02T03:16:01.408Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "53936546-8ab2-455b-a084-5e92e33ff1e7",
-      "ts": "2026-08-02T02:08:23+00:00",
-      "address": "0xad96914d7762dac84ebbabafe366ae8ff24dd498",
+      "id": "bc139bb3-0c9a-4902-9dd8-19d0112a0ec8",
+      "ts": "2026-08-02T03:14:27+00:00",
+      "address": "0x6cd84a3230d0b0837c8169f64b6ece55faafd98d",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "No",
-      "price": 0.77,
-      "shares": 347002.71,
-      "usd_value": 267192.08670000004,
-      "price_shift_pp": 1.0243903503237561e-7,
-      "alert_reason": "size",
-      "market_id": "665374",
-      "condition_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "token_id": "1910830010387565971650098373488592514702818137344973088263643820608151819241",
-      "question": "Will the U.S. invade Iran before 2027?",
-      "link": "https://polyvictor.com/markets/665374"
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.8376268641662498,
+      "shares": 35019.172918,
+      "usd_value": 29332.999996999995,
+      "price_shift_pp": 3.762686416624972,
+      "alert_reason": "shift",
+      "market_id": "2952488",
+      "condition_id": "0x6acdc3316f0b43ca4fbc13623fc018e30f2fd20ae7b93bdc07c8193e99b0ac4d",
+      "token_id": "77550960228341204288120509394963885549177211314903311399404330431381651171385",
+      "question": "Israel x Iran ceasefire continues through August 15?",
+      "link": "https://polyvictor.com/markets/2952488"
     }
   ]
 }
