@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-02T18:16:00.947Z",
+  "generated_at": "2026-08-03T06:32:00.988Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "9685f65b-602d-4209-ae55-20989e72e5ae",
-      "ts": "2026-08-02T18:15:08+00:00",
-      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-      "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Yakult Brothers",
-      "price": 0.5,
-      "shares": 132341.38,
-      "usd_value": 66170.69,
-      "price_shift_pp": -4.0000000000000036,
+      "id": "1057808b-7728-4d05-ae74-b0b385552c67",
+      "ts": "2026-08-03T06:30:10+00:00",
+      "address": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+      "side": "sell",
+      "outcome_index": 0,
+      "outcome_label": "Michael Zheng",
+      "price": 0.5400999491164561,
+      "shares": 50880.89,
+      "usd_value": 27480.7661,
+      "price_shift_pp": -4.990005088354388,
       "alert_reason": "shift",
-      "market_id": "3273954",
-      "condition_id": "0x2525048b6487955ab915d4c3a84ecc0dde78685232a450de6eb82c135e94b889",
-      "token_id": "81350830842186576879297196931891115581599351644354561277321292317917259620048",
-      "question": "Dota 2: REKONIX vs Yakult Brothers (BO3) - Games of the Future Playoffs",
-      "link": "https://polyvictor.com/markets/3273954"
+      "market_id": "3279595",
+      "condition_id": "0x88d2251f33c6e5745edc2424a79578fcbd289667790514b04da8a0392154e539",
+      "token_id": "86123504072640413218217154227582191949018229612084465757028425439527915023802",
+      "question": "National Bank Open: Michael Zheng vs Miomir Kecmanovic",
+      "link": "https://polyvictor.com/markets/3279595"
     }
   ]
 }
