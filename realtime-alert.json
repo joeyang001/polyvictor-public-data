@@ -1,26 +1,44 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-03T19:36:01.345Z",
+  "generated_at": "2026-08-03T19:42:02.024Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "1402b6fd-a75f-48bc-848c-8e9efb7e9307",
+      "ts": "2026-08-03T19:40:45+00:00",
+      "address": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "Vit Kopriva",
+      "price": 0.5647871680560002,
+      "shares": 88528.923506,
+      "usd_value": 49999.99999800001,
+      "price_shift_pp": 3.478716842554419,
+      "alert_reason": "shift",
+      "market_id": "3254044",
+      "condition_id": "0x1b84fc36473f623a758ffbe037fb98b09ef52188351ef8356f018b01c0853c45",
+      "token_id": "74394775701457398324878270458288960607098504992001822894505704116212190293574",
+      "question": "Canadian Open: Alexis Galarneau vs Vit Kopriva",
+      "link": "https://polyvictor.com/markets/3254044"
+    },
     {
       "id": "e6ab9e61-5238-4b4c-a85f-afff30dee530",
       "ts": "2026-08-03T19:35:22+00:00",
       "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "YES",
+      "outcome_label": "Team Solid",
       "price": 0.9888434839143788,
       "shares": 27731.91,
       "usd_value": 27422.518500000002,
       "price_shift_pp": 8.840333085657937,
       "alert_reason": "shift",
-      "market_id": null,
+      "market_id": "3196457",
       "condition_id": "0xb521537bffcac08d97f238110a0fa8081acaedaf8a0db45e0903479218b1fa0b",
       "token_id": "57934694589781191966023317348615895823091497795179998915068783801718248234916",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
+      "question": "LoL: Team Solid vs Vivo Keyd Stars Academy (BO1) - Circuito Desafiante Regular Season",
+      "link": "https://polyvictor.com/markets/3196457"
     }
   ]
 }
