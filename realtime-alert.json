@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-03T17:38:01.662Z",
+  "generated_at": "2026-08-03T17:44:03.608Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "050c0acf-6b56-475c-8e76-7976ebc20f4a",
+      "ts": "2026-08-03T17:42:26+00:00",
+      "address": "0xe30e74595517de48f1fb19f4553dd3d9f1e96b87",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Yanaki Milev",
+      "price": 0.522707933508363,
+      "shares": 57087.48,
+      "usd_value": 29840.078700000002,
+      "price_shift_pp": 4.270795078836409,
+      "alert_reason": "shift",
+      "market_id": "3275887",
+      "condition_id": "0x2277c925f0d962066c8b97b132356cb816ed59d9c3e2ae87ebbc9178d3eefe56",
+      "token_id": "56962863951803211852935456123057289389092435837843661825964710499074184804414",
+      "question": "Plovdiv 2: Yanaki Milev vs Oriol Roca Batalla",
+      "link": "https://polyvictor.com/markets/3275887"
+    },
     {
       "id": "24dae1dc-4677-4631-8b3c-eb011d692799",
       "ts": "2026-08-03T17:37:19+00:00",
