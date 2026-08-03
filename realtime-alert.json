@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-03T12:06:02.718Z",
+  "generated_at": "2026-08-03T15:14:05.667Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "9cc94bd5-e1a1-493c-a1bd-9ea2994e15cf",
-      "ts": "2026-08-03T12:04:57+00:00",
-      "address": "0xad96914d7762dac84ebbabafe366ae8ff24dd498",
-      "side": "sell",
-      "outcome_index": 1,
-      "outcome_label": "No",
-      "price": 0.7811274467780408,
-      "shares": 466942.13,
-      "usd_value": 364741.3138,
-      "price_shift_pp": -1.8872553221959243,
-      "alert_reason": "size",
-      "market_id": "665374",
-      "condition_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "token_id": "1910830010387565971650098373488592514702818137344973088263643820608151819241",
-      "question": "Will the U.S. invade Iran before 2027?",
-      "link": "https://polyvictor.com/markets/665374"
+      "id": "67dc6207-cf88-45ac-b5cb-b54c9268cdec",
+      "ts": "2026-08-03T15:13:40+00:00",
+      "address": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "YES",
+      "price": 0.4839220906283522,
+      "shares": 79853.411835,
+      "usd_value": 38642.829999,
+      "price_shift_pp": 4.392209062835217,
+      "alert_reason": "shift",
+      "market_id": null,
+      "condition_id": "0xc78ae7bdc3915a971cd8d3df747d08eb3c9596ff7f36a0fc02eac264ce96cae2",
+      "token_id": "88503360697580210723281218414689265557337705182266788951705300360642500113691",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
