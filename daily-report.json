@@ -1,68 +1,68 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-08-02",
-  "generated_at": "2026-08-02T14:00:06.745Z",
+  "date": "2026-08-03",
+  "generated_at": "2026-08-03T14:00:07.007Z",
   "status": "success",
   "tweet_ids": [
-    "2083915747990921664",
-    "2083915749047857262"
+    "2084278136716296291",
+    "2084278137827827732"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 515,
-    "total_volume_usd": 21346391.695014987,
-    "unique_whales": 159,
-    "buy_volume_usd": 15887996.408714999,
-    "sell_volume_usd": 5458395.2863000035,
+    "total_fills": 327,
+    "total_volume_usd": 12463333.211456005,
+    "unique_whales": 90,
+    "buy_volume_usd": 8431470.387577,
+    "sell_volume_usd": 4031862.8238790007,
     "top_markets": [
       {
-        "market_id": "665374",
-        "question": "Will the U.S. invade Iran before 2027?",
-        "volume_usd": 1845905.3554999996,
-        "fills": 26,
-        "link": "https://polyvictor.com/markets/665374"
-      },
-      {
-        "market_id": "3155092",
+        "market_id": "3155126",
         "question": "Boston Red Sox vs. Los Angeles Dodgers",
-        "volume_usd": 1331302.0363389999,
-        "fills": 19,
-        "link": "https://polyvictor.com/markets/3155092"
+        "volume_usd": 1389165.9876300003,
+        "fills": 22,
+        "link": "https://polyvictor.com/markets/3155126"
       },
       {
-        "market_id": "3155076",
-        "question": "Pittsburgh Pirates vs. Cincinnati Reds",
-        "volume_usd": 1054202.99691,
-        "fills": 11,
-        "link": "https://polyvictor.com/markets/3155076"
+        "market_id": "3275594",
+        "question": "Mubadala Citi DC Open: Jessica Pegula vs Alexandra Eala",
+        "volume_usd": 926693.469578,
+        "fills": 26,
+        "link": "https://polyvictor.com/markets/3275594"
+      },
+      {
+        "market_id": "3155120",
+        "question": "Detroit Tigers vs. Athletics",
+        "volume_usd": 868507.2619599999,
+        "fills": 14,
+        "link": "https://polyvictor.com/markets/3155120"
       }
     ],
     "top_whales": [
       {
+        "address": "0x0954184654a6a3720f5dde4103a42af4dd0e1e1b",
+        "volume_usd": 1016228.8038500001,
+        "fills": 16,
+        "link": "https://polyvictor.com/whales/0x0954184654a6a3720f5dde4103a42af4dd0e1e1b"
+      },
+      {
         "address": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
-        "volume_usd": 2407649.992910999,
-        "fills": 42,
+        "volume_usd": 940559.9448899999,
+        "fills": 14,
         "link": "https://polyvictor.com/whales/0x6d20c35f65d9899b6d6b74f8466e824580f9a165"
       },
       {
         "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 1895272.611603,
-        "fills": 24,
+        "volume_usd": 918968.65354,
+        "fills": 18,
         "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
-      },
-      {
-        "address": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
-        "volume_usd": 1205799.929435,
-        "fills": 32,
-        "link": "https://polyvictor.com/whales/0x5f659bccbc353dbf7bcdffdee73bee60bb482036"
       }
     ],
     "biggest_fill": {
       "address": "0xad96914d7762dac84ebbabafe366ae8ff24dd498",
-      "usd": 267192.08670000004,
-      "side": "buy",
-      "price": 0.77,
+      "usd": 364741.3138,
+      "side": "sell",
+      "price": 0.7811274467780408,
       "market_id": "665374",
       "question": "Will the U.S. invade Iran before 2027?",
       "link": "https://polyvictor.com/markets/665374"
