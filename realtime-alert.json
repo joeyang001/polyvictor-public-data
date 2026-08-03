@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-03T06:32:00.988Z",
+  "generated_at": "2026-08-03T12:06:02.718Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "1057808b-7728-4d05-ae74-b0b385552c67",
-      "ts": "2026-08-03T06:30:10+00:00",
-      "address": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+      "id": "9cc94bd5-e1a1-493c-a1bd-9ea2994e15cf",
+      "ts": "2026-08-03T12:04:57+00:00",
+      "address": "0xad96914d7762dac84ebbabafe366ae8ff24dd498",
       "side": "sell",
-      "outcome_index": 0,
-      "outcome_label": "Michael Zheng",
-      "price": 0.5400999491164561,
-      "shares": 50880.89,
-      "usd_value": 27480.7661,
-      "price_shift_pp": -4.990005088354388,
-      "alert_reason": "shift",
-      "market_id": "3279595",
-      "condition_id": "0x88d2251f33c6e5745edc2424a79578fcbd289667790514b04da8a0392154e539",
-      "token_id": "86123504072640413218217154227582191949018229612084465757028425439527915023802",
-      "question": "National Bank Open: Michael Zheng vs Miomir Kecmanovic",
-      "link": "https://polyvictor.com/markets/3279595"
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.7811274467780408,
+      "shares": 466942.13,
+      "usd_value": 364741.3138,
+      "price_shift_pp": -1.8872553221959243,
+      "alert_reason": "size",
+      "market_id": "665374",
+      "condition_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "token_id": "1910830010387565971650098373488592514702818137344973088263643820608151819241",
+      "question": "Will the U.S. invade Iran before 2027?",
+      "link": "https://polyvictor.com/markets/665374"
     }
   ]
 }
