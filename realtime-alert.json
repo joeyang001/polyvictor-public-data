@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-04T14:20:03.104Z",
+  "generated_at": "2026-08-04T14:44:03.480Z",
   "window_minutes": 30,
   "count": 2,
   "alerts": [
+    {
+      "id": "0d5232eb-c356-4f8e-90e0-48c5d8725a87",
+      "ts": "2026-08-04T14:42:26+00:00",
+      "address": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "YES",
+      "price": 0.5001957918577563,
+      "shares": 95844.029037,
+      "usd_value": 47940.779999000006,
+      "price_shift_pp": 3.019579185775634,
+      "alert_reason": "shift",
+      "market_id": null,
+      "condition_id": "0x767d3614d66a3e6667087f47641529eaa0ea128a2067173b0be66811f1c45734",
+      "token_id": "112269925643172623238646469989802495864765806381263234183828250661115421682467",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
+    },
     {
       "id": "e48fb59b-629f-416e-9b8a-7b02bfc306a3",
       "ts": "2026-08-04T14:19:11+00:00",
@@ -21,24 +39,6 @@
       "token_id": "106780305849556266034330555450391537852532530341035897368161753792345211070955",
       "question": "Plovdiv 2: Daniel Galan vs Georgi Georgiev",
       "link": "https://polyvictor.com/markets/3320448"
-    },
-    {
-      "id": "cc348735-bc8c-4371-ae20-40ab6f690532",
-      "ts": "2026-08-04T13:54:53+00:00",
-      "address": "0xd1144f39995ae527c2b4cbd3a7fe6394bfd3b5b3",
-      "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Amit Vales",
-      "price": 0.85,
-      "shares": 60065.69,
-      "usd_value": 51055.8365,
-      "price_shift_pp": 3.0000000000000027,
-      "alert_reason": "shift",
-      "market_id": "3304177",
-      "condition_id": "0x6c1256b65a8ca6433e02fcfdd52f7a6ac41a4cb471ae94604a35d2d954c0efba",
-      "token_id": "29488762941799935838189555834515690672864615979709282456676849639354869353240",
-      "question": "Grodzisk Mazowiecki: Alex Martinez vs Amit Vales",
-      "link": "https://polyvictor.com/markets/3304177"
     }
   ]
 }
