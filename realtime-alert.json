@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-04T13:56:01.842Z",
+  "generated_at": "2026-08-04T14:20:03.104Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "e48fb59b-629f-416e-9b8a-7b02bfc306a3",
+      "ts": "2026-08-04T14:19:11+00:00",
+      "address": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "Georgi Georgiev",
+      "price": 0.5771861401596527,
+      "shares": 78065.69,
+      "usd_value": 45058.434290000005,
+      "price_shift_pp": -26.281385981994887,
+      "alert_reason": "shift",
+      "market_id": "3320448",
+      "condition_id": "0xe18425a745a5a2c314f6fab8ced17371fb62ed5b4900a08011eaad2b5224053c",
+      "token_id": "106780305849556266034330555450391537852532530341035897368161753792345211070955",
+      "question": "Plovdiv 2: Daniel Galan vs Georgi Georgiev",
+      "link": "https://polyvictor.com/markets/3320448"
+    },
     {
       "id": "cc348735-bc8c-4371-ae20-40ab6f690532",
       "ts": "2026-08-04T13:54:53+00:00",
