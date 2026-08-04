@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-08-03",
-  "generated_at": "2026-08-03T14:00:07.007Z",
+  "date": "2026-08-04",
+  "generated_at": "2026-08-04T14:00:07.152Z",
   "status": "success",
   "tweet_ids": [
-    "2084278136716296291",
-    "2084278137827827732"
+    "2084640525055889532",
+    "2084640526440034762"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 327,
-    "total_volume_usd": 12463333.211456005,
-    "unique_whales": 90,
-    "buy_volume_usd": 8431470.387577,
-    "sell_volume_usd": 4031862.8238790007,
+    "total_fills": 320,
+    "total_volume_usd": 12728464.093268007,
+    "unique_whales": 100,
+    "buy_volume_usd": 8237099.186218004,
+    "sell_volume_usd": 4491364.90705,
     "top_markets": [
       {
-        "market_id": "3155126",
-        "question": "Boston Red Sox vs. Los Angeles Dodgers",
-        "volume_usd": 1389165.9876300003,
-        "fills": 22,
-        "link": "https://polyvictor.com/markets/3155126"
+        "market_id": "3275887",
+        "question": "Plovdiv 2: Yanaki Milev vs Oriol Roca Batalla",
+        "volume_usd": 845196.0985900001,
+        "fills": 15,
+        "link": "https://polyvictor.com/markets/3275887"
       },
       {
-        "market_id": "3275594",
-        "question": "Mubadala Citi DC Open: Jessica Pegula vs Alexandra Eala",
-        "volume_usd": 926693.469578,
-        "fills": 26,
-        "link": "https://polyvictor.com/markets/3275594"
+        "market_id": "3254044",
+        "question": "Canadian Open: Alexis Galarneau vs Vit Kopriva",
+        "volume_usd": 588719.4624099999,
+        "fills": 10,
+        "link": "https://polyvictor.com/markets/3254044"
       },
       {
-        "market_id": "3155120",
-        "question": "Detroit Tigers vs. Athletics",
-        "volume_usd": 868507.2619599999,
-        "fills": 14,
-        "link": "https://polyvictor.com/markets/3155120"
+        "market_id": "3128885",
+        "question": "Strait of Hormuz traffic returns to normal by August 15?",
+        "volume_usd": 556392.8351799999,
+        "fills": 9,
+        "link": "https://polyvictor.com/markets/3128885"
       }
     ],
     "top_whales": [
       {
-        "address": "0x0954184654a6a3720f5dde4103a42af4dd0e1e1b",
-        "volume_usd": 1016228.8038500001,
-        "fills": 16,
-        "link": "https://polyvictor.com/whales/0x0954184654a6a3720f5dde4103a42af4dd0e1e1b"
-      },
-      {
-        "address": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
-        "volume_usd": 940559.9448899999,
-        "fills": 14,
-        "link": "https://polyvictor.com/whales/0x6d20c35f65d9899b6d6b74f8466e824580f9a165"
+        "address": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+        "volume_usd": 2503618.8906309996,
+        "fills": 51,
+        "link": "https://polyvictor.com/whales/0x5f659bccbc353dbf7bcdffdee73bee60bb482036"
       },
       {
         "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 918968.65354,
-        "fills": 18,
+        "volume_usd": 954923.2223439999,
+        "fills": 23,
         "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
+      },
+      {
+        "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
+        "volume_usd": 589704.39335,
+        "fills": 16,
+        "link": "https://polyvictor.com/whales/0xd487f513cfead22d76b6db4567c756b3cf25053e"
       }
     ],
     "biggest_fill": {
-      "address": "0xad96914d7762dac84ebbabafe366ae8ff24dd498",
-      "usd": 364741.3138,
-      "side": "sell",
-      "price": 0.7811274467780408,
-      "market_id": "665374",
-      "question": "Will the U.S. invade Iran before 2027?",
-      "link": "https://polyvictor.com/markets/665374"
+      "address": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+      "usd": 161846.0248,
+      "side": "buy",
+      "price": 0.68,
+      "market_id": "3155130",
+      "question": "St. Louis Cardinals vs. New York Yankees",
+      "link": "https://polyvictor.com/markets/3155130"
     }
   }
 }
