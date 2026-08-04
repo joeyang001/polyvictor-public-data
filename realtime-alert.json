@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-04T13:10:06.019Z",
+  "generated_at": "2026-08-04T13:56:01.842Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "b0a466b5-67e0-41a1-ad77-65da7f30d79f",
-      "ts": "2026-08-04T13:08:02+00:00",
-      "address": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
-      "side": "sell",
+      "id": "cc348735-bc8c-4371-ae20-40ab6f690532",
+      "ts": "2026-08-04T13:54:53+00:00",
+      "address": "0xd1144f39995ae527c2b4cbd3a7fe6394bfd3b5b3",
+      "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "Elizara Yaneva",
-      "price": 0.8124491849132808,
-      "shares": 30860.52,
-      "usd_value": 25072.60432,
-      "price_shift_pp": -5.755081158218712,
+      "outcome_label": "Amit Vales",
+      "price": 0.85,
+      "shares": 60065.69,
+      "usd_value": 51055.8365,
+      "price_shift_pp": 3.0000000000000027,
       "alert_reason": "shift",
-      "market_id": "3275740",
-      "condition_id": "0xf79fc815b346bf05f413208b746a3a8a635cc10f49b108b03a96c66ee72f4f23",
-      "token_id": "34554981888693542198932992882194793147038274672225676760217289755734080656595",
-      "question": "Warsaw: Linda Klimovicova vs Elizara Yaneva",
-      "link": "https://polyvictor.com/markets/3275740"
+      "market_id": "3304177",
+      "condition_id": "0x6c1256b65a8ca6433e02fcfdd52f7a6ac41a4cb471ae94604a35d2d954c0efba",
+      "token_id": "29488762941799935838189555834515690672864615979709282456676849639354869353240",
+      "question": "Grodzisk Mazowiecki: Alex Martinez vs Amit Vales",
+      "link": "https://polyvictor.com/markets/3304177"
     }
   ]
 }
