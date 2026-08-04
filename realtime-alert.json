@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-04T09:46:00.930Z",
+  "generated_at": "2026-08-04T13:10:06.019Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "fa195d31-3b0e-4421-812f-fd4675d55a9f",
-      "ts": "2026-08-04T09:45:08+00:00",
+      "id": "b0a466b5-67e0-41a1-ad77-65da7f30d79f",
+      "ts": "2026-08-04T13:08:02+00:00",
       "address": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
-      "side": "buy",
+      "side": "sell",
       "outcome_index": 1,
-      "outcome_label": "NO",
-      "price": 0.7825262213230725,
-      "shares": 109891.48,
-      "usd_value": 85992.96459999999,
-      "price_shift_pp": 6.25262213230725,
+      "outcome_label": "Elizara Yaneva",
+      "price": 0.8124491849132808,
+      "shares": 30860.52,
+      "usd_value": 25072.60432,
+      "price_shift_pp": -5.755081158218712,
       "alert_reason": "shift",
-      "market_id": null,
-      "condition_id": "0x3ae7bef33828643f7bcd1debf9a5a95f76bd263a850421cb9667523f4f22b325",
-      "token_id": "97937410537041170789180687904683152416498743762926511680193939043374769026648",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
+      "market_id": "3275740",
+      "condition_id": "0xf79fc815b346bf05f413208b746a3a8a635cc10f49b108b03a96c66ee72f4f23",
+      "token_id": "34554981888693542198932992882194793147038274672225676760217289755734080656595",
+      "question": "Warsaw: Linda Klimovicova vs Elizara Yaneva",
+      "link": "https://polyvictor.com/markets/3275740"
     }
   ]
 }
