@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-04T00:22:01.006Z",
+  "generated_at": "2026-08-04T01:34:01.522Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "81d716fb-3c4b-43de-a32e-71dd84eabe13",
-      "ts": "2026-08-04T00:21:44+00:00",
-      "address": "0xa486f1e84d08b356967943a47b70bb8504dd25d4",
+      "id": "53aa87c3-57fa-43a4-acb5-ad5d6216121a",
+      "ts": "2026-08-04T01:32:44+00:00",
+      "address": "0xdb859a551fcf56e49416160911476bea7307152f",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Martina Okalova",
-      "price": 0.9901086968758512,
-      "shares": 39794.52,
-      "usd_value": 39400.90033999999,
-      "price_shift_pp": 4.010869687585128,
+      "outcome_index": 0,
+      "outcome_label": "Gabriel Diallo",
+      "price": 0.5114546936840865,
+      "shares": 140678.62,
+      "usd_value": 71950.7405,
+      "price_shift_pp": 3.1454693684086488,
       "alert_reason": "shift",
-      "market_id": "3301941",
-      "condition_id": "0x4d591acca1a9b0209cb90c567b9aa7c882647b2e18ec976c424809b6c3ed0ccf",
-      "token_id": "23575919521644099779120613799789514362338552273173309411406747366216239780421",
-      "question": "ITF W100 Landisville, PA Women: Ava Catanzarite vs Martina Okalova",
-      "link": "https://polyvictor.com/markets/3301941"
+      "market_id": "3279642",
+      "condition_id": "0xcd274ee1b8d2be4af576b9d81f1a6f90978201ca244390045655ac62d0eada3d",
+      "token_id": "20687029134439854783474227865242713873166041129192190050150725849988308935704",
+      "question": "National Bank Open: Gabriel Diallo vs Kyrian Jacquet",
+      "link": "https://polyvictor.com/markets/3279642"
     }
   ]
 }
