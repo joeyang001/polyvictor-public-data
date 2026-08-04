@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-04T21:08:01.508Z",
+  "generated_at": "2026-08-04T22:00:04.928Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "c039a36e-8798-4a66-91fd-e25659719fda",
-      "ts": "2026-08-04T21:07:19+00:00",
+      "id": "6ca648e8-dd3e-45a0-907a-8976cd1037c5",
+      "ts": "2026-08-04T21:59:01+00:00",
       "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Karmine Corp Blue",
-      "price": 0.9687917264372866,
-      "shares": 32596.84,
-      "usd_value": 31579.5489,
-      "price_shift_pp": 28.87917264372866,
+      "outcome_index": 1,
+      "outcome_label": "NO",
+      "price": 0.982616751275466,
+      "shares": 47363.08,
+      "usd_value": 46539.7558,
+      "price_shift_pp": 19.577676487611008,
       "alert_reason": "shift",
-      "market_id": "3297045",
-      "condition_id": "0x0531779ab466d6c13cabfea68448bcf92756c45310048a6bdc106740460a3e9d",
-      "token_id": "13151826604309771857404267415951984791749385383185403442981065355319034908849",
-      "question": "LoL: Karmine Corp Blue vs Vitality.Bee (BO1) - LFL Regular Season",
-      "link": "https://polyvictor.com/markets/3297045"
+      "market_id": null,
+      "condition_id": "0xd8a5e6095b87119d56c879f3a877b205953760cce660fb4bb8ecba4e4ba72c43",
+      "token_id": "94113739406686035432203472500860430466972668207876539253360296434743722089075",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
