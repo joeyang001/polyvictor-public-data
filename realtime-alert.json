@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-05T03:46:00.967Z",
+  "generated_at": "2026-08-05T07:42:01.566Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "d75e0a14-bbaf-43bb-af2f-a9dedcb65f82",
-      "ts": "2026-08-05T03:44:16+00:00",
-      "address": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+      "id": "4153c515-b04d-45b1-8f94-ac56dc7dac56",
+      "ts": "2026-08-05T07:41:44+00:00",
+      "address": "0x091ccc435273c422260279c8a8277170b2dc182e",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "1win",
-      "price": 0.4995662172566378,
-      "shares": 411124.93,
-      "usd_value": 205384.1261,
-      "price_shift_pp": 3.956621725663778,
-      "alert_reason": "shift",
-      "market_id": "3338464",
-      "condition_id": "0xf57902fb236a32a52a6230e8c7c46d0ecd13cd04b43fb48064007666b0ef1ce5",
-      "token_id": "109803180473604980171941728504537727198531209687333989527913193243405095779501",
-      "question": "Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs",
-      "link": "https://polyvictor.com/markets/3338464"
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.8093659054768333,
+      "shares": 456623.72,
+      "usd_value": 369575.67059999995,
+      "price_shift_pp": 2.2069765911404637,
+      "alert_reason": "size",
+      "market_id": "1163699",
+      "condition_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+      "token_id": "29633826701713552120011280893309822625942861174174976276686142480636225243753",
+      "question": "Clarity Act (H.R.3633) signed into law in 2026?",
+      "link": "https://polyvictor.com/markets/1163699"
     }
   ]
 }
