@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-05T13:02:01.587Z",
+  "generated_at": "2026-08-05T13:38:02.607Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "e0ff3a4f-19d7-4e0a-a72f-9401568554c2",
-      "ts": "2026-08-05T13:01:35+00:00",
-      "address": "0xca97f5464912ba0308bd40c095bea215980849f6",
-      "side": "sell",
-      "outcome_index": 0,
-      "outcome_label": "YES",
-      "price": 0.7791839530537471,
-      "shares": 32489.92,
-      "usd_value": 25315.6243,
-      "price_shift_pp": -3.081604694625295,
+      "id": "db660ef5-8beb-4f4a-b392-617780def312",
+      "ts": "2026-08-05T13:36:58+00:00",
+      "address": "0xe30e74595517de48f1fb19f4553dd3d9f1e96b87",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "Vlado Jankanj",
+      "price": 0.7897106992035928,
+      "shares": 92775.41,
+      "usd_value": 73265.7339,
+      "price_shift_pp": 4.9710791463345565,
       "alert_reason": "shift",
-      "market_id": null,
-      "condition_id": "0x5e4f189db3119763ef47be825c5300cea203047a07bfad8462af2d1273559793",
-      "token_id": "5739158891264277024356161376023673899430425420925899285987588703959410000530",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
+      "market_id": "3325297",
+      "condition_id": "0x1d4add55a03481737ea23da4450f22b05d473cc682348557b935a060dde7c6d1",
+      "token_id": "64931565566193446756233154609622106924770802330274824994326969800316214744603",
+      "question": "ITF Kursumlijska Banja: Vladimir Osminkin vs Vlado Jankanj",
+      "link": "https://polyvictor.com/markets/3325297"
     }
   ]
 }
