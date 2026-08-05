@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-08-04",
-  "generated_at": "2026-08-04T14:00:07.152Z",
+  "date": "2026-08-05",
+  "generated_at": "2026-08-05T14:00:06.320Z",
   "status": "success",
   "tweet_ids": [
-    "2084640525055889532",
-    "2084640526440034762"
+    "2085002909746430273",
+    "2085002910899794293"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 320,
-    "total_volume_usd": 12728464.093268007,
+    "total_fills": 372,
+    "total_volume_usd": 16109308.651112996,
     "unique_whales": 100,
-    "buy_volume_usd": 8237099.186218004,
-    "sell_volume_usd": 4491364.90705,
+    "buy_volume_usd": 11998907.367942998,
+    "sell_volume_usd": 4110401.28317,
     "top_markets": [
       {
-        "market_id": "3275887",
-        "question": "Plovdiv 2: Yanaki Milev vs Oriol Roca Batalla",
-        "volume_usd": 845196.0985900001,
-        "fills": 15,
-        "link": "https://polyvictor.com/markets/3275887"
+        "market_id": "3325190",
+        "question": "National Bank Open: Luciano Darderi vs Gabriel Diallo",
+        "volume_usd": 2039600.0298579999,
+        "fills": 36,
+        "link": "https://polyvictor.com/markets/3325190"
       },
       {
-        "market_id": "3254044",
-        "question": "Canadian Open: Alexis Galarneau vs Vit Kopriva",
-        "volume_usd": 588719.4624099999,
-        "fills": 10,
-        "link": "https://polyvictor.com/markets/3254044"
+        "market_id": "3338464",
+        "question": "Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs",
+        "volume_usd": 950622.62517,
+        "fills": 13,
+        "link": "https://polyvictor.com/markets/3338464"
       },
       {
-        "market_id": "3128885",
-        "question": "Strait of Hormuz traffic returns to normal by August 15?",
-        "volume_usd": 556392.8351799999,
-        "fills": 9,
-        "link": "https://polyvictor.com/markets/3128885"
+        "market_id": "1163699",
+        "question": "Clarity Act (H.R.3633) signed into law in 2026?",
+        "volume_usd": 906753.5754699999,
+        "fills": 7,
+        "link": "https://polyvictor.com/markets/1163699"
       }
     ],
     "top_whales": [
       {
-        "address": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
-        "volume_usd": 2503618.8906309996,
-        "fills": 51,
-        "link": "https://polyvictor.com/whales/0x5f659bccbc353dbf7bcdffdee73bee60bb482036"
-      },
-      {
         "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 954923.2223439999,
-        "fills": 23,
+        "volume_usd": 1946419.699626,
+        "fills": 30,
         "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
       },
       {
-        "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
-        "volume_usd": 589704.39335,
-        "fills": 16,
-        "link": "https://polyvictor.com/whales/0xd487f513cfead22d76b6db4567c756b3cf25053e"
+        "address": "0xe30e74595517de48f1fb19f4553dd3d9f1e96b87",
+        "volume_usd": 1175736.41151,
+        "fills": 19,
+        "link": "https://polyvictor.com/whales/0xe30e74595517de48f1fb19f4553dd3d9f1e96b87"
+      },
+      {
+        "address": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+        "volume_usd": 985465.9912300002,
+        "fills": 13,
+        "link": "https://polyvictor.com/whales/0x6d20c35f65d9899b6d6b74f8466e824580f9a165"
       }
     ],
     "biggest_fill": {
-      "address": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
-      "usd": 161846.0248,
+      "address": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+      "usd": 607582.7627,
       "side": "buy",
-      "price": 0.68,
-      "market_id": "3155130",
-      "question": "St. Louis Cardinals vs. New York Yankees",
-      "link": "https://polyvictor.com/markets/3155130"
+      "price": 0.71,
+      "market_id": null,
+      "question": "(unresolved market)",
+      "link": "https://polyvictor.com/whales"
     }
   }
 }
