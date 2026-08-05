@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-05T11:48:01.676Z",
+  "generated_at": "2026-08-05T11:58:11.199Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "240b0f9b-c1fd-4995-9f85-33dda7c9dd97",
+      "ts": "2026-08-05T11:56:08+00:00",
+      "address": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "Gen.G",
+      "price": 0.9830963982133134,
+      "shares": 111390.55,
+      "usd_value": 109507.6485,
+      "price_shift_pp": 3.309639821331345,
+      "alert_reason": "shift",
+      "market_id": "3249054",
+      "condition_id": "0x230155a3892e06069cda3022509e7265b09cd479f6d7581d24c2137fe715912c",
+      "token_id": "107905706463121124293952148624980424526728505347517642598028296320570737523996",
+      "question": "LoL: Hanwha Life Esports vs Gen.G - Game 1 Winner",
+      "link": "https://polyvictor.com/markets/3249054"
+    },
     {
       "id": "9347ef96-d92b-4d11-bf6f-1ac4dd538c1e",
       "ts": "2026-08-05T11:46:16+00:00",
