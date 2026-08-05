@@ -1,44 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-05T15:28:05.636Z",
+  "generated_at": "2026-08-05T17:54:00.873Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 1,
   "alerts": [
     {
-      "id": "f8675f99-5aa6-40be-9141-c30714058061",
-      "ts": "2026-08-05T15:27:34+00:00",
+      "id": "bb54e246-299a-4a8e-87fc-fe86770cbffe",
+      "ts": "2026-08-05T17:52:04+00:00",
       "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Valentin Vacherot",
-      "price": 0.73,
-      "shares": 50891.77,
-      "usd_value": 37150.992099999996,
-      "price_shift_pp": 3.0000028000004453,
-      "alert_reason": "shift",
-      "market_id": "3325238",
-      "condition_id": "0x8829c327e1a8115ae11f32d17a2041a4fa9983264e389a4c1cd0c6b92149888a",
-      "token_id": "27379662517657697175557306929040971239029787949133080796184139255172498862059",
-      "question": "National Bank Open: Valentin Vacherot vs Mariano Navone",
-      "link": "https://polyvictor.com/markets/3325238"
-    },
-    {
-      "id": "935b6ac0-49a7-402e-a03e-0da029319e41",
-      "ts": "2026-08-05T15:10:43+00:00",
-      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-      "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Mariano Navone",
-      "price": 0.39,
-      "shares": 642086.9,
-      "usd_value": 250413.891,
-      "price_shift_pp": 6.069277302955811e-8,
+      "outcome_label": "Team Falcons",
+      "price": 0.65,
+      "shares": 500000,
+      "usd_value": 325000,
+      "price_shift_pp": 0,
       "alert_reason": "size",
-      "market_id": "3325238",
-      "condition_id": "0x8829c327e1a8115ae11f32d17a2041a4fa9983264e389a4c1cd0c6b92149888a",
-      "token_id": "64054130466418200250166856483569626999067190339567416985931396074387593932468",
-      "question": "National Bank Open: Valentin Vacherot vs Mariano Navone",
-      "link": "https://polyvictor.com/markets/3325238"
+      "market_id": "3361159",
+      "condition_id": "0xba2acfcbd1998eba588db39af8e7549a36835cd64e1d7e25f5748744267d04d7",
+      "token_id": "58310792421309163897663852279966053274862774024141363218258814703368733995001",
+      "question": "Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs",
+      "link": "https://polyvictor.com/markets/3361159"
     }
   ]
 }
