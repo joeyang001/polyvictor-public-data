@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-04T23:00:06.729Z",
+  "generated_at": "2026-08-05T02:18:02.101Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "ad30f15a-a3a0-48ec-95e1-f4ffc50ccebc",
-      "ts": "2026-08-04T22:58:48+00:00",
-      "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
-      "side": "buy",
+      "id": "1d6f1240-3d7e-4684-87f8-7305e422046d",
+      "ts": "2026-08-05T02:16:13+00:00",
+      "address": "0xca97f5464912ba0308bd40c095bea215980849f6",
+      "side": "sell",
       "outcome_index": 0,
-      "outcome_label": "YES",
-      "price": 0.9878660398072602,
-      "shares": 27253.32,
-      "usd_value": 26922.6293,
-      "price_shift_pp": 13.78660398072602,
+      "outcome_label": "Luciano Darderi",
+      "price": 0.5824172849049518,
+      "shares": 54746.96,
+      "usd_value": 31885.5758,
+      "price_shift_pp": -5.758271509504819,
       "alert_reason": "shift",
-      "market_id": null,
-      "condition_id": "0x682e106b2f487fe93b250cb609ea83f8f5edf806873d9a721cf18fc62d93fa17",
-      "token_id": "21474806519177584983446581291776514892906876438087006484070859895703993692850",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
+      "market_id": "3325190",
+      "condition_id": "0x041eb404c839cdb46387c06c4c74cbc72eb35a0d68adf2ce6171523b64d16788",
+      "token_id": "61700590960124092288395758006899454732638330351977933351529941206161043040947",
+      "question": "National Bank Open: Luciano Darderi vs Gabriel Diallo",
+      "link": "https://polyvictor.com/markets/3325190"
     }
   ]
 }
