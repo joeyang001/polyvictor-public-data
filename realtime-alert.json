@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-05T13:38:02.607Z",
+  "generated_at": "2026-08-05T15:12:01.397Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "db660ef5-8beb-4f4a-b392-617780def312",
-      "ts": "2026-08-05T13:36:58+00:00",
-      "address": "0xe30e74595517de48f1fb19f4553dd3d9f1e96b87",
+      "id": "935b6ac0-49a7-402e-a03e-0da029319e41",
+      "ts": "2026-08-05T15:10:43+00:00",
+      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
       "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "Vlado Jankanj",
-      "price": 0.7897106992035928,
-      "shares": 92775.41,
-      "usd_value": 73265.7339,
-      "price_shift_pp": 4.9710791463345565,
-      "alert_reason": "shift",
-      "market_id": "3325297",
-      "condition_id": "0x1d4add55a03481737ea23da4450f22b05d473cc682348557b935a060dde7c6d1",
-      "token_id": "64931565566193446756233154609622106924770802330274824994326969800316214744603",
-      "question": "ITF Kursumlijska Banja: Vladimir Osminkin vs Vlado Jankanj",
-      "link": "https://polyvictor.com/markets/3325297"
+      "outcome_label": "Mariano Navone",
+      "price": 0.39,
+      "shares": 642086.9,
+      "usd_value": 250413.891,
+      "price_shift_pp": 6.069277302955811e-8,
+      "alert_reason": "size",
+      "market_id": "3325238",
+      "condition_id": "0x8829c327e1a8115ae11f32d17a2041a4fa9983264e389a4c1cd0c6b92149888a",
+      "token_id": "64054130466418200250166856483569626999067190339567416985931396074387593932468",
+      "question": "National Bank Open: Valentin Vacherot vs Mariano Navone",
+      "link": "https://polyvictor.com/markets/3325238"
     }
   ]
 }
