@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-06T16:38:01.411Z",
+  "generated_at": "2026-08-06T17:32:01.125Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "11da3104-dd30-44a9-8153-6f69ab53e655",
-      "ts": "2026-08-06T16:37:34+00:00",
+      "id": "d62cba7a-9468-4fcb-8ae6-7a0cf611d88c",
+      "ts": "2026-08-06T17:31:25+00:00",
       "address": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
-      "side": "sell",
-      "outcome_index": 1,
-      "outcome_label": "Ekaterina Alexandrova",
-      "price": 0.7906105289605665,
-      "shares": 56118.55,
-      "usd_value": 44367.9165,
-      "price_shift_pp": -3.9389471039433466,
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Anna Kalinskaya",
+      "price": 0.6073913193724843,
+      "shares": 81276.564917,
+      "usd_value": 49366.67999899999,
+      "price_shift_pp": 4.73913193724842,
       "alert_reason": "shift",
-      "market_id": "3347515",
-      "condition_id": "0xc53908c9725eda4fd2d249fd5ae0cdca01a4929273da3a70fa4621e1614fa055",
-      "token_id": "84542538128982421371863486180893792024474824980287095212355246904611156082394",
-      "question": "National Bank Open: Talia Gibson vs Ekaterina Alexandrova",
-      "link": "https://polyvictor.com/markets/3347515"
+      "market_id": "3369902",
+      "condition_id": "0x64f6fafd9aeb085e22110bbad5cbee98271ed962158d95e468dce9f0f7ffb49f",
+      "token_id": "1262102502166149391015595753859710312794995163475475834805603010513047950955",
+      "question": "National Bank Open: Anna Kalinskaya vs Diana Shnaider",
+      "link": "https://polyvictor.com/markets/3369902"
     }
   ]
 }
