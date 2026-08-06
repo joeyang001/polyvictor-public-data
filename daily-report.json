@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-08-05",
-  "generated_at": "2026-08-05T14:00:06.320Z",
+  "date": "2026-08-06",
+  "generated_at": "2026-08-06T14:00:07.676Z",
   "status": "success",
   "tweet_ids": [
-    "2085002909746430273",
-    "2085002910899794293"
+    "2085365303391707564",
+    "2085365304486490449"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 372,
-    "total_volume_usd": 16109308.651112996,
-    "unique_whales": 100,
-    "buy_volume_usd": 11998907.367942998,
-    "sell_volume_usd": 4110401.28317,
+    "total_fills": 360,
+    "total_volume_usd": 14482043.370062998,
+    "unique_whales": 96,
+    "buy_volume_usd": 10570774.326723,
+    "sell_volume_usd": 3911269.043339999,
     "top_markets": [
       {
-        "market_id": "3325190",
-        "question": "National Bank Open: Luciano Darderi vs Gabriel Diallo",
-        "volume_usd": 2039600.0298579999,
-        "fills": 36,
-        "link": "https://polyvictor.com/markets/3325190"
+        "market_id": "3361159",
+        "question": "Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs",
+        "volume_usd": 1078745.99832,
+        "fills": 15,
+        "link": "https://polyvictor.com/markets/3361159"
       },
       {
-        "market_id": "3338464",
-        "question": "Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs",
-        "volume_usd": 950622.62517,
-        "fills": 13,
-        "link": "https://polyvictor.com/markets/3338464"
+        "market_id": "3221425",
+        "question": "Los Angeles Dodgers vs. Chicago Cubs",
+        "volume_usd": 800561.44047,
+        "fills": 16,
+        "link": "https://polyvictor.com/markets/3221425"
       },
       {
-        "market_id": "1163699",
-        "question": "Clarity Act (H.R.3633) signed into law in 2026?",
-        "volume_usd": 906753.5754699999,
-        "fills": 7,
-        "link": "https://polyvictor.com/markets/1163699"
+        "market_id": "3325238",
+        "question": "National Bank Open: Valentin Vacherot vs Mariano Navone",
+        "volume_usd": 731598.078887,
+        "fills": 11,
+        "link": "https://polyvictor.com/markets/3325238"
       }
     ],
     "top_whales": [
       {
         "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 1946419.699626,
-        "fills": 30,
+        "volume_usd": 1441307.9450500002,
+        "fills": 17,
         "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
       },
       {
-        "address": "0xe30e74595517de48f1fb19f4553dd3d9f1e96b87",
-        "volume_usd": 1175736.41151,
-        "fills": 19,
-        "link": "https://polyvictor.com/whales/0xe30e74595517de48f1fb19f4553dd3d9f1e96b87"
+        "address": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+        "volume_usd": 1147069.9215600002,
+        "fills": 21,
+        "link": "https://polyvictor.com/whales/0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf"
       },
       {
-        "address": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
-        "volume_usd": 985465.9912300002,
-        "fills": 13,
-        "link": "https://polyvictor.com/whales/0x6d20c35f65d9899b6d6b74f8466e824580f9a165"
+        "address": "0x8bfee7aeca33003fe9d7398d5143dc7866542d74",
+        "volume_usd": 843332.383338,
+        "fills": 23,
+        "link": "https://polyvictor.com/whales/0x8bfee7aeca33003fe9d7398d5143dc7866542d74"
       }
     ],
     "biggest_fill": {
-      "address": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
-      "usd": 607582.7627,
+      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+      "usd": 325000,
       "side": "buy",
-      "price": 0.71,
-      "market_id": null,
-      "question": "(unresolved market)",
-      "link": "https://polyvictor.com/whales"
+      "price": 0.65,
+      "market_id": "3361159",
+      "question": "Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs",
+      "link": "https://polyvictor.com/markets/3361159"
     }
   }
 }
