@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-05T17:54:00.873Z",
+  "generated_at": "2026-08-06T11:44:00.934Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "bb54e246-299a-4a8e-87fc-fe86770cbffe",
-      "ts": "2026-08-05T17:52:04+00:00",
-      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+      "id": "fc08a8e3-4609-4ac3-b92b-7389e67026a2",
+      "ts": "2026-08-06T11:43:35+00:00",
+      "address": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Team Falcons",
-      "price": 0.65,
-      "shares": 500000,
-      "usd_value": 325000,
-      "price_shift_pp": 0,
-      "alert_reason": "size",
-      "market_id": "3361159",
-      "condition_id": "0xba2acfcbd1998eba588db39af8e7549a36835cd64e1d7e25f5748744267d04d7",
-      "token_id": "58310792421309163897663852279966053274862774024141363218258814703368733995001",
-      "question": "Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs",
-      "link": "https://polyvictor.com/markets/3361159"
+      "outcome_index": 1,
+      "outcome_label": "T1",
+      "price": 0.9897130083722869,
+      "shares": 29941.64,
+      "usd_value": 29633.6306,
+      "price_shift_pp": 6.694475047500603,
+      "alert_reason": "shift",
+      "market_id": "3249168",
+      "condition_id": "0x3f6ee122ebbb868cbda5fa3311abdde01ac792cdb75eab9316b260f402d1a350",
+      "token_id": "13023001404216158471237181565721636200910167294837891056069387046805869993563",
+      "question": "LoL: Dplus KIA vs T1 - Game 2 Winner",
+      "link": "https://polyvictor.com/markets/3249168"
     }
   ]
 }
