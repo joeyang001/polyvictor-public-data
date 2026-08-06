@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-06T11:44:00.934Z",
+  "generated_at": "2026-08-06T16:38:01.411Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "fc08a8e3-4609-4ac3-b92b-7389e67026a2",
-      "ts": "2026-08-06T11:43:35+00:00",
-      "address": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
-      "side": "buy",
+      "id": "11da3104-dd30-44a9-8153-6f69ab53e655",
+      "ts": "2026-08-06T16:37:34+00:00",
+      "address": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+      "side": "sell",
       "outcome_index": 1,
-      "outcome_label": "T1",
-      "price": 0.9897130083722869,
-      "shares": 29941.64,
-      "usd_value": 29633.6306,
-      "price_shift_pp": 6.694475047500603,
+      "outcome_label": "Ekaterina Alexandrova",
+      "price": 0.7906105289605665,
+      "shares": 56118.55,
+      "usd_value": 44367.9165,
+      "price_shift_pp": -3.9389471039433466,
       "alert_reason": "shift",
-      "market_id": "3249168",
-      "condition_id": "0x3f6ee122ebbb868cbda5fa3311abdde01ac792cdb75eab9316b260f402d1a350",
-      "token_id": "13023001404216158471237181565721636200910167294837891056069387046805869993563",
-      "question": "LoL: Dplus KIA vs T1 - Game 2 Winner",
-      "link": "https://polyvictor.com/markets/3249168"
+      "market_id": "3347515",
+      "condition_id": "0xc53908c9725eda4fd2d249fd5ae0cdca01a4929273da3a70fa4621e1614fa055",
+      "token_id": "84542538128982421371863486180893792024474824980287095212355246904611156082394",
+      "question": "National Bank Open: Talia Gibson vs Ekaterina Alexandrova",
+      "link": "https://polyvictor.com/markets/3347515"
     }
   ]
 }
