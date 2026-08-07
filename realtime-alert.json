@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-07T00:02:01.110Z",
+  "generated_at": "2026-08-07T12:30:06.333Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "50da8dfa-8b26-45fc-8ada-ae7821d3f02e",
-      "ts": "2026-08-07T00:01:38+00:00",
-      "address": "0xc3acf5878a03523d09a3ac859943445d7baeb964",
+      "id": "eb693c22-1a92-4278-9132-d697a015c2c6",
+      "ts": "2026-08-07T12:28:54+00:00",
+      "address": "0x02b4401ae7ead14477e944f79e9db07ce9ab7092",
       "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "Atlanta Braves",
-      "price": 0.85,
-      "shares": 300000,
-      "usd_value": 255000,
-      "price_shift_pp": 0,
-      "alert_reason": "size",
-      "market_id": "3260967",
-      "condition_id": "0x75925ee36022684960b17d5d8842a0d88ab1f9125f975f9590f34496fbd066d5",
-      "token_id": "76937171036023799030865952666413116379809616275505361305662392099618226713940",
-      "question": "Miami Marlins vs. Atlanta Braves",
-      "link": "https://polyvictor.com/markets/3260967"
+      "outcome_label": "No",
+      "price": 0.8690413536666667,
+      "shares": 30000,
+      "usd_value": 26071.24061,
+      "price_shift_pp": 76.90413536666667,
+      "alert_reason": "shift",
+      "market_id": "3089573",
+      "condition_id": "0xff82a8e3861067c619cea90e4057e980db9223b7791581379eb7da18761b20a2",
+      "token_id": "96683525018329484296024476910262602412602140267497729748751239061071530910252",
+      "question": "Will Kashima Antlers win on 2026-08-07?",
+      "link": "https://polyvictor.com/markets/3089573"
     }
   ]
 }
