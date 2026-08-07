@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-06T17:32:01.125Z",
+  "generated_at": "2026-08-07T00:02:01.110Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "d62cba7a-9468-4fcb-8ae6-7a0cf611d88c",
-      "ts": "2026-08-06T17:31:25+00:00",
-      "address": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+      "id": "50da8dfa-8b26-45fc-8ada-ae7821d3f02e",
+      "ts": "2026-08-07T00:01:38+00:00",
+      "address": "0xc3acf5878a03523d09a3ac859943445d7baeb964",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Anna Kalinskaya",
-      "price": 0.6073913193724843,
-      "shares": 81276.564917,
-      "usd_value": 49366.67999899999,
-      "price_shift_pp": 4.73913193724842,
-      "alert_reason": "shift",
-      "market_id": "3369902",
-      "condition_id": "0x64f6fafd9aeb085e22110bbad5cbee98271ed962158d95e468dce9f0f7ffb49f",
-      "token_id": "1262102502166149391015595753859710312794995163475475834805603010513047950955",
-      "question": "National Bank Open: Anna Kalinskaya vs Diana Shnaider",
-      "link": "https://polyvictor.com/markets/3369902"
+      "outcome_index": 1,
+      "outcome_label": "Atlanta Braves",
+      "price": 0.85,
+      "shares": 300000,
+      "usd_value": 255000,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "3260967",
+      "condition_id": "0x75925ee36022684960b17d5d8842a0d88ab1f9125f975f9590f34496fbd066d5",
+      "token_id": "76937171036023799030865952666413116379809616275505361305662392099618226713940",
+      "question": "Miami Marlins vs. Atlanta Braves",
+      "link": "https://polyvictor.com/markets/3260967"
     }
   ]
 }
