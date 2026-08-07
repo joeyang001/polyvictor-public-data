@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-07T14:34:01.120Z",
+  "generated_at": "2026-08-07T17:44:01.248Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "75130053-13a7-424e-8b4b-ca3737eab32c",
-      "ts": "2026-08-07T14:32:54+00:00",
-      "address": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+      "id": "cea5fa9a-67fc-403d-be94-c6af1f565722",
+      "ts": "2026-08-07T17:42:17+00:00",
+      "address": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
       "side": "sell",
       "outcome_index": 1,
-      "outcome_label": "Top Esports",
-      "price": 0.999,
-      "shares": 500000.93,
-      "usd_value": 499500.92907,
-      "price_shift_pp": 0,
-      "alert_reason": "size",
-      "market_id": "3214686",
-      "condition_id": "0x3773cbfc174f847670c2d98e54ce030d022d7b057f476c2cffb0a52ba09dd0f4",
-      "token_id": "101796257335629836733493261778480187481353432635177752142204482880247250739791",
-      "question": "LoL: Bilibili Gaming vs Top Esports (BO3) - LPL Group Ascend",
-      "link": "https://polyvictor.com/markets/3214686"
+      "outcome_label": "Matteo Arnaldi",
+      "price": 0.7019399272775971,
+      "shares": 83333.33,
+      "usd_value": 58494.9916,
+      "price_shift_pp": -3.806007272240286,
+      "alert_reason": "shift",
+      "market_id": "3374356",
+      "condition_id": "0xc8c2d49665ab4bac36e685d801e733341b7e28cd2a17463864f218f0405c2b29",
+      "token_id": "76376695050176692171339743068001820415403699801643882601043961768741105317115",
+      "question": "National Bank Open: Tallon Griekspoor vs Matteo Arnaldi",
+      "link": "https://polyvictor.com/markets/3374356"
     }
   ]
 }
