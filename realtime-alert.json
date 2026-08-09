@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-08T14:06:00.986Z",
+  "generated_at": "2026-08-09T11:44:01.954Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "4649d318-4c83-43fd-8a44-f2976b007d41",
-      "ts": "2026-08-08T14:05:39+00:00",
-      "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
+      "id": "c6f470e8-c538-487b-929d-929efb92f0e1",
+      "ts": "2026-08-09T11:43:18+00:00",
+      "address": "0xae7fceb5828ad56356283188b505939d057f31c9",
       "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "NO",
-      "price": 0.9813449142235607,
-      "shares": 26845.95,
-      "usd_value": 26345.1365,
-      "price_shift_pp": 35.13449142235607,
+      "outcome_label": "No",
+      "price": 0.7734086848834071,
+      "shares": 37655.382677,
+      "usd_value": 29122.999995,
+      "price_shift_pp": 13.340868488340707,
       "alert_reason": "shift",
-      "market_id": null,
-      "condition_id": "0x59cc05477df5ba77522e04d2aea3f04f77e7567f13b14cb195b715f0fc5529d3",
-      "token_id": "32398151829693958299242260180321252035174923708210593271521671455713253900376",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
+      "market_id": "2771185",
+      "condition_id": "0xfed2dd1e83691ca08b8bc08d2bed09cb19003730f2be47da6a467ee37df96fbb",
+      "token_id": "78735213477140259179719985437634225008013438052010449207550476177307188383355",
+      "question": "Mojtaba Khamenei seen in public by December 31?",
+      "link": "https://polyvictor.com/markets/2771185"
     }
   ]
 }
