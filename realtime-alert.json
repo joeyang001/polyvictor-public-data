@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-09T11:44:01.954Z",
+  "generated_at": "2026-08-09T17:36:00.911Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "c6f470e8-c538-487b-929d-929efb92f0e1",
-      "ts": "2026-08-09T11:43:18+00:00",
-      "address": "0xae7fceb5828ad56356283188b505939d057f31c9",
+      "id": "6cde346c-6db4-424f-895e-de871f4b17e7",
+      "ts": "2026-08-09T17:35:29+00:00",
+      "address": "0xeac22222ef8d2be457c00101a1a4e4925ec5dddc",
       "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "No",
-      "price": 0.7734086848834071,
-      "shares": 37655.382677,
-      "usd_value": 29122.999995,
-      "price_shift_pp": 13.340868488340707,
+      "outcome_label": "K27",
+      "price": 0.5860444521618337,
+      "shares": 57590,
+      "usd_value": 33750.3,
+      "price_shift_pp": 3.6044452161833607,
       "alert_reason": "shift",
-      "market_id": "2771185",
-      "condition_id": "0xfed2dd1e83691ca08b8bc08d2bed09cb19003730f2be47da6a467ee37df96fbb",
-      "token_id": "78735213477140259179719985437634225008013438052010449207550476177307188383355",
-      "question": "Mojtaba Khamenei seen in public by December 31?",
-      "link": "https://polyvictor.com/markets/2771185"
+      "market_id": "3450876",
+      "condition_id": "0x30396a40df336fa169844337f924dcd7519a68481ad8a3bc5df844f6691abcf7",
+      "token_id": "49164837364926065433975380827203095300819539113055264847554229128027645228426",
+      "question": "Counter-Strike: fnatic vs K27 (BO3) - Esports World Cup Open Qualifier Play-Ins",
+      "link": "https://polyvictor.com/markets/3450876"
     }
   ]
 }
