@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-10T12:32:01.114Z",
+  "generated_at": "2026-08-10T13:56:05.509Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "ce898800-1c60-444c-a2e3-dfcda2dcd1b0",
-      "ts": "2026-08-10T12:31:53+00:00",
-      "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
+      "id": "e78b1b00-2fcc-4ae2-9edc-420973f8064a",
+      "ts": "2026-08-10T13:54:18+00:00",
+      "address": "0x9d84ce0306f8551e02efef1680475fc0f1dc1344",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "DN SOOPers",
-      "price": 0.9105650020156948,
-      "shares": 45269.75,
-      "usd_value": 41221.049999999996,
-      "price_shift_pp": 7.056500201569483,
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.2142883620374261,
+      "shares": 119308.77,
+      "usd_value": 25566.480900000002,
+      "price_shift_pp": -4.571163796257391,
       "alert_reason": "shift",
-      "market_id": "3482348",
-      "condition_id": "0xb351f78e7b897e6b8f234eddf57150ec42d10bac1f5cf8c8e885dffa4a2a8a0e",
-      "token_id": "44789907620444574590891140007711285735511561877798870090714132691198822231815",
-      "question": "LoL: Gen.G vs DN SOOPers - Game 1 Winner",
-      "link": "https://polyvictor.com/markets/3482348"
+      "market_id": "1163699",
+      "condition_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+      "token_id": "35198549486569600595408965368290795524428922595732253580266052028158040373233",
+      "question": "Clarity Act (H.R.3633) signed into law in 2026?",
+      "link": "https://polyvictor.com/markets/1163699"
     }
   ]
 }
