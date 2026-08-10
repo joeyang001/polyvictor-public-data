@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-10T13:56:05.509Z",
+  "generated_at": "2026-08-10T18:54:00.920Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "e78b1b00-2fcc-4ae2-9edc-420973f8064a",
-      "ts": "2026-08-10T13:54:18+00:00",
-      "address": "0x9d84ce0306f8551e02efef1680475fc0f1dc1344",
+      "id": "890d943a-cc89-4ccf-96f8-9fa29ffaef70",
+      "ts": "2026-08-10T18:52:29+00:00",
+      "address": "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa",
       "side": "buy",
       "outcome_index": 0,
       "outcome_label": "Yes",
-      "price": 0.2142883620374261,
-      "shares": 119308.77,
-      "usd_value": 25566.480900000002,
-      "price_shift_pp": -4.571163796257391,
+      "price": 0.5353750540726159,
+      "shares": 46812.05,
+      "usd_value": 25062.0038,
+      "price_shift_pp": 3.456534856761928,
       "alert_reason": "shift",
-      "market_id": "1163699",
-      "condition_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
-      "token_id": "35198549486569600595408965368290795524428922595732253580266052028158040373233",
-      "question": "Clarity Act (H.R.3633) signed into law in 2026?",
-      "link": "https://polyvictor.com/markets/1163699"
+      "market_id": "3168938",
+      "condition_id": "0x43bc95a56837bdaa742f94e417cdac71466b3a7d3427916da1265278b703f3e6",
+      "token_id": "75094796091502454293224685716714653372852206840976177681516891943007305155472",
+      "question": "Will CD Santa Clara win on 2026-08-10?",
+      "link": "https://polyvictor.com/markets/3168938"
     }
   ]
 }
