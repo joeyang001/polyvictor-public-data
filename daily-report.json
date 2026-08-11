@@ -1,68 +1,68 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-08-10",
-  "generated_at": "2026-08-10T14:00:07.280Z",
+  "date": "2026-08-11",
+  "generated_at": "2026-08-11T14:00:07.337Z",
   "status": "failed",
   "tweet_ids": [],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 357,
-    "total_volume_usd": 18306927.87731799,
-    "unique_whales": 101,
-    "buy_volume_usd": 13332906.078698,
-    "sell_volume_usd": 4974021.798619998,
+    "total_fills": 220,
+    "total_volume_usd": 9916897.800531004,
+    "unique_whales": 70,
+    "buy_volume_usd": 6761378.283601003,
+    "sell_volume_usd": 3155519.516929999,
     "top_markets": [
       {
-        "market_id": "3438927",
-        "question": "LoL: DN SOOPers vs Kiwoom DRX (BO3) - KeSPA Cup Last Chance Qualifier",
-        "volume_usd": 3250301.62899,
-        "fills": 11,
-        "link": "https://polyvictor.com/markets/3438927"
+        "market_id": "3336191",
+        "question": "Kansas City Royals vs. Los Angeles Dodgers",
+        "volume_usd": 724631.109806,
+        "fills": 17,
+        "link": "https://polyvictor.com/markets/3336191"
       },
       {
-        "market_id": "3414587",
-        "question": "National Bank Open: Alina Korneeva vs Coco Gauff",
-        "volume_usd": 1237376.975202,
-        "fills": 18,
-        "link": "https://polyvictor.com/markets/3414587"
+        "market_id": "3435332",
+        "question": "National Bank Open: Rafael Jodar vs Arthur Fils",
+        "volume_usd": 720667.3511900002,
+        "fills": 14,
+        "link": "https://polyvictor.com/markets/3435332"
       },
       {
-        "market_id": "3336136",
-        "question": "Cincinnati Reds vs. Washington Nationals",
-        "volume_usd": 848404.1996879998,
-        "fills": 16,
-        "link": "https://polyvictor.com/markets/3336136"
+        "market_id": "1163699",
+        "question": "Clarity Act (H.R.3633) signed into law in 2026?",
+        "volume_usd": 691413.04743,
+        "fills": 5,
+        "link": "https://polyvictor.com/markets/1163699"
       }
     ],
     "top_whales": [
       {
-        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 2954773.85258,
-        "fills": 31,
-        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
-      },
-      {
-        "address": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
-        "volume_usd": 2755140.523009999,
-        "fills": 27,
-        "link": "https://polyvictor.com/whales/0x6d20c35f65d9899b6d6b74f8466e824580f9a165"
+        "address": "0x78c66755790cce49927ed6269b70ef4354654710",
+        "volume_usd": 838137.06421,
+        "fills": 6,
+        "link": "https://polyvictor.com/whales/0x78c66755790cce49927ed6269b70ef4354654710"
       },
       {
         "address": "0x5dab5ed9691fab220535891d9c7f5c28eed322e1",
-        "volume_usd": 1071280.715746,
-        "fills": 13,
+        "volume_usd": 700130.88697,
+        "fills": 11,
         "link": "https://polyvictor.com/whales/0x5dab5ed9691fab220535891d9c7f5c28eed322e1"
+      },
+      {
+        "address": "0xca79076e2d13b8930e0c3a4649c06c65449a4796",
+        "volume_usd": 691413.04743,
+        "fills": 5,
+        "link": "https://polyvictor.com/whales/0xca79076e2d13b8930e0c3a4649c06c65449a4796"
       }
     ],
     "biggest_fill": {
-      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-      "usd": 899100,
-      "side": "buy",
-      "price": 0.999,
-      "market_id": "3438927",
-      "question": "LoL: DN SOOPers vs Kiwoom DRX (BO3) - KeSPA Cup Last Chance Qualifier",
-      "link": "https://polyvictor.com/markets/3438927"
+      "address": "0x78c66755790cce49927ed6269b70ef4354654710",
+      "usd": 249500,
+      "side": "sell",
+      "price": 0.998,
+      "market_id": "559690",
+      "question": "Will Kim Kardashian win the 2028 Democratic presidential nomination?",
+      "link": "https://polyvictor.com/markets/559690"
     }
   }
 }
