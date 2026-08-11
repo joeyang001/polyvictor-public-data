@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-10T18:54:00.920Z",
+  "generated_at": "2026-08-11T17:08:00.969Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "890d943a-cc89-4ccf-96f8-9fa29ffaef70",
-      "ts": "2026-08-10T18:52:29+00:00",
-      "address": "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa",
+      "id": "84beee6c-534a-4e2f-85c9-747a3957bf0a",
+      "ts": "2026-08-11T17:06:12+00:00",
+      "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.5353750540726159,
-      "shares": 46812.05,
-      "usd_value": 25062.0038,
-      "price_shift_pp": 3.456534856761928,
+      "outcome_label": "YES",
+      "price": 0.9848350383272859,
+      "shares": 45256.27,
+      "usd_value": 44569.960399999996,
+      "price_shift_pp": 29.483503832728598,
       "alert_reason": "shift",
-      "market_id": "3168938",
-      "condition_id": "0x43bc95a56837bdaa742f94e417cdac71466b3a7d3427916da1265278b703f3e6",
-      "token_id": "75094796091502454293224685716714653372852206840976177681516891943007305155472",
-      "question": "Will CD Santa Clara win on 2026-08-10?",
-      "link": "https://polyvictor.com/markets/3168938"
+      "market_id": null,
+      "condition_id": "0x384d844e1231a2c0bd8c70888cabf0ae57523e23fce6c6e75a0a67a553420ded",
+      "token_id": "285953672902717032983243842606627130427688452572459883592684566400408064411",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
