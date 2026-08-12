@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-12T20:58:00.767Z",
+  "generated_at": "2026-08-12T22:06:00.687Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "f1d13b33-eb5b-48b0-8039-60de65d1cd89",
-      "ts": "2026-08-12T20:56:08+00:00",
-      "address": "0x4b341d4612437b6e5b5fbcf98e5b675dbacf48a8",
-      "side": "sell",
+      "id": "ca24ac53-244c-4ebb-94b2-df6d1193044f",
+      "ts": "2026-08-12T22:04:33+00:00",
+      "address": "0x0224bb9eb0a5c9fd261ac9123a72cbdd5748292a",
+      "side": "buy",
       "outcome_index": 0,
       "outcome_label": "Yes",
-      "price": 0.999,
-      "shares": 558208.9,
-      "usd_value": 557650.6911,
-      "price_shift_pp": 0,
-      "alert_reason": "size",
-      "market_id": "3228928",
-      "condition_id": "0xa010c8e7ab644ca49a8c7d015bd80d6524e2d822fec6077e1f1019327507c65b",
-      "token_id": "61589009001195241558796708472897936503409913017383866002372087826054686967938",
-      "question": "Will Paris Saint-Germain win on 2026-08-12?",
-      "link": "https://polyvictor.com/markets/3228928"
+      "price": 0.9988903819845171,
+      "shares": 44961.77,
+      "usd_value": 44911.879609999996,
+      "price_shift_pp": 3.6890381984517107,
+      "alert_reason": "shift",
+      "market_id": "3409538",
+      "condition_id": null,
+      "token_id": "12695173516677934029915703834983243863559945483006502581211851013474877786187",
+      "question": "Will Kai and Speed beat the Minecraft challenge by August 14?",
+      "link": "https://polyvictor.com/markets/3409538"
     }
   ]
 }
