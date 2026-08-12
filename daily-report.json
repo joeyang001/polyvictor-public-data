@@ -1,68 +1,68 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-08-11",
-  "generated_at": "2026-08-11T14:00:07.337Z",
+  "date": "2026-08-12",
+  "generated_at": "2026-08-12T14:00:04.835Z",
   "status": "failed",
   "tweet_ids": [],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 220,
-    "total_volume_usd": 9916897.800531004,
-    "unique_whales": 70,
-    "buy_volume_usd": 6761378.283601003,
-    "sell_volume_usd": 3155519.516929999,
+    "total_fills": 326,
+    "total_volume_usd": 13916684.649973994,
+    "unique_whales": 103,
+    "buy_volume_usd": 10400357.192613995,
+    "sell_volume_usd": 3516327.45736,
     "top_markets": [
-      {
-        "market_id": "3336191",
-        "question": "Kansas City Royals vs. Los Angeles Dodgers",
-        "volume_usd": 724631.109806,
-        "fills": 17,
-        "link": "https://polyvictor.com/markets/3336191"
-      },
       {
         "market_id": "3435332",
         "question": "National Bank Open: Rafael Jodar vs Arthur Fils",
-        "volume_usd": 720667.3511900002,
-        "fills": 14,
+        "volume_usd": 1554727.6045569999,
+        "fills": 17,
         "link": "https://polyvictor.com/markets/3435332"
       },
       {
-        "market_id": "1163699",
-        "question": "Clarity Act (H.R.3633) signed into law in 2026?",
-        "volume_usd": 691413.04743,
-        "fills": 5,
-        "link": "https://polyvictor.com/markets/1163699"
+        "market_id": "3359484",
+        "question": "Kansas City Royals vs. Los Angeles Dodgers",
+        "volume_usd": 774521.6540600001,
+        "fills": 16,
+        "link": "https://polyvictor.com/markets/3359484"
+      },
+      {
+        "market_id": "3474308",
+        "question": "National Bank Open: Jakub Mensik vs Ben Shelton",
+        "volume_usd": 715039.3684479999,
+        "fills": 19,
+        "link": "https://polyvictor.com/markets/3474308"
       }
     ],
     "top_whales": [
       {
-        "address": "0x78c66755790cce49927ed6269b70ef4354654710",
-        "volume_usd": 838137.06421,
-        "fills": 6,
-        "link": "https://polyvictor.com/whales/0x78c66755790cce49927ed6269b70ef4354654710"
-      },
-      {
         "address": "0x5dab5ed9691fab220535891d9c7f5c28eed322e1",
-        "volume_usd": 700130.88697,
+        "volume_usd": 1109270.53894,
         "fills": 11,
         "link": "https://polyvictor.com/whales/0x5dab5ed9691fab220535891d9c7f5c28eed322e1"
       },
       {
-        "address": "0xca79076e2d13b8930e0c3a4649c06c65449a4796",
-        "volume_usd": 691413.04743,
-        "fills": 5,
-        "link": "https://polyvictor.com/whales/0xca79076e2d13b8930e0c3a4649c06c65449a4796"
+        "address": "0xdb859a551fcf56e49416160911476bea7307152f",
+        "volume_usd": 903066.9217199998,
+        "fills": 23,
+        "link": "https://polyvictor.com/whales/0xdb859a551fcf56e49416160911476bea7307152f"
+      },
+      {
+        "address": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+        "volume_usd": 852151.5309799999,
+        "fills": 14,
+        "link": "https://polyvictor.com/whales/0x6d20c35f65d9899b6d6b74f8466e824580f9a165"
       }
     ],
     "biggest_fill": {
-      "address": "0x78c66755790cce49927ed6269b70ef4354654710",
-      "usd": 249500,
+      "address": "0x2f44fa076c8d2976ac6bea0ddfd9502bad2b93c2",
+      "usd": 266082.36129000003,
       "side": "sell",
-      "price": 0.998,
-      "market_id": "559690",
-      "question": "Will Kim Kardashian win the 2028 Democratic presidential nomination?",
-      "link": "https://polyvictor.com/markets/559690"
+      "price": 0.999,
+      "market_id": "3435332",
+      "question": "National Bank Open: Rafael Jodar vs Arthur Fils",
+      "link": "https://polyvictor.com/markets/3435332"
     }
   }
 }
