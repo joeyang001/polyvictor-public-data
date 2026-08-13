@@ -1,68 +1,68 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-08-12",
-  "generated_at": "2026-08-12T14:00:04.835Z",
+  "date": "2026-08-13",
+  "generated_at": "2026-08-13T14:00:07.491Z",
   "status": "failed",
   "tweet_ids": [],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 326,
-    "total_volume_usd": 13916684.649973994,
-    "unique_whales": 103,
-    "buy_volume_usd": 10400357.192613995,
-    "sell_volume_usd": 3516327.45736,
+    "total_fills": 526,
+    "total_volume_usd": 27325605.470202,
+    "unique_whales": 137,
+    "buy_volume_usd": 19044778.378711995,
+    "sell_volume_usd": 8280827.091490001,
     "top_markets": [
       {
-        "market_id": "3435332",
-        "question": "National Bank Open: Rafael Jodar vs Arthur Fils",
-        "volume_usd": 1554727.6045569999,
-        "fills": 17,
-        "link": "https://polyvictor.com/markets/3435332"
+        "market_id": "3228928",
+        "question": "Will Paris Saint-Germain win on 2026-08-12?",
+        "volume_usd": 3900944.198313999,
+        "fills": 36,
+        "link": "https://polyvictor.com/markets/3228928"
       },
       {
-        "market_id": "3359484",
-        "question": "Kansas City Royals vs. Los Angeles Dodgers",
-        "volume_usd": 774521.6540600001,
-        "fills": 16,
-        "link": "https://polyvictor.com/markets/3359484"
+        "market_id": "3471044",
+        "question": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
+        "volume_usd": 1779470.0442000001,
+        "fills": 27,
+        "link": "https://polyvictor.com/markets/3471044"
       },
       {
-        "market_id": "3474308",
-        "question": "National Bank Open: Jakub Mensik vs Ben Shelton",
-        "volume_usd": 715039.3684479999,
-        "fills": 19,
-        "link": "https://polyvictor.com/markets/3474308"
+        "market_id": "3471035",
+        "question": "Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B",
+        "volume_usd": 1609703.7832,
+        "fills": 11,
+        "link": "https://polyvictor.com/markets/3471035"
       }
     ],
     "top_whales": [
       {
-        "address": "0x5dab5ed9691fab220535891d9c7f5c28eed322e1",
-        "volume_usd": 1109270.53894,
-        "fills": 11,
-        "link": "https://polyvictor.com/whales/0x5dab5ed9691fab220535891d9c7f5c28eed322e1"
-      },
-      {
-        "address": "0xdb859a551fcf56e49416160911476bea7307152f",
-        "volume_usd": 903066.9217199998,
-        "fills": 23,
-        "link": "https://polyvictor.com/whales/0xdb859a551fcf56e49416160911476bea7307152f"
-      },
-      {
         "address": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
-        "volume_usd": 852151.5309799999,
-        "fills": 14,
+        "volume_usd": 5115334.413918,
+        "fills": 61,
         "link": "https://polyvictor.com/whales/0x6d20c35f65d9899b6d6b74f8466e824580f9a165"
+      },
+      {
+        "address": "0x4b341d4612437b6e5b5fbcf98e5b675dbacf48a8",
+        "volume_usd": 1802928.254548,
+        "fills": 4,
+        "link": "https://polyvictor.com/whales/0x4b341d4612437b6e5b5fbcf98e5b675dbacf48a8"
+      },
+      {
+        "address": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
+        "volume_usd": 1582996.626056,
+        "fills": 19,
+        "link": "https://polyvictor.com/whales/0xe16d3f2a5807999b358affd9445c3a09e45e5e30"
       }
     ],
     "biggest_fill": {
-      "address": "0x2f44fa076c8d2976ac6bea0ddfd9502bad2b93c2",
-      "usd": 266082.36129000003,
+      "address": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+      "usd": 759035.5047,
       "side": "sell",
       "price": 0.999,
-      "market_id": "3435332",
-      "question": "National Bank Open: Rafael Jodar vs Arthur Fils",
-      "link": "https://polyvictor.com/markets/3435332"
+      "market_id": "3471035",
+      "question": "Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B",
+      "link": "https://polyvictor.com/markets/3471035"
     }
   }
 }
