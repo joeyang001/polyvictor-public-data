@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-12T22:06:00.687Z",
+  "generated_at": "2026-08-13T02:08:00.883Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "ca24ac53-244c-4ebb-94b2-df6d1193044f",
-      "ts": "2026-08-12T22:04:33+00:00",
-      "address": "0x0224bb9eb0a5c9fd261ac9123a72cbdd5748292a",
+      "id": "47623bc4-8844-46fc-a174-3b14e0453aec",
+      "ts": "2026-08-13T02:07:00+00:00",
+      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.9988903819845171,
-      "shares": 44961.77,
-      "usd_value": 44911.879609999996,
-      "price_shift_pp": 3.6890381984517107,
-      "alert_reason": "shift",
-      "market_id": "3409538",
-      "condition_id": null,
-      "token_id": "12695173516677934029915703834983243863559945483006502581211851013474877786187",
-      "question": "Will Kai and Speed beat the Minecraft challenge by August 14?",
-      "link": "https://polyvictor.com/markets/3409538"
+      "outcome_label": "YES",
+      "price": 0.7,
+      "shares": 520671.88,
+      "usd_value": 364470.316,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": null,
+      "condition_id": "0x54481855fff078ca7e1b9ef92c1d86cc9a133680169f3ee4dc2327121ca9046c",
+      "token_id": "74424679059519373841273175646734808159992618467648744175936471012555967181909",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
