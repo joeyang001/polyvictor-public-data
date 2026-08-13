@@ -1,26 +1,44 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-13T02:08:00.883Z",
+  "generated_at": "2026-08-13T02:16:00.896Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "29a4fd33-008b-47e7-9f85-f06afa011d7b",
+      "ts": "2026-08-13T02:15:14+00:00",
+      "address": "0xfc64f5d584c78b439ebece4012f308741913e71d",
+      "side": "sell",
+      "outcome_index": 0,
+      "outcome_label": "Nicolai Budkov Kjaer",
+      "price": 0.3398637088270508,
+      "shares": 82336.22,
+      "usd_value": 27983.0931,
+      "price_shift_pp": -4.01362911729492,
+      "alert_reason": "shift",
+      "market_id": "3533476",
+      "condition_id": "0x8320bef0f8a1ca820ee51a52e643cd28d31861997e3d54cba2cc7114a8906466",
+      "token_id": "33432401161460390965386231891717562308667708954993479342917930286573886024929",
+      "question": "Cincinnati Open, Qualification: Nicolai Budkov Kjaer vs Kyrian Jacquet",
+      "link": "https://polyvictor.com/markets/3533476"
+    },
     {
       "id": "47623bc4-8844-46fc-a174-3b14e0453aec",
       "ts": "2026-08-13T02:07:00+00:00",
       "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "YES",
+      "outcome_label": "BoomBoys",
       "price": 0.7,
       "shares": 520671.88,
       "usd_value": 364470.316,
       "price_shift_pp": 0,
       "alert_reason": "size",
-      "market_id": null,
+      "market_id": "3479974",
       "condition_id": "0x54481855fff078ca7e1b9ef92c1d86cc9a133680169f3ee4dc2327121ca9046c",
       "token_id": "74424679059519373841273175646734808159992618467648744175936471012555967181909",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
+      "question": "Dota 2: BoomBoys vs OG (BO3) - The International Group Stage",
+      "link": "https://polyvictor.com/markets/3479974"
     }
   ]
 }
