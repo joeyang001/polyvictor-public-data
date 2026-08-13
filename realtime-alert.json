@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-13T02:16:00.896Z",
+  "generated_at": "2026-08-13T02:18:00.863Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 3,
   "alerts": [
+    {
+      "id": "96baade8-0b68-48fe-961a-146b08f71333",
+      "ts": "2026-08-13T02:16:24+00:00",
+      "address": "0xfc64f5d584c78b439ebece4012f308741913e71d",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Elina Svitolina",
+      "price": 0.5757920064435844,
+      "shares": 45843.915342,
+      "usd_value": 26396.559998000004,
+      "price_shift_pp": 6.579217474369726,
+      "alert_reason": "shift",
+      "market_id": "3506213",
+      "condition_id": "0xfab32d5c5ead65612e5990f151b70110ea6ffc33e17bf58d5112fbbca53a5331",
+      "token_id": "83678002157711172985418956301523287830494864044419001281816469469587498075870",
+      "question": "National Bank Open: Elina Svitolina vs Iga Swiatek",
+      "link": "https://polyvictor.com/markets/3506213"
+    },
     {
       "id": "29a4fd33-008b-47e7-9f85-f06afa011d7b",
       "ts": "2026-08-13T02:15:14+00:00",
