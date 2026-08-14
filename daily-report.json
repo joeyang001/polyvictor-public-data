@@ -1,68 +1,68 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-08-13",
-  "generated_at": "2026-08-13T14:00:07.491Z",
+  "date": "2026-08-14",
+  "generated_at": "2026-08-14T14:00:07.709Z",
   "status": "failed",
   "tweet_ids": [],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 526,
-    "total_volume_usd": 27325605.470202,
-    "unique_whales": 137,
-    "buy_volume_usd": 19044778.378711995,
-    "sell_volume_usd": 8280827.091490001,
+    "total_fills": 360,
+    "total_volume_usd": 14466374.699583007,
+    "unique_whales": 110,
+    "buy_volume_usd": 8840851.012508001,
+    "sell_volume_usd": 5625523.687074997,
     "top_markets": [
       {
-        "market_id": "3228928",
-        "question": "Will Paris Saint-Germain win on 2026-08-12?",
-        "volume_usd": 3900944.198313999,
-        "fills": 36,
-        "link": "https://polyvictor.com/markets/3228928"
+        "market_id": "3558412",
+        "question": "National Bank Open: Ben Shelton vs Brandon Nakashima",
+        "volume_usd": 738272.5973300001,
+        "fills": 12,
+        "link": "https://polyvictor.com/markets/3558412"
       },
       {
-        "market_id": "3471044",
-        "question": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
-        "volume_usd": 1779470.0442000001,
-        "fills": 27,
-        "link": "https://polyvictor.com/markets/3471044"
+        "market_id": "3128885",
+        "question": "Strait of Hormuz traffic returns to normal by August 15?",
+        "volume_usd": 559036.1043,
+        "fills": 9,
+        "link": "https://polyvictor.com/markets/3128885"
       },
       {
-        "market_id": "3471035",
-        "question": "Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B",
-        "volume_usd": 1609703.7832,
-        "fills": 11,
-        "link": "https://polyvictor.com/markets/3471035"
+        "market_id": "3398740",
+        "question": "Chicago Cubs vs. Washington Nationals",
+        "volume_usd": 552187.739828,
+        "fills": 12,
+        "link": "https://polyvictor.com/markets/3398740"
       }
     ],
     "top_whales": [
       {
-        "address": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
-        "volume_usd": 5115334.413918,
-        "fills": 61,
-        "link": "https://polyvictor.com/whales/0x6d20c35f65d9899b6d6b74f8466e824580f9a165"
-      },
-      {
-        "address": "0x4b341d4612437b6e5b5fbcf98e5b675dbacf48a8",
-        "volume_usd": 1802928.254548,
-        "fills": 4,
-        "link": "https://polyvictor.com/whales/0x4b341d4612437b6e5b5fbcf98e5b675dbacf48a8"
-      },
-      {
         "address": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
-        "volume_usd": 1582996.626056,
-        "fills": 19,
+        "volume_usd": 1529824.7593019998,
+        "fills": 24,
         "link": "https://polyvictor.com/whales/0xe16d3f2a5807999b358affd9445c3a09e45e5e30"
+      },
+      {
+        "address": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+        "volume_usd": 1008255.84237,
+        "fills": 13,
+        "link": "https://polyvictor.com/whales/0xcd30f4698c6f5f3829893e68e183a8e5ea18f316"
+      },
+      {
+        "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
+        "volume_usd": 804671.1295600001,
+        "fills": 23,
+        "link": "https://polyvictor.com/whales/0xd487f513cfead22d76b6db4567c756b3cf25053e"
       }
     ],
     "biggest_fill": {
-      "address": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
-      "usd": 759035.5047,
+      "address": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+      "usd": 195206.85774,
       "side": "sell",
       "price": 0.999,
-      "market_id": "3471035",
-      "question": "Counter-Strike: MIBR vs Astralis (BO1) - Esports World Cup Group B",
-      "link": "https://polyvictor.com/markets/3471035"
+      "market_id": "3398728",
+      "question": "Cincinnati Reds vs. Chicago White Sox",
+      "link": "https://polyvictor.com/markets/3398728"
     }
   }
 }
