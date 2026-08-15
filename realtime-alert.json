@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-14T10:48:00.911Z",
+  "generated_at": "2026-08-15T16:38:01.257Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "3d2a238e-7bf9-4509-9fc3-2d85e436f365",
-      "ts": "2026-08-14T10:47:45+00:00",
+      "id": "0aa8c609-7ceb-43e7-8bf8-42277deaddc4",
+      "ts": "2026-08-15T16:37:21+00:00",
       "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "MVK Esports",
-      "price": 0.9844753032379036,
-      "shares": 32382.99,
-      "usd_value": 31880.2539,
-      "price_shift_pp": 11.847530323790355,
+      "outcome_index": 1,
+      "outcome_label": "Fnatic",
+      "price": 0.98,
+      "shares": 35510.14,
+      "usd_value": 34799.9372,
+      "price_shift_pp": 4.0000000000000036,
       "alert_reason": "shift",
-      "market_id": "3511086",
-      "condition_id": "3511086",
-      "token_id": "35183040323624010679165019818450919350306380329659620707195040360618352189330",
-      "question": "LoL: MVK Esports vs CTBC Flying Oyster - Game 2 Winner",
-      "link": "https://polyvictor.com/markets/3511086"
+      "market_id": "3526860",
+      "condition_id": "3526860",
+      "token_id": "88376649153220642948784156162038645560700049542115154155029671064997136531100",
+      "question": "LoL: SK Gaming vs Fnatic - Game 2 Winner",
+      "link": "https://polyvictor.com/markets/3526860"
     }
   ]
 }
