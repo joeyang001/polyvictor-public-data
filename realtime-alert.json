@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-15T16:38:01.257Z",
+  "generated_at": "2026-08-15T20:32:00.848Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "0aa8c609-7ceb-43e7-8bf8-42277deaddc4",
-      "ts": "2026-08-15T16:37:21+00:00",
-      "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
-      "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Fnatic",
-      "price": 0.98,
-      "shares": 35510.14,
-      "usd_value": 34799.9372,
-      "price_shift_pp": 4.0000000000000036,
+      "id": "ed5aa572-46ad-4993-8bef-7483551ea5f1",
+      "ts": "2026-08-15T20:31:55+00:00",
+      "address": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+      "side": "sell",
+      "outcome_index": 0,
+      "outcome_label": "Mattia Bellucci",
+      "price": 0.6308590534643836,
+      "shares": 45985.38,
+      "usd_value": 29010.293299999998,
+      "price_shift_pp": -3.914094628411491,
       "alert_reason": "shift",
-      "market_id": "3526860",
-      "condition_id": "3526860",
-      "token_id": "88376649153220642948784156162038645560700049542115154155029671064997136531100",
-      "question": "LoL: SK Gaming vs Fnatic - Game 2 Winner",
-      "link": "https://polyvictor.com/markets/3526860"
+      "market_id": "3577669",
+      "condition_id": "3577669",
+      "token_id": "30576831221779854505615430641052164294871207086168159210653949922568092152770",
+      "question": "Cincinnati Open: Mattia Bellucci vs Jakub Mensik",
+      "link": "https://polyvictor.com/markets/3577669"
     }
   ]
 }
