@@ -1,68 +1,68 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-08-14",
-  "generated_at": "2026-08-14T14:00:07.709Z",
+  "date": "2026-08-15",
+  "generated_at": "2026-08-15T14:00:06.140Z",
   "status": "failed",
   "tweet_ids": [],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 360,
-    "total_volume_usd": 14466374.699583007,
-    "unique_whales": 110,
-    "buy_volume_usd": 8840851.012508001,
-    "sell_volume_usd": 5625523.687074997,
+    "total_fills": 309,
+    "total_volume_usd": 11919937.402881,
+    "unique_whales": 104,
+    "buy_volume_usd": 7927025.763371001,
+    "sell_volume_usd": 3992911.6395099997,
     "top_markets": [
       {
-        "market_id": "3558412",
-        "question": "National Bank Open: Ben Shelton vs Brandon Nakashima",
-        "volume_usd": 738272.5973300001,
-        "fills": 12,
-        "link": "https://polyvictor.com/markets/3558412"
+        "market_id": "3275573",
+        "question": "UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card)",
+        "volume_usd": 634916.838949,
+        "fills": 10,
+        "link": "https://polyvictor.com/markets/3275573"
       },
       {
-        "market_id": "3128885",
-        "question": "Strait of Hormuz traffic returns to normal by August 15?",
-        "volume_usd": 559036.1043,
-        "fills": 9,
-        "link": "https://polyvictor.com/markets/3128885"
+        "market_id": "3533631",
+        "question": "Cincinnati Open: Tomas Machac vs Pablo Carreno Busta",
+        "volume_usd": 545231.06056,
+        "fills": 12,
+        "link": "https://polyvictor.com/markets/3533631"
       },
       {
-        "market_id": "3398740",
-        "question": "Chicago Cubs vs. Washington Nationals",
-        "volume_usd": 552187.739828,
-        "fills": 12,
-        "link": "https://polyvictor.com/markets/3398740"
+        "market_id": "3253682",
+        "question": "Will Wolverhampton Wanderers FC win on 2026-08-14?",
+        "volume_usd": 518949.34713,
+        "fills": 3,
+        "link": "https://polyvictor.com/markets/3253682"
       }
     ],
     "top_whales": [
       {
-        "address": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
-        "volume_usd": 1529824.7593019998,
-        "fills": 24,
-        "link": "https://polyvictor.com/whales/0xe16d3f2a5807999b358affd9445c3a09e45e5e30"
-      },
-      {
-        "address": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
-        "volume_usd": 1008255.84237,
-        "fills": 13,
-        "link": "https://polyvictor.com/whales/0xcd30f4698c6f5f3829893e68e183a8e5ea18f316"
-      },
-      {
-        "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
-        "volume_usd": 804671.1295600001,
+        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+        "volume_usd": 1134926.42997,
         "fills": 23,
-        "link": "https://polyvictor.com/whales/0xd487f513cfead22d76b6db4567c756b3cf25053e"
+        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
+      },
+      {
+        "address": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+        "volume_usd": 948770.62624,
+        "fills": 19,
+        "link": "https://polyvictor.com/whales/0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf"
+      },
+      {
+        "address": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+        "volume_usd": 709497.14254,
+        "fills": 12,
+        "link": "https://polyvictor.com/whales/0x6d20c35f65d9899b6d6b74f8466e824580f9a165"
       }
     ],
     "biggest_fill": {
-      "address": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
-      "usd": 195206.85774,
-      "side": "sell",
-      "price": 0.999,
-      "market_id": "3398728",
-      "question": "Cincinnati Reds vs. Chicago White Sox",
-      "link": "https://polyvictor.com/markets/3398728"
+      "address": "0x2f3c7c452775fda36ea69e4506a2300eebc56c2c",
+      "usd": 211445.7923,
+      "side": "buy",
+      "price": 0.7600743298829215,
+      "market_id": "3275573",
+      "question": "UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card)",
+      "link": "https://polyvictor.com/markets/3275573"
     }
   }
 }
