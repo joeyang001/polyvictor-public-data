@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-16T10:52:05.532Z",
+  "generated_at": "2026-08-16T13:26:00.739Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "94bd4272-6427-44e0-8f00-564b357a55a8",
-      "ts": "2026-08-16T10:51:53+00:00",
-      "address": "0xe16e8a3c20d51eb3ce4ce23516bd7bfb2e14bd58",
+      "id": "5f6f8933-37da-4985-93c1-125576e63e61",
+      "ts": "2026-08-16T13:25:32+00:00",
+      "address": "0x9319a045cdd0c2180e5eb7ad44374383db9a6410",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Invictus Gaming",
-      "price": 0.986905936036319,
-      "shares": 25850.92,
-      "usd_value": 25512.4264,
-      "price_shift_pp": 3.951033603631904,
-      "alert_reason": "shift",
-      "market_id": "3328578",
-      "condition_id": "3328578",
-      "token_id": "57027549805672702822490478153025651489749239849112771740490747486017014933676",
-      "question": "LoL: Weibo Gaming vs Invictus Gaming - Game 1 Winner",
-      "link": "https://polyvictor.com/markets/3328578"
+      "outcome_index": 0,
+      "outcome_label": "Over",
+      "price": 0.5155650648627074,
+      "shares": 919639.38,
+      "usd_value": 474133.9366,
+      "price_shift_pp": 0.5565086282708576,
+      "alert_reason": "size",
+      "market_id": "3450021",
+      "condition_id": "3450021",
+      "token_id": "33226651495644866088086021091940117567958508145527672224495550990824456446937",
+      "question": "Arsenal FC vs. Manchester City: O/U 2.5",
+      "link": "https://polyvictor.com/markets/3450021"
     }
   ]
 }
