@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-16T04:22:00.877Z",
+  "generated_at": "2026-08-16T09:56:01.035Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "01e060b2-84d0-4c11-b985-ef18ad661d27",
-      "ts": "2026-08-16T04:20:20+00:00",
-      "address": "0xecffcb3c9ad67e710c2c397e42fb129bc44438a9",
-      "side": "sell",
-      "outcome_index": 0,
-      "outcome_label": "Islam Makhachev",
+      "id": "b8cb2058-7e6d-4877-8534-36aaf8843ac3",
+      "ts": "2026-08-16T09:55:20+00:00",
+      "address": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "Gen.G",
       "price": 0.999,
-      "shares": 351804.72,
-      "usd_value": 351452.91527999996,
-      "price_shift_pp": 0,
-      "alert_reason": "size",
-      "market_id": "3275573",
-      "condition_id": "3275573",
-      "token_id": "79701217420390123250139079662505447083084775181605033463998379917985301365457",
-      "question": "UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card)",
-      "link": "https://polyvictor.com/markets/3275573"
+      "shares": 36520.19,
+      "usd_value": 36483.66981,
+      "price_shift_pp": 3.10001703681404,
+      "alert_reason": "shift",
+      "market_id": "3434740",
+      "condition_id": "3434740",
+      "token_id": "108511256810259224440226573469954549315633182829856899760650135204975447147718",
+      "question": "LoL: T1 vs Gen.G (BO3) - LCK Round 3-4 Legend Group",
+      "link": "https://polyvictor.com/markets/3434740"
     }
   ]
 }
