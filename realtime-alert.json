@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-16T13:32:01.044Z",
+  "generated_at": "2026-08-16T13:34:00.866Z",
   "window_minutes": 30,
-  "count": 3,
+  "count": 4,
   "alerts": [
+    {
+      "id": "781c771f-15e6-4735-937c-305cdbba8fa8",
+      "ts": "2026-08-16T13:32:28+00:00",
+      "address": "0x9319a045cdd0c2180e5eb7ad44374383db9a6410",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Over",
+      "price": 0.54,
+      "shares": 576496.3,
+      "usd_value": 311308.00200000004,
+      "price_shift_pp": 0.8395480620132845,
+      "alert_reason": "size",
+      "market_id": "3450021",
+      "condition_id": "3450021",
+      "token_id": "33226651495644866088086021091940117567958508145527672224495550990824456446937",
+      "question": "Arsenal FC vs. Manchester City: O/U 2.5",
+      "link": "https://polyvictor.com/markets/3450021"
+    },
     {
       "id": "acc47e74-ea5f-45a7-9b58-de06eb6eb096",
       "ts": "2026-08-16T13:31:41+00:00",
