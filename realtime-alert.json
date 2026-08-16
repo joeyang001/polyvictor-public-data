@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-16T03:32:01.855Z",
+  "generated_at": "2026-08-16T04:22:00.877Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "f4df68d5-4999-4412-8636-bf67eb87bf08",
-      "ts": "2026-08-16T03:31:29+00:00",
-      "address": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+      "id": "01e060b2-84d0-4c11-b985-ef18ad661d27",
+      "ts": "2026-08-16T04:20:20+00:00",
+      "address": "0xecffcb3c9ad67e710c2c397e42fb129bc44438a9",
       "side": "sell",
       "outcome_index": 0,
-      "outcome_label": "Mackenzie Dern",
+      "outcome_label": "Islam Makhachev",
       "price": 0.999,
-      "shares": 260000,
-      "usd_value": 259740,
+      "shares": 351804.72,
+      "usd_value": 351452.91527999996,
       "price_shift_pp": 0,
       "alert_reason": "size",
-      "market_id": "3275609",
-      "condition_id": "3275609",
-      "token_id": "54104250230532995953571265532080237494817780862487185399303030604058076042245",
-      "question": "UFC 330: Mackenzie Dern vs. Gillian Robertson (Women's Strawweight, Main Card)",
-      "link": "https://polyvictor.com/markets/3275609"
+      "market_id": "3275573",
+      "condition_id": "3275573",
+      "token_id": "79701217420390123250139079662505447083084775181605033463998379917985301365457",
+      "question": "UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card)",
+      "link": "https://polyvictor.com/markets/3275573"
     }
   ]
 }
