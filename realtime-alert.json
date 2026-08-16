@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-16T09:56:01.035Z",
+  "generated_at": "2026-08-16T10:52:05.532Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "b8cb2058-7e6d-4877-8534-36aaf8843ac3",
-      "ts": "2026-08-16T09:55:20+00:00",
-      "address": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+      "id": "94bd4272-6427-44e0-8f00-564b357a55a8",
+      "ts": "2026-08-16T10:51:53+00:00",
+      "address": "0xe16e8a3c20d51eb3ce4ce23516bd7bfb2e14bd58",
       "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "Gen.G",
-      "price": 0.999,
-      "shares": 36520.19,
-      "usd_value": 36483.66981,
-      "price_shift_pp": 3.10001703681404,
+      "outcome_label": "Invictus Gaming",
+      "price": 0.986905936036319,
+      "shares": 25850.92,
+      "usd_value": 25512.4264,
+      "price_shift_pp": 3.951033603631904,
       "alert_reason": "shift",
-      "market_id": "3434740",
-      "condition_id": "3434740",
-      "token_id": "108511256810259224440226573469954549315633182829856899760650135204975447147718",
-      "question": "LoL: T1 vs Gen.G (BO3) - LCK Round 3-4 Legend Group",
-      "link": "https://polyvictor.com/markets/3434740"
+      "market_id": "3328578",
+      "condition_id": "3328578",
+      "token_id": "57027549805672702822490478153025651489749239849112771740490747486017014933676",
+      "question": "LoL: Weibo Gaming vs Invictus Gaming - Game 1 Winner",
+      "link": "https://polyvictor.com/markets/3328578"
     }
   ]
 }
