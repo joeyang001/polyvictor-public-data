@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-16T13:28:00.924Z",
+  "generated_at": "2026-08-16T13:32:01.044Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 3,
   "alerts": [
+    {
+      "id": "acc47e74-ea5f-45a7-9b58-de06eb6eb096",
+      "ts": "2026-08-16T13:31:41+00:00",
+      "address": "0x9319a045cdd0c2180e5eb7ad44374383db9a6410",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.639580719156727,
+      "shares": 802795.8,
+      "usd_value": 513452.7151,
+      "price_shift_pp": 1.958075015674099,
+      "alert_reason": "size",
+      "market_id": "3449518",
+      "condition_id": "3449518",
+      "token_id": "113036155488584394621644958456059126317781961024162544143586219197608461214376",
+      "question": "Will Manchester City win on 2026-08-16?",
+      "link": "https://polyvictor.com/markets/3449518"
+    },
     {
       "id": "fc38378d-98c3-410b-811a-b0174d701197",
       "ts": "2026-08-16T13:26:35+00:00",
