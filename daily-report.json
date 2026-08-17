@@ -1,68 +1,68 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-08-16",
-  "generated_at": "2026-08-16T14:00:07.157Z",
+  "date": "2026-08-17",
+  "generated_at": "2026-08-17T14:00:04.965Z",
   "status": "failed",
   "tweet_ids": [],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 516,
-    "total_volume_usd": 24782016.121017978,
-    "unique_whales": 147,
-    "buy_volume_usd": 18741784.685547993,
-    "sell_volume_usd": 6040231.435469994,
+    "total_fills": 297,
+    "total_volume_usd": 10718156.188887006,
+    "unique_whales": 97,
+    "buy_volume_usd": 7711007.196939001,
+    "sell_volume_usd": 3007148.9919479988,
     "top_markets": [
       {
-        "market_id": "3275573",
-        "question": "UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card)",
-        "volume_usd": 2451658.975475,
-        "fills": 28,
-        "link": "https://polyvictor.com/markets/3275573"
+        "market_id": "3300149",
+        "question": "Will Villarreal CF win on 2026-08-16?",
+        "volume_usd": 1374004.9165799997,
+        "fills": 29,
+        "link": "https://polyvictor.com/markets/3300149"
       },
       {
-        "market_id": "3275609",
-        "question": "UFC 330: Mackenzie Dern vs. Gillian Robertson (Women's Strawweight, Main Card)",
-        "volume_usd": 2279862.6123280004,
-        "fills": 30,
-        "link": "https://polyvictor.com/markets/3275609"
+        "market_id": "3300152",
+        "question": "Will RCD Espanyol de Barcelona win on 2026-08-16?",
+        "volume_usd": 480583.26879,
+        "fills": 8,
+        "link": "https://polyvictor.com/markets/3300152"
       },
       {
-        "market_id": "3450021",
-        "question": "Arsenal FC vs. Manchester City: O/U 2.5",
-        "volume_usd": 1495271.4341,
-        "fills": 10,
-        "link": "https://polyvictor.com/markets/3450021"
+        "market_id": "3484777",
+        "question": "Baltimore Orioles vs. Tampa Bay Rays",
+        "volume_usd": 457667.63928,
+        "fills": 9,
+        "link": "https://polyvictor.com/markets/3484777"
       }
     ],
     "top_whales": [
       {
         "address": "0x9319a045cdd0c2180e5eb7ad44374383db9a6410",
-        "volume_usd": 3557093.96151,
-        "fills": 31,
+        "volume_usd": 1093155.22718,
+        "fills": 21,
         "link": "https://polyvictor.com/whales/0x9319a045cdd0c2180e5eb7ad44374383db9a6410"
       },
       {
-        "address": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
-        "volume_usd": 2824360.4949700003,
-        "fills": 46,
-        "link": "https://polyvictor.com/whales/0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf"
+        "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
+        "volume_usd": 765189.79202,
+        "fills": 24,
+        "link": "https://polyvictor.com/whales/0xd487f513cfead22d76b6db4567c756b3cf25053e"
       },
       {
-        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 975811.929006,
-        "fills": 13,
-        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
+        "address": "0x4be1fa92e6ceaf886aac0bbec3be6c527133aa70",
+        "volume_usd": 618028.3001580001,
+        "fills": 15,
+        "link": "https://polyvictor.com/whales/0x4be1fa92e6ceaf886aac0bbec3be6c527133aa70"
       }
     ],
     "biggest_fill": {
       "address": "0x9319a045cdd0c2180e5eb7ad44374383db9a6410",
-      "usd": 513452.7151,
+      "usd": 166562.5,
       "side": "buy",
-      "price": 0.639580719156727,
-      "market_id": "3449518",
-      "question": "Will Manchester City win on 2026-08-16?",
-      "link": "https://polyvictor.com/markets/3449518"
+      "price": 0.5,
+      "market_id": "3300149",
+      "question": "Will Villarreal CF win on 2026-08-16?",
+      "link": "https://polyvictor.com/markets/3300149"
     }
   }
 }
