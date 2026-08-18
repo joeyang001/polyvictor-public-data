@@ -1,68 +1,68 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-08-17",
-  "generated_at": "2026-08-17T14:00:04.965Z",
+  "date": "2026-08-18",
+  "generated_at": "2026-08-18T14:00:04.407Z",
   "status": "failed",
   "tweet_ids": [],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 297,
-    "total_volume_usd": 10718156.188887006,
-    "unique_whales": 97,
-    "buy_volume_usd": 7711007.196939001,
-    "sell_volume_usd": 3007148.9919479988,
+    "total_fills": 257,
+    "total_volume_usd": 10037431.002852,
+    "unique_whales": 94,
+    "buy_volume_usd": 7379252.263792,
+    "sell_volume_usd": 2658178.73906,
     "top_markets": [
       {
-        "market_id": "3300149",
-        "question": "Will Villarreal CF win on 2026-08-16?",
-        "volume_usd": 1374004.9165799997,
-        "fills": 29,
-        "link": "https://polyvictor.com/markets/3300149"
+        "market_id": "3354447",
+        "question": "Will RC Deportivo A Coruña win on 2026-08-17?",
+        "volume_usd": 898385.0413699999,
+        "fills": 17,
+        "link": "https://polyvictor.com/markets/3354447"
       },
       {
-        "market_id": "3300152",
-        "question": "Will RCD Espanyol de Barcelona win on 2026-08-16?",
-        "volume_usd": 480583.26879,
-        "fills": 8,
-        "link": "https://polyvictor.com/markets/3300152"
+        "market_id": "2292417",
+        "question": "St. Louis Cardinals vs. Cincinnati Reds",
+        "volume_usd": 744964.315409,
+        "fills": 12,
+        "link": "https://polyvictor.com/markets/2292417"
       },
       {
-        "market_id": "3484777",
-        "question": "Baltimore Orioles vs. Tampa Bay Rays",
-        "volume_usd": 457667.63928,
-        "fills": 9,
-        "link": "https://polyvictor.com/markets/3484777"
+        "market_id": "3618042",
+        "question": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
+        "volume_usd": 647849.8472480001,
+        "fills": 14,
+        "link": "https://polyvictor.com/markets/3618042"
       }
     ],
     "top_whales": [
       {
-        "address": "0x9319a045cdd0c2180e5eb7ad44374383db9a6410",
-        "volume_usd": 1093155.22718,
-        "fills": 21,
-        "link": "https://polyvictor.com/whales/0x9319a045cdd0c2180e5eb7ad44374383db9a6410"
-      },
-      {
-        "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
-        "volume_usd": 765189.79202,
-        "fills": 24,
-        "link": "https://polyvictor.com/whales/0xd487f513cfead22d76b6db4567c756b3cf25053e"
-      },
-      {
         "address": "0x4be1fa92e6ceaf886aac0bbec3be6c527133aa70",
-        "volume_usd": 618028.3001580001,
-        "fills": 15,
+        "volume_usd": 945785.5974200001,
+        "fills": 13,
         "link": "https://polyvictor.com/whales/0x4be1fa92e6ceaf886aac0bbec3be6c527133aa70"
+      },
+      {
+        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+        "volume_usd": 684910.369326,
+        "fills": 17,
+        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
+      },
+      {
+        "address": "0x983eedfbd75803602e4a6e6ea9aab6dc6b9c6748",
+        "volume_usd": 570996.81587,
+        "fills": 9,
+        "link": "https://polyvictor.com/whales/0x983eedfbd75803602e4a6e6ea9aab6dc6b9c6748"
       }
     ],
     "biggest_fill": {
-      "address": "0x9319a045cdd0c2180e5eb7ad44374383db9a6410",
-      "usd": 166562.5,
+      "address": "0x42d150e0171590b28332a61b3f4cfca0a34cdab6",
+      "usd": 200000,
       "side": "buy",
-      "price": 0.5,
-      "market_id": "3300149",
-      "question": "Will Villarreal CF win on 2026-08-16?",
-      "link": "https://polyvictor.com/markets/3300149"
+      "price": 0.8,
+      "market_id": "701502",
+      "question": "Will Bitcoin dip to $45,000 by December 31, 2026?",
+      "link": "https://polyvictor.com/markets/701502"
     }
   }
 }
