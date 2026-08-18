@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-18T01:14:00.896Z",
+  "generated_at": "2026-08-18T03:18:00.869Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "dc2cb4d0-008e-4f11-a4dc-dbc50cde9d7e",
-      "ts": "2026-08-18T01:13:52+00:00",
-      "address": "0x792f8e8bae0323abf8927c6820863fbe8a98328a",
+      "id": "f2792c8b-0c40-48b7-a8b7-cb48311e3f81",
+      "ts": "2026-08-18T03:16:36+00:00",
+      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.6183723951655452,
-      "shares": 45431.39,
-      "usd_value": 28093.51745,
-      "price_shift_pp": 3.9372510843932007,
+      "outcome_index": 1,
+      "outcome_label": "Amanda Anisimova",
+      "price": 0.72,
+      "shares": 75678.33,
+      "usd_value": 54488.3976,
+      "price_shift_pp": -3.0000000000000027,
       "alert_reason": "shift",
-      "market_id": "608547",
-      "condition_id": "608547",
-      "token_id": "72710166409980712002774407052535905861151156175854323762835102340552522606004",
-      "question": "Will Harry Kane win the 2026 Ballon d'Or?",
-      "link": "https://polyvictor.com/markets/608547"
+      "market_id": "3618042",
+      "condition_id": "3618042",
+      "token_id": "39550208059673847513941281975951187859660003103616157707528566435740023793601",
+      "question": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
+      "link": "https://polyvictor.com/markets/3618042"
     }
   ]
 }
