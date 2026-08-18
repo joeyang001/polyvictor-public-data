@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-18T19:56:00.838Z",
+  "generated_at": "2026-08-18T23:34:00.748Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "0df2f98f-23c6-416a-8118-3edbc027c9b1",
-      "ts": "2026-08-18T19:55:21+00:00",
-      "address": "0xcd583b681658a4a7d243f39729d4612bef7f5b2f",
+      "id": "171bc6c1-17a2-446b-99aa-737c83ce578b",
+      "ts": "2026-08-18T23:33:12+00:00",
+      "address": "0x59018ff1f4300838f635386ab5e0b8b353ce63a2",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "YES",
-      "price": 0.8781202894232617,
-      "shares": 63874.36411,
-      "usd_value": 56089.375099000004,
-      "price_shift_pp": 30.39193547736051,
+      "outcome_index": 1,
+      "outcome_label": "Felix Auger-Aliassime",
+      "price": 0.7824708726182482,
+      "shares": 36342.617971,
+      "usd_value": 28437.039997,
+      "price_shift_pp": 3.696530089145389,
       "alert_reason": "shift",
-      "market_id": null,
-      "condition_id": "0x358ed297c825626fcac3685866b41934a3fead80649c62e9decf374caf5c3675",
-      "token_id": "94571116558552810130039269127193178967731093009175100815144511566912550595955",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
+      "market_id": "3649965",
+      "condition_id": "3649965",
+      "token_id": "70186363460759718878498309378097193848512314143188822546650518498601223260874",
+      "question": "Cincinnati Open: Juan Manuel Cerundolo vs Felix Auger-Aliassime",
+      "link": "https://polyvictor.com/markets/3649965"
     }
   ]
 }
