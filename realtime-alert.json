@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-18T18:58:00.826Z",
+  "generated_at": "2026-08-18T19:56:00.838Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "71a44f69-3766-4890-8818-8af41d022230",
-      "ts": "2026-08-18T18:56:10+00:00",
-      "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
+      "id": "0df2f98f-23c6-416a-8118-3edbc027c9b1",
+      "ts": "2026-08-18T19:55:21+00:00",
+      "address": "0xcd583b681658a4a7d243f39729d4612bef7f5b2f",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Lodis",
-      "price": 0.9824482058643274,
-      "shares": 37006.12,
-      "usd_value": 36356.59620000001,
-      "price_shift_pp": 26.44108226867572,
+      "outcome_index": 0,
+      "outcome_label": "YES",
+      "price": 0.8781202894232617,
+      "shares": 63874.36411,
+      "usd_value": 56089.375099000004,
+      "price_shift_pp": 30.39193547736051,
       "alert_reason": "shift",
-      "market_id": "3583715",
-      "condition_id": "3583715",
-      "token_id": "9349623747152506991333580577241604852533053983245418847610659146906938623920",
-      "question": "LoL: BOMBA Team vs Lodis - Game 2 Winner",
-      "link": "https://polyvictor.com/markets/3583715"
+      "market_id": null,
+      "condition_id": "0x358ed297c825626fcac3685866b41934a3fead80649c62e9decf374caf5c3675",
+      "token_id": "94571116558552810130039269127193178967731093009175100815144511566912550595955",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
