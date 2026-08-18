@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-18T17:56:00.944Z",
+  "generated_at": "2026-08-18T18:58:00.826Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "d280c980-3ede-434d-8db5-b6a373c689c6",
-      "ts": "2026-08-18T17:55:39+00:00",
-      "address": "0x369f46433349a57cd6d08abf2819da737c09873e",
+      "id": "71a44f69-3766-4890-8818-8af41d022230",
+      "ts": "2026-08-18T18:56:10+00:00",
+      "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.7561123614548712,
-      "shares": 179406.2174,
-      "usd_value": 135651.258698,
-      "price_shift_pp": 3.611236145487118,
+      "outcome_index": 1,
+      "outcome_label": "Lodis",
+      "price": 0.9824482058643274,
+      "shares": 37006.12,
+      "usd_value": 36356.59620000001,
+      "price_shift_pp": 26.44108226867572,
       "alert_reason": "shift",
-      "market_id": "1130012",
-      "condition_id": "1130012",
-      "token_id": "20915769520649892253891152116814645067070024223185517956799957803974344024878",
-      "question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
-      "link": "https://polyvictor.com/markets/1130012"
+      "market_id": "3583715",
+      "condition_id": "3583715",
+      "token_id": "9349623747152506991333580577241604852533053983245418847610659146906938623920",
+      "question": "LoL: BOMBA Team vs Lodis - Game 2 Winner",
+      "link": "https://polyvictor.com/markets/3583715"
     }
   ]
 }
