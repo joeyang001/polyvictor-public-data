@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-18T03:18:00.869Z",
+  "generated_at": "2026-08-18T17:56:00.944Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "f2792c8b-0c40-48b7-a8b7-cb48311e3f81",
-      "ts": "2026-08-18T03:16:36+00:00",
-      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+      "id": "d280c980-3ede-434d-8db5-b6a373c689c6",
+      "ts": "2026-08-18T17:55:39+00:00",
+      "address": "0x369f46433349a57cd6d08abf2819da737c09873e",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Amanda Anisimova",
-      "price": 0.72,
-      "shares": 75678.33,
-      "usd_value": 54488.3976,
-      "price_shift_pp": -3.0000000000000027,
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.7561123614548712,
+      "shares": 179406.2174,
+      "usd_value": 135651.258698,
+      "price_shift_pp": 3.611236145487118,
       "alert_reason": "shift",
-      "market_id": "3618042",
-      "condition_id": "3618042",
-      "token_id": "39550208059673847513941281975951187859660003103616157707528566435740023793601",
-      "question": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
-      "link": "https://polyvictor.com/markets/3618042"
+      "market_id": "1130012",
+      "condition_id": "1130012",
+      "token_id": "20915769520649892253891152116814645067070024223185517956799957803974344024878",
+      "question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
+      "link": "https://polyvictor.com/markets/1130012"
     }
   ]
 }
