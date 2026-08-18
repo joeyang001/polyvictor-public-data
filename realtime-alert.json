@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-17T05:26:00.800Z",
+  "generated_at": "2026-08-18T01:14:00.896Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "01301ad1-4974-4aed-bd41-13f2126ede65",
-      "ts": "2026-08-17T05:25:18+00:00",
-      "address": "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b",
+      "id": "dc2cb4d0-008e-4f11-a4dc-dbc50cde9d7e",
+      "ts": "2026-08-18T01:13:52+00:00",
+      "address": "0x792f8e8bae0323abf8927c6820863fbe8a98328a",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "No",
-      "price": 0.826418824,
-      "shares": 125000,
-      "usd_value": 103302.353,
-      "price_shift_pp": 6.641882399999998,
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.6183723951655452,
+      "shares": 45431.39,
+      "usd_value": 28093.51745,
+      "price_shift_pp": 3.9372510843932007,
       "alert_reason": "shift",
-      "market_id": "3494216",
-      "condition_id": "3494216",
-      "token_id": "110097179352162484053191542572212531712527950310229236878952488440922672380808",
-      "question": "Will Team Falcons Win the CS2 EWC 2026?",
-      "link": "https://polyvictor.com/markets/3494216"
+      "market_id": "608547",
+      "condition_id": "608547",
+      "token_id": "72710166409980712002774407052535905861151156175854323762835102340552522606004",
+      "question": "Will Harry Kane win the 2026 Ballon d'Or?",
+      "link": "https://polyvictor.com/markets/608547"
     }
   ]
 }
