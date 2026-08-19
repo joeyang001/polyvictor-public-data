@@ -1,26 +1,44 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-19T18:20:02.362Z",
+  "generated_at": "2026-08-19T21:08:01.045Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
     {
-      "id": "e4b00f4f-41a6-4427-ae06-ec80fb605a6b",
-      "ts": "2026-08-19T18:19:18+00:00",
+      "id": "6fabecad-ba61-48da-9d30-6de6fdb36f0f",
+      "ts": "2026-08-19T21:06:00+00:00",
       "address": "0x06ef83de847b54cf9f7b309ca46485cc794de673",
-      "side": "buy",
+      "side": "sell",
       "outcome_index": 0,
       "outcome_label": "Yes",
-      "price": 0.6699999999999413,
-      "shares": 1021738.776118,
-      "usd_value": 684564.9799990001,
-      "price_shift_pp": 0.9999999999941278,
+      "price": 0.9980708097200711,
+      "shares": 364523.26,
+      "usd_value": 363820.02527000004,
+      "price_shift_pp": -0.0929190279928882,
       "alert_reason": "size",
       "market_id": "3375989",
       "condition_id": "3375989",
       "token_id": "65764753688143016983294497100440298277585437652399725714764558979814196484842",
       "question": "Will Club Atlético de Madrid win on 2026-08-19?",
       "link": "https://polyvictor.com/markets/3375989"
+    },
+    {
+      "id": "552fd781-7b77-4e21-9895-6160cdb66989",
+      "ts": "2026-08-19T21:05:50+00:00",
+      "address": "0x6a88c5ecd262e2c42e78bad8e6db7ab3c4e4b859",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.99,
+      "shares": 300000,
+      "usd_value": 297000,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "2467359",
+      "condition_id": "2467359",
+      "token_id": "6384724001722137924115043723224908848363808011247833589999252960513867880562",
+      "question": "Will Ethereum reach $2,250 by December 31, 2026?",
+      "link": "https://polyvictor.com/markets/2467359"
     }
   ]
 }
