@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-18T23:34:00.748Z",
+  "generated_at": "2026-08-19T18:20:02.362Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "171bc6c1-17a2-446b-99aa-737c83ce578b",
-      "ts": "2026-08-18T23:33:12+00:00",
-      "address": "0x59018ff1f4300838f635386ab5e0b8b353ce63a2",
+      "id": "e4b00f4f-41a6-4427-ae06-ec80fb605a6b",
+      "ts": "2026-08-19T18:19:18+00:00",
+      "address": "0x06ef83de847b54cf9f7b309ca46485cc794de673",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Felix Auger-Aliassime",
-      "price": 0.7824708726182482,
-      "shares": 36342.617971,
-      "usd_value": 28437.039997,
-      "price_shift_pp": 3.696530089145389,
-      "alert_reason": "shift",
-      "market_id": "3649965",
-      "condition_id": "3649965",
-      "token_id": "70186363460759718878498309378097193848512314143188822546650518498601223260874",
-      "question": "Cincinnati Open: Juan Manuel Cerundolo vs Felix Auger-Aliassime",
-      "link": "https://polyvictor.com/markets/3649965"
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.6699999999999413,
+      "shares": 1021738.776118,
+      "usd_value": 684564.9799990001,
+      "price_shift_pp": 0.9999999999941278,
+      "alert_reason": "size",
+      "market_id": "3375989",
+      "condition_id": "3375989",
+      "token_id": "65764753688143016983294497100440298277585437652399725714764558979814196484842",
+      "question": "Will Club Atlético de Madrid win on 2026-08-19?",
+      "link": "https://polyvictor.com/markets/3375989"
     }
   ]
 }
