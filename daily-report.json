@@ -1,68 +1,68 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-08-18",
-  "generated_at": "2026-08-18T14:00:04.407Z",
+  "date": "2026-08-19",
+  "generated_at": "2026-08-19T14:00:03.387Z",
   "status": "failed",
   "tweet_ids": [],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 257,
-    "total_volume_usd": 10037431.002852,
-    "unique_whales": 94,
-    "buy_volume_usd": 7379252.263792,
-    "sell_volume_usd": 2658178.73906,
+    "total_fills": 247,
+    "total_volume_usd": 10179455.283123003,
+    "unique_whales": 95,
+    "buy_volume_usd": 8089412.320523001,
+    "sell_volume_usd": 2090042.9626000004,
     "top_markets": [
       {
-        "market_id": "3354447",
-        "question": "Will RC Deportivo A Coruña win on 2026-08-17?",
-        "volume_usd": 898385.0413699999,
-        "fills": 17,
-        "link": "https://polyvictor.com/markets/3354447"
+        "market_id": "704475",
+        "question": "Will James Fishback be the Republican nominee for Florida Governor?",
+        "volume_usd": 1973656.525784,
+        "fills": 31,
+        "link": "https://polyvictor.com/markets/704475"
       },
       {
-        "market_id": "2292417",
-        "question": "St. Louis Cardinals vs. Cincinnati Reds",
-        "volume_usd": 744964.315409,
-        "fills": 12,
-        "link": "https://polyvictor.com/markets/2292417"
+        "market_id": "677366",
+        "question": "Will Russia capture Kostyantynivka by December 31, 2026?",
+        "volume_usd": 593152.7779599999,
+        "fills": 10,
+        "link": "https://polyvictor.com/markets/677366"
       },
       {
-        "market_id": "3618042",
-        "question": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
-        "volume_usd": 647849.8472480001,
-        "fills": 14,
-        "link": "https://polyvictor.com/markets/3618042"
+        "market_id": "3538942",
+        "question": "Arizona Diamondbacks vs. Boston Red Sox",
+        "volume_usd": 515983.90286000003,
+        "fills": 7,
+        "link": "https://polyvictor.com/markets/3538942"
       }
     ],
     "top_whales": [
       {
-        "address": "0x4be1fa92e6ceaf886aac0bbec3be6c527133aa70",
-        "volume_usd": 945785.5974200001,
-        "fills": 13,
-        "link": "https://polyvictor.com/whales/0x4be1fa92e6ceaf886aac0bbec3be6c527133aa70"
+        "address": "0x0954184654a6a3720f5dde4103a42af4dd0e1e1b",
+        "volume_usd": 582730.23814,
+        "fills": 5,
+        "link": "https://polyvictor.com/whales/0x0954184654a6a3720f5dde4103a42af4dd0e1e1b"
       },
       {
-        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 684910.369326,
+        "address": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+        "volume_usd": 576111.93535,
         "fills": 17,
-        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
+        "link": "https://polyvictor.com/whales/0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf"
       },
       {
-        "address": "0x983eedfbd75803602e4a6e6ea9aab6dc6b9c6748",
-        "volume_usd": 570996.81587,
+        "address": "0x448861155279dbf833d041b963e3ac854599e319",
+        "volume_usd": 430121.6736,
         "fills": 9,
-        "link": "https://polyvictor.com/whales/0x983eedfbd75803602e4a6e6ea9aab6dc6b9c6748"
+        "link": "https://polyvictor.com/whales/0x448861155279dbf833d041b963e3ac854599e319"
       }
     ],
     "biggest_fill": {
-      "address": "0x42d150e0171590b28332a61b3f4cfca0a34cdab6",
-      "usd": 200000,
+      "address": "0xc4ecc62dcba4b855b6e6de09f4eb39385eb62493",
+      "usd": 396000,
       "side": "buy",
-      "price": 0.8,
-      "market_id": "701502",
-      "question": "Will Bitcoin dip to $45,000 by December 31, 2026?",
-      "link": "https://polyvictor.com/markets/701502"
+      "price": 0.99,
+      "market_id": "704475",
+      "question": "Will James Fishback be the Republican nominee for Florida Governor?",
+      "link": "https://polyvictor.com/markets/704475"
     }
   }
 }
