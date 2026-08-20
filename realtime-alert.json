@@ -1,26 +1,44 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-20T19:34:01.988Z",
+  "generated_at": "2026-08-20T19:52:02.348Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "ca527ebb-71da-4199-a2c9-c365c1750a97",
+      "ts": "2026-08-20T19:51:42+00:00",
+      "address": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+      "side": "sell",
+      "outcome_index": 1,
+      "outcome_label": "FURIA",
+      "price": 0.999,
+      "shares": 800000,
+      "usd_value": 799200,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "3731318",
+      "condition_id": "3731318",
+      "token_id": "39130126425858927553414740852390790469013370250426290486364058216232197741620",
+      "question": "Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs",
+      "link": "https://polyvictor.com/markets/3731318"
+    },
     {
       "id": "db676abc-63b6-4836-8a9f-2dec93d29ed2",
       "ts": "2026-08-20T19:33:24+00:00",
       "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
       "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "NO",
+      "outcome_label": "Skillcamp Esport",
       "price": 0.9857393663835696,
       "shares": 31473.3,
       "usd_value": 31024.470800000003,
       "price_shift_pp": 4.739903130976575,
       "alert_reason": "shift",
-      "market_id": null,
+      "market_id": "3738453",
       "condition_id": "0x8d56e82c68ad3be74ff2f7fe41808c10ea2dee826482d26e47317fb6bef098a0",
       "token_id": "106783514707565050551179035650382407243819252264015327875210826676857142100841",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
+      "question": "LoL: Solary vs Skillcamp Esport - Game 2 Winner",
+      "link": "https://polyvictor.com/markets/3738453"
     }
   ]
 }
