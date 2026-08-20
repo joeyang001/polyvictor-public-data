@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-20T17:26:00.843Z",
+  "generated_at": "2026-08-20T17:44:01.377Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 3,
   "alerts": [
+    {
+      "id": "0e372156-4ea5-4c5b-9222-16c854b48a4a",
+      "ts": "2026-08-20T17:42:17+00:00",
+      "address": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+      "side": "sell",
+      "outcome_index": 0,
+      "outcome_label": "Nigma Galaxy",
+      "price": 0.999,
+      "shares": 300000,
+      "usd_value": 299700,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "3632495",
+      "condition_id": "3632495",
+      "token_id": "43177180688006551303093509072434100821974753295597486243661552218945813704246",
+      "question": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs",
+      "link": "https://polyvictor.com/markets/3632495"
+    },
     {
       "id": "fdb36a16-8fe7-4db5-afa7-9bf608ff37b8",
       "ts": "2026-08-20T17:24:50+00:00",
