@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-20T14:24:00.963Z",
+  "generated_at": "2026-08-20T17:22:02.643Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "a638ef22-0529-4af8-ae5f-4c7b70c43dc8",
-      "ts": "2026-08-20T14:23:18+00:00",
-      "address": "0xaef25b10f6f6c26f77c5b2ca225eb4423f5fdf3d",
+      "id": "2ca544bd-f53c-401f-a02a-2f2207af590e",
+      "ts": "2026-08-20T17:21:37+00:00",
+      "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "NO",
-      "price": 0.7822406785223379,
-      "shares": 50758.03533,
-      "usd_value": 39704.999997,
-      "price_shift_pp": 8.224067852233796,
+      "outcome_index": 0,
+      "outcome_label": "⁠Movistar KOI Fénix",
+      "price": 0.9881058161601965,
+      "shares": 50206.32,
+      "usd_value": 49609.1568,
+      "price_shift_pp": 3.8054919874818904,
       "alert_reason": "shift",
-      "market_id": null,
-      "condition_id": "0x2167ab5c0d163f85195ccea4d11734e4ba53913c838c6720fb815794128c68f2",
-      "token_id": "55312781745086958549818693395440531431492427818819125634808790042923674294197",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
+      "market_id": "3730761",
+      "condition_id": "3730761",
+      "token_id": "27045978210518923942837167017779940906121028985840753085797941910140599978914",
+      "question": "LoL: ⁠Movistar KOI Fénix vs Team Heretics Academy - Game 2 Winner",
+      "link": "https://polyvictor.com/markets/3730761"
     }
   ]
 }
