@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-20T17:44:01.377Z",
+  "generated_at": "2026-08-20T17:54:01.045Z",
   "window_minutes": 30,
   "count": 3,
   "alerts": [
+    {
+      "id": "90934457-a611-45af-9be0-9dcf51f913aa",
+      "ts": "2026-08-20T17:53:39+00:00",
+      "address": "0x3a8aa345d5db7ec5138298c8c4f4540259be7699",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.9892140402625,
+      "shares": 800000,
+      "usd_value": 791371.23221,
+      "price_shift_pp": 0.221404026250005,
+      "alert_reason": "size",
+      "market_id": "2252243",
+      "condition_id": "2252243",
+      "token_id": "28239418772633645184924651434956000849078365566842629564562475378531350731731",
+      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
+      "link": "https://polyvictor.com/markets/2252243"
+    },
     {
       "id": "0e372156-4ea5-4c5b-9222-16c854b48a4a",
       "ts": "2026-08-20T17:42:17+00:00",
@@ -39,24 +57,6 @@
       "token_id": "43177180688006551303093509072434100821974753295597486243661552218945813704246",
       "question": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs",
       "link": "https://polyvictor.com/markets/3632495"
-    },
-    {
-      "id": "2ca544bd-f53c-401f-a02a-2f2207af590e",
-      "ts": "2026-08-20T17:21:37+00:00",
-      "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
-      "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "⁠Movistar KOI Fénix",
-      "price": 0.9881058161601965,
-      "shares": 50206.32,
-      "usd_value": 49609.1568,
-      "price_shift_pp": 3.8054919874818904,
-      "alert_reason": "shift",
-      "market_id": "3730761",
-      "condition_id": "3730761",
-      "token_id": "27045978210518923942837167017779940906121028985840753085797941910140599978914",
-      "question": "LoL: ⁠Movistar KOI Fénix vs Team Heretics Academy - Game 2 Winner",
-      "link": "https://polyvictor.com/markets/3730761"
     }
   ]
 }
