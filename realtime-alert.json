@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-20T12:56:01.204Z",
+  "generated_at": "2026-08-20T14:24:00.963Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "502000ab-6800-4786-a0e1-81d32f8b6c44",
-      "ts": "2026-08-20T12:55:08+00:00",
-      "address": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
-      "side": "sell",
+      "id": "a638ef22-0529-4af8-ae5f-4c7b70c43dc8",
+      "ts": "2026-08-20T14:23:18+00:00",
+      "address": "0xaef25b10f6f6c26f77c5b2ca225eb4423f5fdf3d",
+      "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "Team Yandex",
-      "price": 0.999,
-      "shares": 614301.16,
-      "usd_value": 613686.85884,
-      "price_shift_pp": 0,
-      "alert_reason": "size",
-      "market_id": "3632474",
-      "condition_id": "3632474",
-      "token_id": "65703153787893618882322832302536249072356027596253142278499800661406500045418",
-      "question": "Dota 2: Team Liquid vs Team Yandex - Game 2 Winner",
-      "link": "https://polyvictor.com/markets/3632474"
+      "outcome_label": "NO",
+      "price": 0.7822406785223379,
+      "shares": 50758.03533,
+      "usd_value": 39704.999997,
+      "price_shift_pp": 8.224067852233796,
+      "alert_reason": "shift",
+      "market_id": null,
+      "condition_id": "0x2167ab5c0d163f85195ccea4d11734e4ba53913c838c6720fb815794128c68f2",
+      "token_id": "55312781745086958549818693395440531431492427818819125634808790042923674294197",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
