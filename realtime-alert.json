@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-21T11:24:00.995Z",
+  "generated_at": "2026-08-21T13:44:00.893Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "ac0c8d6e-398e-4c56-9d64-9f6fd1dd54e2",
-      "ts": "2026-08-21T11:22:06+00:00",
-      "address": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
-      "side": "sell",
+      "id": "2b0ebe01-68e6-43d3-8910-4eabe4a014eb",
+      "ts": "2026-08-21T13:43:29+00:00",
+      "address": "0x5a56fe0468618bbd44e0f278c080db59b30610f5",
+      "side": "buy",
       "outcome_index": 1,
       "outcome_label": "TEAM VISION",
-      "price": 0.999,
-      "shares": 500000,
-      "usd_value": 499500,
-      "price_shift_pp": 0,
-      "alert_reason": "size",
-      "market_id": "3741862",
-      "condition_id": "3741862",
-      "token_id": "126646637750780381895712385074152510037618955650106450690231737328153420190",
-      "question": "Dota 2: Team Spirit vs TEAM VISION - Game 1 Winner",
-      "link": "https://polyvictor.com/markets/3741862"
+      "price": 0.9483071620636043,
+      "shares": 31741.55,
+      "usd_value": 30100.7392,
+      "price_shift_pp": 9.414896873915957,
+      "alert_reason": "shift",
+      "market_id": "3741864",
+      "condition_id": "3741864",
+      "token_id": "73090252815722857408801008258353833648250867888353486676252248271405557263355",
+      "question": "Dota 2: Team Spirit vs TEAM VISION (BO3) - The International Playoffs",
+      "link": "https://polyvictor.com/markets/3741864"
     }
   ]
 }
