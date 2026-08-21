@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-21T21:50:02.036Z",
+  "generated_at": "2026-08-21T22:00:06.319Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "2b8682a8-5737-4719-a850-c30e8dda90ae",
+      "ts": "2026-08-21T21:58:20+00:00",
+      "address": "0xaabec5bfb0c7e2516900c4066ae58073d59e9158",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Team Spirit",
+      "price": 0.6205543674485448,
+      "shares": 487612.827935,
+      "usd_value": 302590.269999,
+      "price_shift_pp": 0.055436744854475695,
+      "alert_reason": "size",
+      "market_id": "3761934",
+      "condition_id": "3761934",
+      "token_id": "75760447663467239703847445795907823705246372456770440040519297604929209277874",
+      "question": "Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs",
+      "link": "https://polyvictor.com/markets/3761934"
+    },
     {
       "id": "513d6090-8cd0-4431-8a52-dc64edda1ca5",
       "ts": "2026-08-21T21:48:00+00:00",
