@@ -1,68 +1,68 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-08-20",
-  "generated_at": "2026-08-20T14:00:07.464Z",
+  "date": "2026-08-21",
+  "generated_at": "2026-08-21T14:00:07.135Z",
   "status": "failed",
   "tweet_ids": [],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 521,
-    "total_volume_usd": 24407575.907926988,
-    "unique_whales": 163,
-    "buy_volume_usd": 16476455.570816996,
-    "sell_volume_usd": 7931120.337109999,
+    "total_fills": 565,
+    "total_volume_usd": 35490573.029644,
+    "unique_whales": 158,
+    "buy_volume_usd": 25519206.311828014,
+    "sell_volume_usd": 9971366.717815991,
     "top_markets": [
       {
-        "market_id": "3375989",
-        "question": "Will Club Atlético de Madrid win on 2026-08-19?",
-        "volume_usd": 3069726.9969500005,
-        "fills": 17,
-        "link": "https://polyvictor.com/markets/3375989"
+        "market_id": "3741844",
+        "question": "Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs",
+        "volume_usd": 4270282.951638998,
+        "fills": 53,
+        "link": "https://polyvictor.com/markets/3741844"
       },
       {
-        "market_id": "3632473",
-        "question": "Dota 2: Team Liquid vs Team Yandex - Game 1 Winner",
-        "volume_usd": 1174999.3769389999,
-        "fills": 12,
-        "link": "https://polyvictor.com/markets/3632473"
+        "market_id": "3735932",
+        "question": "Cincinnati Open: Iga Swiatek vs Elena Rybakina",
+        "volume_usd": 2931678.723595,
+        "fills": 19,
+        "link": "https://polyvictor.com/markets/3735932"
       },
       {
-        "market_id": "3632474",
-        "question": "Dota 2: Team Liquid vs Team Yandex - Game 2 Winner",
-        "volume_usd": 1142126.9261790002,
-        "fills": 13,
-        "link": "https://polyvictor.com/markets/3632474"
+        "market_id": "3731318",
+        "question": "Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs",
+        "volume_usd": 2721092.933047999,
+        "fills": 33,
+        "link": "https://polyvictor.com/markets/3731318"
       }
     ],
     "top_whales": [
       {
         "address": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
-        "volume_usd": 2457941.61667,
-        "fills": 21,
+        "volume_usd": 10598512.8293,
+        "fills": 69,
         "link": "https://polyvictor.com/whales/0x6d20c35f65d9899b6d6b74f8466e824580f9a165"
       },
       {
-        "address": "0x06ef83de847b54cf9f7b309ca46485cc794de673",
-        "volume_usd": 2108030.238798,
-        "fills": 4,
-        "link": "https://polyvictor.com/whales/0x06ef83de847b54cf9f7b309ca46485cc794de673"
+        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+        "volume_usd": 2537155.199228,
+        "fills": 43,
+        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
       },
       {
-        "address": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
-        "volume_usd": 1409597.4314599999,
-        "fills": 30,
-        "link": "https://polyvictor.com/whales/0xc2e7800b5af46e6093872b177b7a5e7f0563be51"
+        "address": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+        "volume_usd": 1760134.5693,
+        "fills": 29,
+        "link": "https://polyvictor.com/whales/0xcd30f4698c6f5f3829893e68e183a8e5ea18f316"
       }
     ],
     "biggest_fill": {
-      "address": "0x06ef83de847b54cf9f7b309ca46485cc794de673",
-      "usd": 695860.302159,
-      "side": "buy",
-      "price": 0.67,
-      "market_id": "3375989",
-      "question": "Will Club Atlético de Madrid win on 2026-08-19?",
-      "link": "https://polyvictor.com/markets/3375989"
+      "address": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+      "usd": 2127239.12776,
+      "side": "sell",
+      "price": 0.999,
+      "market_id": "3735932",
+      "question": "Cincinnati Open: Iga Swiatek vs Elena Rybakina",
+      "link": "https://polyvictor.com/markets/3735932"
     }
   }
 }
