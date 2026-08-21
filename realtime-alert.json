@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-21T19:26:00.852Z",
+  "generated_at": "2026-08-21T20:04:01.013Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "c3951508-caa3-48df-901a-9d9bb092ffde",
-      "ts": "2026-08-21T19:25:42+00:00",
-      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+      "id": "47fe307b-a82b-4468-bf0d-703ec38ff98a",
+      "ts": "2026-08-21T20:03:48+00:00",
+      "address": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
       "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "Spirit",
-      "price": 0.5,
-      "shares": 669059.91,
-      "usd_value": 334529.955,
-      "price_shift_pp": 0,
+      "outcome_label": "Brandon Nakashima",
+      "price": 0.3892754404180265,
+      "shares": 1094353.48,
+      "usd_value": 426004.9328999999,
+      "price_shift_pp": 0.927544041802647,
       "alert_reason": "size",
-      "market_id": "3746564",
-      "condition_id": "3746564",
-      "token_id": "41149169676298131670929887839855609952843111032384733039793972598324718020131",
-      "question": "Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs",
-      "link": "https://polyvictor.com/markets/3746564"
+      "market_id": "3736785",
+      "condition_id": "3736785",
+      "token_id": "57551959716682313897915231237169217039554918836286192008709840346309926602558",
+      "question": "Cincinnati Open: Taylor Fritz vs Brandon Nakashima",
+      "link": "https://polyvictor.com/markets/3736785"
     }
   ]
 }
