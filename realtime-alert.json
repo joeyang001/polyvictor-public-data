@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-21T21:06:00.933Z",
+  "generated_at": "2026-08-21T21:08:00.939Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "2c981533-aef9-4716-9c50-b5ecb5a6c40e",
+      "ts": "2026-08-21T21:07:23+00:00",
+      "address": "0x91dda263d251e7f771ea333f8cb6b6066761600b",
+      "side": "sell",
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.9985317590170517,
+      "shares": 335758.03,
+      "usd_value": 335265.05630000005,
+      "price_shift_pp": -0.0468240982948287,
+      "alert_reason": "size",
+      "market_id": "3416124",
+      "condition_id": "3416124",
+      "token_id": "105042340124754928803803926012195802228059904054440540733473043695619167379482",
+      "question": "Will Real Betis Balompié win on 2026-08-21?",
+      "link": "https://polyvictor.com/markets/3416124"
+    },
     {
       "id": "695abdd5-6e75-4a0c-9dd6-7c2836b98d21",
       "ts": "2026-08-21T21:04:48+00:00",
