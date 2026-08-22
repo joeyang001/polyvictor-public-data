@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-22T15:18:00.917Z",
+  "generated_at": "2026-08-22T15:46:00.729Z",
   "window_minutes": 30,
   "count": 2,
   "alerts": [
+    {
+      "id": "5f45f0f1-0649-4689-b44a-5e178467315d",
+      "ts": "2026-08-22T15:44:32+00:00",
+      "address": "0x983eedfbd75803602e4a6e6ea9aab6dc6b9c6748",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.83,
+      "shares": 400000,
+      "usd_value": 332000,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "3432450",
+      "condition_id": "3432450",
+      "token_id": "7048561472258536206467299719654273602845109278892078011019598603012569447545",
+      "question": "Will FC Internazionale Milano win on 2026-08-22?",
+      "link": "https://polyvictor.com/markets/3432450"
+    },
     {
       "id": "46d53e6c-b959-4fc1-b33d-cc4b2f828bef",
       "ts": "2026-08-22T15:17:29+00:00",
@@ -21,24 +39,6 @@
       "token_id": "97986244429993405301006613239860350847262749399039648046285499627250726259070",
       "question": "Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs",
       "link": "https://polyvictor.com/markets/3761199"
-    },
-    {
-      "id": "ed90bf01-e064-4adc-bff9-561cd009fc66",
-      "ts": "2026-08-22T15:07:54+00:00",
-      "address": "0xec8684b97b9943a6ce1c6c58ff67d98f5749f3b0",
-      "side": "sell",
-      "outcome_index": 1,
-      "outcome_label": "Team Spirit",
-      "price": 0.999,
-      "shares": 336062.7,
-      "usd_value": 335726.6373,
-      "price_shift_pp": 0,
-      "alert_reason": "size",
-      "market_id": "3776141",
-      "condition_id": "3776141",
-      "token_id": "33907622327352057544595065892672033667243612320074304560115811291451699820929",
-      "question": "Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs",
-      "link": "https://polyvictor.com/markets/3776141"
     }
   ]
 }
