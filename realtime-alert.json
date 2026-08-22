@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-22T15:46:00.729Z",
+  "generated_at": "2026-08-22T15:48:00.953Z",
   "window_minutes": 30,
   "count": 2,
   "alerts": [
+    {
+      "id": "62cf0ca2-800f-49ae-b1ad-b540a6a09a07",
+      "ts": "2026-08-22T15:47:29+00:00",
+      "address": "0x983eedfbd75803602e4a6e6ea9aab6dc6b9c6748",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.84,
+      "shares": 354543.99,
+      "usd_value": 297816.9516,
+      "price_shift_pp": 1.1200000926692155e-7,
+      "alert_reason": "size",
+      "market_id": "3432450",
+      "condition_id": "3432450",
+      "token_id": "7048561472258536206467299719654273602845109278892078011019598603012569447545",
+      "question": "Will FC Internazionale Milano win on 2026-08-22?",
+      "link": "https://polyvictor.com/markets/3432450"
+    },
     {
       "id": "5f45f0f1-0649-4689-b44a-5e178467315d",
       "ts": "2026-08-22T15:44:32+00:00",
@@ -21,24 +39,6 @@
       "token_id": "7048561472258536206467299719654273602845109278892078011019598603012569447545",
       "question": "Will FC Internazionale Milano win on 2026-08-22?",
       "link": "https://polyvictor.com/markets/3432450"
-    },
-    {
-      "id": "46d53e6c-b959-4fc1-b33d-cc4b2f828bef",
-      "ts": "2026-08-22T15:17:29+00:00",
-      "address": "0xec8684b97b9943a6ce1c6c58ff67d98f5749f3b0",
-      "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "FURIA",
-      "price": 0.5884911570077843,
-      "shares": 78907.68,
-      "usd_value": 46436.4719,
-      "price_shift_pp": 5.599618251017146,
-      "alert_reason": "shift",
-      "market_id": "3761199",
-      "condition_id": "3761199",
-      "token_id": "97986244429993405301006613239860350847262749399039648046285499627250726259070",
-      "question": "Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs",
-      "link": "https://polyvictor.com/markets/3761199"
     }
   ]
 }
