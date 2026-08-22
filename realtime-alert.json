@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-22T08:20:01.233Z",
+  "generated_at": "2026-08-22T08:50:01.776Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "a0def2e3-b48f-49cc-b646-f9ccf6add3ad",
-      "ts": "2026-08-22T08:18:41+00:00",
+      "id": "0b50c6f2-6c9b-46ce-a624-c7cc257ff90d",
+      "ts": "2026-08-22T08:47:59+00:00",
       "address": "0xaabec5bfb0c7e2516900c4066ae58073d59e9158",
-      "side": "sell",
-      "outcome_index": 1,
-      "outcome_label": "BoomBoys",
-      "price": 0.999,
-      "shares": 297132.41,
-      "usd_value": 296835.27758999995,
-      "price_shift_pp": 0,
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "TEAM VISION",
+      "price": 0.7261495836314124,
+      "shares": 385595.48378,
+      "usd_value": 279999.99999700004,
+      "price_shift_pp": 0.6149613883518201,
       "alert_reason": "size",
-      "market_id": "3764957",
-      "condition_id": "3764957",
-      "token_id": "49884576970039839871079954277563366209697021546643775047059511676114840904914",
-      "question": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs",
-      "link": "https://polyvictor.com/markets/3764957"
+      "market_id": "3764983",
+      "condition_id": "3764983",
+      "token_id": "62016651390550875205032005352931280561447287136270687313341512706095924422961",
+      "question": "Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs",
+      "link": "https://polyvictor.com/markets/3764983"
     }
   ]
 }
