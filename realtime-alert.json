@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-22T17:20:05.861Z",
+  "generated_at": "2026-08-22T18:00:04.078Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "f4172de2-c3ef-4e87-b291-415ce6c52151",
-      "ts": "2026-08-22T17:18:36+00:00",
-      "address": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
-      "side": "sell",
-      "outcome_index": 1,
-      "outcome_label": "FUT Esports",
-      "price": 0.999,
-      "shares": 836524,
-      "usd_value": 835687.476,
-      "price_shift_pp": 0,
-      "alert_reason": "size",
-      "market_id": "3761199",
-      "condition_id": "3761199",
-      "token_id": "88961346776698275312099091219289790569712776124493130520065587087692396485070",
-      "question": "Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs",
-      "link": "https://polyvictor.com/markets/3761199"
+      "id": "963807f0-4237-4cac-a22f-77b2b7d08009",
+      "ts": "2026-08-22T17:58:57+00:00",
+      "address": "0x2ba6c2c20075a5c5f6996dd32f080e5d005e644c",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "YES",
+      "price": 0.7787972080233493,
+      "shares": 106566.521866,
+      "usd_value": 82993.709698,
+      "price_shift_pp": 16.501963374758123,
+      "alert_reason": "shift",
+      "market_id": null,
+      "condition_id": "0x52c4961ebc51e8b839c4c7311cad5e54ddbe65cca83a08b2e4ccb4b7fdc0101f",
+      "token_id": "72215803817859872698623664582654476677021362947709599597078778084747840216592",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
