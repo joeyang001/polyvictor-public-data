@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-22T15:08:00.784Z",
+  "generated_at": "2026-08-22T15:18:00.917Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "46d53e6c-b959-4fc1-b33d-cc4b2f828bef",
+      "ts": "2026-08-22T15:17:29+00:00",
+      "address": "0xec8684b97b9943a6ce1c6c58ff67d98f5749f3b0",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "FURIA",
+      "price": 0.5884911570077843,
+      "shares": 78907.68,
+      "usd_value": 46436.4719,
+      "price_shift_pp": 5.599618251017146,
+      "alert_reason": "shift",
+      "market_id": "3761199",
+      "condition_id": "3761199",
+      "token_id": "97986244429993405301006613239860350847262749399039648046285499627250726259070",
+      "question": "Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs",
+      "link": "https://polyvictor.com/markets/3761199"
+    },
     {
       "id": "ed90bf01-e064-4adc-bff9-561cd009fc66",
       "ts": "2026-08-22T15:07:54+00:00",
