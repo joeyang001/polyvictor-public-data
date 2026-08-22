@@ -1,68 +1,68 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-08-21",
-  "generated_at": "2026-08-21T14:00:07.135Z",
+  "date": "2026-08-22",
+  "generated_at": "2026-08-22T14:00:04.347Z",
   "status": "failed",
   "tweet_ids": [],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 565,
-    "total_volume_usd": 35490573.029644,
-    "unique_whales": 158,
-    "buy_volume_usd": 25519206.311828014,
-    "sell_volume_usd": 9971366.717815991,
+    "total_fills": 507,
+    "total_volume_usd": 35278816.267634004,
+    "unique_whales": 146,
+    "buy_volume_usd": 28296192.13868399,
+    "sell_volume_usd": 6982624.128950003,
     "top_markets": [
       {
-        "market_id": "3741844",
-        "question": "Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs",
-        "volume_usd": 4270282.951638998,
-        "fills": 53,
-        "link": "https://polyvictor.com/markets/3741844"
+        "market_id": "3761934",
+        "question": "Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs",
+        "volume_usd": 6960182.571868,
+        "fills": 47,
+        "link": "https://polyvictor.com/markets/3761934"
       },
       {
-        "market_id": "3735932",
-        "question": "Cincinnati Open: Iga Swiatek vs Elena Rybakina",
-        "volume_usd": 2931678.723595,
-        "fills": 19,
-        "link": "https://polyvictor.com/markets/3735932"
+        "market_id": "3764983",
+        "question": "Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs",
+        "volume_usd": 2944985.0759620005,
+        "fills": 25,
+        "link": "https://polyvictor.com/markets/3764983"
       },
       {
-        "market_id": "3731318",
-        "question": "Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs",
-        "volume_usd": 2721092.933047999,
-        "fills": 33,
-        "link": "https://polyvictor.com/markets/3731318"
+        "market_id": "2252243",
+        "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
+        "volume_usd": 2055888.2086000002,
+        "fills": 4,
+        "link": "https://polyvictor.com/markets/2252243"
       }
     ],
     "top_whales": [
       {
         "address": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
-        "volume_usd": 10598512.8293,
-        "fills": 69,
+        "volume_usd": 8212149.845179998,
+        "fills": 45,
         "link": "https://polyvictor.com/whales/0x6d20c35f65d9899b6d6b74f8466e824580f9a165"
       },
       {
-        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 2537155.199228,
-        "fills": 43,
-        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
+        "address": "0xaabec5bfb0c7e2516900c4066ae58073d59e9158",
+        "volume_usd": 4066523.9688600004,
+        "fills": 20,
+        "link": "https://polyvictor.com/whales/0xaabec5bfb0c7e2516900c4066ae58073d59e9158"
       },
       {
-        "address": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
-        "volume_usd": 1760134.5693,
-        "fills": 29,
-        "link": "https://polyvictor.com/whales/0xcd30f4698c6f5f3829893e68e183a8e5ea18f316"
+        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+        "volume_usd": 2583475.0678100004,
+        "fills": 26,
+        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
       }
     ],
     "biggest_fill": {
-      "address": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
-      "usd": 2127239.12776,
-      "side": "sell",
-      "price": 0.999,
-      "market_id": "3735932",
-      "question": "Cincinnati Open: Iga Swiatek vs Elena Rybakina",
-      "link": "https://polyvictor.com/markets/3735932"
+      "address": "0x3a8aa345d5db7ec5138298c8c4f4540259be7699",
+      "usd": 990077.31408,
+      "side": "buy",
+      "price": 0.9895608031,
+      "market_id": "2252243",
+      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
+      "link": "https://polyvictor.com/markets/2252243"
     }
   }
 }
