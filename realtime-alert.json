@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-23T04:50:05.935Z",
+  "generated_at": "2026-08-23T04:52:00.599Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "da584d74-ac20-47b2-8c07-95fed9c98c5a",
+      "ts": "2026-08-23T04:51:54+00:00",
+      "address": "0x03448fe7dd2edc22b84266d90c13f85c800af4db",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "TEAM VISION",
+      "price": 0.56,
+      "shares": 475916.09,
+      "usd_value": 266513.0104,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "3793017",
+      "condition_id": "3793017",
+      "token_id": "105717336415824188396323710698848701902178478068973000541904427172521007243289",
+      "question": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs",
+      "link": "https://polyvictor.com/markets/3793017"
+    },
     {
       "id": "626287ef-f2e5-43c0-bf12-f01207c9c0a1",
       "ts": "2026-08-23T04:48:53+00:00",
