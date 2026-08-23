@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-23T13:50:05.812Z",
+  "generated_at": "2026-08-23T13:56:01.092Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 3,
   "alerts": [
+    {
+      "id": "cad9bb56-d8be-405d-b82c-19a152b7214c",
+      "ts": "2026-08-23T13:54:07+00:00",
+      "address": "0xe8ff0a56d848954b60e8e8ed99637e3c50ddc93b",
+      "side": "sell",
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.9358430210191525,
+      "shares": 55704.91,
+      "usd_value": 52131.05126,
+      "price_shift_pp": 5.134037295106742,
+      "alert_reason": "shift",
+      "market_id": "559651",
+      "condition_id": "559651",
+      "token_id": "25659310674993675562345759665114759892400026242514633218387667107987341231962",
+      "question": "Xi Jinping out before 2027?",
+      "link": "https://polyvictor.com/markets/559651"
+    },
     {
       "id": "feb0922d-931d-40ad-9394-6eaffad51321",
       "ts": "2026-08-23T13:49:22+00:00",
