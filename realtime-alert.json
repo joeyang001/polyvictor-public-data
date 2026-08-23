@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-23T12:12:01.112Z",
+  "generated_at": "2026-08-23T13:46:00.779Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "8257ca8a-417a-4b0c-881a-e743e7a03ea4",
-      "ts": "2026-08-23T12:11:45+00:00",
+      "id": "f2765d0d-b41c-4a2e-b6b3-15fa57dbc78b",
+      "ts": "2026-08-23T13:44:42+00:00",
       "address": "0x2ba6c2c20075a5c5f6996dd32f080e5d005e644c",
-      "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.5099999999992858,
-      "shares": 616102.742744,
-      "usd_value": 314212.398799,
-      "price_shift_pp": 0.002977473777365791,
+      "side": "sell",
+      "outcome_index": 1,
+      "outcome_label": "Team Spirit",
+      "price": 0.999,
+      "shares": 360096.47,
+      "usd_value": 359736.37353,
+      "price_shift_pp": 0,
       "alert_reason": "size",
-      "market_id": "3474314",
-      "condition_id": "3474314",
-      "token_id": "104456139479135225127111608741573159497960002887473302549932016785308842097309",
-      "question": "Will Liverpool FC win on 2026-08-23?",
-      "link": "https://polyvictor.com/markets/3474314"
+      "market_id": "3793017",
+      "condition_id": "3793017",
+      "token_id": "57622421710893252242586221145464607184247457679278807895234035552685214942526",
+      "question": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs",
+      "link": "https://polyvictor.com/markets/3793017"
     }
   ]
 }
