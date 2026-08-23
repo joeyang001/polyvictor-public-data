@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-22T20:40:01.206Z",
+  "generated_at": "2026-08-23T02:08:00.911Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "fe420ece-9197-4fab-8ee2-9e60c3ea65b5",
-      "ts": "2026-08-22T20:39:15+00:00",
+      "id": "8b05c6dc-6bab-4194-8403-536c9e1aaf6f",
+      "ts": "2026-08-23T02:07:12+00:00",
       "address": "0x2ba6c2c20075a5c5f6996dd32f080e5d005e644c",
-      "side": "sell",
-      "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.999,
-      "shares": 318379.88,
-      "usd_value": 318061.50012,
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "Team Spirit",
+      "price": 0.64,
+      "shares": 423562.359375,
+      "usd_value": 271079.91000000003,
       "price_shift_pp": 0,
       "alert_reason": "size",
-      "market_id": "3701045",
-      "condition_id": "3701045",
-      "token_id": "72215803817859872698623664582654476677021362947709599597078778084747840216592",
-      "question": "Will Bayern Munich win on 2026-08-22?",
-      "link": "https://polyvictor.com/markets/3701045"
+      "market_id": "3779514",
+      "condition_id": "3779514",
+      "token_id": "110236130219164091976046899144724991788583736858601572494980047452851885072111",
+      "question": "Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs",
+      "link": "https://polyvictor.com/markets/3779514"
     }
   ]
 }
