@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-23T02:08:00.911Z",
+  "generated_at": "2026-08-23T04:50:05.935Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "8b05c6dc-6bab-4194-8403-536c9e1aaf6f",
-      "ts": "2026-08-23T02:07:12+00:00",
-      "address": "0x2ba6c2c20075a5c5f6996dd32f080e5d005e644c",
+      "id": "626287ef-f2e5-43c0-bf12-f01207c9c0a1",
+      "ts": "2026-08-23T04:48:53+00:00",
+      "address": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
       "side": "buy",
       "outcome_index": 1,
       "outcome_label": "Team Spirit",
-      "price": 0.64,
-      "shares": 423562.359375,
-      "usd_value": 271079.91000000003,
-      "price_shift_pp": 0,
+      "price": 0.44,
+      "shares": 672003.23,
+      "usd_value": 295681.4212,
+      "price_shift_pp": 0.000001100000041054372,
       "alert_reason": "size",
-      "market_id": "3779514",
-      "condition_id": "3779514",
-      "token_id": "110236130219164091976046899144724991788583736858601572494980047452851885072111",
-      "question": "Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs",
-      "link": "https://polyvictor.com/markets/3779514"
+      "market_id": "3793017",
+      "condition_id": "3793017",
+      "token_id": "57622421710893252242586221145464607184247457679278807895234035552685214942526",
+      "question": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs",
+      "link": "https://polyvictor.com/markets/3793017"
     }
   ]
 }
