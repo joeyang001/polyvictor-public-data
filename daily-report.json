@@ -1,68 +1,68 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-08-23",
-  "generated_at": "2026-08-23T14:00:04.936Z",
+  "date": "2026-08-24",
+  "generated_at": "2026-08-24T14:00:06.747Z",
   "status": "failed",
   "tweet_ids": [],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 778,
-    "total_volume_usd": 49120657.25351902,
-    "unique_whales": 165,
-    "buy_volume_usd": 39378149.515669,
-    "sell_volume_usd": 9742507.737849997,
+    "total_fills": 480,
+    "total_volume_usd": 24183493.655472964,
+    "unique_whales": 133,
+    "buy_volume_usd": 19483987.165171996,
+    "sell_volume_usd": 4699506.490301001,
     "top_markets": [
       {
-        "market_id": "3793017",
-        "question": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs",
-        "volume_usd": 6993160.965271001,
-        "fills": 63,
-        "link": "https://polyvictor.com/markets/3793017"
+        "market_id": "3471471",
+        "question": "Will AC Milan win on 2026-08-23?",
+        "volume_usd": 3685088.711947001,
+        "fills": 57,
+        "link": "https://polyvictor.com/markets/3471471"
       },
       {
-        "market_id": "3761199",
-        "question": "Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs",
-        "volume_usd": 4824181.2837,
-        "fills": 31,
-        "link": "https://polyvictor.com/markets/3761199"
+        "market_id": "3474286",
+        "question": "Will AS Monaco FC win on 2026-08-23?",
+        "volume_usd": 2290197.6584600005,
+        "fills": 32,
+        "link": "https://polyvictor.com/markets/3474286"
       },
       {
-        "market_id": "3701045",
-        "question": "Will Bayern Munich win on 2026-08-22?",
-        "volume_usd": 3300497.567228,
-        "fills": 30,
-        "link": "https://polyvictor.com/markets/3701045"
+        "market_id": "1163699",
+        "question": "Clarity Act (H.R.3633) signed into law in 2026?",
+        "volume_usd": 1737692.7725799999,
+        "fills": 7,
+        "link": "https://polyvictor.com/markets/1163699"
       }
     ],
     "top_whales": [
       {
-        "address": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
-        "volume_usd": 10379188.15593,
-        "fills": 57,
-        "link": "https://polyvictor.com/whales/0x6d20c35f65d9899b6d6b74f8466e824580f9a165"
+        "address": "0x2ba6c2c20075a5c5f6996dd32f080e5d005e644c",
+        "volume_usd": 2598147.942778,
+        "fills": 16,
+        "link": "https://polyvictor.com/whales/0x2ba6c2c20075a5c5f6996dd32f080e5d005e644c"
+      },
+      {
+        "address": "0x168a51f1cac0ad3b166797069382495a8aa10d24",
+        "volume_usd": 1869906.86276,
+        "fills": 21,
+        "link": "https://polyvictor.com/whales/0x168a51f1cac0ad3b166797069382495a8aa10d24"
       },
       {
         "address": "0x983eedfbd75803602e4a6e6ea9aab6dc6b9c6748",
-        "volume_usd": 4151737.3410699996,
-        "fills": 36,
+        "volume_usd": 1814235.3189000003,
+        "fills": 29,
         "link": "https://polyvictor.com/whales/0x983eedfbd75803602e4a6e6ea9aab6dc6b9c6748"
-      },
-      {
-        "address": "0x2ba6c2c20075a5c5f6996dd32f080e5d005e644c",
-        "volume_usd": 3046641.2313550003,
-        "fills": 23,
-        "link": "https://polyvictor.com/whales/0x2ba6c2c20075a5c5f6996dd32f080e5d005e644c"
       }
     ],
     "biggest_fill": {
-      "address": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
-      "usd": 1033253.55637,
+      "address": "0xf53e7cc2894cba22dcdc40de936513a502ef16e3",
+      "usd": 599403.5518,
       "side": "buy",
-      "price": 0.4483519343,
-      "market_id": "3761199",
-      "question": "Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs",
-      "link": "https://polyvictor.com/markets/3761199"
+      "price": 0.7799557104,
+      "market_id": "1163699",
+      "question": "Clarity Act (H.R.3633) signed into law in 2026?",
+      "link": "https://polyvictor.com/markets/1163699"
     }
   }
 }
