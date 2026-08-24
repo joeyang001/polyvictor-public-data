@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-24T07:50:05.916Z",
+  "generated_at": "2026-08-24T14:08:01.226Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "3ea5172d-9d72-43c0-a397-622ca027b7fe",
-      "ts": "2026-08-24T07:49:47+00:00",
-      "address": "0xf53e7cc2894cba22dcdc40de936513a502ef16e3",
+      "id": "969321cd-7bcd-4860-81b6-e09387664b50",
+      "ts": "2026-08-24T14:07:24+00:00",
+      "address": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "No",
-      "price": 0.7799557104217683,
-      "shares": 761804.5,
-      "usd_value": 594173.7699999999,
-      "price_shift_pp": 1.053162578873601,
-      "alert_reason": "size",
-      "market_id": "1163699",
-      "condition_id": "1163699",
-      "token_id": "29633826701713552120011280893309822625942861174174976276686142480636225243753",
-      "question": "Clarity Act (H.R.3633) signed into law in 2026?",
-      "link": "https://polyvictor.com/markets/1163699"
+      "outcome_index": 0,
+      "outcome_label": "YES",
+      "price": 0.4,
+      "shares": 292636.39,
+      "usd_value": 117054.55600000001,
+      "price_shift_pp": -6,
+      "alert_reason": "shift",
+      "market_id": null,
+      "condition_id": "0x4f3f51bd7b310107f260e728770533022ad632903aa3407cb9f91ddd1777d533",
+      "token_id": "103254030441782591798248102921296144301300264699596213349036857434151037956001",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
