@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-24T17:22:02.163Z",
+  "generated_at": "2026-08-24T18:38:02.811Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "3479a399-9eed-4dec-b3ea-49365881d753",
-      "ts": "2026-08-24T17:20:09+00:00",
-      "address": "0x96489abcb9f583d6835c8ef95ffc923d05a86825",
-      "side": "sell",
-      "outcome_index": 1,
-      "outcome_label": "No",
-      "price": 0.93,
-      "shares": 273231.35,
-      "usd_value": 254105.1555,
-      "price_shift_pp": -0.9999999999999898,
-      "alert_reason": "size",
-      "market_id": "663583",
-      "condition_id": "663583",
-      "token_id": "106181075047366745139197108801635573283215248045056329679360376976893016488727",
-      "question": "Will the Iranian regime fall before 2027?",
-      "link": "https://polyvictor.com/markets/663583"
+      "id": "35924a8d-8d08-4100-ac86-f9731f88cf58",
+      "ts": "2026-08-24T18:37:26+00:00",
+      "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "GIANTX",
+      "price": 0.975745975827268,
+      "shares": 27080.1,
+      "usd_value": 26423.2986,
+      "price_shift_pp": 19.727725606862954,
+      "alert_reason": "shift",
+      "market_id": "3700334",
+      "condition_id": "3700334",
+      "token_id": "22910545725109944843663466941171537663499425758340245884735017206713189182732",
+      "question": "LoL: GIANTX vs G2 Esports - Game 2 Winner",
+      "link": "https://polyvictor.com/markets/3700334"
     }
   ]
 }
