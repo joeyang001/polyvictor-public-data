@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-24T15:56:01.022Z",
+  "generated_at": "2026-08-24T16:06:04.603Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "b00ee04f-3b28-495a-aae0-01ee4162000d",
+      "ts": "2026-08-24T16:04:22+00:00",
+      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Alliance",
+      "price": 0.6159995978352714,
+      "shares": 99412,
+      "usd_value": 61237.75202,
+      "price_shift_pp": -4.300040216472867,
+      "alert_reason": "shift",
+      "market_id": "3752146",
+      "condition_id": "3752146",
+      "token_id": "103254030441782591798248102921296144301300264699596213349036857434151037956001",
+      "question": "Counter-Strike: Alliance vs  Phantom Academy (BO3) - United21 Group D",
+      "link": "https://polyvictor.com/markets/3752146"
+    },
     {
       "id": "144aefc8-251e-4c93-8ad3-d99cf0950e13",
       "ts": "2026-08-24T15:55:14+00:00",
