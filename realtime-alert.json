@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-24T18:38:02.811Z",
+  "generated_at": "2026-08-24T19:56:01.344Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "35924a8d-8d08-4100-ac86-f9731f88cf58",
-      "ts": "2026-08-24T18:37:26+00:00",
-      "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
+      "id": "1a695b4a-7990-49be-80d0-9a9cacb62774",
+      "ts": "2026-08-24T19:55:38+00:00",
+      "address": "0xca6465345246f543b7cb3152d5f5f54096f84f43",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "GIANTX",
-      "price": 0.975745975827268,
-      "shares": 27080.1,
-      "usd_value": 26423.2986,
-      "price_shift_pp": 19.727725606862954,
+      "outcome_index": 1,
+      "outcome_label": "NO",
+      "price": 0.9621502413865805,
+      "shares": 32219.5003,
+      "usd_value": 30999.999991,
+      "price_shift_pp": 3.2150241386580403,
       "alert_reason": "shift",
-      "market_id": "3700334",
-      "condition_id": "3700334",
-      "token_id": "22910545725109944843663466941171537663499425758340245884735017206713189182732",
-      "question": "LoL: GIANTX vs G2 Esports - Game 2 Winner",
-      "link": "https://polyvictor.com/markets/3700334"
+      "market_id": null,
+      "condition_id": "0xb730f72f751006271c1601ed5dd7735ca9fbd74f2b271b897901426e9dacef65",
+      "token_id": "113366201671325391086326180285042915534375824539861283571349941847504246130697",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
