@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-24T16:30:03.208Z",
+  "generated_at": "2026-08-24T16:50:06.773Z",
   "window_minutes": 30,
   "count": 2,
   "alerts": [
+    {
+      "id": "0dc06994-807e-4b4a-8c21-524ac04c5ec8",
+      "ts": "2026-08-24T16:49:27+00:00",
+      "address": "0x2ba6c2c20075a5c5f6996dd32f080e5d005e644c",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.51,
+      "shares": 1014057.72,
+      "usd_value": 517169.4372,
+      "price_shift_pp": 1.4988010832439613e-11,
+      "alert_reason": "size",
+      "market_id": "3505990",
+      "condition_id": "3505990",
+      "token_id": "114685525251284192849243166589757282977015929729810490473148181460119477526193",
+      "question": "Will Chelsea FC win on 2026-08-24?",
+      "link": "https://polyvictor.com/markets/3505990"
+    },
     {
       "id": "e8b84945-9830-4f6c-aa95-0899cd02c3e2",
       "ts": "2026-08-24T16:29:51+00:00",
@@ -19,24 +37,6 @@
       "market_id": "3752146",
       "condition_id": "3752146",
       "token_id": "63700329313214895292087582076943803754455881837475318475286803840581531338708",
-      "question": "Counter-Strike: Alliance vs  Phantom Academy (BO3) - United21 Group D",
-      "link": "https://polyvictor.com/markets/3752146"
-    },
-    {
-      "id": "b00ee04f-3b28-495a-aae0-01ee4162000d",
-      "ts": "2026-08-24T16:04:22+00:00",
-      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-      "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Alliance",
-      "price": 0.6159995978352714,
-      "shares": 99412,
-      "usd_value": 61237.75202,
-      "price_shift_pp": -4.300040216472867,
-      "alert_reason": "shift",
-      "market_id": "3752146",
-      "condition_id": "3752146",
-      "token_id": "103254030441782591798248102921296144301300264699596213349036857434151037956001",
       "question": "Counter-Strike: Alliance vs  Phantom Academy (BO3) - United21 Group D",
       "link": "https://polyvictor.com/markets/3752146"
     }
