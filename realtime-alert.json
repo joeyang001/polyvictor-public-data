@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-24T14:08:01.226Z",
+  "generated_at": "2026-08-24T15:56:01.022Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "969321cd-7bcd-4860-81b6-e09387664b50",
-      "ts": "2026-08-24T14:07:24+00:00",
-      "address": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+      "id": "144aefc8-251e-4c93-8ad3-d99cf0950e13",
+      "ts": "2026-08-24T15:55:14+00:00",
+      "address": "0xdb859a551fcf56e49416160911476bea7307152f",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "YES",
-      "price": 0.4,
-      "shares": 292636.39,
-      "usd_value": 117054.55600000001,
-      "price_shift_pp": -6,
+      "outcome_label": "100 Thieves",
+      "price": 0.6428067015784824,
+      "shares": 56907.19,
+      "usd_value": 36580.3231,
+      "price_shift_pp": 3.280671272271396,
       "alert_reason": "shift",
-      "market_id": null,
-      "condition_id": "0x4f3f51bd7b310107f260e728770533022ad632903aa3407cb9f91ddd1777d533",
-      "token_id": "103254030441782591798248102921296144301300264699596213349036857434151037956001",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
+      "market_id": "3827558",
+      "condition_id": "3827558",
+      "token_id": "82075014549765773574578664130190231585090935054751220272451640682063561821978",
+      "question": "Counter-Strike: 100 Thieves vs INOX Division (BO1) - IEM Beijing: Global Open Qualifier Playoffs",
+      "link": "https://polyvictor.com/markets/3827558"
     }
   ]
 }
