@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-25T19:18:01.022Z",
+  "generated_at": "2026-08-25T19:22:00.927Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "d3a3c460-b87d-4c00-8b3d-b955561a7f02",
+      "ts": "2026-08-25T19:20:43+00:00",
+      "address": "0x397062018dfb77e855608fe23223592bc82c44ce",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "NO",
+      "price": 0.4792178348675307,
+      "shares": 69323.98,
+      "usd_value": 33221.2876,
+      "price_shift_pp": 3.921783486753072,
+      "alert_reason": "shift",
+      "market_id": null,
+      "condition_id": "0x7d130bc0a6386f3ef22564165af87c128dce53a2c85101be02df67a5b97a5759",
+      "token_id": "45701809000897515240093447669557738381440158923107826860680648107738171860329",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
+    },
     {
       "id": "f4195608-26d6-42a3-ab60-a4796d337445",
       "ts": "2026-08-25T19:16:30+00:00",
