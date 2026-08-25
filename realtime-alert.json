@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-25T09:44:01.417Z",
+  "generated_at": "2026-08-25T19:18:01.022Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "91228ee7-36ed-44ec-a15e-8f3a24ea7d89",
-      "ts": "2026-08-25T09:42:39+00:00",
-      "address": "0x19c3b385be5667154fc69c87d8f7914be84087c1",
+      "id": "f4195608-26d6-42a3-ab60-a4796d337445",
+      "ts": "2026-08-25T19:16:30+00:00",
+      "address": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
       "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "No",
-      "price": 0.8297462936891475,
-      "shares": 422037.59,
-      "usd_value": 350184.12610000005,
-      "price_shift_pp": 0.9746310089163601,
-      "alert_reason": "size",
-      "market_id": "1163699",
-      "condition_id": "1163699",
-      "token_id": "29633826701713552120011280893309822625942861174174976276686142480636225243753",
-      "question": "Clarity Act (H.R.3633) signed into law in 2026?",
-      "link": "https://polyvictor.com/markets/1163699"
+      "outcome_label": "Luciano Darderi",
+      "price": 0.3866464764863078,
+      "shares": 74974.276922,
+      "usd_value": 28988.539999000004,
+      "price_shift_pp": -6.335352288344009,
+      "alert_reason": "shift",
+      "market_id": "3832255",
+      "condition_id": "3832255",
+      "token_id": "51458886120498238605415618426648634696851426144254470953395718439397664402657",
+      "question": "Winston-Salem Open: Mattia Bellucci vs Luciano Darderi",
+      "link": "https://polyvictor.com/markets/3832255"
     }
   ]
 }
