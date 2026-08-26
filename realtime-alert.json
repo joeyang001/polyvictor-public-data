@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-26T08:48:00.971Z",
+  "generated_at": "2026-08-26T13:40:02.956Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "7e646515-b9ff-4983-bf8e-4a20bd48faf3",
-      "ts": "2026-08-26T08:46:58+00:00",
-      "address": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+      "id": "159c9dd2-d356-4ca4-9ff4-0444c58b9dbe",
+      "ts": "2026-08-26T13:38:42+00:00",
+      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "KT Rolster",
-      "price": 0.9988707630325951,
-      "shares": 73917.55,
-      "usd_value": 73834.07957,
-      "price_shift_pp": 4.887076303259519,
-      "alert_reason": "shift",
-      "market_id": "3819659",
-      "condition_id": "3819659",
-      "token_id": "56948403162330462418723350670507592730142917761738691764633268754233776963414",
-      "question": "LoL: KT Rolster vs HANJIN BRION - Game 1 Winner",
-      "link": "https://polyvictor.com/markets/3819659"
+      "outcome_label": "Spirit",
+      "price": 0.9599998898012674,
+      "shares": 399641.62,
+      "usd_value": 383655.91115999996,
+      "price_shift_pp": 0.09999385465885302,
+      "alert_reason": "size",
+      "market_id": "3682171",
+      "condition_id": "3682171",
+      "token_id": "57369135036023401098362751924667628127756419296180833782211349894164036026240",
+      "question": "Counter-Strike: Spirit vs DENDELE CS - Map 2 Winner",
+      "link": "https://polyvictor.com/markets/3682171"
     }
   ]
 }
