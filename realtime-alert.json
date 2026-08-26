@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-26T15:02:08.451Z",
+  "generated_at": "2026-08-26T15:22:00.958Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 3,
   "alerts": [
+    {
+      "id": "853cd81e-e707-426a-8b84-6edc3c08f11c",
+      "ts": "2026-08-26T15:21:15+00:00",
+      "address": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
+      "side": "sell",
+      "outcome_index": 0,
+      "outcome_label": "Daniel Rincon",
+      "price": 0.7454353649272963,
+      "shares": 65730.49,
+      "usd_value": 48997.83180000001,
+      "price_shift_pp": -4.456463396664834,
+      "alert_reason": "shift",
+      "market_id": "3861864",
+      "condition_id": "3861864",
+      "token_id": "17128376968375531774802018861444437718627573751658479459116666206539493312910",
+      "question": "US Open, Qualification ATP: Daniel Rincon vs Jordan Lee",
+      "link": "https://polyvictor.com/markets/3861864"
+    },
     {
       "id": "51716fe2-3f8f-45ad-a8a9-21eed1ceceb7",
       "ts": "2026-08-26T15:01:26+00:00",
