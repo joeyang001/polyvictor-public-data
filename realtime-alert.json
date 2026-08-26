@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-26T20:14:01.161Z",
+  "generated_at": "2026-08-26T20:54:01.058Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "cbf32ea5-a874-4e20-b645-8ba441019ebf",
-      "ts": "2026-08-26T20:12:11+00:00",
-      "address": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
-      "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Ignacio Buse",
-      "price": 0.7050228755811351,
-      "shares": 45388.598168,
-      "usd_value": 31999.999998999996,
-      "price_shift_pp": 7.502287558113507,
-      "alert_reason": "shift",
-      "market_id": "3888984",
-      "condition_id": "3888984",
-      "token_id": "30276033448507372114416115702177294614965376588727281458140608037674832056358",
-      "question": "Winston-Salem Open: Daniel Altmaier vs Ignacio Buse",
-      "link": "https://polyvictor.com/markets/3888984"
+      "id": "a9dc1286-5f7d-4341-88d6-b4d1faabe9db",
+      "ts": "2026-08-26T20:53:08+00:00",
+      "address": "0x14c7111afa871fb215339f365043d7b2837b9ccf",
+      "side": "sell",
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.999,
+      "shares": 590915.08,
+      "usd_value": 590324.16492,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "3558749",
+      "condition_id": "3558749",
+      "token_id": "26559765249952923865879350951475742913326516766941369247601657393449196813794",
+      "question": "Will Real Madrid CF win on 2026-08-26?",
+      "link": "https://polyvictor.com/markets/3558749"
     }
   ]
 }
