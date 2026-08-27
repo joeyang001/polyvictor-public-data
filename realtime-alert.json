@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-27T17:12:01.083Z",
+  "generated_at": "2026-08-27T17:22:00.853Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 3,
   "alerts": [
+    {
+      "id": "3ce89482-1459-4395-8f11-f97e8a33eb03",
+      "ts": "2026-08-27T17:20:28+00:00",
+      "address": "0x14c7111afa871fb215339f365043d7b2837b9ccf",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.8,
+      "shares": 502250,
+      "usd_value": 401800,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "3578043",
+      "condition_id": "3578043",
+      "token_id": "37378293575639948939383680576790144901733747479916956906009630524575348484336",
+      "question": "Will FC Barcelona win on 2026-08-27?",
+      "link": "https://polyvictor.com/markets/3578043"
+    },
     {
       "id": "2303b897-9916-4124-8d12-c82f5b960973",
       "ts": "2026-08-27T17:10:17+00:00",
