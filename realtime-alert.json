@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-27T17:24:01.073Z",
+  "generated_at": "2026-08-27T17:28:02.147Z",
   "window_minutes": 30,
-  "count": 4,
+  "count": 5,
   "alerts": [
+    {
+      "id": "f0bdb3a0-9ab1-4d42-985e-b8da98e7aa5b",
+      "ts": "2026-08-27T17:26:21+00:00",
+      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "Washington Nationals",
+      "price": 0.68,
+      "shares": 585291.42,
+      "usd_value": 397998.16560000007,
+      "price_shift_pp": 1.0000000000000009,
+      "alert_reason": "size",
+      "market_id": "3761118",
+      "condition_id": "3761118",
+      "token_id": "74514313383605069102129419106365357015050833393280890281820355811699483593467",
+      "question": "Colorado Rockies vs. Washington Nationals",
+      "link": "https://polyvictor.com/markets/3761118"
+    },
     {
       "id": "1e6a229e-79f7-4cd1-b283-ac988bd89326",
       "ts": "2026-08-27T17:22:56+00:00",
