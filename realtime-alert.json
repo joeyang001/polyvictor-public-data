@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-27T16:38:00.937Z",
+  "generated_at": "2026-08-27T17:08:01.188Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "a80d7970-f8e1-4c85-89ff-ebad52fc1b50",
-      "ts": "2026-08-27T16:36:18+00:00",
-      "address": "0x14c7111afa871fb215339f365043d7b2837b9ccf",
-      "side": "sell",
+      "id": "2a3af967-ef2d-46af-8290-b18bd7a537d2",
+      "ts": "2026-08-27T17:07:17+00:00",
+      "address": "0xfea31bc088000ff909be1dfd8d0e3f2c7ef2d227",
+      "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Legacy",
-      "price": 0.999,
-      "shares": 492160.08,
-      "usd_value": 491667.91992,
+      "outcome_label": "Team Falcons",
+      "price": 0.75,
+      "shares": 532497.11,
+      "usd_value": 399372.8325,
       "price_shift_pp": 0,
       "alert_reason": "size",
-      "market_id": "3682192",
-      "condition_id": "3682192",
-      "token_id": "96356855469354545871156619640805425995192269981885912633483310168891595359056",
-      "question": "Counter-Strike: Legacy vs FUT Esports (BO3) - BLAST Open Porto Group B",
-      "link": "https://polyvictor.com/markets/3682192"
+      "market_id": "3682194",
+      "condition_id": "3682194",
+      "token_id": "99320318717171949757885130056643709957488056150061908961155755965257732853123",
+      "question": "Counter-Strike: Team Falcons vs Lynn Vision - Map 1 Winner",
+      "link": "https://polyvictor.com/markets/3682194"
     }
   ]
 }
