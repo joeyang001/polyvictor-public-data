@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-27T19:44:00.926Z",
+  "generated_at": "2026-08-27T20:28:01.059Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "570b7359-db1a-457f-b884-6f553d59f4ee",
-      "ts": "2026-08-27T19:43:39+00:00",
-      "address": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+      "id": "77f2b0b8-b10e-427b-9a14-1d5f3fa85e8a",
+      "ts": "2026-08-27T20:27:41+00:00",
+      "address": "0xf28e42d20e4826f2b10a24bc952001697947cab2",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Over",
-      "price": 0.999,
-      "shares": 25440,
-      "usd_value": 25414.56,
-      "price_shift_pp": 3.9000000000000035,
-      "alert_reason": "shift",
-      "market_id": "3578580",
-      "condition_id": "3578580",
-      "token_id": "66041774672388458423781566471640869624353689669420981639612701858349727422581",
-      "question": "FC Barcelona vs. Athletic Club: FC Barcelona O/U 0.5",
-      "link": "https://polyvictor.com/markets/3578580"
+      "outcome_index": 1,
+      "outcome_label": "St. Louis Cardinals",
+      "price": 0.75,
+      "shares": 418529.38,
+      "usd_value": 313897.03500000003,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "3761120",
+      "condition_id": "3761120",
+      "token_id": "35856452478055929016114190935234617702288592654104446220080262931043294281167",
+      "question": "Baltimore Orioles vs. St. Louis Cardinals",
+      "link": "https://polyvictor.com/markets/3761120"
     }
   ]
 }
