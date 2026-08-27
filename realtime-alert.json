@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-27T06:48:00.923Z",
+  "generated_at": "2026-08-27T13:26:01.055Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "81199a5e-ab9a-4edd-bf82-79fd9386d413",
-      "ts": "2026-08-27T06:47:30+00:00",
+      "id": "25086e03-35fb-4cad-98a4-281f0166cd87",
+      "ts": "2026-08-27T13:24:39+00:00",
       "address": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
       "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "9z",
-      "price": 0.3889520075503479,
-      "shares": 739621.55,
-      "usd_value": 287677.28670000006,
-      "price_shift_pp": 1.8952007550347927,
+      "outcome_label": "FUT Esports",
+      "price": 0.58,
+      "shares": 649426.19,
+      "usd_value": 376667.19019999995,
+      "price_shift_pp": 1.0004119072924866,
       "alert_reason": "size",
-      "market_id": "3682188",
-      "condition_id": "3682188",
-      "token_id": "58450694094541903664788960228305380353879965982118304302782026420135538265298",
-      "question": "Counter-Strike: MOUZ vs 9z (BO3) - BLAST Open Porto Group B",
-      "link": "https://polyvictor.com/markets/3682188"
+      "market_id": "3682192",
+      "condition_id": "3682192",
+      "token_id": "22330075085793359970837957422590984888784504188540316399692243543638829599159",
+      "question": "Counter-Strike: Legacy vs FUT Esports (BO3) - BLAST Open Porto Group B",
+      "link": "https://polyvictor.com/markets/3682192"
     }
   ]
 }
