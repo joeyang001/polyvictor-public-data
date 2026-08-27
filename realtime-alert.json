@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-27T20:28:01.059Z",
+  "generated_at": "2026-08-27T21:02:03.773Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "77f2b0b8-b10e-427b-9a14-1d5f3fa85e8a",
-      "ts": "2026-08-27T20:27:41+00:00",
-      "address": "0xf28e42d20e4826f2b10a24bc952001697947cab2",
-      "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "St. Louis Cardinals",
-      "price": 0.75,
-      "shares": 418529.38,
-      "usd_value": 313897.03500000003,
+      "id": "ecdc15d1-4198-48bf-8ae2-f1558b61e645",
+      "ts": "2026-08-27T21:00:42+00:00",
+      "address": "0x14c7111afa871fb215339f365043d7b2837b9ccf",
+      "side": "sell",
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.999,
+      "shares": 502250,
+      "usd_value": 501747.75,
       "price_shift_pp": 0,
       "alert_reason": "size",
-      "market_id": "3761120",
-      "condition_id": "3761120",
-      "token_id": "35856452478055929016114190935234617702288592654104446220080262931043294281167",
-      "question": "Baltimore Orioles vs. St. Louis Cardinals",
-      "link": "https://polyvictor.com/markets/3761120"
+      "market_id": "3578043",
+      "condition_id": "3578043",
+      "token_id": "37378293575639948939383680576790144901733747479916956906009630524575348484336",
+      "question": "Will FC Barcelona win on 2026-08-27?",
+      "link": "https://polyvictor.com/markets/3578043"
     }
   ]
 }
