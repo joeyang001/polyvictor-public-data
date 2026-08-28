@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-28T17:06:01.239Z",
+  "generated_at": "2026-08-28T17:10:01.671Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "0f8bf4b2-b836-4584-8d80-12052b74c04f",
+      "ts": "2026-08-28T17:09:36+00:00",
+      "address": "0x1f7105a18d9f36aef7c83e5df210e57cf487b2e4",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Zsombor Piros",
+      "price": 0.9079115451562334,
+      "shares": 59656.88,
+      "usd_value": 54163.170099999996,
+      "price_shift_pp": 18.080167961758885,
+      "alert_reason": "shift",
+      "market_id": "3916093",
+      "condition_id": "3916093",
+      "token_id": "20950129047851415392248213529792501622949029592337755573035356510408048142962",
+      "question": "US Open, Qualification ATP: Zsombor Piros vs Christopher O'Connell",
+      "link": "https://polyvictor.com/markets/3916093"
+    },
     {
       "id": "69a9261e-5a1d-4de4-b802-451dac7a4f12",
       "ts": "2026-08-28T17:04:30+00:00",
