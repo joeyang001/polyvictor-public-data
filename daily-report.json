@@ -1,68 +1,68 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-08-27",
-  "generated_at": "2026-08-27T14:00:07.355Z",
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T14:00:07.433Z",
   "status": "failed",
   "tweet_ids": [],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 470,
-    "total_volume_usd": 26960514.207581006,
-    "unique_whales": 134,
-    "buy_volume_usd": 20787595.91273202,
-    "sell_volume_usd": 6172918.294848996,
+    "total_fills": 577,
+    "total_volume_usd": 46435955.57785201,
+    "unique_whales": 147,
+    "buy_volume_usd": 36014746.314562015,
+    "sell_volume_usd": 10421209.263289997,
     "top_markets": [
       {
-        "market_id": "3558749",
-        "question": "Will Real Madrid CF win on 2026-08-26?",
-        "volume_usd": 4776014.830216,
-        "fills": 27,
-        "link": "https://polyvictor.com/markets/3558749"
+        "market_id": "3761128",
+        "question": "Los Angeles Dodgers vs. Atlanta Braves",
+        "volume_usd": 10962187.211394,
+        "fills": 71,
+        "link": "https://polyvictor.com/markets/3761128"
       },
       {
-        "market_id": "3682192",
-        "question": "Counter-Strike: Legacy vs FUT Esports (BO3) - BLAST Open Porto Group B",
-        "volume_usd": 1569461.582618,
-        "fills": 18,
-        "link": "https://polyvictor.com/markets/3682192"
+        "market_id": "3682196",
+        "question": "Counter-Strike: Team Falcons vs Lynn Vision (BO3) - BLAST Open Porto Group B",
+        "volume_usd": 3701054.2881889995,
+        "fills": 47,
+        "link": "https://polyvictor.com/markets/3682196"
       },
       {
-        "market_id": "3560752",
-        "question": "Real Madrid CF vs. Real Sociedad de Fútbol: O/U 3.5",
-        "volume_usd": 1443628.25196,
-        "fills": 10,
-        "link": "https://polyvictor.com/markets/3560752"
+        "market_id": "3682194",
+        "question": "Counter-Strike: Team Falcons vs Lynn Vision - Map 1 Winner",
+        "volume_usd": 3454734.2786000003,
+        "fills": 19,
+        "link": "https://polyvictor.com/markets/3682194"
       }
     ],
     "top_whales": [
       {
+        "address": "0xee00ba338c59557141789b127927a55f5cc5cea1",
+        "volume_usd": 8189034.686509999,
+        "fills": 14,
+        "link": "https://polyvictor.com/whales/0xee00ba338c59557141789b127927a55f5cc5cea1"
+      },
+      {
         "address": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
-        "volume_usd": 3348560.977450001,
-        "fills": 33,
+        "volume_usd": 8002432.998601003,
+        "fills": 61,
         "link": "https://polyvictor.com/whales/0x6d20c35f65d9899b6d6b74f8466e824580f9a165"
       },
       {
         "address": "0x14c7111afa871fb215339f365043d7b2837b9ccf",
-        "volume_usd": 3138797.0839809994,
-        "fills": 20,
+        "volume_usd": 4231624.386284,
+        "fills": 16,
         "link": "https://polyvictor.com/whales/0x14c7111afa871fb215339f365043d7b2837b9ccf"
-      },
-      {
-        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 1973443.5424989997,
-        "fills": 25,
-        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
       }
     ],
     "biggest_fill": {
-      "address": "0x34dd4a4b70eaf79a17878f7938263c801d4dfd83",
-      "usd": 908099.1928,
+      "address": "0xee00ba338c59557141789b127927a55f5cc5cea1",
+      "usd": 2553127.09497,
       "side": "buy",
-      "price": 0.82,
-      "market_id": "3558749",
-      "question": "Will Real Madrid CF win on 2026-08-26?",
-      "link": "https://polyvictor.com/markets/3558749"
+      "price": 0.999,
+      "market_id": "3761128",
+      "question": "Los Angeles Dodgers vs. Atlanta Braves",
+      "link": "https://polyvictor.com/markets/3761128"
     }
   }
 }
