@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-28T03:02:01.127Z",
+  "generated_at": "2026-08-28T07:42:02.752Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "4cf443d0-f015-4517-881b-afc7eb8ae165",
-      "ts": "2026-08-28T03:00:20+00:00",
-      "address": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
-      "side": "sell",
-      "outcome_index": 0,
-      "outcome_label": "49ers",
-      "price": 0.999,
-      "shares": 940987.21,
-      "usd_value": 940046.2227899999,
-      "price_shift_pp": 0,
-      "alert_reason": "size",
-      "market_id": "2958690",
-      "condition_id": "2958690",
-      "token_id": "56328368174696342357258002969081710848006049392947177358925647511980360518302",
-      "question": "49ers vs. Raiders",
-      "link": "https://polyvictor.com/markets/2958690"
+      "id": "30cb6d34-9e67-4762-952d-7fbad6bdb84e",
+      "ts": "2026-08-28T07:41:11+00:00",
+      "address": "0xe16e8a3c20d51eb3ce4ce23516bd7bfb2e14bd58",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "Ninjas in Pyjamas",
+      "price": 0.987258135553331,
+      "shares": 34034.87,
+      "usd_value": 33601.2023,
+      "price_shift_pp": 3.7258135553331018,
+      "alert_reason": "shift",
+      "market_id": "3809948",
+      "condition_id": "3809948",
+      "token_id": "19593630717204335487343006756149591739377862249502247240003860337172164418211",
+      "question": "LoL: EDward Gaming vs Ninjas in Pyjamas - Game 2 Winner",
+      "link": "https://polyvictor.com/markets/3809948"
     }
   ]
 }
