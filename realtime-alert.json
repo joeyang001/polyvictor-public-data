@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-28T10:26:00.873Z",
+  "generated_at": "2026-08-28T14:04:00.980Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "8fc59be0-fc62-4fff-bdf8-bd80700463d8",
-      "ts": "2026-08-28T10:24:18+00:00",
-      "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
-      "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "HANJIN BRION",
-      "price": 0.9895247537112667,
-      "shares": 27235.31,
-      "usd_value": 26950.01342,
-      "price_shift_pp": 3.452475371126673,
-      "alert_reason": "shift",
-      "market_id": "3930202",
-      "condition_id": "3930202",
-      "token_id": "76655932949703680738802174500653369082306143971449762622063071145190572964945",
-      "question": "LoL: HANJIN BRION vs BNK FEARX - Game 3 Winner",
-      "link": "https://polyvictor.com/markets/3930202"
+      "id": "55bf4da2-fc81-42b7-9909-7165b9cc4627",
+      "ts": "2026-08-28T14:02:47+00:00",
+      "address": "0x14c7111afa871fb215339f365043d7b2837b9ccf",
+      "side": "sell",
+      "outcome_index": 1,
+      "outcome_label": "Spirit",
+      "price": 0.999,
+      "shares": 340490.79,
+      "usd_value": 340150.29920999997,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "3902516",
+      "condition_id": "3902516",
+      "token_id": "55958401064920589556188543641822138360374760927508094340742481813108093098139",
+      "question": "Counter-Strike: G2 vs Spirit - Map 2 Winner",
+      "link": "https://polyvictor.com/markets/3902516"
     }
   ]
 }
