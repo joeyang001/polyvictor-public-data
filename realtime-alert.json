@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-28T01:36:00.880Z",
+  "generated_at": "2026-08-28T01:42:01.023Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "69b07500-d2d7-46d3-b9a3-7118171c97e7",
+      "ts": "2026-08-28T01:40:56+00:00",
+      "address": "0x14c7111afa871fb215339f365043d7b2837b9ccf",
+      "side": "sell",
+      "outcome_index": 1,
+      "outcome_label": "Atlanta Braves",
+      "price": 0.999,
+      "shares": 369746.27,
+      "usd_value": 369376.52373,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "3761128",
+      "condition_id": "3761128",
+      "token_id": "7684846071757349710986932648273020068403314093389053808586453257923162490732",
+      "question": "Los Angeles Dodgers vs. Atlanta Braves",
+      "link": "https://polyvictor.com/markets/3761128"
+    },
     {
       "id": "af1751d1-8403-4d3f-a8fa-08e31609bc53",
       "ts": "2026-08-28T01:35:02+00:00",
