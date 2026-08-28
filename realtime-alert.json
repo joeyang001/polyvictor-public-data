@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-28T07:42:02.752Z",
+  "generated_at": "2026-08-28T10:26:00.873Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "30cb6d34-9e67-4762-952d-7fbad6bdb84e",
-      "ts": "2026-08-28T07:41:11+00:00",
-      "address": "0xe16e8a3c20d51eb3ce4ce23516bd7bfb2e14bd58",
+      "id": "8fc59be0-fc62-4fff-bdf8-bd80700463d8",
+      "ts": "2026-08-28T10:24:18+00:00",
+      "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Ninjas in Pyjamas",
-      "price": 0.987258135553331,
-      "shares": 34034.87,
-      "usd_value": 33601.2023,
-      "price_shift_pp": 3.7258135553331018,
+      "outcome_index": 0,
+      "outcome_label": "HANJIN BRION",
+      "price": 0.9895247537112667,
+      "shares": 27235.31,
+      "usd_value": 26950.01342,
+      "price_shift_pp": 3.452475371126673,
       "alert_reason": "shift",
-      "market_id": "3809948",
-      "condition_id": "3809948",
-      "token_id": "19593630717204335487343006756149591739377862249502247240003860337172164418211",
-      "question": "LoL: EDward Gaming vs Ninjas in Pyjamas - Game 2 Winner",
-      "link": "https://polyvictor.com/markets/3809948"
+      "market_id": "3930202",
+      "condition_id": "3930202",
+      "token_id": "76655932949703680738802174500653369082306143971449762622063071145190572964945",
+      "question": "LoL: HANJIN BRION vs BNK FEARX - Game 3 Winner",
+      "link": "https://polyvictor.com/markets/3930202"
     }
   ]
 }
