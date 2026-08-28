@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-28T21:08:01.208Z",
+  "generated_at": "2026-08-28T21:14:01.007Z",
   "window_minutes": 30,
-  "count": 3,
+  "count": 4,
   "alerts": [
+    {
+      "id": "3cf33d12-b16c-4836-9b53-2cc4c25af9f1",
+      "ts": "2026-08-28T21:12:20+00:00",
+      "address": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "Under",
+      "price": 0.98,
+      "shares": 641775.98975,
+      "usd_value": 628940.469955,
+      "price_shift_pp": -0.30000000000000027,
+      "alert_reason": "size",
+      "market_id": "3599872",
+      "condition_id": "3599872",
+      "token_id": "109916857835868651629789670515548713620539323410970428388346622412194858933670",
+      "question": "Deportivo Alavés vs. Villarreal CF: O/U 5.5",
+      "link": "https://polyvictor.com/markets/3599872"
+    },
     {
       "id": "1da576f0-ba44-469d-ad68-8527c047e395",
       "ts": "2026-08-28T21:06:44+00:00",
