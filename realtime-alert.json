@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-29T18:36:00.900Z",
+  "generated_at": "2026-08-29T19:28:01.014Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "4e59d92d-773c-422c-805a-05fe2c2356ba",
-      "ts": "2026-08-29T18:35:09+00:00",
-      "address": "0x168a51f1cac0ad3b166797069382495a8aa10d24",
+      "id": "6c6c6fde-cc5c-4906-b92e-6c3fdaa592ba",
+      "ts": "2026-08-29T19:27:05+00:00",
+      "address": "0x6db568e61e5e3de7d87f831431b673f38ce2e279",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.69,
-      "shares": 470000,
-      "usd_value": 324300,
-      "price_shift_pp": 4.709402867675294e-8,
-      "alert_reason": "size",
-      "market_id": "3621942",
-      "condition_id": "3621942",
-      "token_id": "2516675818243575010142783101921882209848580352224596472232450355393559846426",
-      "question": "Will Olympique Lyonnais win on 2026-08-29?",
-      "link": "https://polyvictor.com/markets/3621942"
+      "outcome_label": "North Carolina",
+      "price": 0.9399999999997493,
+      "shares": 79786.595733,
+      "usd_value": 74999.39998899998,
+      "price_shift_pp": -3.0000000000250715,
+      "alert_reason": "shift",
+      "market_id": "3860725",
+      "condition_id": "3860725",
+      "token_id": "45421810061547121249345277165300482478701757842413151787825999699546437896518",
+      "question": "North Carolina vs. TCU",
+      "link": "https://polyvictor.com/markets/3860725"
     }
   ]
 }
