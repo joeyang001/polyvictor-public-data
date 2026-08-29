@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-29T19:28:01.014Z",
+  "generated_at": "2026-08-29T20:16:01.018Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "6c6c6fde-cc5c-4906-b92e-6c3fdaa592ba",
-      "ts": "2026-08-29T19:27:05+00:00",
-      "address": "0x6db568e61e5e3de7d87f831431b673f38ce2e279",
+      "id": "cc68b2d8-b9e3-47a4-af49-379fd49ccbfd",
+      "ts": "2026-08-29T20:14:17+00:00",
+      "address": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "North Carolina",
-      "price": 0.9399999999997493,
-      "shares": 79786.595733,
-      "usd_value": 74999.39998899998,
-      "price_shift_pp": -3.0000000000250715,
+      "outcome_label": "Over",
+      "price": 0.6,
+      "shares": 47325,
+      "usd_value": 28395,
+      "price_shift_pp": -6.000000000000005,
       "alert_reason": "shift",
-      "market_id": "3860725",
-      "condition_id": "3860725",
-      "token_id": "45421810061547121249345277165300482478701757842413151787825999699546437896518",
-      "question": "North Carolina vs. TCU",
-      "link": "https://polyvictor.com/markets/3860725"
+      "market_id": "3624434",
+      "condition_id": "3624434",
+      "token_id": "41318203308553494375667844823579747017864296947924947728788484238106370785662",
+      "question": "Juventus FC vs. Parma Calcio 1913: O/U 1.5",
+      "link": "https://polyvictor.com/markets/3624434"
     }
   ]
 }
