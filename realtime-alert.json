@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-30T16:06:00.950Z",
+  "generated_at": "2026-08-30T17:22:04.022Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "c5deb74a-649c-4667-897b-7815a492d929",
-      "ts": "2026-08-30T16:04:53+00:00",
-      "address": "0xcd65c3279408a33866a9129bed6943064cb6ee96",
-      "side": "sell",
-      "outcome_index": 1,
-      "outcome_label": "Shevchenko",
-      "price": 0.999,
-      "shares": 27304.73,
-      "usd_value": 27277.42527,
-      "price_shift_pp": 29.900000700000064,
+      "id": "5428b92c-cab8-4c45-8171-354866fccc2c",
+      "ts": "2026-08-30T17:20:43+00:00",
+      "address": "0x8806a6f1a847ba4360599ce0f54ce96167712e83",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "YES",
+      "price": 0.94,
+      "shares": 40000,
+      "usd_value": 37600,
+      "price_shift_pp": -4.0000000000000036,
       "alert_reason": "shift",
-      "market_id": "3946555",
-      "condition_id": "3946555",
-      "token_id": "62259218590193029344308125244117147344768804335114494782591496606834007927792",
-      "question": "Set Handicap: Prizmic (-2.5) vs Shevchenko (+2.5)",
-      "link": "https://polyvictor.com/markets/3946555"
+      "market_id": null,
+      "condition_id": "0xbb3c1e3f719299ba2641efe2c5769c2a2ac613a4454a7c20abbf0cba10cb6cdb",
+      "token_id": "108053413780746503644208158052725084906770974078541855887143563958155294991936",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
