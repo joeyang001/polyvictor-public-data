@@ -1,68 +1,68 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-08-29",
-  "generated_at": "2026-08-29T14:00:06.739Z",
+  "date": "2026-08-30",
+  "generated_at": "2026-08-30T14:00:07.215Z",
   "status": "failed",
   "tweet_ids": [],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 551,
-    "total_volume_usd": 28692030.946623027,
-    "unique_whales": 159,
-    "buy_volume_usd": 20788325.16830301,
-    "sell_volume_usd": 7903705.778319997,
+    "total_fills": 521,
+    "total_volume_usd": 25043901.841981027,
+    "unique_whales": 123,
+    "buy_volume_usd": 20102539.676691007,
+    "sell_volume_usd": 4941362.16529,
     "top_markets": [
       {
-        "market_id": "3595745",
-        "question": "Will Manchester City FC win on 2026-08-28?",
-        "volume_usd": 4220655.411462001,
-        "fills": 37,
-        "link": "https://polyvictor.com/markets/3595745"
+        "market_id": "3653961",
+        "question": "Will Chelsea FC win on 2026-08-30?",
+        "volume_usd": 1391662.965989,
+        "fills": 14,
+        "link": "https://polyvictor.com/markets/3653961"
       },
       {
-        "market_id": "3599360",
-        "question": "Will Real Racing Club win on 2026-08-28?",
-        "volume_usd": 2242624.312389,
-        "fills": 35,
-        "link": "https://polyvictor.com/markets/3599360"
+        "market_id": "3621942",
+        "question": "Will Olympique Lyonnais win on 2026-08-29?",
+        "volume_usd": 1308615.2235959999,
+        "fills": 13,
+        "link": "https://polyvictor.com/markets/3621942"
       },
       {
-        "market_id": "3910911",
-        "question": "Counter-Strike: Natus Vincere vs paiN (BO3) - BLAST Open Porto Group A",
-        "volume_usd": 1083267.24614,
-        "fills": 9,
-        "link": "https://polyvictor.com/markets/3910911"
+        "market_id": "3624414",
+        "question": "Tottenham Hotspur FC vs. Newcastle United FC: O/U 0.5",
+        "volume_usd": 1157477.53374,
+        "fills": 6,
+        "link": "https://polyvictor.com/markets/3624414"
       }
     ],
     "top_whales": [
       {
-        "address": "0x14c7111afa871fb215339f365043d7b2837b9ccf",
-        "volume_usd": 4371611.450637001,
-        "fills": 23,
-        "link": "https://polyvictor.com/whales/0x14c7111afa871fb215339f365043d7b2837b9ccf"
-      },
-      {
         "address": "0xcd65c3279408a33866a9129bed6943064cb6ee96",
-        "volume_usd": 2332128.5031210002,
-        "fills": 56,
+        "volume_usd": 2121343.132513,
+        "fills": 42,
         "link": "https://polyvictor.com/whales/0xcd65c3279408a33866a9129bed6943064cb6ee96"
       },
       {
-        "address": "0x34dd4a4b70eaf79a17878f7938263c801d4dfd83",
-        "volume_usd": 1873537.7598699997,
-        "fills": 24,
-        "link": "https://polyvictor.com/whales/0x34dd4a4b70eaf79a17878f7938263c801d4dfd83"
+        "address": "0x983eedfbd75803602e4a6e6ea9aab6dc6b9c6748",
+        "volume_usd": 1718801.8854200002,
+        "fills": 16,
+        "link": "https://polyvictor.com/whales/0x983eedfbd75803602e4a6e6ea9aab6dc6b9c6748"
+      },
+      {
+        "address": "0x168a51f1cac0ad3b166797069382495a8aa10d24",
+        "volume_usd": 1608305.2222399998,
+        "fills": 15,
+        "link": "https://polyvictor.com/whales/0x168a51f1cac0ad3b166797069382495a8aa10d24"
       }
     ],
     "biggest_fill": {
-      "address": "0x14c7111afa871fb215339f365043d7b2837b9ccf",
-      "usd": 671534.07372,
-      "side": "sell",
-      "price": 0.999,
-      "market_id": "3595745",
-      "question": "Will Manchester City FC win on 2026-08-28?",
-      "link": "https://polyvictor.com/markets/3595745"
+      "address": "0x168a51f1cac0ad3b166797069382495a8aa10d24",
+      "usd": 329326.65,
+      "side": "buy",
+      "price": 0.69,
+      "market_id": "3621942",
+      "question": "Will Olympique Lyonnais win on 2026-08-29?",
+      "link": "https://polyvictor.com/markets/3621942"
     }
   }
 }
