@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-30T11:30:01.330Z",
+  "generated_at": "2026-08-30T12:02:03.766Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "674e0ece-f535-4a64-aa39-1e19182575c6",
-      "ts": "2026-08-30T11:29:36+00:00",
-      "address": "0xe4270c3aa27c7940b94f31a232d2ae4b5e5c8266",
+      "id": "bb49c4b7-5603-4f3a-8487-f1f44c0618aa",
+      "ts": "2026-08-30T12:01:21+00:00",
+      "address": "0x983eedfbd75803602e4a6e6ea9aab6dc6b9c6748",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "NO",
-      "price": 0.8468322917112022,
-      "shares": 35005.939528,
-      "usd_value": 29644.159994,
-      "price_shift_pp": 3.683229171120217,
-      "alert_reason": "shift",
-      "market_id": null,
-      "condition_id": "0xe56fc8a5144b1846b59e0681f251a670f758edc2b7251b058f9bc911dfca33f1",
-      "token_id": "17694939879100810492193884821381838931250940405670058076250229803914806207152",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.4189476054495645,
+      "shares": 645092.28,
+      "usd_value": 270259.866,
+      "price_shift_pp": 0.8947605449564522,
+      "alert_reason": "size",
+      "market_id": "3653997",
+      "condition_id": "3653997",
+      "token_id": "111069986576671225164901620262860105822850865589493390385008918544670784067128",
+      "question": "Will Sunderland AFC win on 2026-08-30?",
+      "link": "https://polyvictor.com/markets/3653997"
     }
   ]
 }
