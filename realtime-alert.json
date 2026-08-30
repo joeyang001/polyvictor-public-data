@@ -1,9 +1,45 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-30T17:32:01.302Z",
+  "generated_at": "2026-08-30T17:56:01.254Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 3,
   "alerts": [
+    {
+      "id": "a5c2e293-0cd9-4c30-aec6-ff2bc4ab61ed",
+      "ts": "2026-08-30T17:54:49+00:00",
+      "address": "0x8806a6f1a847ba4360599ce0f54ce96167712e83",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.83,
+      "shares": 34883.72,
+      "usd_value": 28953.4876,
+      "price_shift_pp": -3.0000000000000027,
+      "alert_reason": "shift",
+      "market_id": "3636526",
+      "condition_id": "0x280f5dffb51580016b26310cdbb525f5f41b6d89755ab1b8966a57aa1df1766e",
+      "token_id": "106707464838921673419375893235785217199093794589850868778409061912425043790134",
+      "question": "Will Eyüpspor win on 2026-08-30?",
+      "link": "https://polyvictor.com/markets/3636526"
+    },
+    {
+      "id": "6a0a27bb-b050-425a-b5d3-3f6d4c9a7748",
+      "ts": "2026-08-30T17:54:49+00:00",
+      "address": "0x8806a6f1a847ba4360599ce0f54ce96167712e83",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.8095712699219005,
+      "shares": 34883.72,
+      "usd_value": 28240.857500000002,
+      "price_shift_pp": -4.138169993222474,
+      "alert_reason": "shift",
+      "market_id": "3636526",
+      "condition_id": "0x280f5dffb51580016b26310cdbb525f5f41b6d89755ab1b8966a57aa1df1766e",
+      "token_id": "106707464838921673419375893235785217199093794589850868778409061912425043790134",
+      "question": "Will Eyüpspor win on 2026-08-30?",
+      "link": "https://polyvictor.com/markets/3636526"
+    },
     {
       "id": "5ecbacf7-8cdf-4fa9-81e6-1398becd6595",
       "ts": "2026-08-30T17:30:24+00:00",
@@ -21,24 +57,6 @@
       "token_id": "102104820759428843860275398477009672959795034958034461072718894704271406206266",
       "question": "Set Handicap: Lehecka (-2.5) vs Busta (+2.5)",
       "link": "https://polyvictor.com/markets/3946731"
-    },
-    {
-      "id": "5428b92c-cab8-4c45-8171-354866fccc2c",
-      "ts": "2026-08-30T17:20:43+00:00",
-      "address": "0x8806a6f1a847ba4360599ce0f54ce96167712e83",
-      "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Over",
-      "price": 0.94,
-      "shares": 40000,
-      "usd_value": 37600,
-      "price_shift_pp": -4.0000000000000036,
-      "alert_reason": "shift",
-      "market_id": "3655592",
-      "condition_id": "0xbb3c1e3f719299ba2641efe2c5769c2a2ac613a4454a7c20abbf0cba10cb6cdb",
-      "token_id": "108053413780746503644208158052725084906770974078541855887143563958155294991936",
-      "question": "FC Augsburg vs. FC Schalke 04: O/U 2.5",
-      "link": "https://polyvictor.com/markets/3655592"
     }
   ]
 }
