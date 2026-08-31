@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-31T10:42:04.160Z",
+  "generated_at": "2026-08-31T12:06:01.236Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "dc5e6f93-4b7b-4008-b8de-ef25450b8ce9",
-      "ts": "2026-08-31T10:40:59+00:00",
-      "address": "0x6ffb4354cbe6e0f9989e3b55564ec5fb8646a834",
-      "side": "buy",
+      "id": "e3ae1ec2-1aca-48dd-b177-0f2330623c1e",
+      "ts": "2026-08-31T12:05:04+00:00",
+      "address": "0xb3e820a19b4625f2abe2bfd687a50e97474b3735",
+      "side": "sell",
       "outcome_index": 0,
-      "outcome_label": "Koki Matsuda",
-      "price": 0.633029617506642,
-      "shares": 41286.73,
-      "usd_value": 26135.722900000004,
-      "price_shift_pp": 6.685416353640106,
+      "outcome_label": "Yes",
+      "price": 0.6582561516850255,
+      "shares": 100816.28,
+      "usd_value": 66362.9365,
+      "price_shift_pp": -3.8357009851575197,
       "alert_reason": "shift",
-      "market_id": "3998495",
-      "condition_id": "3998495",
-      "token_id": "105972620699140410614188153065340887058219828780504920238430903753455258774830",
-      "question": "Zhangjiagang: Koki Matsuda vs Fanming Meng",
-      "link": "https://polyvictor.com/markets/3998495"
+      "market_id": "1130012",
+      "condition_id": "1130012",
+      "token_id": "20915769520649892253891152116814645067070024223185517956799957803974344024878",
+      "question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
+      "link": "https://polyvictor.com/markets/1130012"
     }
   ]
 }
