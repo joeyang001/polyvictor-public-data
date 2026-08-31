@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-31T12:06:01.236Z",
+  "generated_at": "2026-08-31T16:24:01.080Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "e3ae1ec2-1aca-48dd-b177-0f2330623c1e",
-      "ts": "2026-08-31T12:05:04+00:00",
-      "address": "0xb3e820a19b4625f2abe2bfd687a50e97474b3735",
-      "side": "sell",
+      "id": "7d5cd404-c4f4-40e2-a9ce-772b00505343",
+      "ts": "2026-08-31T16:22:12+00:00",
+      "address": "0x4755188644460fc8140a18ccefc1e80b6a5e4158",
+      "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.6582561516850255,
-      "shares": 100816.28,
-      "usd_value": 66362.9365,
-      "price_shift_pp": -3.8357009851575197,
+      "outcome_label": "YES",
+      "price": 0.8675926531228693,
+      "shares": 36284.26,
+      "usd_value": 31479.957400000003,
+      "price_shift_pp": 3.75926531228693,
       "alert_reason": "shift",
-      "market_id": "1130012",
-      "condition_id": "1130012",
-      "token_id": "20915769520649892253891152116814645067070024223185517956799957803974344024878",
-      "question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
-      "link": "https://polyvictor.com/markets/1130012"
+      "market_id": null,
+      "condition_id": "0x3849e1d62e0807801913d3e2427e8caf3cc6dd1c8ef42d8d5c08c6f9c449dc5e",
+      "token_id": "56615676606297588259337956203332341775475048285080710344367729433788967812170",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
