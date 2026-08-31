@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-31T16:24:01.080Z",
+  "generated_at": "2026-08-31T17:06:01.119Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "7d5cd404-c4f4-40e2-a9ce-772b00505343",
-      "ts": "2026-08-31T16:22:12+00:00",
-      "address": "0x4755188644460fc8140a18ccefc1e80b6a5e4158",
+      "id": "04ffbe4a-90cb-4601-ac62-ee49470a8e96",
+      "ts": "2026-08-31T17:05:37+00:00",
+      "address": "0xbda25d40a34a17d819f3c87fedde35f2429d5689",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "YES",
-      "price": 0.8675926531228693,
-      "shares": 36284.26,
-      "usd_value": 31479.957400000003,
-      "price_shift_pp": 3.75926531228693,
-      "alert_reason": "shift",
-      "market_id": null,
-      "condition_id": "0x3849e1d62e0807801913d3e2427e8caf3cc6dd1c8ef42d8d5c08c6f9c449dc5e",
-      "token_id": "56615676606297588259337956203332341775475048285080710344367729433788967812170",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
+      "outcome_label": "Yes",
+      "price": 0.6493105308756899,
+      "shares": 456148.055382,
+      "usd_value": 296181.735998,
+      "price_shift_pp": 0.9310530875689893,
+      "alert_reason": "size",
+      "market_id": "3688221",
+      "condition_id": "3688221",
+      "token_id": "33901794147291834049542127497389224266004973563807295527659543124287676571272",
+      "question": "Will Arsenal FC win on 2026-08-31?",
+      "link": "https://polyvictor.com/markets/3688221"
     }
   ]
 }
