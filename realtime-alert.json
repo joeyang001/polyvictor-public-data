@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-30T22:46:00.712Z",
+  "generated_at": "2026-08-31T03:38:00.969Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "86d2307e-6584-4f91-b41b-1b198a705c57",
-      "ts": "2026-08-30T22:44:39+00:00",
-      "address": "0x5f659bccbc353dbf7bcdffdee73bee60bb482036",
-      "side": "buy",
+      "id": "386b707a-680a-4a41-abeb-72675f5892b3",
+      "ts": "2026-08-31T03:35:59+00:00",
+      "address": "0x565c09cd32dbbde32d5b4fcd6c49d55dd84f878d",
+      "side": "sell",
       "outcome_index": 0,
-      "outcome_label": "Emma Navarro",
-      "price": 0.6947253941256547,
-      "shares": 71970.882914,
-      "usd_value": 49999.999998,
-      "price_shift_pp": 3.4725394125654674,
+      "outcome_label": "Mariano Navone",
+      "price": 0.8691629235682145,
+      "shares": 29761.44,
+      "usd_value": 25867.5402,
+      "price_shift_pp": -3.083707643178557,
       "alert_reason": "shift",
-      "market_id": "3943959",
-      "condition_id": "0x122f54e36517e3b950f3b761577277a2d309e672953bcfd41cfaa8d066ed789e",
-      "token_id": "5928183268570853195123919021808199427284878050199435486841121262157022533111",
-      "question": "US Open WTA: Emma Navarro vs Lois Boisson",
-      "link": "https://polyvictor.com/markets/3943959"
+      "market_id": "3945907",
+      "condition_id": "3945907",
+      "token_id": "1791505704503379291587690188367813476221955675336114788658839539540843259136",
+      "question": "US Open ATP: Mariano Navone vs Novak Djokovic",
+      "link": "https://polyvictor.com/markets/3945907"
     }
   ]
 }
