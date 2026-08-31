@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-08-31T03:38:00.969Z",
+  "generated_at": "2026-08-31T10:42:04.160Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "386b707a-680a-4a41-abeb-72675f5892b3",
-      "ts": "2026-08-31T03:35:59+00:00",
-      "address": "0x565c09cd32dbbde32d5b4fcd6c49d55dd84f878d",
-      "side": "sell",
+      "id": "dc5e6f93-4b7b-4008-b8de-ef25450b8ce9",
+      "ts": "2026-08-31T10:40:59+00:00",
+      "address": "0x6ffb4354cbe6e0f9989e3b55564ec5fb8646a834",
+      "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Mariano Navone",
-      "price": 0.8691629235682145,
-      "shares": 29761.44,
-      "usd_value": 25867.5402,
-      "price_shift_pp": -3.083707643178557,
+      "outcome_label": "Koki Matsuda",
+      "price": 0.633029617506642,
+      "shares": 41286.73,
+      "usd_value": 26135.722900000004,
+      "price_shift_pp": 6.685416353640106,
       "alert_reason": "shift",
-      "market_id": "3945907",
-      "condition_id": "3945907",
-      "token_id": "1791505704503379291587690188367813476221955675336114788658839539540843259136",
-      "question": "US Open ATP: Mariano Navone vs Novak Djokovic",
-      "link": "https://polyvictor.com/markets/3945907"
+      "market_id": "3998495",
+      "condition_id": "3998495",
+      "token_id": "105972620699140410614188153065340887058219828780504920238430903753455258774830",
+      "question": "Zhangjiagang: Koki Matsuda vs Fanming Meng",
+      "link": "https://polyvictor.com/markets/3998495"
     }
   ]
 }
