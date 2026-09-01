@@ -1,68 +1,68 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-08-31",
-  "generated_at": "2026-08-31T14:00:09.536Z",
+  "date": "2026-09-01",
+  "generated_at": "2026-09-01T14:00:06.880Z",
   "status": "failed",
   "tweet_ids": [],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 568,
-    "total_volume_usd": 28594689.648229018,
-    "unique_whales": 155,
-    "buy_volume_usd": 19552672.91407101,
-    "sell_volume_usd": 9042016.734157996,
+    "total_fills": 523,
+    "total_volume_usd": 30237210.628680013,
+    "unique_whales": 139,
+    "buy_volume_usd": 23810446.30832202,
+    "sell_volume_usd": 6426764.320357998,
     "top_markets": [
       {
-        "market_id": "3653961",
-        "question": "Will Chelsea FC win on 2026-08-30?",
-        "volume_usd": 4442151.310459999,
-        "fills": 10,
-        "link": "https://polyvictor.com/markets/3653961"
+        "market_id": "3688221",
+        "question": "Will Arsenal FC win on 2026-08-31?",
+        "volume_usd": 13135129.297172004,
+        "fills": 83,
+        "link": "https://polyvictor.com/markets/3688221"
       },
       {
-        "market_id": "3649697",
-        "question": "Will SSC Napoli win on 2026-08-30?",
-        "volume_usd": 1894128.47315,
-        "fills": 38,
-        "link": "https://polyvictor.com/markets/3649697"
+        "market_id": "3691276",
+        "question": "Will CA Osasuna win on 2026-08-31?",
+        "volume_usd": 1902893.0623999997,
+        "fills": 29,
+        "link": "https://polyvictor.com/markets/3691276"
       },
       {
-        "market_id": "3636526",
-        "question": "Will Eyüpspor win on 2026-08-30?",
-        "volume_usd": 1841529.36388,
-        "fills": 32,
-        "link": "https://polyvictor.com/markets/3636526"
+        "market_id": "3982944",
+        "question": "Counter-Strike: MOUZ vs Team Falcons (BO3) - BLAST Open Porto Group B",
+        "volume_usd": 879922.88645,
+        "fills": 24,
+        "link": "https://polyvictor.com/markets/3982944"
       }
     ],
     "top_whales": [
       {
-        "address": "0x14c7111afa871fb215339f365043d7b2837b9ccf",
-        "volume_usd": 4808426.898173999,
-        "fills": 8,
-        "link": "https://polyvictor.com/whales/0x14c7111afa871fb215339f365043d7b2837b9ccf"
+        "address": "0x34dd4a4b70eaf79a17878f7938263c801d4dfd83",
+        "volume_usd": 7611946.217619998,
+        "fills": 62,
+        "link": "https://polyvictor.com/whales/0x34dd4a4b70eaf79a17878f7938263c801d4dfd83"
+      },
+      {
+        "address": "0xbda25d40a34a17d819f3c87fedde35f2429d5689",
+        "volume_usd": 4373510.751704,
+        "fills": 6,
+        "link": "https://polyvictor.com/whales/0xbda25d40a34a17d819f3c87fedde35f2429d5689"
       },
       {
         "address": "0xcd65c3279408a33866a9129bed6943064cb6ee96",
-        "volume_usd": 1681679.01215,
-        "fills": 52,
+        "volume_usd": 1693247.8959019994,
+        "fills": 49,
         "link": "https://polyvictor.com/whales/0xcd65c3279408a33866a9129bed6943064cb6ee96"
-      },
-      {
-        "address": "0x34dd4a4b70eaf79a17878f7938263c801d4dfd83",
-        "volume_usd": 1367672.9830200002,
-        "fills": 16,
-        "link": "https://polyvictor.com/whales/0x34dd4a4b70eaf79a17878f7938263c801d4dfd83"
       }
     ],
     "biggest_fill": {
-      "address": "0x14c7111afa871fb215339f365043d7b2837b9ccf",
-      "usd": 1909321.45731,
+      "address": "0xbda25d40a34a17d819f3c87fedde35f2429d5689",
+      "usd": 1463030.7048,
       "side": "sell",
       "price": 0.999,
-      "market_id": "3653961",
-      "question": "Will Chelsea FC win on 2026-08-30?",
-      "link": "https://polyvictor.com/markets/3653961"
+      "market_id": "3688221",
+      "question": "Will Arsenal FC win on 2026-08-31?",
+      "link": "https://polyvictor.com/markets/3688221"
     }
   }
 }
