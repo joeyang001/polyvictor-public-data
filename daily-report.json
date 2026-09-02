@@ -1,68 +1,68 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-09-01",
-  "generated_at": "2026-09-01T14:00:06.880Z",
+  "date": "2026-09-02",
+  "generated_at": "2026-09-02T14:00:07.550Z",
   "status": "failed",
   "tweet_ids": [],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 523,
-    "total_volume_usd": 30237210.628680013,
-    "unique_whales": 139,
-    "buy_volume_usd": 23810446.30832202,
-    "sell_volume_usd": 6426764.320357998,
+    "total_fills": 286,
+    "total_volume_usd": 10791620.433737006,
+    "unique_whales": 107,
+    "buy_volume_usd": 7647361.086809003,
+    "sell_volume_usd": 3144259.346927999,
     "top_markets": [
       {
-        "market_id": "3688221",
-        "question": "Will Arsenal FC win on 2026-08-31?",
-        "volume_usd": 13135129.297172004,
-        "fills": 83,
-        "link": "https://polyvictor.com/markets/3688221"
+        "market_id": "3945847",
+        "question": "US Open ATP: Dane Sweeny vs Corentin Moutet",
+        "volume_usd": 1105010.4543599999,
+        "fills": 33,
+        "link": "https://polyvictor.com/markets/3945847"
       },
       {
-        "market_id": "3691276",
-        "question": "Will CA Osasuna win on 2026-08-31?",
-        "volume_usd": 1902893.0623999997,
-        "fills": 29,
-        "link": "https://polyvictor.com/markets/3691276"
+        "market_id": "3713958",
+        "question": "Will Bristol City FC win on 2026-09-01?",
+        "volume_usd": 823780.98436,
+        "fills": 5,
+        "link": "https://polyvictor.com/markets/3713958"
       },
       {
-        "market_id": "3982944",
-        "question": "Counter-Strike: MOUZ vs Team Falcons (BO3) - BLAST Open Porto Group B",
-        "volume_usd": 879922.88645,
-        "fills": 24,
-        "link": "https://polyvictor.com/markets/3982944"
+        "market_id": "4000248",
+        "question": "LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs",
+        "volume_usd": 622545.4069480002,
+        "fills": 14,
+        "link": "https://polyvictor.com/markets/4000248"
       }
     ],
     "top_whales": [
       {
-        "address": "0x34dd4a4b70eaf79a17878f7938263c801d4dfd83",
-        "volume_usd": 7611946.217619998,
-        "fills": 62,
-        "link": "https://polyvictor.com/whales/0x34dd4a4b70eaf79a17878f7938263c801d4dfd83"
+        "address": "0x5dab5ed9691fab220535891d9c7f5c28eed322e1",
+        "volume_usd": 1223067.4184199998,
+        "fills": 9,
+        "link": "https://polyvictor.com/whales/0x5dab5ed9691fab220535891d9c7f5c28eed322e1"
       },
       {
-        "address": "0xbda25d40a34a17d819f3c87fedde35f2429d5689",
-        "volume_usd": 4373510.751704,
-        "fills": 6,
-        "link": "https://polyvictor.com/whales/0xbda25d40a34a17d819f3c87fedde35f2429d5689"
+        "address": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
+        "volume_usd": 849592.4641599999,
+        "fills": 25,
+        "link": "https://polyvictor.com/whales/0xc2e7800b5af46e6093872b177b7a5e7f0563be51"
       },
       {
-        "address": "0xcd65c3279408a33866a9129bed6943064cb6ee96",
-        "volume_usd": 1693247.8959019994,
-        "fills": 49,
-        "link": "https://polyvictor.com/whales/0xcd65c3279408a33866a9129bed6943064cb6ee96"
+        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+        "volume_usd": 758984.4713,
+        "fills": 16,
+        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
       }
     ],
     "biggest_fill": {
-      "address": "0xbda25d40a34a17d819f3c87fedde35f2429d5689",
-      "usd": 1463030.7048,
-      "side": "sell",
+      "address": "0xfc25f141ed27bb1787338d2c4e7f51e3a15e1f7f",
+      "usd": 217973.07873,
+      "side": "buy",
       "price": 0.999,
-      "market_id": "3688221",
-      "question": "Will Arsenal FC win on 2026-08-31?",
-      "link": "https://polyvictor.com/markets/3688221"
+      "market_id": "3713958",
+      "question": "Will Bristol City FC win on 2026-09-01?",
+      "link": "https://polyvictor.com/markets/3713958"
     }
   }
 }
