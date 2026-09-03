@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-02T04:58:00.700Z",
+  "generated_at": "2026-09-03T00:02:04.852Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "83f3409d-89f8-4bd0-a47a-cdeb5ba19db2",
-      "ts": "2026-09-02T04:56:32+00:00",
-      "address": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+      "id": "4655b014-0be2-4799-842e-a1cdf1833595",
+      "ts": "2026-09-03T00:00:03+00:00",
+      "address": "0xb77b6ef359f02192fb077227499f9f853d4870a5",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "St. Louis Cardinals",
-      "price": 0.93,
-      "shares": 35194,
-      "usd_value": 32730.420000000002,
-      "price_shift_pp": 28.000000000000004,
+      "outcome_label": "YES",
+      "price": 0.9907512782253036,
+      "shares": 25420.01,
+      "usd_value": 25184.9074,
+      "price_shift_pp": 26.075128041705696,
       "alert_reason": "shift",
-      "market_id": "3901973",
-      "condition_id": "3901973",
-      "token_id": "33893351491475976027382434393348435361629878415675760152193624228134036503467",
-      "question": "St. Louis Cardinals vs. Los Angeles Dodgers",
-      "link": "https://polyvictor.com/markets/3901973"
+      "market_id": null,
+      "condition_id": "0x0f9175b9049d95c895cb100ef6aa6a1358fb4137618b2e8c11b41777b56a2fbe",
+      "token_id": "45899364987561634261830724703454686132948119641951289914386359590203212836325",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
