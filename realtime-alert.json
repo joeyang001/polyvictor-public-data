@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-04T05:46:00.731Z",
+  "generated_at": "2026-09-04T07:28:00.905Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "c7f507a7-c9a8-4c43-9042-f9d409680cce",
-      "ts": "2026-09-04T05:43:58+00:00",
-      "address": "0x8f7c413f62a1db11277e74a92e1b37b9cbee901b",
-      "side": "sell",
-      "outcome_index": 0,
-      "outcome_label": "Over 4.5",
-      "price": 0.999,
-      "shares": 30000,
-      "usd_value": 29970,
-      "price_shift_pp": 44.9,
-      "alert_reason": "shift",
-      "market_id": "4124592",
-      "condition_id": "4124592",
-      "token_id": "112794460665658374573628739973677962657498462252746311838188577885409739077071",
-      "question": "Alexander Zverev vs. Quentin Halys: Total Sets O/U 4.5",
-      "link": "https://polyvictor.com/markets/4124592"
+      "id": "dbd635e7-3ed1-41e8-ab97-2ded6e350270",
+      "ts": "2026-09-04T07:26:53+00:00",
+      "address": "0xe609d476ebecc64e55788b4595fc53c343a1d4d4",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.8459805009999812,
+      "shares": 536570.08,
+      "usd_value": 453927.82509999996,
+      "price_shift_pp": -0.40194990000187447,
+      "alert_reason": "size",
+      "market_id": "1163699",
+      "condition_id": "1163699",
+      "token_id": "29633826701713552120011280893309822625942861174174976276686142480636225243753",
+      "question": "Clarity Act (H.R.3633) signed into law in 2026?",
+      "link": "https://polyvictor.com/markets/1163699"
     }
   ]
 }
