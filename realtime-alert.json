@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-03T00:02:04.852Z",
+  "generated_at": "2026-09-04T05:46:00.731Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "4655b014-0be2-4799-842e-a1cdf1833595",
-      "ts": "2026-09-03T00:00:03+00:00",
-      "address": "0xb77b6ef359f02192fb077227499f9f853d4870a5",
-      "side": "buy",
+      "id": "c7f507a7-c9a8-4c43-9042-f9d409680cce",
+      "ts": "2026-09-04T05:43:58+00:00",
+      "address": "0x8f7c413f62a1db11277e74a92e1b37b9cbee901b",
+      "side": "sell",
       "outcome_index": 0,
-      "outcome_label": "YES",
-      "price": 0.9907512782253036,
-      "shares": 25420.01,
-      "usd_value": 25184.9074,
-      "price_shift_pp": 26.075128041705696,
+      "outcome_label": "Over 4.5",
+      "price": 0.999,
+      "shares": 30000,
+      "usd_value": 29970,
+      "price_shift_pp": 44.9,
       "alert_reason": "shift",
-      "market_id": null,
-      "condition_id": "0x0f9175b9049d95c895cb100ef6aa6a1358fb4137618b2e8c11b41777b56a2fbe",
-      "token_id": "45899364987561634261830724703454686132948119641951289914386359590203212836325",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
+      "market_id": "4124592",
+      "condition_id": "4124592",
+      "token_id": "112794460665658374573628739973677962657498462252746311838188577885409739077071",
+      "question": "Alexander Zverev vs. Quentin Halys: Total Sets O/U 4.5",
+      "link": "https://polyvictor.com/markets/4124592"
     }
   ]
 }
