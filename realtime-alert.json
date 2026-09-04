@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-04T07:28:00.905Z",
+  "generated_at": "2026-09-04T11:22:05.062Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "dbd635e7-3ed1-41e8-ab97-2ded6e350270",
-      "ts": "2026-09-04T07:26:53+00:00",
-      "address": "0xe609d476ebecc64e55788b4595fc53c343a1d4d4",
+      "id": "be77054f-9240-4d76-b315-e08382b3a717",
+      "ts": "2026-09-04T11:19:57+00:00",
+      "address": "0x8d266b3a02e34cfaaaf2469dcbd35ed6a1291c15",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "No",
-      "price": 0.8459805009999812,
-      "shares": 536570.08,
-      "usd_value": 453927.82509999996,
-      "price_shift_pp": -0.40194990000187447,
-      "alert_reason": "size",
-      "market_id": "1163699",
-      "condition_id": "1163699",
-      "token_id": "29633826701713552120011280893309822625942861174174976276686142480636225243753",
-      "question": "Clarity Act (H.R.3633) signed into law in 2026?",
-      "link": "https://polyvictor.com/markets/1163699"
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.6008581914177287,
+      "shares": 53217.478358,
+      "usd_value": 31976.157797999997,
+      "price_shift_pp": 3.085819141772872,
+      "alert_reason": "shift",
+      "market_id": "2252244",
+      "condition_id": "2252244",
+      "token_id": "5615282760875985231868508008056959876238536896643315063916840237042205273721",
+      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "link": "https://polyvictor.com/markets/2252244"
     }
   ]
 }
