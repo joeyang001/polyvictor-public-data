@@ -1,68 +1,68 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-09-03",
-  "generated_at": "2026-09-03T14:00:07.006Z",
+  "date": "2026-09-04",
+  "generated_at": "2026-09-04T14:00:04.685Z",
   "status": "failed",
   "tweet_ids": [],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 350,
-    "total_volume_usd": 13458006.727763997,
-    "unique_whales": 106,
-    "buy_volume_usd": 10532672.283583999,
-    "sell_volume_usd": 2925334.444179999,
+    "total_fills": 232,
+    "total_volume_usd": 9189103.233920995,
+    "unique_whales": 92,
+    "buy_volume_usd": 7150542.972600999,
+    "sell_volume_usd": 2038560.2613200003,
     "top_markets": [
       {
-        "market_id": "4046601",
-        "question": "US Open ATP: Daniel Merida Aguilar vs Andrey Rublev",
-        "volume_usd": 2308339.6845899997,
-        "fills": 30,
-        "link": "https://polyvictor.com/markets/4046601"
+        "market_id": "1163699",
+        "question": "Clarity Act (H.R.3633) signed into law in 2026?",
+        "volume_usd": 1068677.36294,
+        "fills": 5,
+        "link": "https://polyvictor.com/markets/1163699"
       },
       {
-        "market_id": "4046605",
-        "question": "US Open ATP: Jaime Faria vs Carlos Alcaraz",
-        "volume_usd": 679188.17576,
+        "market_id": "4187799",
+        "question": "LoL: KT Rolster vs Dplus KIA - Game 1 Winner",
+        "volume_usd": 451414.82384,
         "fills": 12,
-        "link": "https://polyvictor.com/markets/4046605"
+        "link": "https://polyvictor.com/markets/4187799"
       },
       {
-        "market_id": "3931090",
-        "question": "Atlanta Braves vs. Washington Nationals",
-        "volume_usd": 675507.6716700001,
-        "fills": 10,
-        "link": "https://polyvictor.com/markets/3931090"
+        "market_id": "4187810",
+        "question": "LoL: KT Rolster vs Dplus KIA (BO5) - LCK Playoffs",
+        "volume_usd": 374325.914558,
+        "fills": 9,
+        "link": "https://polyvictor.com/markets/4187810"
       }
     ],
     "top_whales": [
       {
+        "address": "0xe609d476ebecc64e55788b4595fc53c343a1d4d4",
+        "volume_usd": 910652.19964,
+        "fills": 2,
+        "link": "https://polyvictor.com/whales/0xe609d476ebecc64e55788b4595fc53c343a1d4d4"
+      },
+      {
+        "address": "0xdb859a551fcf56e49416160911476bea7307152f",
+        "volume_usd": 527191.4015500001,
+        "fills": 12,
+        "link": "https://polyvictor.com/whales/0xdb859a551fcf56e49416160911476bea7307152f"
+      },
+      {
         "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 1273807.6540749997,
-        "fills": 21,
+        "volume_usd": 512509.6291899999,
+        "fills": 14,
         "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
-      },
-      {
-        "address": "0x5dab5ed9691fab220535891d9c7f5c28eed322e1",
-        "volume_usd": 1000469.6968400001,
-        "fills": 14,
-        "link": "https://polyvictor.com/whales/0x5dab5ed9691fab220535891d9c7f5c28eed322e1"
-      },
-      {
-        "address": "0x168a51f1cac0ad3b166797069382495a8aa10d24",
-        "volume_usd": 980424.71617,
-        "fills": 14,
-        "link": "https://polyvictor.com/whales/0x168a51f1cac0ad3b166797069382495a8aa10d24"
       }
     ],
     "biggest_fill": {
-      "address": "0x5dab5ed9691fab220535891d9c7f5c28eed322e1",
-      "usd": 218457.71361,
-      "side": "sell",
-      "price": 0.999,
-      "market_id": "4046601",
-      "question": "US Open ATP: Daniel Merida Aguilar vs Andrey Rublev",
-      "link": "https://polyvictor.com/markets/4046601"
+      "address": "0xe609d476ebecc64e55788b4595fc53c343a1d4d4",
+      "usd": 456724.37454,
+      "side": "buy",
+      "price": 0.845980501,
+      "market_id": "1163699",
+      "question": "Clarity Act (H.R.3633) signed into law in 2026?",
+      "link": "https://polyvictor.com/markets/1163699"
     }
   }
 }
