@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-05T16:42:01.801Z",
+  "generated_at": "2026-09-05T18:12:03.707Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "933a2fb6-907f-4e8f-a1ef-06d60bd48a0c",
-      "ts": "2026-09-05T16:40:20+00:00",
-      "address": "0xca6465345246f543b7cb3152d5f5f54096f84f43",
+      "id": "2bc2ba71-b4ae-4df8-822c-e7ef43aab8bf",
+      "ts": "2026-09-05T18:11:47+00:00",
+      "address": "0x983eedfbd75803602e4a6e6ea9aab6dc6b9c6748",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.8405813704737375,
-      "shares": 47586.1129,
-      "usd_value": 39999.999997,
-      "price_shift_pp": 3.0581372387625816,
-      "alert_reason": "shift",
-      "market_id": "3792008",
-      "condition_id": "3792008",
-      "token_id": "41258822720320810346922158746535633770911854541294419043189690522039212620251",
-      "question": "Will FC Bayern München win on 2026-09-05?",
-      "link": "https://polyvictor.com/markets/3792008"
+      "outcome_label": "YES",
+      "price": 0.56,
+      "shares": 450000,
+      "usd_value": 252000.00000000003,
+      "price_shift_pp": 1.0000000000000009,
+      "alert_reason": "size",
+      "market_id": null,
+      "condition_id": "0xeb5de035d17e3b7463d5409da86321c986868d08110178cc68dc0c47ac178979",
+      "token_id": "38589532715670351991557940767739394513630607504141762248566680887308745753974",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
