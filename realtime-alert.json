@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-04T17:36:01.073Z",
+  "generated_at": "2026-09-05T09:58:00.972Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "30c5f485-be9c-4d02-909e-660d8106c189",
-      "ts": "2026-09-04T17:34:57+00:00",
-      "address": "0xccd81fbd3395dc43a0531f8484b21c2462daf4de",
+      "id": "035874dd-1896-412a-b7c3-27d74c44982a",
+      "ts": "2026-09-05T09:57:11+00:00",
+      "address": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Carlos Alcaraz",
-      "price": 0.94,
-      "shares": 380885.72,
-      "usd_value": 358032.5768,
-      "price_shift_pp": 1.8800025980425517e-7,
-      "alert_reason": "size",
-      "market_id": "4182438",
-      "condition_id": "4182438",
-      "token_id": "56069525114082668281899946218685961010834979387372007242411137900430426594056",
-      "question": "US Open ATP: Yibing Wu vs Carlos Alcaraz",
-      "link": "https://polyvictor.com/markets/4182438"
+      "outcome_index": 0,
+      "outcome_label": "Gen.G",
+      "price": 0.9826154133949914,
+      "shares": 33250.04,
+      "usd_value": 32672.0018,
+      "price_shift_pp": 4.261541339499142,
+      "alert_reason": "shift",
+      "market_id": "4129410",
+      "condition_id": "4129410",
+      "token_id": "2785369006710140812188691708629296123559061998366528169169402681975764761553",
+      "question": "LoL: Gen.G vs Hanwha Life Esports - Game 2 Winner",
+      "link": "https://polyvictor.com/markets/4129410"
     }
   ]
 }
