@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-06T12:58:00.871Z",
+  "generated_at": "2026-09-06T16:04:01.212Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "ac90a25c-2ec4-454d-bbe7-f6acfce90ee1",
-      "ts": "2026-09-06T12:56:53+00:00",
-      "address": "0x983eedfbd75803602e4a6e6ea9aab6dc6b9c6748",
+      "id": "c9a2b9e6-f3ee-48ec-9117-dc1474f5b3a8",
+      "ts": "2026-09-06T16:03:32+00:00",
+      "address": "0x2dfa4e79eca44b7c774f40a45535adbc368a6f60",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.51,
-      "shares": 733579.18,
-      "usd_value": 374125.38180000003,
-      "price_shift_pp": 0.000016830011284607593,
+      "outcome_label": "Spirit",
+      "price": 0.62,
+      "shares": 703966.19,
+      "usd_value": 436459.0378,
+      "price_shift_pp": 1.0000000000000009,
       "alert_reason": "size",
-      "market_id": "3829899",
-      "condition_id": "3829899",
-      "token_id": "83179568795763809221087047886460646888755192722768890848153956207046075375116",
-      "question": "Will Manchester United FC win on 2026-09-06?",
-      "link": "https://polyvictor.com/markets/3829899"
+      "market_id": "4254841",
+      "condition_id": "4254841",
+      "token_id": "46214028756127479277894493426066364156179406361211424240313352820576368747443",
+      "question": "Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs",
+      "link": "https://polyvictor.com/markets/4254841"
     }
   ]
 }
