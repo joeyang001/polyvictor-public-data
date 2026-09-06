@@ -1,68 +1,68 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-09-05",
-  "generated_at": "2026-09-05T14:00:07.779Z",
+  "date": "2026-09-06",
+  "generated_at": "2026-09-06T14:00:04.568Z",
   "status": "failed",
   "tweet_ids": [],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 459,
-    "total_volume_usd": 17970414.74749,
-    "unique_whales": 131,
-    "buy_volume_usd": 14868056.539410003,
-    "sell_volume_usd": 3102358.208080001,
+    "total_fills": 503,
+    "total_volume_usd": 21951836.557361014,
+    "unique_whales": 156,
+    "buy_volume_usd": 18088676.775246006,
+    "sell_volume_usd": 3863159.7821150008,
     "top_markets": [
       {
-        "market_id": "4182436",
-        "question": "US Open ATP: Alexander Bublik vs Tommy Paul",
-        "volume_usd": 1099452.548,
-        "fills": 29,
-        "link": "https://polyvictor.com/markets/4182436"
+        "market_id": "3829899",
+        "question": "Will Manchester United FC win on 2026-09-06?",
+        "volume_usd": 3429347.791318,
+        "fills": 43,
+        "link": "https://polyvictor.com/markets/3829899"
       },
       {
-        "market_id": "4182438",
-        "question": "US Open ATP: Yibing Wu vs Carlos Alcaraz",
-        "volume_usd": 864778.28336,
+        "market_id": "3791959",
+        "question": "Will OGC Nice win on 2026-09-05?",
+        "volume_usd": 1006229.13064,
         "fills": 11,
-        "link": "https://polyvictor.com/markets/4182438"
+        "link": "https://polyvictor.com/markets/3791959"
       },
       {
-        "market_id": "1163699",
-        "question": "Clarity Act (H.R.3633) signed into law in 2026?",
-        "volume_usd": 858205.2329200001,
-        "fills": 4,
-        "link": "https://polyvictor.com/markets/1163699"
+        "market_id": "4229388",
+        "question": "Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs",
+        "volume_usd": 953161.012041,
+        "fills": 25,
+        "link": "https://polyvictor.com/markets/4229388"
       }
     ],
     "top_whales": [
       {
-        "address": "0x168a51f1cac0ad3b166797069382495a8aa10d24",
-        "volume_usd": 1345608.28649,
-        "fills": 34,
-        "link": "https://polyvictor.com/whales/0x168a51f1cac0ad3b166797069382495a8aa10d24"
+        "address": "0x983eedfbd75803602e4a6e6ea9aab6dc6b9c6748",
+        "volume_usd": 4301304.1548,
+        "fills": 35,
+        "link": "https://polyvictor.com/whales/0x983eedfbd75803602e4a6e6ea9aab6dc6b9c6748"
       },
       {
-        "address": "0xccd81fbd3395dc43a0531f8484b21c2462daf4de",
-        "volume_usd": 915861.9421000001,
-        "fills": 13,
-        "link": "https://polyvictor.com/whales/0xccd81fbd3395dc43a0531f8484b21c2462daf4de"
+        "address": "0x0a39b3b29ab3b7dd753aa96fde4ecab3f2dbb0b9",
+        "volume_usd": 581114.90451,
+        "fills": 11,
+        "link": "https://polyvictor.com/whales/0x0a39b3b29ab3b7dd753aa96fde4ecab3f2dbb0b9"
       },
       {
-        "address": "0x9bb1bc70c9e098f2f297416d06a0aa3992534dbe",
-        "volume_usd": 890675.4464199999,
-        "fills": 21,
-        "link": "https://polyvictor.com/whales/0x9bb1bc70c9e098f2f297416d06a0aa3992534dbe"
+        "address": "0x90aa1d6aeeb57121944bafb49da6c21eb8670dca",
+        "volume_usd": 483473.666114,
+        "fills": 11,
+        "link": "https://polyvictor.com/whales/0x90aa1d6aeeb57121944bafb49da6c21eb8670dca"
       }
     ],
     "biggest_fill": {
-      "address": "0xccd81fbd3395dc43a0531f8484b21c2462daf4de",
-      "usd": 358032.5768,
+      "address": "0x983eedfbd75803602e4a6e6ea9aab6dc6b9c6748",
+      "usd": 374125.38180000003,
       "side": "buy",
-      "price": 0.94,
-      "market_id": "4182438",
-      "question": "US Open ATP: Yibing Wu vs Carlos Alcaraz",
-      "link": "https://polyvictor.com/markets/4182438"
+      "price": 0.51,
+      "market_id": "3829899",
+      "question": "Will Manchester United FC win on 2026-09-06?",
+      "link": "https://polyvictor.com/markets/3829899"
     }
   }
 }
