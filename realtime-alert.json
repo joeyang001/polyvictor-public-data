@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-06T10:24:01.161Z",
+  "generated_at": "2026-09-06T12:22:01.239Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "9afe3bcb-5d46-463d-baab-a2f37fcc8eff",
-      "ts": "2026-09-06T10:22:30+00:00",
-      "address": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+      "id": "37fc6afc-4edc-40de-9aa7-20564eaffded",
+      "ts": "2026-09-06T12:20:00+00:00",
+      "address": "0x983eedfbd75803602e4a6e6ea9aab6dc6b9c6748",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "NO",
-      "price": 0.6902417841999023,
-      "shares": 37016.48,
-      "usd_value": 25550.321200000002,
-      "price_shift_pp": -3.975821580009764,
-      "alert_reason": "shift",
-      "market_id": null,
-      "condition_id": "0x405a6b139b8fdb9241da1aa3c11817329818f7ca67a2701319aabb6613e27c0e",
-      "token_id": "89339581393098920302030795018728578782559208749753107322486599344938348875231",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.5,
+      "shares": 565221,
+      "usd_value": 282610.5,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "3829899",
+      "condition_id": "3829899",
+      "token_id": "83179568795763809221087047886460646888755192722768890848153956207046075375116",
+      "question": "Will Manchester United FC win on 2026-09-06?",
+      "link": "https://polyvictor.com/markets/3829899"
     }
   ]
 }
