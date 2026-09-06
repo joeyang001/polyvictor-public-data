@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-06T16:04:01.212Z",
+  "generated_at": "2026-09-06T20:58:01.001Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "c9a2b9e6-f3ee-48ec-9117-dc1474f5b3a8",
-      "ts": "2026-09-06T16:03:32+00:00",
-      "address": "0x2dfa4e79eca44b7c774f40a45535adbc368a6f60",
+      "id": "1fd0ba2b-f7a0-43df-84e7-657b1f760516",
+      "ts": "2026-09-06T20:57:26+00:00",
+      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Spirit",
-      "price": 0.62,
-      "shares": 703966.19,
-      "usd_value": 436459.0378,
-      "price_shift_pp": 1.0000000000000009,
-      "alert_reason": "size",
-      "market_id": "4254841",
-      "condition_id": "4254841",
-      "token_id": "46214028756127479277894493426066364156179406361211424240313352820576368747443",
-      "question": "Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs",
-      "link": "https://polyvictor.com/markets/4254841"
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.7426116209671683,
+      "shares": 37679.48,
+      "usd_value": 27981.21972,
+      "price_shift_pp": 19.261162115966822,
+      "alert_reason": "shift",
+      "market_id": "3832945",
+      "condition_id": "3832945",
+      "token_id": "57121706582018930416197451526446483718707038461852593682336440456722667882313",
+      "question": "Will Sevilla FC win on 2026-09-06?",
+      "link": "https://polyvictor.com/markets/3832945"
     }
   ]
 }
