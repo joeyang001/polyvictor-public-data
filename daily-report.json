@@ -1,68 +1,68 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-09-06",
-  "generated_at": "2026-09-06T14:00:04.568Z",
+  "date": "2026-09-07",
+  "generated_at": "2026-09-07T14:00:06.365Z",
   "status": "failed",
   "tweet_ids": [],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 503,
-    "total_volume_usd": 21951836.557361014,
-    "unique_whales": 156,
-    "buy_volume_usd": 18088676.775246006,
-    "sell_volume_usd": 3863159.7821150008,
+    "total_fills": 391,
+    "total_volume_usd": 15617556.269688006,
+    "unique_whales": 131,
+    "buy_volume_usd": 13545480.089698005,
+    "sell_volume_usd": 2072076.1799899996,
     "top_markets": [
       {
-        "market_id": "3829899",
-        "question": "Will Manchester United FC win on 2026-09-06?",
-        "volume_usd": 3429347.791318,
-        "fills": 43,
-        "link": "https://polyvictor.com/markets/3829899"
-      },
-      {
-        "market_id": "3791959",
-        "question": "Will OGC Nice win on 2026-09-05?",
-        "volume_usd": 1006229.13064,
+        "market_id": "4254841",
+        "question": "Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs",
+        "volume_usd": 1258729.108689,
         "fills": 11,
-        "link": "https://polyvictor.com/markets/3791959"
+        "link": "https://polyvictor.com/markets/4254841"
       },
       {
-        "market_id": "4229388",
-        "question": "Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs",
-        "volume_usd": 953161.012041,
-        "fills": 25,
-        "link": "https://polyvictor.com/markets/4229388"
+        "market_id": "4244376",
+        "question": "US Open ATP: Ben Shelton vs Stefanos Tsitsipas",
+        "volume_usd": 1027888.5859500001,
+        "fills": 15,
+        "link": "https://polyvictor.com/markets/4244376"
+      },
+      {
+        "market_id": "3829942",
+        "question": "Will Stade Rennais FC 1901 win on 2026-09-06?",
+        "volume_usd": 781967.0618099999,
+        "fills": 17,
+        "link": "https://polyvictor.com/markets/3829942"
       }
     ],
     "top_whales": [
       {
-        "address": "0x983eedfbd75803602e4a6e6ea9aab6dc6b9c6748",
-        "volume_usd": 4301304.1548,
-        "fills": 35,
-        "link": "https://polyvictor.com/whales/0x983eedfbd75803602e4a6e6ea9aab6dc6b9c6748"
+        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+        "volume_usd": 926254.4647499999,
+        "fills": 17,
+        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
       },
       {
-        "address": "0x0a39b3b29ab3b7dd753aa96fde4ecab3f2dbb0b9",
-        "volume_usd": 581114.90451,
-        "fills": 11,
-        "link": "https://polyvictor.com/whales/0x0a39b3b29ab3b7dd753aa96fde4ecab3f2dbb0b9"
+        "address": "0x2dfa4e79eca44b7c774f40a45535adbc368a6f60",
+        "volume_usd": 881210.79731,
+        "fills": 2,
+        "link": "https://polyvictor.com/whales/0x2dfa4e79eca44b7c774f40a45535adbc368a6f60"
       },
       {
-        "address": "0x90aa1d6aeeb57121944bafb49da6c21eb8670dca",
-        "volume_usd": 483473.666114,
-        "fills": 11,
-        "link": "https://polyvictor.com/whales/0x90aa1d6aeeb57121944bafb49da6c21eb8670dca"
+        "address": "0x0f6f76ced62a911bccef92f50faaff143854d977",
+        "volume_usd": 802304.8810099999,
+        "fills": 16,
+        "link": "https://polyvictor.com/whales/0x0f6f76ced62a911bccef92f50faaff143854d977"
       }
     ],
     "biggest_fill": {
-      "address": "0x983eedfbd75803602e4a6e6ea9aab6dc6b9c6748",
-      "usd": 374125.38180000003,
+      "address": "0x2dfa4e79eca44b7c774f40a45535adbc368a6f60",
+      "usd": 444751.75951,
       "side": "buy",
-      "price": 0.51,
-      "market_id": "3829899",
-      "question": "Will Manchester United FC win on 2026-09-06?",
-      "link": "https://polyvictor.com/markets/3829899"
+      "price": 0.62,
+      "market_id": "4254841",
+      "question": "Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs",
+      "link": "https://polyvictor.com/markets/4254841"
     }
   }
 }
