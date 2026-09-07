@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-06T20:58:01.001Z",
+  "generated_at": "2026-09-07T09:02:04.809Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "1fd0ba2b-f7a0-43df-84e7-657b1f760516",
-      "ts": "2026-09-06T20:57:26+00:00",
-      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+      "id": "ad094df9-99d5-4861-8747-5d4f119325bb",
+      "ts": "2026-09-07T09:01:55+00:00",
+      "address": "0xeae1e3f0da9c9adcdd69c021cd0385d9a6b4a67b",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "No",
-      "price": 0.7426116209671683,
-      "shares": 37679.48,
-      "usd_value": 27981.21972,
-      "price_shift_pp": 19.261162115966822,
+      "outcome_index": 0,
+      "outcome_label": "YES",
+      "price": 0.8186508620275404,
+      "shares": 32255.93,
+      "usd_value": 26406.344900000004,
+      "price_shift_pp": -11.13491379724596,
       "alert_reason": "shift",
-      "market_id": "3832945",
-      "condition_id": "3832945",
-      "token_id": "57121706582018930416197451526446483718707038461852593682336440456722667882313",
-      "question": "Will Sevilla FC win on 2026-09-06?",
-      "link": "https://polyvictor.com/markets/3832945"
+      "market_id": null,
+      "condition_id": "0xee92165c9a9f2da8af095a37b088738570d1b1d10e72f39263ff6a7aa805f6af",
+      "token_id": "107772423599410284142294289160378924985247947012119266094705448496473653394491",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
