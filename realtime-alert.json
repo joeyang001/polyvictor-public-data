@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-07T18:44:01.078Z",
+  "generated_at": "2026-09-08T01:44:00.884Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "a4195c71-c080-4435-ac22-042d8bcfcd21",
-      "ts": "2026-09-07T18:42:30+00:00",
-      "address": "0x0e604be17c231a33dc01e38a722c7fe3984e3bad",
-      "side": "buy",
+      "id": "93943ef8-3cc2-46ab-b84f-a6d8b4f98b2a",
+      "ts": "2026-09-08T01:42:10+00:00",
+      "address": "0x31e5d54aded22aa7cd80dbe9e33102abe2504879",
+      "side": "sell",
       "outcome_index": 0,
-      "outcome_label": "Francisco Cerundolo",
-      "price": 0.8103263263108207,
-      "shares": 79672.420727,
-      "usd_value": 64560.659996,
-      "price_shift_pp": 4.032642996471925,
-      "alert_reason": "shift",
-      "market_id": "4268691",
-      "condition_id": "4268691",
-      "token_id": "74686197707813039439230452310992623833119051707929666170678570387096482053076",
-      "question": "US Open ATP: Francisco Cerundolo vs Alexander Blockx",
-      "link": "https://polyvictor.com/markets/4268691"
+      "outcome_label": "Karen Khachanov",
+      "price": 0.999,
+      "shares": 280305,
+      "usd_value": 280024.695,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "4284482",
+      "condition_id": "4284482",
+      "token_id": "64250917139939360825140876006288355225510390739618522408087890757626102720007",
+      "question": "US Open ATP: Karen Khachanov vs Learner Tien",
+      "link": "https://polyvictor.com/markets/4284482"
     }
   ]
 }
