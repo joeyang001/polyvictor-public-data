@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-08T01:44:00.884Z",
+  "generated_at": "2026-09-08T02:18:00.990Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "93943ef8-3cc2-46ab-b84f-a6d8b4f98b2a",
-      "ts": "2026-09-08T01:42:10+00:00",
+      "id": "32b73eaf-a3aa-4b68-97eb-4bff012bbf67",
+      "ts": "2026-09-08T02:16:04+00:00",
       "address": "0x31e5d54aded22aa7cd80dbe9e33102abe2504879",
       "side": "sell",
-      "outcome_index": 0,
-      "outcome_label": "Karen Khachanov",
+      "outcome_index": 1,
+      "outcome_label": "Botic van de Zandschulp",
       "price": 0.999,
-      "shares": 280305,
-      "usd_value": 280024.695,
+      "shares": 335117.9,
+      "usd_value": 334782.7821,
       "price_shift_pp": 0,
       "alert_reason": "size",
-      "market_id": "4284482",
-      "condition_id": "4284482",
-      "token_id": "64250917139939360825140876006288355225510390739618522408087890757626102720007",
-      "question": "US Open ATP: Karen Khachanov vs Learner Tien",
-      "link": "https://polyvictor.com/markets/4284482"
+      "market_id": "4276667",
+      "condition_id": "4276667",
+      "token_id": "111703077666529355124773019378339323057832673993959133601043704236649357701734",
+      "question": "US Open ATP: Arthur Gea vs Botic van de Zandschulp",
+      "link": "https://polyvictor.com/markets/4276667"
     }
   ]
 }
