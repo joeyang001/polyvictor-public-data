@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-08T20:22:01.410Z",
+  "generated_at": "2026-09-08T20:56:01.151Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "a090ee03-daeb-4729-bb50-d842097d865b",
-      "ts": "2026-09-08T20:20:43+00:00",
-      "address": "0xdb859a551fcf56e49416160911476bea7307152f",
-      "side": "sell",
-      "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.7216885023348687,
-      "shares": 67569.11,
-      "usd_value": 48763.8498,
-      "price_shift_pp": 16.244942649508985,
+      "id": "f768a268-89f4-498a-b73e-3c6b6adbfb5c",
+      "ts": "2026-09-08T20:54:02+00:00",
+      "address": "0x9e3ae3f398205723ae2fafbe7522a5de2edbe974",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "Under",
+      "price": 0.9793803333333333,
+      "shares": 30000,
+      "usd_value": 29381.41,
+      "price_shift_pp": 3.938033333333335,
       "alert_reason": "shift",
-      "market_id": "3977521",
-      "condition_id": "3977521",
-      "token_id": "86282717075385996647522228376489672197361940017550577723002266796981247372784",
-      "question": "Will BV Borussia 09 Dortmund win on 2026-09-08?",
-      "link": "https://polyvictor.com/markets/3977521"
+      "market_id": "3978765",
+      "condition_id": "3978765",
+      "token_id": "57053806682993402832629775254860268806925811494351501702172082998838841583940",
+      "question": "Real Madrid CF vs. FC Internazionale Milano: O/U 3.5",
+      "link": "https://polyvictor.com/markets/3978765"
     }
   ]
 }
