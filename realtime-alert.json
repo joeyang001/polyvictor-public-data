@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-08T16:02:05.353Z",
+  "generated_at": "2026-09-08T18:00:13.115Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "42093b47-a83c-44be-96e7-1f04eb8c6241",
-      "ts": "2026-09-08T16:01:06+00:00",
-      "address": "0x983eedfbd75803602e4a6e6ea9aab6dc6b9c6748",
+      "id": "ca34ed29-e16e-4c9b-b1f7-9b15d501bd6a",
+      "ts": "2026-09-08T17:59:39+00:00",
+      "address": "0x0f6f76ced62a911bccef92f50faaff143854d977",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.38,
-      "shares": 1052222,
-      "usd_value": 399844.36,
-      "price_shift_pp": 3.80000031441341e-8,
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.72,
+      "shares": 371667.81,
+      "usd_value": 267600.8232,
+      "price_shift_pp": 1.000002983195658,
       "alert_reason": "size",
-      "market_id": "3977510",
-      "condition_id": "3977510",
-      "token_id": "62171570253589592517028424769725991033319854364767512142825938888784158280194",
-      "question": "Will Club Brugge KV win on 2026-09-08?",
-      "link": "https://polyvictor.com/markets/3977510"
+      "market_id": "3977519",
+      "condition_id": "0x7a1c90744885303a8ba6a7cb85ba0ac1d75045869e739a3e1060a689e7129827",
+      "token_id": "33875337407517526597966627612686249989351955590312258859107142061400099595731",
+      "question": "Will Real Betis Balompié win on 2026-09-08?",
+      "link": "https://polyvictor.com/markets/3977519"
     }
   ]
 }
