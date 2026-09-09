@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-09T23:20:01.772Z",
+  "generated_at": "2026-09-09T23:22:02.789Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 3,
   "alerts": [
+    {
+      "id": "92f71e5e-701e-42f1-9d81-c6aa977c06e7",
+      "ts": "2026-09-09T23:21:03+00:00",
+      "address": "0x31e5d54aded22aa7cd80dbe9e33102abe2504879",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Alexander Zverev",
+      "price": 0.88,
+      "shares": 554893.77,
+      "usd_value": 488306.5176,
+      "price_shift_pp": 0.000004693345601047838,
+      "alert_reason": "size",
+      "market_id": "4356608",
+      "condition_id": "4356608",
+      "token_id": "9158437108174135547239483835198621883927847537872618727943792296109949759031",
+      "question": "US Open ATP: Alexander Zverev vs Botic van de Zandschulp",
+      "link": "https://polyvictor.com/markets/4356608"
+    },
     {
       "id": "f910ce44-7d26-4620-8fa7-e32cf7ea4114",
       "ts": "2026-09-09T23:19:41+00:00",
