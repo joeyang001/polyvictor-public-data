@@ -1,68 +1,68 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-09-08",
-  "generated_at": "2026-09-08T14:00:04.120Z",
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T14:00:07.216Z",
   "status": "failed",
   "tweet_ids": [],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 499,
-    "total_volume_usd": 19514008.035884,
-    "unique_whales": 128,
-    "buy_volume_usd": 15051340.057743996,
-    "sell_volume_usd": 4462667.9781399965,
+    "total_fills": 458,
+    "total_volume_usd": 25803858.317090992,
+    "unique_whales": 129,
+    "buy_volume_usd": 19687621.535370998,
+    "sell_volume_usd": 6116236.781719998,
     "top_markets": [
       {
-        "market_id": "4276667",
-        "question": "US Open ATP: Arthur Gea vs Botic van de Zandschulp",
-        "volume_usd": 1859553.2720500005,
-        "fills": 25,
-        "link": "https://polyvictor.com/markets/4276667"
+        "market_id": "3977521",
+        "question": "Will BV Borussia 09 Dortmund win on 2026-09-08?",
+        "volume_usd": 5513974.918100001,
+        "fills": 43,
+        "link": "https://polyvictor.com/markets/3977521"
       },
       {
-        "market_id": "4284482",
-        "question": "US Open ATP: Karen Khachanov vs Learner Tien",
-        "volume_usd": 1806991.649734,
-        "fills": 33,
-        "link": "https://polyvictor.com/markets/4284482"
+        "market_id": "3977510",
+        "question": "Will Club Brugge KV win on 2026-09-08?",
+        "volume_usd": 3314548.920670001,
+        "fills": 50,
+        "link": "https://polyvictor.com/markets/3977510"
       },
       {
-        "market_id": "4059453",
-        "question": "Cincinnati Reds vs. Los Angeles Dodgers",
-        "volume_usd": 1205642.353724,
-        "fills": 27,
-        "link": "https://polyvictor.com/markets/4059453"
+        "market_id": "4130407",
+        "question": "Colorado Rockies vs. New York Yankees",
+        "volume_usd": 2442084.5716500003,
+        "fills": 8,
+        "link": "https://polyvictor.com/markets/4130407"
       }
     ],
     "top_whales": [
       {
-        "address": "0x31e5d54aded22aa7cd80dbe9e33102abe2504879",
-        "volume_usd": 2647483.301158999,
-        "fills": 28,
-        "link": "https://polyvictor.com/whales/0x31e5d54aded22aa7cd80dbe9e33102abe2504879"
-      },
-      {
-        "address": "0x0f6f76ced62a911bccef92f50faaff143854d977",
-        "volume_usd": 1598622.69314,
-        "fills": 45,
-        "link": "https://polyvictor.com/whales/0x0f6f76ced62a911bccef92f50faaff143854d977"
+        "address": "0x51698a47f840a242abc2ca0351371c7ffac41842",
+        "volume_usd": 4097489.34678,
+        "fills": 20,
+        "link": "https://polyvictor.com/whales/0x51698a47f840a242abc2ca0351371c7ffac41842"
       },
       {
         "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 1313608.9823989999,
-        "fills": 29,
+        "volume_usd": 3263978.807222,
+        "fills": 32,
         "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
+      },
+      {
+        "address": "0x0f6f76ced62a911bccef92f50faaff143854d977",
+        "volume_usd": 2179967.82436,
+        "fills": 26,
+        "link": "https://polyvictor.com/whales/0x0f6f76ced62a911bccef92f50faaff143854d977"
       }
     ],
     "biggest_fill": {
-      "address": "0x31e5d54aded22aa7cd80dbe9e33102abe2504879",
-      "usd": 334782.7821,
-      "side": "sell",
-      "price": 0.999,
-      "market_id": "4276667",
-      "question": "US Open ATP: Arthur Gea vs Botic van de Zandschulp",
-      "link": "https://polyvictor.com/markets/4276667"
+      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+      "usd": 837147.89115,
+      "side": "buy",
+      "price": 0.85,
+      "market_id": "4130407",
+      "question": "Colorado Rockies vs. New York Yankees",
+      "link": "https://polyvictor.com/markets/4130407"
     }
   }
 }
