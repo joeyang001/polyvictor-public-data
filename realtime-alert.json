@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-09T18:54:00.905Z",
+  "generated_at": "2026-09-09T19:02:15.483Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 3,
   "alerts": [
+    {
+      "id": "b4f885d1-bf5b-4a0d-b272-a9ef2f2f9929",
+      "ts": "2026-09-09T19:01:30+00:00",
+      "address": "0xccd81fbd3395dc43a0531f8484b21c2462daf4de",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.95,
+      "shares": 300000,
+      "usd_value": 285000,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "3977540",
+      "condition_id": "3977540",
+      "token_id": "107692124426383158474642267431772330520340568319146169058506217587441158644544",
+      "question": "Will Paris Saint-Germain FC win on 2026-09-09?",
+      "link": "https://polyvictor.com/markets/3977540"
+    },
     {
       "id": "ffe6113b-e626-4a9a-8c0b-7518de65d5ca",
       "ts": "2026-09-09T18:52:16+00:00",
