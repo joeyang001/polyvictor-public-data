@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-09T15:08:00.917Z",
+  "generated_at": "2026-09-09T16:44:03.801Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "06ac31d8-3338-4b8e-b5db-c3fca62f6962",
-      "ts": "2026-09-09T15:07:45+00:00",
-      "address": "0xa0e72d5575095199ae08ce0dce447f21b7249461",
+      "id": "29afc5e0-662c-4c88-a5fb-837647f6d8fb",
+      "ts": "2026-09-09T16:42:32+00:00",
+      "address": "0x0f6f76ced62a911bccef92f50faaff143854d977",
       "side": "buy",
       "outcome_index": 0,
       "outcome_label": "Yes",
-      "price": 0.627238838,
-      "shares": 50000,
-      "usd_value": 31361.9419,
-      "price_shift_pp": 8.7238838,
-      "alert_reason": "shift",
-      "market_id": "4339037",
-      "condition_id": "4339037",
-      "token_id": "72691498590329627056417089679857830107121966560913973056058862206568394608746",
-      "question": "LAPTOP FDV above $500M one day after launch?",
-      "link": "https://polyvictor.com/markets/4339037"
+      "price": 0.8188237072837073,
+      "shares": 555555,
+      "usd_value": 454901.6047,
+      "price_shift_pp": 0.8823707283707294,
+      "alert_reason": "size",
+      "market_id": "3977536",
+      "condition_id": "3977536",
+      "token_id": "10130894412276326581189986257623712161928546759341177826691491672149170825945",
+      "question": "Will VfB Stuttgart win on 2026-09-09?",
+      "link": "https://polyvictor.com/markets/3977536"
     }
   ]
 }
