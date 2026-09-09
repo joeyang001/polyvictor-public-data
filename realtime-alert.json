@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-09T18:50:03.723Z",
+  "generated_at": "2026-09-09T18:54:00.905Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "ffe6113b-e626-4a9a-8c0b-7518de65d5ca",
+      "ts": "2026-09-09T18:52:16+00:00",
+      "address": "0x168a51f1cac0ad3b166797069382495a8aa10d24",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.61,
+      "shares": 819672,
+      "usd_value": 499999.92,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "3977543",
+      "condition_id": "3977543",
+      "token_id": "111542660486399282647408117439638950802775541416995149264363091678184762870709",
+      "question": "Will Sporting CP win on 2026-09-09?",
+      "link": "https://polyvictor.com/markets/3977543"
+    },
     {
       "id": "2b67f466-9358-4f94-b808-95eac750c88a",
       "ts": "2026-09-09T18:49:18+00:00",
