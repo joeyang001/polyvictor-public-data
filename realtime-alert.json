@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-09T16:44:03.801Z",
+  "generated_at": "2026-09-09T18:50:03.723Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "29afc5e0-662c-4c88-a5fb-837647f6d8fb",
-      "ts": "2026-09-09T16:42:32+00:00",
-      "address": "0x0f6f76ced62a911bccef92f50faaff143854d977",
-      "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.8188237072837073,
-      "shares": 555555,
-      "usd_value": 454901.6047,
-      "price_shift_pp": 0.8823707283707294,
+      "id": "2b67f466-9358-4f94-b808-95eac750c88a",
+      "ts": "2026-09-09T18:49:18+00:00",
+      "address": "0xccd81fbd3395dc43a0531f8484b21c2462daf4de",
+      "side": "sell",
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.999,
+      "shares": 534991.53,
+      "usd_value": 534456.53847,
+      "price_shift_pp": 0,
       "alert_reason": "size",
-      "market_id": "3977536",
-      "condition_id": "3977536",
-      "token_id": "10130894412276326581189986257623712161928546759341177826691491672149170825945",
-      "question": "Will VfB Stuttgart win on 2026-09-09?",
-      "link": "https://polyvictor.com/markets/3977536"
+      "market_id": "3977534",
+      "condition_id": "3977534",
+      "token_id": "79770657572845186647985852868193112124482609991202283114734969224169243943645",
+      "question": "Will Feyenoord Rotterdam win on 2026-09-09?",
+      "link": "https://polyvictor.com/markets/3977534"
     }
   ]
 }
