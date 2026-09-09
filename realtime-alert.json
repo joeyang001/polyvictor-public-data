@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-09T13:12:05.451Z",
+  "generated_at": "2026-09-09T15:08:00.917Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "9fe5f9ca-af91-45fe-8882-1762edf5e6e3",
-      "ts": "2026-09-09T13:09:59+00:00",
-      "address": "0xa66f982e97e7b52b127892844af74349868f301a",
+      "id": "06ac31d8-3338-4b8e-b5db-c3fca62f6962",
+      "ts": "2026-09-09T15:07:45+00:00",
+      "address": "0xa0e72d5575095199ae08ce0dce447f21b7249461",
       "side": "buy",
       "outcome_index": 0,
       "outcome_label": "Yes",
-      "price": 0.7682613027157341,
-      "shares": 36336.4,
-      "usd_value": 27915.850000000002,
-      "price_shift_pp": 5.943916289847029,
+      "price": 0.627238838,
+      "shares": 50000,
+      "usd_value": 31361.9419,
+      "price_shift_pp": 8.7238838,
       "alert_reason": "shift",
-      "market_id": "4339036",
-      "condition_id": "4339036",
-      "token_id": "115045756633831702735636278561108652998155395594872244747407619457878153802246",
-      "question": "LAPTOP FDV above $250M one day after launch?",
-      "link": "https://polyvictor.com/markets/4339036"
+      "market_id": "4339037",
+      "condition_id": "4339037",
+      "token_id": "72691498590329627056417089679857830107121966560913973056058862206568394608746",
+      "question": "LAPTOP FDV above $500M one day after launch?",
+      "link": "https://polyvictor.com/markets/4339037"
     }
   ]
 }
