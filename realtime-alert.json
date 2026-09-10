@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-10T10:06:01.137Z",
+  "generated_at": "2026-09-10T12:10:01.437Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "c1209f27-aa44-4022-9137-f49091eccfe0",
-      "ts": "2026-09-10T10:03:57+00:00",
-      "address": "0x31e5d54aded22aa7cd80dbe9e33102abe2504879",
-      "side": "sell",
-      "outcome_index": 0,
-      "outcome_label": "Legacy",
-      "price": 0.999,
-      "shares": 306006.56,
-      "usd_value": 305700.55344,
+      "id": "9ba8153b-18ed-4012-8f7a-559873bd347d",
+      "ts": "2026-09-10T12:08:20+00:00",
+      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "BetBoom Team",
+      "price": 0.63,
+      "shares": 647868.08,
+      "usd_value": 408156.8904,
       "price_shift_pp": 0,
       "alert_reason": "size",
-      "market_id": "4409463",
-      "condition_id": "4409463",
-      "token_id": "99610624767350270532071181833498193386675529705485567979202256867977831684534",
-      "question": "Counter-Strike: Legacy vs FURIA - Map 1 Winner",
-      "link": "https://polyvictor.com/markets/4409463"
+      "market_id": "4408300",
+      "condition_id": "4408300",
+      "token_id": "93654777217591423846306369200269025099002421419199369856925014882269081857824",
+      "question": "Counter-Strike: MIBR vs BetBoom Team - Map 2 Winner",
+      "link": "https://polyvictor.com/markets/4408300"
     }
   ]
 }
