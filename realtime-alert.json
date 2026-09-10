@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-10T07:14:00.894Z",
+  "generated_at": "2026-09-10T07:32:05.679Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "da9ba846-ddea-418f-8768-19075a7eec4f",
+      "ts": "2026-09-10T07:30:20+00:00",
+      "address": "0x31e5d54aded22aa7cd80dbe9e33102abe2504879",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "PARIVISION",
+      "price": 0.618720359143441,
+      "shares": 82402.73,
+      "usd_value": 50984.2467,
+      "price_shift_pp": 4.872042052804981,
+      "alert_reason": "shift",
+      "market_id": "4409453",
+      "condition_id": "4409453",
+      "token_id": "52058982968651603121681584033793271988820721081114358852288034448757689081874",
+      "question": "Counter-Strike: PARIVISION vs magic - Map 2 Winner",
+      "link": "https://polyvictor.com/markets/4409453"
+    },
     {
       "id": "cc7f1ee2-2b44-41d7-ab01-1fecf58375b6",
       "ts": "2026-09-10T07:13:02+00:00",
