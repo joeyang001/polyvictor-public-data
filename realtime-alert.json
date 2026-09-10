@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-10T00:42:06.391Z",
+  "generated_at": "2026-09-10T07:14:00.894Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "3b67b6c5-7ea9-43ed-9d52-167f935ec8be",
-      "ts": "2026-09-10T00:39:57+00:00",
-      "address": "0x121fd10502fbd639a491a4e5779bca49508c15c1",
+      "id": "cc7f1ee2-2b44-41d7-ab01-1fecf58375b6",
+      "ts": "2026-09-10T07:13:02+00:00",
+      "address": "0xccd81fbd3395dc43a0531f8484b21c2462daf4de",
       "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "Under",
-      "price": 0.5134425997219441,
-      "shares": 49472.06,
-      "usd_value": 25401.0631,
-      "price_shift_pp": 11.100836518248336,
-      "alert_reason": "shift",
-      "market_id": "3920613",
-      "condition_id": "3920613",
-      "token_id": "15279917988375484809906391072295262885990308189340599466437179250614524396511",
-      "question": "Patriots vs. Seahawks: O/U 38.5",
-      "link": "https://polyvictor.com/markets/3920613"
+      "outcome_label": "No",
+      "price": 0.97,
+      "shares": 605270.62,
+      "usd_value": 587112.5014,
+      "price_shift_pp": 0.10000000000000009,
+      "alert_reason": "size",
+      "market_id": "3977566",
+      "condition_id": "3977566",
+      "token_id": "11025308128595482616463696381617960706602871201206672878092915812811530426088",
+      "question": "Will FK Bodø/Glimt win on 2026-09-10?",
+      "link": "https://polyvictor.com/markets/3977566"
     }
   ]
 }
