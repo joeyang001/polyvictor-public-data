@@ -1,68 +1,68 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-09-09",
-  "generated_at": "2026-09-09T14:00:07.216Z",
+  "date": "2026-09-10",
+  "generated_at": "2026-09-10T14:00:04.753Z",
   "status": "failed",
   "tweet_ids": [],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 458,
-    "total_volume_usd": 25803858.317090992,
-    "unique_whales": 129,
-    "buy_volume_usd": 19687621.535370998,
-    "sell_volume_usd": 6116236.781719998,
+    "total_fills": 551,
+    "total_volume_usd": 39585940.00294101,
+    "unique_whales": 146,
+    "buy_volume_usd": 33461605.386450976,
+    "sell_volume_usd": 6124334.61649,
     "top_markets": [
       {
-        "market_id": "3977521",
-        "question": "Will BV Borussia 09 Dortmund win on 2026-09-08?",
-        "volume_usd": 5513974.918100001,
-        "fills": 43,
-        "link": "https://polyvictor.com/markets/3977521"
+        "market_id": "3977543",
+        "question": "Will Sporting CP win on 2026-09-09?",
+        "volume_usd": 6098554.499740004,
+        "fills": 68,
+        "link": "https://polyvictor.com/markets/3977543"
       },
       {
-        "market_id": "3977510",
-        "question": "Will Club Brugge KV win on 2026-09-08?",
-        "volume_usd": 3314548.920670001,
-        "fills": 50,
-        "link": "https://polyvictor.com/markets/3977510"
+        "market_id": "3977536",
+        "question": "Will VfB Stuttgart win on 2026-09-09?",
+        "volume_usd": 4905945.516646998,
+        "fills": 47,
+        "link": "https://polyvictor.com/markets/3977536"
       },
       {
-        "market_id": "4130407",
-        "question": "Colorado Rockies vs. New York Yankees",
-        "volume_usd": 2442084.5716500003,
-        "fills": 8,
-        "link": "https://polyvictor.com/markets/4130407"
+        "market_id": "3977548",
+        "question": "Will Arsenal FC win on 2026-09-09?",
+        "volume_usd": 3829542.77943,
+        "fills": 26,
+        "link": "https://polyvictor.com/markets/3977548"
       }
     ],
     "top_whales": [
       {
-        "address": "0x51698a47f840a242abc2ca0351371c7ffac41842",
-        "volume_usd": 4097489.34678,
-        "fills": 20,
-        "link": "https://polyvictor.com/whales/0x51698a47f840a242abc2ca0351371c7ffac41842"
-      },
-      {
-        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 3263978.807222,
-        "fills": 32,
-        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
+        "address": "0xccd81fbd3395dc43a0531f8484b21c2462daf4de",
+        "volume_usd": 6303587.064429998,
+        "fills": 53,
+        "link": "https://polyvictor.com/whales/0xccd81fbd3395dc43a0531f8484b21c2462daf4de"
       },
       {
         "address": "0x0f6f76ced62a911bccef92f50faaff143854d977",
-        "volume_usd": 2179967.82436,
-        "fills": 26,
+        "volume_usd": 4790946.744839998,
+        "fills": 41,
         "link": "https://polyvictor.com/whales/0x0f6f76ced62a911bccef92f50faaff143854d977"
+      },
+      {
+        "address": "0x168a51f1cac0ad3b166797069382495a8aa10d24",
+        "volume_usd": 4130160.2243999974,
+        "fills": 39,
+        "link": "https://polyvictor.com/whales/0x168a51f1cac0ad3b166797069382495a8aa10d24"
       }
     ],
     "biggest_fill": {
-      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-      "usd": 837147.89115,
-      "side": "buy",
-      "price": 0.85,
-      "market_id": "4130407",
-      "question": "Colorado Rockies vs. New York Yankees",
-      "link": "https://polyvictor.com/markets/4130407"
+      "address": "0x51698a47f840a242abc2ca0351371c7ffac41842",
+      "usd": 812201.32566,
+      "side": "sell",
+      "price": 0.999,
+      "market_id": "3977548",
+      "question": "Will Arsenal FC win on 2026-09-09?",
+      "link": "https://polyvictor.com/markets/3977548"
     }
   }
 }
