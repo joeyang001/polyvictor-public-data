@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-11T08:58:00.794Z",
+  "generated_at": "2026-09-11T18:12:06.131Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "7b146d0e-95ea-4ee0-b7fd-b0f86582bf88",
-      "ts": "2026-09-11T08:57:23+00:00",
-      "address": "0x5a656e4948e93b9493a9de1173a23a9bdce259c7",
-      "side": "sell",
-      "outcome_index": 1,
-      "outcome_label": "No",
-      "price": 0.7968512106941258,
-      "shares": 136200.38,
-      "usd_value": 108531.4377,
-      "price_shift_pp": 6.685121069412581,
-      "alert_reason": "shift",
-      "market_id": "1163699",
-      "condition_id": "1163699",
-      "token_id": "29633826701713552120011280893309822625942861174174976276686142480636225243753",
-      "question": "Clarity Act (H.R.3633) signed into law in 2026?",
-      "link": "https://polyvictor.com/markets/1163699"
+      "id": "94e2eebc-e9fc-4b3e-9f77-6abfb3155dd0",
+      "ts": "2026-09-11T18:10:08+00:00",
+      "address": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Alexander Zverev",
+      "price": 0.82,
+      "shares": 1000000,
+      "usd_value": 820000,
+      "price_shift_pp": 0.000001640001601188601,
+      "alert_reason": "size",
+      "market_id": "4431568",
+      "condition_id": "4431568",
+      "token_id": "111188403514689743854952820966953581164644767821751700660601373167842495812694",
+      "question": "US Open ATP: Alexander Zverev vs Karen Khachanov",
+      "link": "https://polyvictor.com/markets/4431568"
     }
   ]
 }
