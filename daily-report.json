@@ -1,68 +1,68 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-09-10",
-  "generated_at": "2026-09-10T14:00:04.753Z",
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T14:00:07.272Z",
   "status": "failed",
   "tweet_ids": [],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 551,
-    "total_volume_usd": 39585940.00294101,
-    "unique_whales": 146,
-    "buy_volume_usd": 33461605.386450976,
-    "sell_volume_usd": 6124334.61649,
+    "total_fills": 309,
+    "total_volume_usd": 13505820.907750996,
+    "unique_whales": 122,
+    "buy_volume_usd": 11709462.579190997,
+    "sell_volume_usd": 1796358.3285600003,
     "top_markets": [
       {
-        "market_id": "3977543",
-        "question": "Will Sporting CP win on 2026-09-09?",
-        "volume_usd": 6098554.499740004,
-        "fills": 68,
-        "link": "https://polyvictor.com/markets/3977543"
+        "market_id": "3239630",
+        "question": "49ers vs. Rams",
+        "volume_usd": 2315431.880815,
+        "fills": 27,
+        "link": "https://polyvictor.com/markets/3239630"
       },
       {
-        "market_id": "3977536",
-        "question": "Will VfB Stuttgart win on 2026-09-09?",
-        "volume_usd": 4905945.516646998,
-        "fills": 47,
-        "link": "https://polyvictor.com/markets/3977536"
+        "market_id": "2252245",
+        "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+        "volume_usd": 1093700.0868300002,
+        "fills": 28,
+        "link": "https://polyvictor.com/markets/2252245"
       },
       {
-        "market_id": "3977548",
-        "question": "Will Arsenal FC win on 2026-09-09?",
-        "volume_usd": 3829542.77943,
-        "fills": 26,
-        "link": "https://polyvictor.com/markets/3977548"
+        "market_id": "4441185",
+        "question": "Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs",
+        "volume_usd": 697757.0022170001,
+        "fills": 9,
+        "link": "https://polyvictor.com/markets/4441185"
       }
     ],
     "top_whales": [
       {
-        "address": "0xccd81fbd3395dc43a0531f8484b21c2462daf4de",
-        "volume_usd": 6303587.064429998,
-        "fills": 53,
-        "link": "https://polyvictor.com/whales/0xccd81fbd3395dc43a0531f8484b21c2462daf4de"
+        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+        "volume_usd": 1270817.694922,
+        "fills": 15,
+        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
       },
       {
-        "address": "0x0f6f76ced62a911bccef92f50faaff143854d977",
-        "volume_usd": 4790946.744839998,
-        "fills": 41,
-        "link": "https://polyvictor.com/whales/0x0f6f76ced62a911bccef92f50faaff143854d977"
+        "address": "0xcc32068e0d0b19790e3376bc1751552adcca92d2",
+        "volume_usd": 907362.7422399999,
+        "fills": 12,
+        "link": "https://polyvictor.com/whales/0xcc32068e0d0b19790e3376bc1751552adcca92d2"
       },
       {
-        "address": "0x168a51f1cac0ad3b166797069382495a8aa10d24",
-        "volume_usd": 4130160.2243999974,
-        "fills": 39,
-        "link": "https://polyvictor.com/whales/0x168a51f1cac0ad3b166797069382495a8aa10d24"
+        "address": "0x7a75a4183e577123db9ff0adff520561ef95d288",
+        "volume_usd": 420136.95934,
+        "fills": 8,
+        "link": "https://polyvictor.com/whales/0x7a75a4183e577123db9ff0adff520561ef95d288"
       }
     ],
     "biggest_fill": {
-      "address": "0x51698a47f840a242abc2ca0351371c7ffac41842",
-      "usd": 812201.32566,
-      "side": "sell",
-      "price": 0.999,
-      "market_id": "3977548",
-      "question": "Will Arsenal FC win on 2026-09-09?",
-      "link": "https://polyvictor.com/markets/3977548"
+      "address": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+      "usd": 266661.7822,
+      "side": "buy",
+      "price": 0.67,
+      "market_id": "3239630",
+      "question": "49ers vs. Rams",
+      "link": "https://polyvictor.com/markets/3239630"
     }
   }
 }
