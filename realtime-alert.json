@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-11T21:08:01.141Z",
+  "generated_at": "2026-09-11T23:50:01.510Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "bdef7426-1c3f-4d9e-8cb6-0e23916fe255",
-      "ts": "2026-09-11T21:06:30+00:00",
-      "address": "0x51698a47f840a242abc2ca0351371c7ffac41842",
-      "side": "sell",
+      "id": "2b94dd45-68e7-462b-9640-63b9c1ba1098",
+      "ts": "2026-09-11T23:49:09+00:00",
+      "address": "0x033f0346c007323030eb420305ffede19a95618e",
+      "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.999,
-      "shares": 1995502.58,
-      "usd_value": 1993507.07742,
-      "price_shift_pp": 0,
-      "alert_reason": "size",
-      "market_id": "4019510",
-      "condition_id": "4019510",
-      "token_id": "98137879301482368215292703416000252576975257052939310485686273073195455828130",
-      "question": "Will Sevilla FC win on 2026-09-11?",
-      "link": "https://polyvictor.com/markets/4019510"
+      "outcome_label": "YES",
+      "price": 0.9899251382390472,
+      "shares": 58775,
+      "usd_value": 58182.85,
+      "price_shift_pp": 5.911762727066661,
+      "alert_reason": "shift",
+      "market_id": null,
+      "condition_id": "",
+      "token_id": "71983396394106934771470039458416806940230018480818134372103567565863948334781",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
