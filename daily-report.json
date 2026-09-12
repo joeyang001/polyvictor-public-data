@@ -1,68 +1,68 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-09-11",
-  "generated_at": "2026-09-11T14:00:07.272Z",
+  "date": "2026-09-12",
+  "generated_at": "2026-09-12T14:00:04.275Z",
   "status": "failed",
   "tweet_ids": [],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 309,
-    "total_volume_usd": 13505820.907750996,
-    "unique_whales": 122,
-    "buy_volume_usd": 11709462.579190997,
-    "sell_volume_usd": 1796358.3285600003,
+    "total_fills": 596,
+    "total_volume_usd": 30906412.179775007,
+    "unique_whales": 173,
+    "buy_volume_usd": 22782267.540775,
+    "sell_volume_usd": 8124144.6389999995,
     "top_markets": [
       {
-        "market_id": "3239630",
-        "question": "49ers vs. Rams",
-        "volume_usd": 2315431.880815,
-        "fills": 27,
-        "link": "https://polyvictor.com/markets/3239630"
+        "market_id": "4019510",
+        "question": "Will Sevilla FC win on 2026-09-11?",
+        "volume_usd": 7657419.682039999,
+        "fills": 52,
+        "link": "https://polyvictor.com/markets/4019510"
       },
       {
-        "market_id": "2252245",
-        "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-        "volume_usd": 1093700.0868300002,
-        "fills": 28,
-        "link": "https://polyvictor.com/markets/2252245"
+        "market_id": "4431568",
+        "question": "US Open ATP: Alexander Zverev vs Karen Khachanov",
+        "volume_usd": 3311233.9518230003,
+        "fills": 30,
+        "link": "https://polyvictor.com/markets/4431568"
       },
       {
-        "market_id": "4441185",
-        "question": "Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs",
-        "volume_usd": 697757.0022170001,
-        "fills": 9,
-        "link": "https://polyvictor.com/markets/4441185"
+        "market_id": "3965717",
+        "question": "Will Stade Rennais FC 1901 win on 2026-09-11?",
+        "volume_usd": 2510747.4781800006,
+        "fills": 52,
+        "link": "https://polyvictor.com/markets/3965717"
       }
     ],
     "top_whales": [
       {
-        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 1270817.694922,
+        "address": "0x51698a47f840a242abc2ca0351371c7ffac41842",
+        "volume_usd": 5990741.88166,
         "fills": 15,
-        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
+        "link": "https://polyvictor.com/whales/0x51698a47f840a242abc2ca0351371c7ffac41842"
       },
       {
-        "address": "0xcc32068e0d0b19790e3376bc1751552adcca92d2",
-        "volume_usd": 907362.7422399999,
+        "address": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+        "volume_usd": 2646604.2620599996,
         "fills": 12,
-        "link": "https://polyvictor.com/whales/0xcc32068e0d0b19790e3376bc1751552adcca92d2"
+        "link": "https://polyvictor.com/whales/0xe9b710551dd82a44e79203c2394a2b10163ace7b"
       },
       {
-        "address": "0x7a75a4183e577123db9ff0adff520561ef95d288",
-        "volume_usd": 420136.95934,
-        "fills": 8,
-        "link": "https://polyvictor.com/whales/0x7a75a4183e577123db9ff0adff520561ef95d288"
+        "address": "0x168a51f1cac0ad3b166797069382495a8aa10d24",
+        "volume_usd": 1798205.7307200003,
+        "fills": 37,
+        "link": "https://polyvictor.com/whales/0x168a51f1cac0ad3b166797069382495a8aa10d24"
       }
     ],
     "biggest_fill": {
-      "address": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
-      "usd": 266661.7822,
-      "side": "buy",
-      "price": 0.67,
-      "market_id": "3239630",
-      "question": "49ers vs. Rams",
-      "link": "https://polyvictor.com/markets/3239630"
+      "address": "0x51698a47f840a242abc2ca0351371c7ffac41842",
+      "usd": 1993507.07742,
+      "side": "sell",
+      "price": 0.999,
+      "market_id": "4019510",
+      "question": "Will Sevilla FC win on 2026-09-11?",
+      "link": "https://polyvictor.com/markets/4019510"
     }
   }
 }
