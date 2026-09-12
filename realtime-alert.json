@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-12T16:04:01.952Z",
+  "generated_at": "2026-09-12T16:16:02.683Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "bbd99dfd-f131-4056-a94a-4237df1c1544",
+      "ts": "2026-09-12T16:14:18+00:00",
+      "address": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Team Vitality",
+      "price": 0.47,
+      "shares": 155561.9,
+      "usd_value": 73114.093,
+      "price_shift_pp": -4.0000000000000036,
+      "alert_reason": "shift",
+      "market_id": "4254512",
+      "condition_id": "4254512",
+      "token_id": "57648420101065029373466582695125017804087237128043584134864985824037211787086",
+      "question": "LoL: Team Vitality vs Movistar KOI - Game 2 Winner",
+      "link": "https://polyvictor.com/markets/4254512"
+    },
     {
       "id": "ac840fe5-f171-4712-968c-22cf15840740",
       "ts": "2026-09-12T16:02:42+00:00",
