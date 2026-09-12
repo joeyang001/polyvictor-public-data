@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-12T12:58:00.815Z",
+  "generated_at": "2026-09-12T16:04:01.952Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "9b9357fe-fcdb-43a2-b42b-9fef47bc7382",
-      "ts": "2026-09-12T12:56:14+00:00",
-      "address": "0x51698a47f840a242abc2ca0351371c7ffac41842",
+      "id": "ac840fe5-f171-4712-968c-22cf15840740",
+      "ts": "2026-09-12T16:02:42+00:00",
+      "address": "0xccd81fbd3395dc43a0531f8484b21c2462daf4de",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.6499999999996793,
-      "shares": 467738.769231,
-      "usd_value": 304030.19999999995,
-      "price_shift_pp": 0.0000025999678299193363,
+      "outcome_index": 1,
+      "outcome_label": "Real Madrid CF",
+      "price": 0.992,
+      "shares": 362505,
+      "usd_value": 359604.96,
+      "price_shift_pp": 0.10000000000000009,
       "alert_reason": "size",
-      "market_id": "3989251",
-      "condition_id": "3989251",
-      "token_id": "113586890048869063802892521097857919747297858935115571768749814917784242382742",
-      "question": "Will Liverpool FC win on 2026-09-12?",
-      "link": "https://polyvictor.com/markets/3989251"
+      "market_id": "4020832",
+      "condition_id": "4020832",
+      "token_id": "44206164372586419130926122183944830363687744664580467473936685857721154018077",
+      "question": "Spread: Rayo Vallecano de Madrid (-1.5)",
+      "link": "https://polyvictor.com/markets/4020832"
     }
   ]
 }
