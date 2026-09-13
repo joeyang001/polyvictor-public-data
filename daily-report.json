@@ -1,68 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-09-12",
-  "generated_at": "2026-09-12T14:00:04.275Z",
-  "status": "failed",
-  "tweet_ids": [],
+  "date": "2026-09-13",
+  "generated_at": "2026-09-13T14:00:05.656Z",
+  "status": "success",
+  "tweet_ids": [
+    "2099136031895290065",
+    "2099136033526837727"
+  ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 596,
-    "total_volume_usd": 30906412.179775007,
-    "unique_whales": 173,
-    "buy_volume_usd": 22782267.540775,
-    "sell_volume_usd": 8124144.6389999995,
+    "total_fills": 544,
+    "total_volume_usd": 24180257.536065016,
+    "unique_whales": 161,
+    "buy_volume_usd": 21092033.016325016,
+    "sell_volume_usd": 3088224.519739999,
     "top_markets": [
       {
-        "market_id": "4019510",
-        "question": "Will Sevilla FC win on 2026-09-11?",
-        "volume_usd": 7657419.682039999,
-        "fills": 52,
-        "link": "https://polyvictor.com/markets/4019510"
+        "market_id": "3989342",
+        "question": "Will Arsenal FC win on 2026-09-12?",
+        "volume_usd": 3294381.60029,
+        "fills": 55,
+        "link": "https://polyvictor.com/markets/3989342"
       },
       {
-        "market_id": "4431568",
-        "question": "US Open ATP: Alexander Zverev vs Karen Khachanov",
-        "volume_usd": 3311233.9518230003,
-        "fills": 30,
-        "link": "https://polyvictor.com/markets/4431568"
+        "market_id": "4016623",
+        "question": "Will Brighton & Hove Albion FC win on 2026-09-13?",
+        "volume_usd": 1483698.8224199999,
+        "fills": 17,
+        "link": "https://polyvictor.com/markets/4016623"
       },
       {
-        "market_id": "3965717",
-        "question": "Will Stade Rennais FC 1901 win on 2026-09-11?",
-        "volume_usd": 2510747.4781800006,
-        "fills": 52,
-        "link": "https://polyvictor.com/markets/3965717"
+        "market_id": "4019529",
+        "question": "Will RC Celta de Vigo win on 2026-09-13?",
+        "volume_usd": 1077659.3051999998,
+        "fills": 13,
+        "link": "https://polyvictor.com/markets/4019529"
       }
     ],
     "top_whales": [
       {
-        "address": "0x51698a47f840a242abc2ca0351371c7ffac41842",
-        "volume_usd": 5990741.88166,
-        "fills": 15,
-        "link": "https://polyvictor.com/whales/0x51698a47f840a242abc2ca0351371c7ffac41842"
-      },
-      {
-        "address": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
-        "volume_usd": 2646604.2620599996,
-        "fills": 12,
-        "link": "https://polyvictor.com/whales/0xe9b710551dd82a44e79203c2394a2b10163ace7b"
-      },
-      {
         "address": "0x168a51f1cac0ad3b166797069382495a8aa10d24",
-        "volume_usd": 1798205.7307200003,
-        "fills": 37,
+        "volume_usd": 1916812.4048400002,
+        "fills": 25,
         "link": "https://polyvictor.com/whales/0x168a51f1cac0ad3b166797069382495a8aa10d24"
+      },
+      {
+        "address": "0xccd81fbd3395dc43a0531f8484b21c2462daf4de",
+        "volume_usd": 1289252.44255,
+        "fills": 16,
+        "link": "https://polyvictor.com/whales/0xccd81fbd3395dc43a0531f8484b21c2462daf4de"
+      },
+      {
+        "address": "0x51698a47f840a242abc2ca0351371c7ffac41842",
+        "volume_usd": 1043573.1039200001,
+        "fills": 8,
+        "link": "https://polyvictor.com/whales/0x51698a47f840a242abc2ca0351371c7ffac41842"
       }
     ],
     "biggest_fill": {
-      "address": "0x51698a47f840a242abc2ca0351371c7ffac41842",
-      "usd": 1993507.07742,
-      "side": "sell",
-      "price": 0.999,
-      "market_id": "4019510",
-      "question": "Will Sevilla FC win on 2026-09-11?",
-      "link": "https://polyvictor.com/markets/4019510"
+      "address": "0xccd81fbd3395dc43a0531f8484b21c2462daf4de",
+      "usd": 359748.80198,
+      "side": "buy",
+      "price": 0.992,
+      "market_id": "4020832",
+      "question": "Spread: Rayo Vallecano de Madrid (-1.5)",
+      "link": "https://polyvictor.com/markets/4020832"
     }
   }
 }
