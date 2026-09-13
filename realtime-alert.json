@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-13T03:20:01.300Z",
+  "generated_at": "2026-09-13T14:56:01.169Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "fc00d34b-56d3-41f4-a3f1-d19b8e1186ee",
-      "ts": "2026-09-13T03:19:41+00:00",
-      "address": "0x26b46988d027c6c03cfa12a7c0c6d778be49b8a9",
+      "id": "ec9f8501-69a0-48c5-b174-612aaa4ccbd8",
+      "ts": "2026-09-13T14:54:50+00:00",
+      "address": "0x51698a47f840a242abc2ca0351371c7ffac41842",
       "side": "sell",
       "outcome_index": 0,
-      "outcome_label": "Over",
-      "price": 0.9971998589086895,
-      "shares": 32603,
-      "usd_value": 32511.707000000002,
-      "price_shift_pp": 22.719985890868944,
-      "alert_reason": "shift",
-      "market_id": "4392002",
-      "condition_id": "4392002",
-      "token_id": "69524832254666962225460736633541925982968663325138099274363403409952154701156",
-      "question": "Ohio State vs. Texas: O/U 42.5",
-      "link": "https://polyvictor.com/markets/4392002"
+      "outcome_label": "Yes",
+      "price": 0.999,
+      "shares": 1857355.31,
+      "usd_value": 1855497.95469,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "4016623",
+      "condition_id": "4016623",
+      "token_id": "79064481395743456943749001528542461658984986629861039929276626211561440018430",
+      "question": "Will Brighton & Hove Albion FC win on 2026-09-13?",
+      "link": "https://polyvictor.com/markets/4016623"
     }
   ]
 }
