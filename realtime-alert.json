@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-13T15:42:06.361Z",
+  "generated_at": "2026-09-13T17:22:08.144Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "7b5a5d59-7407-4c55-b661-698f1cde7f3d",
-      "ts": "2026-09-13T15:41:35+00:00",
-      "address": "0x0f6f76ced62a911bccef92f50faaff143854d977",
-      "side": "buy",
+      "id": "46ef3085-a1d8-4734-bfb6-dc98d55722c0",
+      "ts": "2026-09-13T17:20:37+00:00",
+      "address": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+      "side": "sell",
       "outcome_index": 0,
       "outcome_label": "Yes",
-      "price": 0.53,
-      "shares": 667243.28,
-      "usd_value": 353638.93840000004,
-      "price_shift_pp": 0,
-      "alert_reason": "size",
-      "market_id": "4013938",
-      "condition_id": "4013938",
-      "token_id": "73054547445419923177651311955214155797743711143415202058709839697221474934189",
-      "question": "Will SSC Napoli win on 2026-09-13?",
-      "link": "https://polyvictor.com/markets/4013938"
+      "price": 0.8898410221695815,
+      "shares": 35114.33,
+      "usd_value": 31246.1713,
+      "price_shift_pp": 8.891612648112535,
+      "alert_reason": "shift",
+      "market_id": "4016656",
+      "condition_id": "4016656",
+      "token_id": "14515086129181135656125080403507772946413244490991325584361520085193036973954",
+      "question": "Will Manchester City FC win on 2026-09-13?",
+      "link": "https://polyvictor.com/markets/4016656"
     }
   ]
 }
