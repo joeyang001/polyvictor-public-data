@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-12T17:52:07.546Z",
+  "generated_at": "2026-09-13T03:20:01.300Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "ea38d0ca-1ecc-4353-884d-9b6fc3355ed6",
-      "ts": "2026-09-12T17:51:02+00:00",
-      "address": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-      "side": "buy",
+      "id": "fc00d34b-56d3-41f4-a3f1-d19b8e1186ee",
+      "ts": "2026-09-13T03:19:41+00:00",
+      "address": "0x26b46988d027c6c03cfa12a7c0c6d778be49b8a9",
+      "side": "sell",
       "outcome_index": 0,
-      "outcome_label": "Varvara Lepchenko",
-      "price": 0.5,
-      "shares": 50371.6,
-      "usd_value": 25185.8,
-      "price_shift_pp": 3.9999999999999982,
+      "outcome_label": "Over",
+      "price": 0.9971998589086895,
+      "shares": 32603,
+      "usd_value": 32511.707000000002,
+      "price_shift_pp": 22.719985890868944,
       "alert_reason": "shift",
-      "market_id": "4489821",
-      "condition_id": "4489821",
-      "token_id": "84697572938572732642876077505847013109919721646551043171063870280539349588315",
-      "question": "Guadalajara Open Akron, Qualification: Varvara Lepchenko vs Nicole Melichar",
-      "link": "https://polyvictor.com/markets/4489821"
+      "market_id": "4392002",
+      "condition_id": "4392002",
+      "token_id": "69524832254666962225460736633541925982968663325138099274363403409952154701156",
+      "question": "Ohio State vs. Texas: O/U 42.5",
+      "link": "https://polyvictor.com/markets/4392002"
     }
   ]
 }
