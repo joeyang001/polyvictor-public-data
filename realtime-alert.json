@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-13T14:56:01.169Z",
+  "generated_at": "2026-09-13T15:42:06.361Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "ec9f8501-69a0-48c5-b174-612aaa4ccbd8",
-      "ts": "2026-09-13T14:54:50+00:00",
-      "address": "0x51698a47f840a242abc2ca0351371c7ffac41842",
-      "side": "sell",
+      "id": "7b5a5d59-7407-4c55-b661-698f1cde7f3d",
+      "ts": "2026-09-13T15:41:35+00:00",
+      "address": "0x0f6f76ced62a911bccef92f50faaff143854d977",
+      "side": "buy",
       "outcome_index": 0,
       "outcome_label": "Yes",
-      "price": 0.999,
-      "shares": 1857355.31,
-      "usd_value": 1855497.95469,
+      "price": 0.53,
+      "shares": 667243.28,
+      "usd_value": 353638.93840000004,
       "price_shift_pp": 0,
       "alert_reason": "size",
-      "market_id": "4016623",
-      "condition_id": "4016623",
-      "token_id": "79064481395743456943749001528542461658984986629861039929276626211561440018430",
-      "question": "Will Brighton & Hove Albion FC win on 2026-09-13?",
-      "link": "https://polyvictor.com/markets/4016623"
+      "market_id": "4013938",
+      "condition_id": "4013938",
+      "token_id": "73054547445419923177651311955214155797743711143415202058709839697221474934189",
+      "question": "Will SSC Napoli win on 2026-09-13?",
+      "link": "https://polyvictor.com/markets/4013938"
     }
   ]
 }
