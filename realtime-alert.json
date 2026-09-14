@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-13T17:22:08.144Z",
+  "generated_at": "2026-09-14T03:14:01.111Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "46ef3085-a1d8-4734-bfb6-dc98d55722c0",
-      "ts": "2026-09-13T17:20:37+00:00",
-      "address": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
-      "side": "sell",
+      "id": "eca626d8-821d-4954-8a90-f8ea6de49096",
+      "ts": "2026-09-14T03:12:41+00:00",
+      "address": "0xbd36cbc3fc0819cb8a535ccf6960bcdf16adba9d",
+      "side": "buy",
       "outcome_index": 0,
       "outcome_label": "Yes",
-      "price": 0.8898410221695815,
-      "shares": 35114.33,
-      "usd_value": 31246.1713,
-      "price_shift_pp": 8.891612648112535,
+      "price": 0.778614884565675,
+      "shares": 38529.959538,
+      "usd_value": 29999.999998,
+      "price_shift_pp": 36.06149359448354,
       "alert_reason": "shift",
-      "market_id": "4016656",
-      "condition_id": "4016656",
-      "token_id": "14515086129181135656125080403507772946413244490991325584361520085193036973954",
-      "question": "Will Manchester City FC win on 2026-09-13?",
-      "link": "https://polyvictor.com/markets/4016656"
+      "market_id": "4472271",
+      "condition_id": "4472271",
+      "token_id": "12800883328987548548085463793086194603281054700201022244077524633041350153010",
+      "question": "Will Bitcoin reach $78,000 September 7-13?",
+      "link": "https://polyvictor.com/markets/4472271"
     }
   ]
 }
