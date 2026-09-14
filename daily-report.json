@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-09-13",
-  "generated_at": "2026-09-13T14:00:05.656Z",
+  "date": "2026-09-14",
+  "generated_at": "2026-09-14T14:00:10.693Z",
   "status": "success",
   "tweet_ids": [
-    "2099136031895290065",
-    "2099136033526837727"
+    "2099498425540546881",
+    "2099498434998796336"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 544,
-    "total_volume_usd": 24180257.536065016,
-    "unique_whales": 161,
-    "buy_volume_usd": 21092033.016325016,
-    "sell_volume_usd": 3088224.519739999,
+    "total_fills": 399,
+    "total_volume_usd": 21844341.90199999,
+    "unique_whales": 137,
+    "buy_volume_usd": 14607521.98023,
+    "sell_volume_usd": 7236819.921770001,
     "top_markets": [
-      {
-        "market_id": "3989342",
-        "question": "Will Arsenal FC win on 2026-09-12?",
-        "volume_usd": 3294381.60029,
-        "fills": 55,
-        "link": "https://polyvictor.com/markets/3989342"
-      },
       {
         "market_id": "4016623",
         "question": "Will Brighton & Hove Albion FC win on 2026-09-13?",
-        "volume_usd": 1483698.8224199999,
-        "fills": 17,
+        "volume_usd": 4493298.30614,
+        "fills": 10,
         "link": "https://polyvictor.com/markets/4016623"
       },
       {
-        "market_id": "4019529",
-        "question": "Will RC Celta de Vigo win on 2026-09-13?",
-        "volume_usd": 1077659.3051999998,
-        "fills": 13,
-        "link": "https://polyvictor.com/markets/4019529"
+        "market_id": "3335123",
+        "question": "Cowboys vs. Giants",
+        "volume_usd": 1259976.7234359998,
+        "fills": 25,
+        "link": "https://polyvictor.com/markets/3335123"
+      },
+      {
+        "market_id": "4013938",
+        "question": "Will SSC Napoli win on 2026-09-13?",
+        "volume_usd": 1258237.80168,
+        "fills": 11,
+        "link": "https://polyvictor.com/markets/4013938"
       }
     ],
     "top_whales": [
       {
-        "address": "0x168a51f1cac0ad3b166797069382495a8aa10d24",
-        "volume_usd": 1916812.4048400002,
-        "fills": 25,
-        "link": "https://polyvictor.com/whales/0x168a51f1cac0ad3b166797069382495a8aa10d24"
-      },
-      {
-        "address": "0xccd81fbd3395dc43a0531f8484b21c2462daf4de",
-        "volume_usd": 1289252.44255,
-        "fills": 16,
-        "link": "https://polyvictor.com/whales/0xccd81fbd3395dc43a0531f8484b21c2462daf4de"
-      },
-      {
         "address": "0x51698a47f840a242abc2ca0351371c7ffac41842",
-        "volume_usd": 1043573.1039200001,
-        "fills": 8,
+        "volume_usd": 3710903.13449,
+        "fills": 2,
         "link": "https://polyvictor.com/whales/0x51698a47f840a242abc2ca0351371c7ffac41842"
+      },
+      {
+        "address": "0x0f6f76ced62a911bccef92f50faaff143854d977",
+        "volume_usd": 1080211.56489,
+        "fills": 6,
+        "link": "https://polyvictor.com/whales/0x0f6f76ced62a911bccef92f50faaff143854d977"
+      },
+      {
+        "address": "0x2e6cbf2564cc6b9702d79dad46279c2865710c51",
+        "volume_usd": 867744.3845080001,
+        "fills": 19,
+        "link": "https://polyvictor.com/whales/0x2e6cbf2564cc6b9702d79dad46279c2865710c51"
       }
     ],
     "biggest_fill": {
-      "address": "0xccd81fbd3395dc43a0531f8484b21c2462daf4de",
-      "usd": 359748.80198,
-      "side": "buy",
-      "price": 0.992,
-      "market_id": "4020832",
-      "question": "Spread: Rayo Vallecano de Madrid (-1.5)",
-      "link": "https://polyvictor.com/markets/4020832"
+      "address": "0x51698a47f840a242abc2ca0351371c7ffac41842",
+      "usd": 1855497.95469,
+      "side": "sell",
+      "price": 0.999,
+      "market_id": "4016623",
+      "question": "Will Brighton & Hove Albion FC win on 2026-09-13?",
+      "link": "https://polyvictor.com/markets/4016623"
     }
   }
 }
