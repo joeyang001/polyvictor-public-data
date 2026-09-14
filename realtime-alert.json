@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-14T18:28:01.381Z",
+  "generated_at": "2026-09-14T18:44:07.924Z",
   "window_minutes": 30,
-  "count": 3,
+  "count": 2,
   "alerts": [
+    {
+      "id": "16bbf388-76ad-4d31-99c0-a2bfe6f1ee57",
+      "ts": "2026-09-14T18:43:25+00:00",
+      "address": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "NO",
+      "price": 0.2975786638686018,
+      "shares": 89273.73742,
+      "usd_value": 26565.9595,
+      "price_shift_pp": 4.703104607045383,
+      "alert_reason": "shift",
+      "market_id": null,
+      "condition_id": "0x36ba1235b2696fb16311fb3810e08d8198e144ef3bd7fa6ab51ac4da7b8db74b",
+      "token_id": "56375178834771117194845853623673950238038900715782006999538553135327035016084",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
+    },
     {
       "id": "74f9e375-7795-472b-9c9c-8bddffc4b556",
       "ts": "2026-09-14T18:27:45+00:00",
@@ -21,42 +39,6 @@
       "token_id": "99379294781349093043706751561052316731560754011566338922840409336958588137803",
       "question": "Will AS Roma win on 2026-09-14?",
       "link": "https://polyvictor.com/markets/4046410"
-    },
-    {
-      "id": "a89f395d-f9eb-45cd-9ff1-e1cca1e05805",
-      "ts": "2026-09-14T18:13:33+00:00",
-      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-      "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.81,
-      "shares": 336325.25,
-      "usd_value": 272423.4525,
-      "price_shift_pp": 0,
-      "alert_reason": "size",
-      "market_id": "4046416",
-      "condition_id": "4046416",
-      "token_id": "43218196981038089437419549159354453443673993312119998406872053191642458645610",
-      "question": "Will FC Internazionale Milano win on 2026-09-14?",
-      "link": "https://polyvictor.com/markets/4046416"
-    },
-    {
-      "id": "6750cfe8-6ba9-47f3-9676-8c43a8e21719",
-      "ts": "2026-09-14T18:13:02+00:00",
-      "address": "0x0f6f76ced62a911bccef92f50faaff143854d977",
-      "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.81,
-      "shares": 750000,
-      "usd_value": 607500,
-      "price_shift_pp": 0.0000016200011887512744,
-      "alert_reason": "size",
-      "market_id": "4046416",
-      "condition_id": "4046416",
-      "token_id": "43218196981038089437419549159354453443673993312119998406872053191642458645610",
-      "question": "Will FC Internazionale Milano win on 2026-09-14?",
-      "link": "https://polyvictor.com/markets/4046416"
     }
   ]
 }
