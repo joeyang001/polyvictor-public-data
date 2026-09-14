@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-14T03:14:01.111Z",
+  "generated_at": "2026-09-14T03:16:00.973Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "aea4a8ad-8660-4901-8afc-a39f4aa1d152",
+      "ts": "2026-09-14T03:15:17+00:00",
+      "address": "0xbd36cbc3fc0819cb8a535ccf6960bcdf16adba9d",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.7597175117588884,
+      "shares": 39488.361838,
+      "usd_value": 29999.999999,
+      "price_shift_pp": 29.071751350825835,
+      "alert_reason": "shift",
+      "market_id": "4472271",
+      "condition_id": "4472271",
+      "token_id": "12800883328987548548085463793086194603281054700201022244077524633041350153010",
+      "question": "Will Bitcoin reach $78,000 September 7-13?",
+      "link": "https://polyvictor.com/markets/4472271"
+    },
     {
       "id": "eca626d8-821d-4954-8a90-f8ea6de49096",
       "ts": "2026-09-14T03:12:41+00:00",
