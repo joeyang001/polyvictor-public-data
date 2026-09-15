@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-15T03:24:01.063Z",
+  "generated_at": "2026-09-15T05:18:01.308Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "1470bf12-2bf3-45bc-8f80-4f777cf0ed99",
-      "ts": "2026-09-15T03:22:55+00:00",
-      "address": "0x51698a47f840a242abc2ca0351371c7ffac41842",
+      "id": "ab15eb09-5b4c-43c1-888f-286a4a08e460",
+      "ts": "2026-09-15T05:17:41+00:00",
+      "address": "0x26b46988d027c6c03cfa12a7c0c6d778be49b8a9",
       "side": "sell",
       "outcome_index": 1,
-      "outcome_label": "Chiefs",
+      "outcome_label": "NO",
       "price": 0.999,
-      "shares": 4853928.42,
-      "usd_value": 4849074.49158,
-      "price_shift_pp": 0,
-      "alert_reason": "size",
-      "market_id": "3335127",
-      "condition_id": "3335127",
-      "token_id": "19745572778352048315530441756290548673735014169551809727672053046873626878761",
-      "question": "Broncos vs. Chiefs",
-      "link": "https://polyvictor.com/markets/3335127"
+      "shares": 26999.87,
+      "usd_value": 26972.87013,
+      "price_shift_pp": 5.900000000000006,
+      "alert_reason": "shift",
+      "market_id": null,
+      "condition_id": "0x7423f2af62837f9f4e2adb58b809746988715867e156bdcac53b6f7572776c31",
+      "token_id": "42189417516116170991243168884438572684163161269182141557968199284917940370068",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
