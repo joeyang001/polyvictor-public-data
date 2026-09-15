@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-15T10:36:01.242Z",
+  "generated_at": "2026-09-15T10:52:06.319Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "6374392b-6edb-41b9-ae6f-7165131385fb",
+      "ts": "2026-09-15T10:51:32+00:00",
+      "address": "0x2e6cbf2564cc6b9702d79dad46279c2865710c51",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "Lucia Cortez Llorca",
+      "price": 0.6647845800511915,
+      "shares": 60169.867353,
+      "usd_value": 40000,
+      "price_shift_pp": -3.5215391948804076,
+      "alert_reason": "shift",
+      "market_id": "4528112",
+      "condition_id": "4528112",
+      "token_id": "56713485792546813914440721861941756628683238778569084702440167463597998116435",
+      "question": "Valencia: Alicia Herrero Linana vs Lucia Cortez Llorca",
+      "link": "https://polyvictor.com/markets/4528112"
+    },
     {
       "id": "bb990c3d-c4cc-496d-b19b-2fed5a08f339",
       "ts": "2026-09-15T10:34:53+00:00",
