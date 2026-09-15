@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-15T10:04:01.152Z",
+  "generated_at": "2026-09-15T10:36:01.242Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "192ba529-66ff-4193-883d-453f02b5e611",
-      "ts": "2026-09-15T10:03:20+00:00",
+      "id": "bb990c3d-c4cc-496d-b19b-2fed5a08f339",
+      "ts": "2026-09-15T10:34:53+00:00",
       "address": "0x2e6cbf2564cc6b9702d79dad46279c2865710c51",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Fajing Sun",
-      "price": 0.8032911991372742,
-      "shares": 35292.79,
-      "usd_value": 28350.387600000002,
-      "price_shift_pp": -15.670880086272575,
+      "outcome_index": 1,
+      "outcome_label": "Lucia Cortez Llorca",
+      "price": 0.7358983085002977,
+      "shares": 52996.452838,
+      "usd_value": 39000,
+      "price_shift_pp": -3.4101691499702325,
       "alert_reason": "shift",
-      "market_id": "4511447",
-      "condition_id": "4511447",
-      "token_id": "26758802000050652327562172069280005834497424009310879143782403078449424870398",
-      "question": "Guangzhou: Fajing Sun vs Alexis Galarneau",
-      "link": "https://polyvictor.com/markets/4511447"
+      "market_id": "4528112",
+      "condition_id": "0x27da3b0f7e1083353d31e6ed83653dd3626dfe55f06bc47da4288eaf54ce879c",
+      "token_id": "56713485792546813914440721861941756628683238778569084702440167463597998116435",
+      "question": "Valencia: Alicia Herrero Linana vs Lucia Cortez Llorca",
+      "link": "https://polyvictor.com/markets/4528112"
     }
   ]
 }
