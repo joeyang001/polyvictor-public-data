@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-14T21:48:01.344Z",
+  "generated_at": "2026-09-15T01:50:01.675Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "903ec34d-16f4-4aac-bc94-0aa2e058182a",
-      "ts": "2026-09-14T21:46:32+00:00",
-      "address": "0xe639e41094bbeae18f3e6d1790c17299183f082a",
+      "id": "6d4ed309-d678-44bd-bec1-00c759d091ac",
+      "ts": "2026-09-15T01:48:46+00:00",
+      "address": "0x2e6cbf2564cc6b9702d79dad46279c2865710c51",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "No",
-      "price": 0.991,
-      "shares": 258132.79,
-      "usd_value": 255809.59489,
-      "price_shift_pp": 0.10000000000000009,
-      "alert_reason": "size",
-      "market_id": "2252246",
-      "condition_id": "2252246",
-      "token_id": "74195220586129237349258803179082634542284503538320000637909015632982564961602",
-      "question": "Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?",
-      "link": "https://polyvictor.com/markets/2252246"
+      "outcome_index": 0,
+      "outcome_label": "Baltimore Orioles",
+      "price": 0.888347966903044,
+      "shares": 32259.16,
+      "usd_value": 28657.3592,
+      "price_shift_pp": -9.165203309695602,
+      "alert_reason": "shift",
+      "market_id": "4363823",
+      "condition_id": "4363823",
+      "token_id": "13724114581097930445550095145755277109075085769929825852737617264760012101561",
+      "question": "Baltimore Orioles vs. New York Mets",
+      "link": "https://polyvictor.com/markets/4363823"
     }
   ]
 }
