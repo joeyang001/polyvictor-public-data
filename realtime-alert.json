@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-15T14:18:01.251Z",
+  "generated_at": "2026-09-15T15:24:01.188Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "4b8a6876-0a8d-498a-87fd-272914d521b5",
-      "ts": "2026-09-15T14:16:54+00:00",
-      "address": "0xc5a2337f82aafe82a7eaae248586fbbc3c736dd9",
+      "id": "76af787e-fb6a-4576-add1-df542fa0a20e",
+      "ts": "2026-09-15T15:23:46+00:00",
+      "address": "0x51698a47f840a242abc2ca0351371c7ffac41842",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Nastasja Schunk",
-      "price": 0.8960980813096433,
-      "shares": 55524.14522,
-      "usd_value": 49755.079998,
-      "price_shift_pp": 3.6098081309643315,
-      "alert_reason": "shift",
-      "market_id": "4570960",
-      "condition_id": "4570960",
-      "token_id": "55465911077953126323605643446493611008804126050074922997308521013186213576851",
-      "question": "Valencia: Oksana Selekhmeteva vs Nastasja Schunk",
-      "link": "https://polyvictor.com/markets/4570960"
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.5986263309383969,
+      "shares": 1605349.47,
+      "usd_value": 961004.4631,
+      "price_shift_pp": 0.8626484338510432,
+      "alert_reason": "size",
+      "market_id": "4111371",
+      "condition_id": "4111371",
+      "token_id": "34070873903326512308551939806999682036390469897009365763240571813577238015749",
+      "question": "Will Deportivo Alavés win on 2026-09-15?",
+      "link": "https://polyvictor.com/markets/4111371"
     }
   ]
 }
