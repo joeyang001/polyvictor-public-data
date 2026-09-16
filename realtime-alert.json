@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-16T20:32:06.784Z",
+  "generated_at": "2026-09-16T20:52:07.051Z",
   "window_minutes": 30,
   "count": 2,
   "alerts": [
+    {
+      "id": "5e01971c-73f7-42e6-a16f-6dcae18c3618",
+      "ts": "2026-09-16T20:50:34+00:00",
+      "address": "0xeae1e3f0da9c9adcdd69c021cd0385d9a6b4a67b",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "Luka Mikrut",
+      "price": 0.8919009481367032,
+      "shares": 46548.14,
+      "usd_value": 41516.3302,
+      "price_shift_pp": -9.809905186329681,
+      "alert_reason": "shift",
+      "market_id": "4591486",
+      "condition_id": "4591486",
+      "token_id": "87410298053942107908481649839044778867687049206599936468211210111333644693740",
+      "question": "Szczecin: Laslo Djere vs Luka Mikrut",
+      "link": "https://polyvictor.com/markets/4591486"
+    },
     {
       "id": "c702b3ed-b63a-4e99-a16e-87ba1b6fee36",
       "ts": "2026-09-16T20:30:12+00:00",
@@ -21,24 +39,6 @@
       "token_id": "46334714401929117004288272762991631808093292926403933310114930501139125787398",
       "question": "Will Sport Lisboa e Benfica win on 2026-09-16?",
       "link": "https://polyvictor.com/markets/4192758"
-    },
-    {
-      "id": "2cae2ecb-a02b-4cf7-a83a-573c625aa2e8",
-      "ts": "2026-09-16T20:02:59+00:00",
-      "address": "0xa309f903dbbd559e87d8d368834b8e41355c4cf2",
-      "side": "sell",
-      "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.9974642062661101,
-      "shares": 162576.78,
-      "usd_value": 162164.51882,
-      "price_shift_pp": 17.31317793636993,
-      "alert_reason": "shift",
-      "market_id": "908713",
-      "condition_id": "908713",
-      "token_id": "75028752776148090296091099469912621384650554615761384992997579209329182670110",
-      "question": "Fed rate hike in 2026?",
-      "link": "https://polyvictor.com/markets/908713"
     }
   ]
 }
