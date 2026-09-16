@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-09-15",
-  "generated_at": "2026-09-15T14:00:06.481Z",
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16T14:00:08.985Z",
   "status": "success",
   "tweet_ids": [
-    "2099860811552309593",
-    "2099860813754347836"
+    "2100223209257771496",
+    "2100223210977395185"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 371,
-    "total_volume_usd": 35338900.856352985,
-    "unique_whales": 127,
-    "buy_volume_usd": 23917243.960472994,
-    "sell_volume_usd": 11421656.895880003,
+    "total_fills": 360,
+    "total_volume_usd": 16489371.87239001,
+    "unique_whales": 150,
+    "buy_volume_usd": 13571890.313020002,
+    "sell_volume_usd": 2917481.5593699994,
     "top_markets": [
       {
-        "market_id": "3335127",
-        "question": "Broncos vs. Chiefs",
-        "volume_usd": 13615634.010786,
-        "fills": 32,
-        "link": "https://polyvictor.com/markets/3335127"
+        "market_id": "2252245",
+        "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+        "volume_usd": 2969740.377345,
+        "fills": 58,
+        "link": "https://polyvictor.com/markets/2252245"
       },
       {
-        "market_id": "4046410",
-        "question": "Will AS Roma win on 2026-09-14?",
-        "volume_usd": 5864638.318069998,
-        "fills": 15,
-        "link": "https://polyvictor.com/markets/4046410"
+        "market_id": "4111371",
+        "question": "Will Deportivo Alavés win on 2026-09-15?",
+        "volume_usd": 1957514.3629600003,
+        "fills": 19,
+        "link": "https://polyvictor.com/markets/4111371"
       },
       {
-        "market_id": "4046416",
-        "question": "Will FC Internazionale Milano win on 2026-09-14?",
-        "volume_usd": 2238648.34671,
+        "market_id": "2252246",
+        "question": "Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?",
+        "volume_usd": 986927.5934920001,
         "fills": 15,
-        "link": "https://polyvictor.com/markets/4046416"
+        "link": "https://polyvictor.com/markets/2252246"
       }
     ],
     "top_whales": [
       {
         "address": "0x51698a47f840a242abc2ca0351371c7ffac41842",
-        "volume_usd": 13058278.402759999,
-        "fills": 18,
+        "volume_usd": 1665133.5404200002,
+        "fills": 8,
         "link": "https://polyvictor.com/whales/0x51698a47f840a242abc2ca0351371c7ffac41842"
       },
       {
-        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 4588513.421785,
-        "fills": 15,
-        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
+        "address": "0x3a8aa345d5db7ec5138298c8c4f4540259be7699",
+        "volume_usd": 577500.896385,
+        "fills": 12,
+        "link": "https://polyvictor.com/whales/0x3a8aa345d5db7ec5138298c8c4f4540259be7699"
       },
       {
-        "address": "0xe639e41094bbeae18f3e6d1790c17299183f082a",
-        "volume_usd": 1724234.73016,
-        "fills": 12,
-        "link": "https://polyvictor.com/whales/0xe639e41094bbeae18f3e6d1790c17299183f082a"
+        "address": "0x27b0dceebc77ebc59573b818144743b9f1a2209b",
+        "volume_usd": 544370.104177,
+        "fills": 5,
+        "link": "https://polyvictor.com/whales/0x27b0dceebc77ebc59573b818144743b9f1a2209b"
       }
     ],
     "biggest_fill": {
       "address": "0x51698a47f840a242abc2ca0351371c7ffac41842",
-      "usd": 4849074.49158,
-      "side": "sell",
-      "price": 0.999,
-      "market_id": "3335127",
-      "question": "Broncos vs. Chiefs",
-      "link": "https://polyvictor.com/markets/3335127"
+      "usd": 961004.4631,
+      "side": "buy",
+      "price": 0.5986263309383969,
+      "market_id": "4111371",
+      "question": "Will Deportivo Alavés win on 2026-09-15?",
+      "link": "https://polyvictor.com/markets/4111371"
     }
   }
 }
