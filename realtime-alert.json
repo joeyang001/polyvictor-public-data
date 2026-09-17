@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-17T20:30:09.306Z",
+  "generated_at": "2026-09-17T20:32:07.325Z",
   "window_minutes": 30,
-  "count": 3,
+  "count": 4,
   "alerts": [
+    {
+      "id": "8c0240f0-e51d-4fc4-9523-849ee6634923",
+      "ts": "2026-09-17T20:30:42+00:00",
+      "address": "0x369f46433349a57cd6d08abf2819da737c09873e",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "Bills",
+      "price": 0.6999999999997977,
+      "shares": 988805.414286,
+      "usd_value": 692163.7899999999,
+      "price_shift_pp": 6.99979829654751e-7,
+      "alert_reason": "size",
+      "market_id": "3398287",
+      "condition_id": "3398287",
+      "token_id": "68292865232440391438170820255426555083906992551631182646472978758644386719",
+      "question": "Lions vs. Bills",
+      "link": "https://polyvictor.com/markets/3398287"
+    },
     {
       "id": "12946d5e-bcb0-4ed6-93f8-2f874cd5fc75",
       "ts": "2026-09-17T20:28:53+00:00",
