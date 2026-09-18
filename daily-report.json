@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-09-17",
-  "generated_at": "2026-09-17T14:00:05.588Z",
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18T14:00:08.813Z",
   "status": "success",
   "tweet_ids": [
-    "2100585584502730863",
-    "2100585586020974593"
+    "2100947985026674870",
+    "2100947986167501312"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 359,
-    "total_volume_usd": 17496460.791856993,
-    "unique_whales": 147,
-    "buy_volume_usd": 14201191.064677004,
-    "sell_volume_usd": 3295269.7271800004,
+    "total_fills": 358,
+    "total_volume_usd": 32255461.734727018,
+    "unique_whales": 123,
+    "buy_volume_usd": 23146889.621027004,
+    "sell_volume_usd": 9108572.113700002,
     "top_markets": [
       {
-        "market_id": "4192756",
-        "question": "Will AC Milan win on 2026-09-16?",
-        "volume_usd": 2994842.59578,
-        "fills": 27,
-        "link": "https://polyvictor.com/markets/4192756"
+        "market_id": "4208332",
+        "question": "Will Real Betis Balompié win on 2026-09-17?",
+        "volume_usd": 11629438.379665999,
+        "fills": 31,
+        "link": "https://polyvictor.com/markets/4208332"
       },
       {
-        "market_id": "4182981",
-        "question": "Will FC Barcelona win on 2026-09-16?",
-        "volume_usd": 1899169.9393600002,
-        "fills": 18,
-        "link": "https://polyvictor.com/markets/4182981"
+        "market_id": "3398287",
+        "question": "Lions vs. Bills",
+        "volume_usd": 10410349.987892,
+        "fills": 61,
+        "link": "https://polyvictor.com/markets/3398287"
       },
       {
-        "market_id": "2252245",
-        "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-        "volume_usd": 1766555.9544399998,
-        "fills": 40,
-        "link": "https://polyvictor.com/markets/2252245"
+        "market_id": "4208338",
+        "question": "Will Villarreal CF win on 2026-09-17?",
+        "volume_usd": 1040669.8199400001,
+        "fills": 16,
+        "link": "https://polyvictor.com/markets/4208338"
       }
     ],
     "top_whales": [
       {
         "address": "0x63cf8544631c31e9fcea0b02141dd24d01d6e4d0",
-        "volume_usd": 1293336.7953,
-        "fills": 8,
+        "volume_usd": 17857000.629024003,
+        "fills": 29,
         "link": "https://polyvictor.com/whales/0x63cf8544631c31e9fcea0b02141dd24d01d6e4d0"
       },
       {
-        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 1204656.52239,
-        "fills": 14,
-        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
+        "address": "0x369f46433349a57cd6d08abf2819da737c09873e",
+        "volume_usd": 2126121.330526,
+        "fills": 11,
+        "link": "https://polyvictor.com/whales/0x369f46433349a57cd6d08abf2819da737c09873e"
       },
       {
-        "address": "0x9f2fe025f84839ca81dd8e0338892605702d2ca8",
-        "volume_usd": 914165.5345000001,
-        "fills": 2,
-        "link": "https://polyvictor.com/whales/0x9f2fe025f84839ca81dd8e0338892605702d2ca8"
+        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+        "volume_usd": 1126689.1259200003,
+        "fills": 16,
+        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
       }
     ],
     "biggest_fill": {
-      "address": "0x9f2fe025f84839ca81dd8e0338892605702d2ca8",
-      "usd": 457995.1081,
-      "side": "buy",
-      "price": 0.92,
-      "market_id": "4182981",
-      "question": "Will FC Barcelona win on 2026-09-16?",
-      "link": "https://polyvictor.com/markets/4182981"
+      "address": "0x63cf8544631c31e9fcea0b02141dd24d01d6e4d0",
+      "usd": 3267596.2329,
+      "side": "sell",
+      "price": 0.999,
+      "market_id": "4208332",
+      "question": "Will Real Betis Balompié win on 2026-09-17?",
+      "link": "https://polyvictor.com/markets/4208332"
     }
   }
 }
