@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-19T02:06:00.841Z",
+  "generated_at": "2026-09-19T13:22:01.245Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "097c67c8-c6f3-4c35-906b-2e9e9ae56721",
-      "ts": "2026-09-19T02:05:14+00:00",
-      "address": "0x6db568e61e5e3de7d87f831431b673f38ce2e279",
+      "id": "91595025-f93d-4f62-a5b7-e8c502d2f2db",
+      "ts": "2026-09-19T13:20:52+00:00",
+      "address": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Texas Tech",
-      "price": 0.6737755212585969,
-      "shares": 41261.19,
-      "usd_value": 27800.779800000004,
-      "price_shift_pp": 3.377552125859684,
+      "outcome_index": 0,
+      "outcome_label": "YES",
+      "price": 0.9965951011807315,
+      "shares": 35603.9875,
+      "usd_value": 35482.759525,
+      "price_shift_pp": 26.05951011807315,
       "alert_reason": "shift",
-      "market_id": "4350025",
-      "condition_id": "4350025",
-      "token_id": "98756572736558639857695409824354233664722678623112153896604562209625376789865",
-      "question": "Houston vs. Texas Tech",
-      "link": "https://polyvictor.com/markets/4350025"
+      "market_id": null,
+      "condition_id": "",
+      "token_id": "12637511751470899997735089227070001295461429612306811981543889354518571591628",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
