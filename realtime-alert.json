@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-19T20:04:01.215Z",
+  "generated_at": "2026-09-19T20:12:01.224Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "a512cdca-5bd6-46ef-905a-1e5946b75925",
+      "ts": "2026-09-19T20:11:29+00:00",
+      "address": "0x6ffb4354cbe6e0f9989e3b55564ec5fb8646a834",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "Under",
+      "price": 0.99,
+      "shares": 111110,
+      "usd_value": 109998.9,
+      "price_shift_pp": 5.000000000000004,
+      "alert_reason": "shift",
+      "market_id": "4694211",
+      "condition_id": "4694211",
+      "token_id": "74031726444847021365437913171159234684342512496892732604379385826764783312773",
+      "question": "Bowling Green Team Total: O/U 9.5",
+      "link": "https://polyvictor.com/markets/4694211"
+    },
     {
       "id": "52d3bb3c-d836-44c7-9b9f-618ffe03fb73",
       "ts": "2026-09-19T20:01:27+00:00",
