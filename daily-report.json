@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-09-18",
-  "generated_at": "2026-09-18T14:00:08.813Z",
+  "date": "2026-09-19",
+  "generated_at": "2026-09-19T14:00:08.332Z",
   "status": "success",
   "tweet_ids": [
-    "2100947985026674870",
-    "2100947986167501312"
+    "2101310371898249553",
+    "2101310373332730097"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 358,
-    "total_volume_usd": 32255461.734727018,
-    "unique_whales": 123,
-    "buy_volume_usd": 23146889.621027004,
-    "sell_volume_usd": 9108572.113700002,
+    "total_fills": 435,
+    "total_volume_usd": 21953241.895930007,
+    "unique_whales": 153,
+    "buy_volume_usd": 18771242.580339994,
+    "sell_volume_usd": 3181999.31559,
     "top_markets": [
       {
-        "market_id": "4208332",
-        "question": "Will Real Betis Balompié win on 2026-09-17?",
-        "volume_usd": 11629438.379665999,
-        "fills": 31,
-        "link": "https://polyvictor.com/markets/4208332"
+        "market_id": "4237425",
+        "question": "Will Chelsea FC win on 2026-09-18?",
+        "volume_usd": 6309744.049431999,
+        "fills": 30,
+        "link": "https://polyvictor.com/markets/4237425"
       },
       {
-        "market_id": "3398287",
-        "question": "Lions vs. Bills",
-        "volume_usd": 10410349.987892,
-        "fills": 61,
-        "link": "https://polyvictor.com/markets/3398287"
+        "market_id": "1130012",
+        "question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
+        "volume_usd": 1365071.1520999998,
+        "fills": 26,
+        "link": "https://polyvictor.com/markets/1130012"
       },
       {
-        "market_id": "4208338",
-        "question": "Will Villarreal CF win on 2026-09-17?",
-        "volume_usd": 1040669.8199400001,
-        "fills": 16,
-        "link": "https://polyvictor.com/markets/4208338"
+        "market_id": "4237404",
+        "question": "Will Brentford FC win on 2026-09-18?",
+        "volume_usd": 1225567.592539,
+        "fills": 7,
+        "link": "https://polyvictor.com/markets/4237404"
       }
     ],
     "top_whales": [
       {
-        "address": "0x63cf8544631c31e9fcea0b02141dd24d01d6e4d0",
-        "volume_usd": 17857000.629024003,
-        "fills": 29,
-        "link": "https://polyvictor.com/whales/0x63cf8544631c31e9fcea0b02141dd24d01d6e4d0"
-      },
-      {
-        "address": "0x369f46433349a57cd6d08abf2819da737c09873e",
-        "volume_usd": 2126121.330526,
-        "fills": 11,
-        "link": "https://polyvictor.com/whales/0x369f46433349a57cd6d08abf2819da737c09873e"
+        "address": "0x0f6f76ced62a911bccef92f50faaff143854d977",
+        "volume_usd": 3375588.9342300002,
+        "fills": 13,
+        "link": "https://polyvictor.com/whales/0x0f6f76ced62a911bccef92f50faaff143854d977"
       },
       {
         "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 1126689.1259200003,
-        "fills": 16,
+        "volume_usd": 2072438.560974,
+        "fills": 22,
         "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
+      },
+      {
+        "address": "0x63cf8544631c31e9fcea0b02141dd24d01d6e4d0",
+        "volume_usd": 1846598.3628,
+        "fills": 9,
+        "link": "https://polyvictor.com/whales/0x63cf8544631c31e9fcea0b02141dd24d01d6e4d0"
       }
     ],
     "biggest_fill": {
-      "address": "0x63cf8544631c31e9fcea0b02141dd24d01d6e4d0",
-      "usd": 3267596.2329,
-      "side": "sell",
-      "price": 0.999,
-      "market_id": "4208332",
-      "question": "Will Real Betis Balompié win on 2026-09-17?",
-      "link": "https://polyvictor.com/markets/4208332"
+      "address": "0x0f6f76ced62a911bccef92f50faaff143854d977",
+      "usd": 678080.8025,
+      "side": "buy",
+      "price": 0.64,
+      "market_id": "4237425",
+      "question": "Will Chelsea FC win on 2026-09-18?",
+      "link": "https://polyvictor.com/markets/4237425"
     }
   }
 }
