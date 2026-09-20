@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-09-19",
-  "generated_at": "2026-09-19T14:00:08.332Z",
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20T14:00:04.714Z",
   "status": "success",
   "tweet_ids": [
-    "2101310371898249553",
-    "2101310373332730097"
+    "2101672744681115797",
+    "2101672745918431453"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 435,
-    "total_volume_usd": 21953241.895930007,
+    "total_fills": 475,
+    "total_volume_usd": 20115214.040021025,
     "unique_whales": 153,
-    "buy_volume_usd": 18771242.580339994,
-    "sell_volume_usd": 3181999.31559,
+    "buy_volume_usd": 17070226.551292002,
+    "sell_volume_usd": 3044987.4887290006,
     "top_markets": [
       {
-        "market_id": "4237425",
-        "question": "Will Chelsea FC win on 2026-09-18?",
-        "volume_usd": 6309744.049431999,
-        "fills": 30,
-        "link": "https://polyvictor.com/markets/4237425"
+        "market_id": "4350071",
+        "question": "Florida State vs. Alabama",
+        "volume_usd": 1088051.3777080001,
+        "fills": 25,
+        "link": "https://polyvictor.com/markets/4350071"
       },
       {
-        "market_id": "1130012",
-        "question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
-        "volume_usd": 1365071.1520999998,
-        "fills": 26,
-        "link": "https://polyvictor.com/markets/1130012"
+        "market_id": "4266712",
+        "question": "UFC 331: Alexandre Pantoja vs. Joshua Van (Flyweight, Main Card)",
+        "volume_usd": 967218.5165120001,
+        "fills": 21,
+        "link": "https://polyvictor.com/markets/4266712"
       },
       {
-        "market_id": "4237404",
-        "question": "Will Brentford FC win on 2026-09-18?",
-        "volume_usd": 1225567.592539,
-        "fills": 7,
-        "link": "https://polyvictor.com/markets/4237404"
+        "market_id": "4350135",
+        "question": "LSU vs. Ole Miss",
+        "volume_usd": 967145.7917000002,
+        "fills": 27,
+        "link": "https://polyvictor.com/markets/4350135"
       }
     ],
     "top_whales": [
       {
-        "address": "0x0f6f76ced62a911bccef92f50faaff143854d977",
-        "volume_usd": 3375588.9342300002,
-        "fills": 13,
-        "link": "https://polyvictor.com/whales/0x0f6f76ced62a911bccef92f50faaff143854d977"
+        "address": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+        "volume_usd": 1187769.6177,
+        "fills": 23,
+        "link": "https://polyvictor.com/whales/0x924379a79c64b77ad5816ad362122a5f6228658e"
       },
       {
-        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 2072438.560974,
-        "fills": 22,
-        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
+        "address": "0xcbc666209b4c17ea84c03c0dda71b5dab9e4ec62",
+        "volume_usd": 1039188.0091,
+        "fills": 16,
+        "link": "https://polyvictor.com/whales/0xcbc666209b4c17ea84c03c0dda71b5dab9e4ec62"
       },
       {
-        "address": "0x63cf8544631c31e9fcea0b02141dd24d01d6e4d0",
-        "volume_usd": 1846598.3628,
-        "fills": 9,
-        "link": "https://polyvictor.com/whales/0x63cf8544631c31e9fcea0b02141dd24d01d6e4d0"
+        "address": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
+        "volume_usd": 928542.4894,
+        "fills": 10,
+        "link": "https://polyvictor.com/whales/0x67542c3219b37fd1610aad290676ff91cdbfe3bc"
       }
     ],
     "biggest_fill": {
-      "address": "0x0f6f76ced62a911bccef92f50faaff143854d977",
-      "usd": 678080.8025,
+      "address": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
+      "usd": 261863.417,
       "side": "buy",
-      "price": 0.64,
-      "market_id": "4237425",
-      "question": "Will Chelsea FC win on 2026-09-18?",
-      "link": "https://polyvictor.com/markets/4237425"
+      "price": 0.58,
+      "market_id": "3482626",
+      "question": "Bengals vs. Texans",
+      "link": "https://polyvictor.com/markets/3482626"
     }
   }
 }
