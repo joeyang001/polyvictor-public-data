@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-20T15:12:01.324Z",
+  "generated_at": "2026-09-20T16:02:01.349Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "c7bab46f-4d33-460e-b138-318b54b121c9",
-      "ts": "2026-09-20T15:10:27+00:00",
-      "address": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+      "id": "db7ce101-55b0-46bf-b7d8-9a74e5646a5e",
+      "ts": "2026-09-20T16:01:48+00:00",
+      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
       "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "Bears",
-      "price": 0.66,
-      "shares": 400000,
-      "usd_value": 264000,
-      "price_shift_pp": 0.00000369599979510582,
-      "alert_reason": "size",
-      "market_id": "3482612",
-      "condition_id": "3482612",
-      "token_id": "87419678683693163900726344026250582268274683976262936197752440741634418461512",
-      "question": "Vikings vs. Bears",
-      "link": "https://polyvictor.com/markets/3482612"
+      "outcome_label": "Packers",
+      "price": 0.77,
+      "shares": 87440.01,
+      "usd_value": 67328.80769999999,
+      "price_shift_pp": -5.999999999999995,
+      "alert_reason": "shift",
+      "market_id": "4448602",
+      "condition_id": "4448602",
+      "token_id": "9255124333617771788708947964355416947851273102213919113925849993852226074498",
+      "question": "Spread: Jets (-5.5)",
+      "link": "https://polyvictor.com/markets/4448602"
     }
   ]
 }
