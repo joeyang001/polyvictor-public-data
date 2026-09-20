@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-20T12:42:05.974Z",
+  "generated_at": "2026-09-20T15:12:01.324Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "82ccc921-c3c5-4019-9fb6-7381669cefbb",
-      "ts": "2026-09-20T12:41:42+00:00",
-      "address": "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56",
+      "id": "c7bab46f-4d33-460e-b138-318b54b121c9",
+      "ts": "2026-09-20T15:10:27+00:00",
+      "address": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "YES",
-      "price": 0.9761972220557354,
-      "shares": 30731.4949,
-      "usd_value": 29999.999951,
-      "price_shift_pp": 16.61972838354442,
-      "alert_reason": "shift",
-      "market_id": null,
-      "condition_id": "0xd6b33ed6e9c31ed33458b1aec3fe058eb44db47d6f04c02e4f317340aec67b65",
-      "token_id": "49715484808626304944619416227071181457530821459765404372640360842243308710549",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
+      "outcome_index": 1,
+      "outcome_label": "Bears",
+      "price": 0.66,
+      "shares": 400000,
+      "usd_value": 264000,
+      "price_shift_pp": 0.00000369599979510582,
+      "alert_reason": "size",
+      "market_id": "3482612",
+      "condition_id": "3482612",
+      "token_id": "87419678683693163900726344026250582268274683976262936197752440741634418461512",
+      "question": "Vikings vs. Bears",
+      "link": "https://polyvictor.com/markets/3482612"
     }
   ]
 }
