@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-20T20:08:01.438Z",
+  "generated_at": "2026-09-20T20:54:01.188Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "2bbf32fd-5569-4805-85b7-20c95a580960",
-      "ts": "2026-09-20T20:05:58+00:00",
-      "address": "0xb7271c112cbd83eb4c1ef1b554ff963604ae2a9d",
+      "id": "c7bb8d11-38e7-4f87-a4d2-ebbd0252d771",
+      "ts": "2026-09-20T20:53:40+00:00",
+      "address": "0x6211f97a76ed5c4b1d658f637041ac5f293db89e",
       "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "Cowboys",
-      "price": 0.66,
-      "shares": 533780.12,
-      "usd_value": 352294.8792,
-      "price_shift_pp": 0,
+      "outcome_label": "Colts",
+      "price": 0.54,
+      "shares": 560937.9,
+      "usd_value": 302906.466,
+      "price_shift_pp": -0.9999977019499617,
       "alert_reason": "size",
-      "market_id": "3482763",
-      "condition_id": "3482763",
-      "token_id": "86783648493956963932554456640885810962961503939921293752122309423744954625375",
-      "question": "Commanders vs. Cowboys",
-      "link": "https://polyvictor.com/markets/3482763"
+      "market_id": "3516972",
+      "condition_id": "3516972",
+      "token_id": "23006577738110898825709686464230479435823425402042428442953620006524327662892",
+      "question": "Spread: Chiefs (-6.5)",
+      "link": "https://polyvictor.com/markets/3516972"
     }
   ]
 }
