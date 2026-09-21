@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-21T00:38:01.115Z",
+  "generated_at": "2026-09-21T03:38:01.130Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "b65e6554-b722-426a-b297-398918eb27d8",
-      "ts": "2026-09-21T00:36:10+00:00",
-      "address": "0x8806a6f1a847ba4360599ce0f54ce96167712e83",
+      "id": "26e92ce9-648c-4a29-be74-13c6def0b027",
+      "ts": "2026-09-21T03:36:46+00:00",
+      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
       "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "NO",
-      "price": 0.9880330415803305,
-      "shares": 30303.03,
-      "usd_value": 29940.3949,
-      "price_shift_pp": 9.803304158033043,
+      "outcome_label": "Chiefs",
+      "price": 0.85,
+      "shares": 30000,
+      "usd_value": 25500,
+      "price_shift_pp": 3.0000000000000027,
       "alert_reason": "shift",
-      "market_id": null,
-      "condition_id": "0x2960de3bd88c7a779d54197bbd06f8a498b4760e9f274cbd86dbc8d5eb4a2596",
-      "token_id": "11483681538241507147397607799500785334477730807692538097158050264148944185220",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
+      "market_id": "3482783",
+      "condition_id": "3482783",
+      "token_id": "8557007147248949431995826654699039594302574187106302640933179488357694817210",
+      "question": "Colts vs. Chiefs",
+      "link": "https://polyvictor.com/markets/3482783"
     }
   ]
 }
