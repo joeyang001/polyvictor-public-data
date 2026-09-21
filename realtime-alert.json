@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-20T20:54:01.188Z",
+  "generated_at": "2026-09-21T00:38:01.115Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "c7bb8d11-38e7-4f87-a4d2-ebbd0252d771",
-      "ts": "2026-09-20T20:53:40+00:00",
-      "address": "0x6211f97a76ed5c4b1d658f637041ac5f293db89e",
+      "id": "b65e6554-b722-426a-b297-398918eb27d8",
+      "ts": "2026-09-21T00:36:10+00:00",
+      "address": "0x8806a6f1a847ba4360599ce0f54ce96167712e83",
       "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "Colts",
-      "price": 0.54,
-      "shares": 560937.9,
-      "usd_value": 302906.466,
-      "price_shift_pp": -0.9999977019499617,
-      "alert_reason": "size",
-      "market_id": "3516972",
-      "condition_id": "3516972",
-      "token_id": "23006577738110898825709686464230479435823425402042428442953620006524327662892",
-      "question": "Spread: Chiefs (-6.5)",
-      "link": "https://polyvictor.com/markets/3516972"
+      "outcome_label": "NO",
+      "price": 0.9880330415803305,
+      "shares": 30303.03,
+      "usd_value": 29940.3949,
+      "price_shift_pp": 9.803304158033043,
+      "alert_reason": "shift",
+      "market_id": null,
+      "condition_id": "0x2960de3bd88c7a779d54197bbd06f8a498b4760e9f274cbd86dbc8d5eb4a2596",
+      "token_id": "11483681538241507147397607799500785334477730807692538097158050264148944185220",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
