@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-09-20",
-  "generated_at": "2026-09-20T14:00:04.714Z",
+  "date": "2026-09-21",
+  "generated_at": "2026-09-21T14:00:08.523Z",
   "status": "success",
   "tweet_ids": [
-    "2101672744681115797",
-    "2101672745918431453"
+    "2102035148132802596",
+    "2102035149680452020"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 475,
-    "total_volume_usd": 20115214.040021025,
-    "unique_whales": 153,
-    "buy_volume_usd": 17070226.551292002,
-    "sell_volume_usd": 3044987.4887290006,
+    "total_fills": 770,
+    "total_volume_usd": 36118808.321388,
+    "unique_whales": 185,
+    "buy_volume_usd": 31069234.882458,
+    "sell_volume_usd": 5049573.438930001,
     "top_markets": [
       {
-        "market_id": "4350071",
-        "question": "Florida State vs. Alabama",
-        "volume_usd": 1088051.3777080001,
-        "fills": 25,
-        "link": "https://polyvictor.com/markets/4350071"
+        "market_id": "3482783",
+        "question": "Colts vs. Chiefs",
+        "volume_usd": 3764674.495198999,
+        "fills": 77,
+        "link": "https://polyvictor.com/markets/3482783"
       },
       {
-        "market_id": "4266712",
-        "question": "UFC 331: Alexandre Pantoja vs. Joshua Van (Flyweight, Main Card)",
-        "volume_usd": 967218.5165120001,
-        "fills": 21,
-        "link": "https://polyvictor.com/markets/4266712"
+        "market_id": "3482763",
+        "question": "Commanders vs. Cowboys",
+        "volume_usd": 2871055.359058001,
+        "fills": 30,
+        "link": "https://polyvictor.com/markets/3482763"
       },
       {
-        "market_id": "4350135",
-        "question": "LSU vs. Ole Miss",
-        "volume_usd": 967145.7917000002,
-        "fills": 27,
-        "link": "https://polyvictor.com/markets/4350135"
+        "market_id": "1130012",
+        "question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
+        "volume_usd": 2642656.9059530017,
+        "fills": 61,
+        "link": "https://polyvictor.com/markets/1130012"
       }
     ],
     "top_whales": [
       {
-        "address": "0x924379a79c64b77ad5816ad362122a5f6228658e",
-        "volume_usd": 1187769.6177,
-        "fills": 23,
-        "link": "https://polyvictor.com/whales/0x924379a79c64b77ad5816ad362122a5f6228658e"
+        "address": "0x6211f97a76ed5c4b1d658f637041ac5f293db89e",
+        "volume_usd": 2075321.4922000002,
+        "fills": 12,
+        "link": "https://polyvictor.com/whales/0x6211f97a76ed5c4b1d658f637041ac5f293db89e"
       },
       {
-        "address": "0xcbc666209b4c17ea84c03c0dda71b5dab9e4ec62",
-        "volume_usd": 1039188.0091,
-        "fills": 16,
-        "link": "https://polyvictor.com/whales/0xcbc666209b4c17ea84c03c0dda71b5dab9e4ec62"
+        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+        "volume_usd": 1352502.9382999998,
+        "fills": 27,
+        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
       },
       {
-        "address": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
-        "volume_usd": 928542.4894,
-        "fills": 10,
-        "link": "https://polyvictor.com/whales/0x67542c3219b37fd1610aad290676ff91cdbfe3bc"
+        "address": "0x9f2fe025f84839ca81dd8e0338892605702d2ca8",
+        "volume_usd": 1269393.699845,
+        "fills": 18,
+        "link": "https://polyvictor.com/whales/0x9f2fe025f84839ca81dd8e0338892605702d2ca8"
       }
     ],
     "biggest_fill": {
-      "address": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
-      "usd": 261863.417,
+      "address": "0xcd84d7f9262516865553555751609fb6f52abec6",
+      "usd": 372827.319,
       "side": "buy",
-      "price": 0.58,
-      "market_id": "3482626",
-      "question": "Bengals vs. Texans",
-      "link": "https://polyvictor.com/markets/3482626"
+      "price": 0.89,
+      "market_id": "3482771",
+      "question": "Dolphins vs. 49ers",
+      "link": "https://polyvictor.com/markets/3482771"
     }
   }
 }
