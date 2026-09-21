@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-21T03:38:01.130Z",
+  "generated_at": "2026-09-21T03:44:01.457Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "cb290d83-4491-42e8-891d-8a5dda884682",
+      "ts": "2026-09-21T03:43:37+00:00",
+      "address": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Over",
+      "price": 0.9124324981756264,
+      "shares": 28777,
+      "usd_value": 26257.070000000003,
+      "price_shift_pp": 6.243249817562646,
+      "alert_reason": "shift",
+      "market_id": "3920000",
+      "condition_id": "3920000",
+      "token_id": "81206567404069773168932521700354146638562128316889506849571532837835076997532",
+      "question": "Colts vs. Chiefs: O/U 57.5",
+      "link": "https://polyvictor.com/markets/3920000"
+    },
     {
       "id": "26e92ce9-648c-4a29-be74-13c6def0b027",
       "ts": "2026-09-21T03:36:46+00:00",
