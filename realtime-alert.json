@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-21T23:40:04.533Z",
+  "generated_at": "2026-09-22T11:20:02.885Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "1e37d501-4104-4eb2-91d6-b58b3c5f6a8e",
-      "ts": "2026-09-21T23:39:15+00:00",
-      "address": "0x6211f97a76ed5c4b1d658f637041ac5f293db89e",
+      "id": "e33386b9-d84f-41c7-abeb-1ce74c4b73b7",
+      "ts": "2026-09-22T11:19:15+00:00",
+      "address": "0x26b46988d027c6c03cfa12a7c0c6d778be49b8a9",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Rams",
-      "price": 0.72,
-      "shares": 542116.1,
-      "usd_value": 390323.59199999995,
-      "price_shift_pp": 0,
-      "alert_reason": "size",
-      "market_id": "3512682",
-      "condition_id": "3512682",
-      "token_id": "43677542496120548237382622015301078356830156697348317225498679221043021866409",
-      "question": "Giants vs. Rams",
-      "link": "https://polyvictor.com/markets/3512682"
+      "outcome_index": 0,
+      "outcome_label": "YES",
+      "price": 0.5621787,
+      "shares": 50000,
+      "usd_value": 28108.935,
+      "price_shift_pp": 3.2178707631999925,
+      "alert_reason": "shift",
+      "market_id": null,
+      "condition_id": "0x3423cd7337bb45391ed024fcc2267f605845dcc0af95e58143d8b46edbd6996b",
+      "token_id": "18004597572011844789348722841709068977665374006599834432521514645772826911229",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
