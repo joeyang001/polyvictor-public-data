@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-09-21",
-  "generated_at": "2026-09-21T14:00:08.523Z",
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22T14:00:08.426Z",
   "status": "success",
   "tweet_ids": [
-    "2102035148132802596",
-    "2102035149680452020"
+    "2102397534815519189",
+    "2102397537004990587"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 770,
-    "total_volume_usd": 36118808.321388,
-    "unique_whales": 185,
-    "buy_volume_usd": 31069234.882458,
-    "sell_volume_usd": 5049573.438930001,
+    "total_fills": 236,
+    "total_volume_usd": 12592382.880504003,
+    "unique_whales": 87,
+    "buy_volume_usd": 10721750.614996003,
+    "sell_volume_usd": 1870632.2655079998,
     "top_markets": [
       {
-        "market_id": "3482783",
-        "question": "Colts vs. Chiefs",
-        "volume_usd": 3764674.495198999,
-        "fills": 77,
-        "link": "https://polyvictor.com/markets/3482783"
+        "market_id": "3512682",
+        "question": "Giants vs. Rams",
+        "volume_usd": 5175113.754932001,
+        "fills": 76,
+        "link": "https://polyvictor.com/markets/3512682"
       },
       {
-        "market_id": "3482763",
-        "question": "Commanders vs. Cowboys",
-        "volume_usd": 2871055.359058001,
-        "fills": 30,
-        "link": "https://polyvictor.com/markets/3482763"
+        "market_id": "3516946",
+        "question": "Giants vs. Rams: O/U 47.5",
+        "volume_usd": 1460409.5735999998,
+        "fills": 12,
+        "link": "https://polyvictor.com/markets/3516946"
       },
       {
-        "market_id": "1130012",
-        "question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
-        "volume_usd": 2642656.9059530017,
-        "fills": 61,
-        "link": "https://polyvictor.com/markets/1130012"
+        "market_id": "3516934",
+        "question": "Spread: Rams (-6.5)",
+        "volume_usd": 1102909.6003999999,
+        "fills": 16,
+        "link": "https://polyvictor.com/markets/3516934"
       }
     ],
     "top_whales": [
       {
         "address": "0x6211f97a76ed5c4b1d658f637041ac5f293db89e",
-        "volume_usd": 2075321.4922000002,
-        "fills": 12,
+        "volume_usd": 1493756.5015999998,
+        "fills": 8,
         "link": "https://polyvictor.com/whales/0x6211f97a76ed5c4b1d658f637041ac5f293db89e"
       },
       {
-        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 1352502.9382999998,
-        "fills": 27,
-        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
+        "address": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+        "volume_usd": 1046558.2652999999,
+        "fills": 20,
+        "link": "https://polyvictor.com/whales/0x7c37b52eb226bcb9411375ec48b0169663fb6aeb"
       },
       {
-        "address": "0x9f2fe025f84839ca81dd8e0338892605702d2ca8",
-        "volume_usd": 1269393.699845,
-        "fills": 18,
-        "link": "https://polyvictor.com/whales/0x9f2fe025f84839ca81dd8e0338892605702d2ca8"
+        "address": "0x7f8e1877a0907f2b2c7cabf8bdb2e2a8f3854487",
+        "volume_usd": 871175.2879999998,
+        "fills": 5,
+        "link": "https://polyvictor.com/whales/0x7f8e1877a0907f2b2c7cabf8bdb2e2a8f3854487"
       }
     ],
     "biggest_fill": {
-      "address": "0xcd84d7f9262516865553555751609fb6f52abec6",
-      "usd": 372827.319,
+      "address": "0x6211f97a76ed5c4b1d658f637041ac5f293db89e",
+      "usd": 390323.592,
       "side": "buy",
-      "price": 0.89,
-      "market_id": "3482771",
-      "question": "Dolphins vs. 49ers",
-      "link": "https://polyvictor.com/markets/3482771"
+      "price": 0.72,
+      "market_id": "3512682",
+      "question": "Giants vs. Rams",
+      "link": "https://polyvictor.com/markets/3512682"
     }
   }
 }
