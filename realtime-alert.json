@@ -1,26 +1,44 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-22T16:36:01.173Z",
+  "generated_at": "2026-09-22T20:46:02.260Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
     {
-      "id": "388956aa-3c9e-46e5-a112-819eab04c56f",
-      "ts": "2026-09-22T16:35:38+00:00",
+      "id": "b13d33e3-830f-4e60-8a10-6553367c28e6",
+      "ts": "2026-09-22T20:45:48+00:00",
       "address": "0xc29cd8f36242f58938ea9f10dc07fd269d592d10",
       "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "New York Yankees",
-      "price": 0.5996791629421268,
-      "shares": 915918.51,
-      "usd_value": 549257.2454,
-      "price_shift_pp": 0.9679173562127108,
+      "outcome_label": "Atlanta Braves",
+      "price": 0.71,
+      "shares": 1918666.78,
+      "usd_value": 1362253.4138,
+      "price_shift_pp": 2.0000144571535983,
       "alert_reason": "size",
-      "market_id": "2284198",
-      "condition_id": "2284198",
-      "token_id": "71543442915818071346252945085377787013257591065787605167141597147053881246459",
-      "question": "Tampa Bay Rays vs. New York Yankees",
-      "link": "https://polyvictor.com/markets/2284198"
+      "market_id": "4613531",
+      "condition_id": "4613531",
+      "token_id": "70068332584805100473392862435079118166133056147227866624614693996004009659784",
+      "question": "Cincinnati Reds vs. Atlanta Braves",
+      "link": "https://polyvictor.com/markets/4613531"
+    },
+    {
+      "id": "404f4e77-5e54-464e-9f61-e4015dd9ba0c",
+      "ts": "2026-09-22T20:45:48+00:00",
+      "address": "0xc29cd8f36242f58938ea9f10dc07fd269d592d10",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "Atlanta Braves",
+      "price": 0.7000009159046036,
+      "shares": 545144.11,
+      "usd_value": 381601.37629999995,
+      "price_shift_pp": 0.6890318710376264,
+      "alert_reason": "size",
+      "market_id": "4613531",
+      "condition_id": "4613531",
+      "token_id": "70068332584805100473392862435079118166133056147227866624614693996004009659784",
+      "question": "Cincinnati Reds vs. Atlanta Braves",
+      "link": "https://polyvictor.com/markets/4613531"
     }
   ]
 }
