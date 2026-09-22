@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-22T11:20:02.885Z",
+  "generated_at": "2026-09-22T16:36:01.173Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "e33386b9-d84f-41c7-abeb-1ce74c4b73b7",
-      "ts": "2026-09-22T11:19:15+00:00",
-      "address": "0x26b46988d027c6c03cfa12a7c0c6d778be49b8a9",
+      "id": "388956aa-3c9e-46e5-a112-819eab04c56f",
+      "ts": "2026-09-22T16:35:38+00:00",
+      "address": "0xc29cd8f36242f58938ea9f10dc07fd269d592d10",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "YES",
-      "price": 0.5621787,
-      "shares": 50000,
-      "usd_value": 28108.935,
-      "price_shift_pp": 3.2178707631999925,
-      "alert_reason": "shift",
-      "market_id": null,
-      "condition_id": "0x3423cd7337bb45391ed024fcc2267f605845dcc0af95e58143d8b46edbd6996b",
-      "token_id": "18004597572011844789348722841709068977665374006599834432521514645772826911229",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
+      "outcome_index": 1,
+      "outcome_label": "New York Yankees",
+      "price": 0.5996791629421268,
+      "shares": 915918.51,
+      "usd_value": 549257.2454,
+      "price_shift_pp": 0.9679173562127108,
+      "alert_reason": "size",
+      "market_id": "2284198",
+      "condition_id": "2284198",
+      "token_id": "71543442915818071346252945085377787013257591065787605167141597147053881246459",
+      "question": "Tampa Bay Rays vs. New York Yankees",
+      "link": "https://polyvictor.com/markets/2284198"
     }
   ]
 }
