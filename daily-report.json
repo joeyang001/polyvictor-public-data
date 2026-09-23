@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-09-22",
-  "generated_at": "2026-09-22T14:00:08.426Z",
+  "date": "2026-09-23",
+  "generated_at": "2026-09-23T14:00:07.700Z",
   "status": "success",
   "tweet_ids": [
-    "2102397534815519189",
-    "2102397537004990587"
+    "2102759920693023084",
+    "2102759922056175941"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 236,
-    "total_volume_usd": 12592382.880504003,
-    "unique_whales": 87,
-    "buy_volume_usd": 10721750.614996003,
-    "sell_volume_usd": 1870632.2655079998,
+    "total_fills": 192,
+    "total_volume_usd": 9902780.460952006,
+    "unique_whales": 68,
+    "buy_volume_usd": 8450786.644312002,
+    "sell_volume_usd": 1451993.81664,
     "top_markets": [
       {
-        "market_id": "3512682",
-        "question": "Giants vs. Rams",
-        "volume_usd": 5175113.754932001,
-        "fills": 76,
-        "link": "https://polyvictor.com/markets/3512682"
-      },
-      {
-        "market_id": "3516946",
-        "question": "Giants vs. Rams: O/U 47.5",
-        "volume_usd": 1460409.5735999998,
-        "fills": 12,
-        "link": "https://polyvictor.com/markets/3516946"
-      },
-      {
-        "market_id": "3516934",
-        "question": "Spread: Rams (-6.5)",
-        "volume_usd": 1102909.6003999999,
+        "market_id": "4613531",
+        "question": "Cincinnati Reds vs. Atlanta Braves",
+        "volume_usd": 2418425.9760999996,
         "fills": 16,
-        "link": "https://polyvictor.com/markets/3516934"
+        "link": "https://polyvictor.com/markets/4613531"
+      },
+      {
+        "market_id": "2284198",
+        "question": "Tampa Bay Rays vs. New York Yankees",
+        "volume_usd": 2295843.585438,
+        "fills": 25,
+        "link": "https://polyvictor.com/markets/2284198"
+      },
+      {
+        "market_id": "4801478",
+        "question": "Minnesota Twins vs. San Francisco Giants: O/U 7.5",
+        "volume_usd": 217562.69196000003,
+        "fills": 3,
+        "link": "https://polyvictor.com/markets/4801478"
       }
     ],
     "top_whales": [
       {
-        "address": "0x6211f97a76ed5c4b1d658f637041ac5f293db89e",
-        "volume_usd": 1493756.5015999998,
-        "fills": 8,
-        "link": "https://polyvictor.com/whales/0x6211f97a76ed5c4b1d658f637041ac5f293db89e"
+        "address": "0xc29cd8f36242f58938ea9f10dc07fd269d592d10",
+        "volume_usd": 3988285.2600199995,
+        "fills": 17,
+        "link": "https://polyvictor.com/whales/0xc29cd8f36242f58938ea9f10dc07fd269d592d10"
       },
       {
-        "address": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
-        "volume_usd": 1046558.2652999999,
-        "fills": 20,
-        "link": "https://polyvictor.com/whales/0x7c37b52eb226bcb9411375ec48b0169663fb6aeb"
+        "address": "0x26b46988d027c6c03cfa12a7c0c6d778be49b8a9",
+        "volume_usd": 1020169.333636,
+        "fills": 31,
+        "link": "https://polyvictor.com/whales/0x26b46988d027c6c03cfa12a7c0c6d778be49b8a9"
       },
       {
-        "address": "0x7f8e1877a0907f2b2c7cabf8bdb2e2a8f3854487",
-        "volume_usd": 871175.2879999998,
-        "fills": 5,
-        "link": "https://polyvictor.com/whales/0x7f8e1877a0907f2b2c7cabf8bdb2e2a8f3854487"
+        "address": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+        "volume_usd": 409391.35760000005,
+        "fills": 6,
+        "link": "https://polyvictor.com/whales/0x5e9458202b5817a72cf81105ec8a30e6f3705ba1"
       }
     ],
     "biggest_fill": {
-      "address": "0x6211f97a76ed5c4b1d658f637041ac5f293db89e",
-      "usd": 390323.592,
+      "address": "0xc29cd8f36242f58938ea9f10dc07fd269d592d10",
+      "usd": 1362253.4138,
       "side": "buy",
-      "price": 0.72,
-      "market_id": "3512682",
-      "question": "Giants vs. Rams",
-      "link": "https://polyvictor.com/markets/3512682"
+      "price": 0.71,
+      "market_id": "4613531",
+      "question": "Cincinnati Reds vs. Atlanta Braves",
+      "link": "https://polyvictor.com/markets/4613531"
     }
   }
 }
