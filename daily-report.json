@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-09-23",
-  "generated_at": "2026-09-23T14:00:07.700Z",
+  "date": "2026-09-24",
+  "generated_at": "2026-09-24T14:00:08.008Z",
   "status": "success",
   "tweet_ids": [
-    "2102759920693023084",
-    "2102759922056175941"
+    "2103122309338878075",
+    "2103122311117254953"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 192,
-    "total_volume_usd": 9902780.460952006,
-    "unique_whales": 68,
-    "buy_volume_usd": 8450786.644312002,
-    "sell_volume_usd": 1451993.81664,
+    "total_fills": 173,
+    "total_volume_usd": 7361282.237249997,
+    "unique_whales": 64,
+    "buy_volume_usd": 6258301.748600001,
+    "sell_volume_usd": 1102980.48865,
     "top_markets": [
       {
-        "market_id": "4613531",
-        "question": "Cincinnati Reds vs. Atlanta Braves",
-        "volume_usd": 2418425.9760999996,
-        "fills": 16,
-        "link": "https://polyvictor.com/markets/4613531"
-      },
-      {
-        "market_id": "2284198",
-        "question": "Tampa Bay Rays vs. New York Yankees",
-        "volume_usd": 2295843.585438,
+        "market_id": "4638587",
+        "question": "Washington Nationals vs. Detroit Tigers",
+        "volume_usd": 2320403.95823,
         "fills": 25,
-        "link": "https://polyvictor.com/markets/2284198"
+        "link": "https://polyvictor.com/markets/4638587"
       },
       {
-        "market_id": "4801478",
-        "question": "Minnesota Twins vs. San Francisco Giants: O/U 7.5",
-        "volume_usd": 217562.69196000003,
-        "fills": 3,
-        "link": "https://polyvictor.com/markets/4801478"
+        "market_id": "4638597",
+        "question": "Tampa Bay Rays vs. New York Yankees",
+        "volume_usd": 522614.07772000006,
+        "fills": 11,
+        "link": "https://polyvictor.com/markets/4638597"
+      },
+      {
+        "market_id": "4437020",
+        "question": "Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C",
+        "volume_usd": 417987.7177,
+        "fills": 8,
+        "link": "https://polyvictor.com/markets/4437020"
       }
     ],
     "top_whales": [
       {
-        "address": "0xc29cd8f36242f58938ea9f10dc07fd269d592d10",
-        "volume_usd": 3988285.2600199995,
-        "fills": 17,
-        "link": "https://polyvictor.com/whales/0xc29cd8f36242f58938ea9f10dc07fd269d592d10"
+        "address": "0xe6ca6ebbec97e8a46ff3dbdb2a99d46254fbbff4",
+        "volume_usd": 1635980.1676999999,
+        "fills": 12,
+        "link": "https://polyvictor.com/whales/0xe6ca6ebbec97e8a46ff3dbdb2a99d46254fbbff4"
+      },
+      {
+        "address": "0xa1e6ba93d878b71a895f80fcb5c36337143fe1c2",
+        "volume_usd": 454360.47272,
+        "fills": 6,
+        "link": "https://polyvictor.com/whales/0xa1e6ba93d878b71a895f80fcb5c36337143fe1c2"
       },
       {
         "address": "0x26b46988d027c6c03cfa12a7c0c6d778be49b8a9",
-        "volume_usd": 1020169.333636,
-        "fills": 31,
+        "volume_usd": 424516.82729999995,
+        "fills": 12,
         "link": "https://polyvictor.com/whales/0x26b46988d027c6c03cfa12a7c0c6d778be49b8a9"
-      },
-      {
-        "address": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
-        "volume_usd": 409391.35760000005,
-        "fills": 6,
-        "link": "https://polyvictor.com/whales/0x5e9458202b5817a72cf81105ec8a30e6f3705ba1"
       }
     ],
     "biggest_fill": {
-      "address": "0xc29cd8f36242f58938ea9f10dc07fd269d592d10",
-      "usd": 1362253.4138,
+      "address": "0xe6ca6ebbec97e8a46ff3dbdb2a99d46254fbbff4",
+      "usd": 729887.7978000001,
       "side": "buy",
-      "price": 0.71,
-      "market_id": "4613531",
-      "question": "Cincinnati Reds vs. Atlanta Braves",
-      "link": "https://polyvictor.com/markets/4613531"
+      "price": 0.63,
+      "market_id": "4638587",
+      "question": "Washington Nationals vs. Detroit Tigers",
+      "link": "https://polyvictor.com/markets/4638587"
     }
   }
 }
