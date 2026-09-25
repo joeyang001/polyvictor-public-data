@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-09-24",
-  "generated_at": "2026-09-24T14:00:08.008Z",
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T14:00:07.473Z",
   "status": "success",
   "tweet_ids": [
-    "2103122309338878075",
-    "2103122311117254953"
+    "2103484695769960551",
+    "2103484696927629558"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 173,
-    "total_volume_usd": 7361282.237249997,
-    "unique_whales": 64,
-    "buy_volume_usd": 6258301.748600001,
-    "sell_volume_usd": 1102980.48865,
+    "total_fills": 405,
+    "total_volume_usd": 30824635.17059799,
+    "unique_whales": 111,
+    "buy_volume_usd": 22448187.840328004,
+    "sell_volume_usd": 8376447.330269999,
     "top_markets": [
       {
-        "market_id": "4638587",
-        "question": "Washington Nationals vs. Detroit Tigers",
-        "volume_usd": 2320403.95823,
-        "fills": 25,
-        "link": "https://polyvictor.com/markets/4638587"
+        "market_id": "4464920",
+        "question": "Will Norway win on 2026-09-24?",
+        "volume_usd": 16567215.976428997,
+        "fills": 111,
+        "link": "https://polyvictor.com/markets/4464920"
       },
       {
-        "market_id": "4638597",
-        "question": "Tampa Bay Rays vs. New York Yankees",
-        "volume_usd": 522614.07772000006,
-        "fills": 11,
-        "link": "https://polyvictor.com/markets/4638597"
+        "market_id": "3580763",
+        "question": "Falcons vs. Packers",
+        "volume_usd": 3042698.836969001,
+        "fills": 49,
+        "link": "https://polyvictor.com/markets/3580763"
       },
       {
-        "market_id": "4437020",
-        "question": "Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C",
-        "volume_usd": 417987.7177,
-        "fills": 8,
-        "link": "https://polyvictor.com/markets/4437020"
+        "market_id": "3701434",
+        "question": "Spread: Packers (-4.5)",
+        "volume_usd": 2233097.342805,
+        "fills": 28,
+        "link": "https://polyvictor.com/markets/3701434"
       }
     ],
     "top_whales": [
       {
         "address": "0xe6ca6ebbec97e8a46ff3dbdb2a99d46254fbbff4",
-        "volume_usd": 1635980.1676999999,
-        "fills": 12,
+        "volume_usd": 11516460.13585,
+        "fills": 34,
         "link": "https://polyvictor.com/whales/0xe6ca6ebbec97e8a46ff3dbdb2a99d46254fbbff4"
       },
       {
-        "address": "0xa1e6ba93d878b71a895f80fcb5c36337143fe1c2",
-        "volume_usd": 454360.47272,
-        "fills": 6,
-        "link": "https://polyvictor.com/whales/0xa1e6ba93d878b71a895f80fcb5c36337143fe1c2"
+        "address": "0x168a51f1cac0ad3b166797069382495a8aa10d24",
+        "volume_usd": 1702290.9121200002,
+        "fills": 16,
+        "link": "https://polyvictor.com/whales/0x168a51f1cac0ad3b166797069382495a8aa10d24"
       },
       {
-        "address": "0x26b46988d027c6c03cfa12a7c0c6d778be49b8a9",
-        "volume_usd": 424516.82729999995,
-        "fills": 12,
-        "link": "https://polyvictor.com/whales/0x26b46988d027c6c03cfa12a7c0c6d778be49b8a9"
+        "address": "0x6211f97a76ed5c4b1d658f637041ac5f293db89e",
+        "volume_usd": 1473872.6386,
+        "fills": 6,
+        "link": "https://polyvictor.com/whales/0x6211f97a76ed5c4b1d658f637041ac5f293db89e"
       }
     ],
     "biggest_fill": {
       "address": "0xe6ca6ebbec97e8a46ff3dbdb2a99d46254fbbff4",
-      "usd": 729887.7978000001,
-      "side": "buy",
-      "price": 0.63,
-      "market_id": "4638587",
-      "question": "Washington Nationals vs. Detroit Tigers",
-      "link": "https://polyvictor.com/markets/4638587"
+      "usd": 2108337.6618899996,
+      "side": "sell",
+      "price": 0.999,
+      "market_id": "4464920",
+      "question": "Will Norway win on 2026-09-24?",
+      "link": "https://polyvictor.com/markets/4464920"
     }
   }
 }
