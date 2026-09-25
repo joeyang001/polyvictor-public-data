@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-24T23:42:01.416Z",
+  "generated_at": "2026-09-25T00:08:01.201Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "c4e94112-2f88-47d2-b7d9-e5a0f3d6ad56",
+      "ts": "2026-09-25T00:05:59+00:00",
+      "address": "0x6211f97a76ed5c4b1d658f637041ac5f293db89e",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Packers",
+      "price": 0.52,
+      "shares": 584498.02,
+      "usd_value": 303938.9704,
+      "price_shift_pp": 0.0000014964028349773173,
+      "alert_reason": "size",
+      "market_id": "3701434",
+      "condition_id": "3701434",
+      "token_id": "102491313499250806487042381987424181997405491957886894227608387393647932436531",
+      "question": "Spread: Packers (-4.5)",
+      "link": "https://polyvictor.com/markets/3701434"
+    },
     {
       "id": "965f3748-a2dc-44b6-8c76-60fbb4096688",
       "ts": "2026-09-24T23:40:10+00:00",
