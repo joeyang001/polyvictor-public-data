@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-09-25",
-  "generated_at": "2026-09-25T14:00:07.473Z",
+  "date": "2026-09-26",
+  "generated_at": "2026-09-26T14:00:07.203Z",
   "status": "success",
   "tweet_ids": [
-    "2103484695769960551",
-    "2103484696927629558"
+    "2103847082305925510",
+    "2103847083497193493"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 405,
-    "total_volume_usd": 30824635.17059799,
-    "unique_whales": 111,
-    "buy_volume_usd": 22448187.840328004,
-    "sell_volume_usd": 8376447.330269999,
+    "total_fills": 303,
+    "total_volume_usd": 12259432.451372994,
+    "unique_whales": 120,
+    "buy_volume_usd": 9909116.821742998,
+    "sell_volume_usd": 2350315.6296299994,
     "top_markets": [
       {
-        "market_id": "4464920",
-        "question": "Will Norway win on 2026-09-24?",
-        "volume_usd": 16567215.976428997,
-        "fills": 111,
-        "link": "https://polyvictor.com/markets/4464920"
+        "market_id": "4801541",
+        "question": "Clemson vs. California",
+        "volume_usd": 647647.3172599999,
+        "fills": 19,
+        "link": "https://polyvictor.com/markets/4801541"
       },
       {
-        "market_id": "3580763",
-        "question": "Falcons vs. Packers",
-        "volume_usd": 3042698.836969001,
-        "fills": 49,
-        "link": "https://polyvictor.com/markets/3580763"
+        "market_id": "4492835",
+        "question": "Will Türkiye win on 2026-09-25?",
+        "volume_usd": 576481.7545060001,
+        "fills": 9,
+        "link": "https://polyvictor.com/markets/4492835"
       },
       {
-        "market_id": "3701434",
-        "question": "Spread: Packers (-4.5)",
-        "volume_usd": 2233097.342805,
-        "fills": 28,
-        "link": "https://polyvictor.com/markets/3701434"
+        "market_id": "4521506",
+        "question": "Will Spain win on 2026-09-26?",
+        "volume_usd": 462050.59113799996,
+        "fills": 13,
+        "link": "https://polyvictor.com/markets/4521506"
       }
     ],
     "top_whales": [
       {
-        "address": "0xe6ca6ebbec97e8a46ff3dbdb2a99d46254fbbff4",
-        "volume_usd": 11516460.13585,
-        "fills": 34,
-        "link": "https://polyvictor.com/whales/0xe6ca6ebbec97e8a46ff3dbdb2a99d46254fbbff4"
+        "address": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+        "volume_usd": 613085.9599600001,
+        "fills": 12,
+        "link": "https://polyvictor.com/whales/0x7c37b52eb226bcb9411375ec48b0169663fb6aeb"
       },
       {
-        "address": "0x168a51f1cac0ad3b166797069382495a8aa10d24",
-        "volume_usd": 1702290.9121200002,
-        "fills": 16,
-        "link": "https://polyvictor.com/whales/0x168a51f1cac0ad3b166797069382495a8aa10d24"
+        "address": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+        "volume_usd": 560599.41974,
+        "fills": 10,
+        "link": "https://polyvictor.com/whales/0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998"
       },
       {
-        "address": "0x6211f97a76ed5c4b1d658f637041ac5f293db89e",
-        "volume_usd": 1473872.6386,
-        "fills": 6,
-        "link": "https://polyvictor.com/whales/0x6211f97a76ed5c4b1d658f637041ac5f293db89e"
+        "address": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
+        "volume_usd": 397985.409998,
+        "fills": 12,
+        "link": "https://polyvictor.com/whales/0x361b16e3ddfe1d415d41008daac2631d94ab74fe"
       }
     ],
     "biggest_fill": {
-      "address": "0xe6ca6ebbec97e8a46ff3dbdb2a99d46254fbbff4",
-      "usd": 2108337.6618899996,
-      "side": "sell",
-      "price": 0.999,
-      "market_id": "4464920",
-      "question": "Will Norway win on 2026-09-24?",
-      "link": "https://polyvictor.com/markets/4464920"
+      "address": "0xf1528f12e645462c344799b62b1b421a6a4c64aa",
+      "usd": 171855,
+      "side": "buy",
+      "price": 0.9,
+      "market_id": "4492835",
+      "question": "Will Türkiye win on 2026-09-25?",
+      "link": "https://polyvictor.com/markets/4492835"
     }
   }
 }
