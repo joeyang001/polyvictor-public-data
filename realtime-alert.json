@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-25T21:38:01.735Z",
+  "generated_at": "2026-09-26T04:26:01.153Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "09875b74-3c32-428f-8027-eff8674d6889",
-      "ts": "2026-09-25T21:36:58+00:00",
-      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-      "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "FlyQuest",
-      "price": 0.8,
-      "shares": 40113.3,
-      "usd_value": 32090.640000000003,
-      "price_shift_pp": -3.9999999999999925,
+      "id": "4df57448-d1ea-4579-b421-cf3c8d76f171",
+      "ts": "2026-09-26T04:25:36+00:00",
+      "address": "0x5e8a79fb8a6a790f41c2e87a1f8fd3656b1cd340",
+      "side": "sell",
+      "outcome_index": 1,
+      "outcome_label": "Under",
+      "price": 0.999,
+      "shares": 56000,
+      "usd_value": 55944,
+      "price_shift_pp": 49.9,
       "alert_reason": "shift",
-      "market_id": "4785890",
-      "condition_id": "4785890",
-      "token_id": "103322351620842296649872936922718260738092681036659006146942931704481890185928",
-      "question": "LoL: FlyQuest vs Shopify Rebellion (BO5) - LCS Playoffs",
-      "link": "https://polyvictor.com/markets/4785890"
+      "market_id": "4801600",
+      "condition_id": "4801600",
+      "token_id": "86447389757799730971249944877698193253462695485753196004602223565517471256161",
+      "question": "Clemson vs. California: 1H O/U 23.5",
+      "link": "https://polyvictor.com/markets/4801600"
     }
   ]
 }
