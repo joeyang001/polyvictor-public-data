@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-26T04:26:01.153Z",
+  "generated_at": "2026-09-26T15:48:01.271Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "4df57448-d1ea-4579-b421-cf3c8d76f171",
-      "ts": "2026-09-26T04:25:36+00:00",
-      "address": "0x5e8a79fb8a6a790f41c2e87a1f8fd3656b1cd340",
-      "side": "sell",
-      "outcome_index": 1,
-      "outcome_label": "Under",
-      "price": 0.999,
-      "shares": 56000,
-      "usd_value": 55944,
-      "price_shift_pp": 49.9,
-      "alert_reason": "shift",
-      "market_id": "4801600",
-      "condition_id": "4801600",
-      "token_id": "86447389757799730971249944877698193253462695485753196004602223565517471256161",
-      "question": "Clemson vs. California: 1H O/U 23.5",
-      "link": "https://polyvictor.com/markets/4801600"
+      "id": "b0988988-e182-4904-b147-cd2a04ffa2eb",
+      "ts": "2026-09-26T15:46:44+00:00",
+      "address": "0xe6ca6ebbec97e8a46ff3dbdb2a99d46254fbbff4",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.5872496785475538,
+      "shares": 452539.72,
+      "usd_value": 265753.8051,
+      "price_shift_pp": 0.7249682874835628,
+      "alert_reason": "size",
+      "market_id": "4521486",
+      "condition_id": "4521486",
+      "token_id": "21003836184108687255771155786971680552187543933138250310054993461782597571721",
+      "question": "Will Faroe Islands win on 2026-09-26?",
+      "link": "https://polyvictor.com/markets/4521486"
     }
   ]
 }
