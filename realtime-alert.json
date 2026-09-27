@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-27T20:24:01.397Z",
+  "generated_at": "2026-09-27T22:26:01.578Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "631c1418-1148-413e-bec5-2ca9a0fba451",
-      "ts": "2026-09-27T20:23:40+00:00",
-      "address": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
+      "id": "58ade41d-ec19-4642-ab09-40589dde3590",
+      "ts": "2026-09-27T22:24:37+00:00",
+      "address": "0x59229282121256ed2d629ce5adf0e04cc7fb3388",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Saints",
-      "price": 0.52,
-      "shares": 502483.74,
-      "usd_value": 261291.5448,
-      "price_shift_pp": 0,
-      "alert_reason": "size",
-      "market_id": "3701304",
-      "condition_id": "3701304",
-      "token_id": "41658784012713575847992529627567847804819293998156863309683871943310453805593",
-      "question": "Spread: Saints (-3.5)",
-      "link": "https://polyvictor.com/markets/3701304"
+      "outcome_index": 1,
+      "outcome_label": "Cake Team",
+      "price": 0.9871322912638129,
+      "shares": 26632.9,
+      "usd_value": 26290.195600000003,
+      "price_shift_pp": 15.656648629534043,
+      "alert_reason": "shift",
+      "market_id": "5031455",
+      "condition_id": "0xa45b5f77c2e3efa1434d5595ee7876b9c0b9c59beece65618a1dc6e9b12e1ff9",
+      "token_id": "78063301504879278579218202528834106180694440878597223856004262355351579376573",
+      "question": "Dota 2: YBN Team vs Cake Team (BO3) - BetBoom Streamers Battle Playoffs",
+      "link": "https://polyvictor.com/markets/5031455"
     }
   ]
 }
