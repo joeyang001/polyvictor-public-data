@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-27T06:50:01.851Z",
+  "generated_at": "2026-09-27T16:28:01.210Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "de39a1ae-8f68-4313-b03c-78423b2b2ca7",
-      "ts": "2026-09-27T06:49:41+00:00",
-      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+      "id": "6ccbb644-fbd6-48ea-ae5b-8093216505f4",
+      "ts": "2026-09-27T16:27:34+00:00",
+      "address": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Jets",
-      "price": 0.48,
-      "shares": 587147.95,
-      "usd_value": 281831.01599999995,
-      "price_shift_pp": 1.0000000000000009,
+      "outcome_index": 0,
+      "outcome_label": "Chiefs",
+      "price": 0.84,
+      "shares": 650000,
+      "usd_value": 546000,
+      "price_shift_pp": 0,
       "alert_reason": "size",
-      "market_id": "3701393",
-      "condition_id": "3701393",
-      "token_id": "86676019799267999603077987119316156189550493711007809824679266437314188941206",
-      "question": "Spread: Lions (-6.5)",
-      "link": "https://polyvictor.com/markets/3701393"
+      "market_id": "3664783",
+      "condition_id": "3664783",
+      "token_id": "103595259305295486168019441815330062833506026715772035223814314462488631344129",
+      "question": "Chiefs vs. Dolphins",
+      "link": "https://polyvictor.com/markets/3664783"
     }
   ]
 }
