@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-27T16:28:01.210Z",
+  "generated_at": "2026-09-27T17:38:01.207Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "6ccbb644-fbd6-48ea-ae5b-8093216505f4",
-      "ts": "2026-09-27T16:27:34+00:00",
-      "address": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
+      "id": "43f01aaa-874c-46cb-8b8e-9d464cae9df7",
+      "ts": "2026-09-27T17:37:12+00:00",
+      "address": "0x59229282121256ed2d629ce5adf0e04cc7fb3388",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Chiefs",
-      "price": 0.84,
-      "shares": 650000,
-      "usd_value": 546000,
-      "price_shift_pp": 0,
-      "alert_reason": "size",
-      "market_id": "3664783",
-      "condition_id": "3664783",
-      "token_id": "103595259305295486168019441815330062833506026715772035223814314462488631344129",
-      "question": "Chiefs vs. Dolphins",
-      "link": "https://polyvictor.com/markets/3664783"
+      "outcome_label": "YES",
+      "price": 0.9865727410693638,
+      "shares": 41123.33,
+      "usd_value": 40571.1564,
+      "price_shift_pp": 12.958620786909202,
+      "alert_reason": "shift",
+      "market_id": null,
+      "condition_id": "0x1fa5d8fa21f9625beb673d81639ac6e916a641d7b30841daa66ee67ad14c7eba",
+      "token_id": "108488267247182929395186880032199152541051898571289723493712609312828049502664",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
