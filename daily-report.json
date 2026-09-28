@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-09-27",
-  "generated_at": "2026-09-27T14:00:07.940Z",
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T14:00:05.093Z",
   "status": "success",
   "tweet_ids": [
-    "2104209472990204175",
-    "2104209474344927497"
+    "2104571849208119644",
+    "2104571850499956743"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 475,
-    "total_volume_usd": 20060755.364636976,
-    "unique_whales": 130,
-    "buy_volume_usd": 17900990.28170698,
-    "sell_volume_usd": 2159765.082930001,
+    "total_fills": 686,
+    "total_volume_usd": 32803381.187263995,
+    "unique_whales": 151,
+    "buy_volume_usd": 28775417.228634007,
+    "sell_volume_usd": 4027963.9586300016,
     "top_markets": [
       {
-        "market_id": "4521486",
-        "question": "Will Faroe Islands win on 2026-09-26?",
-        "volume_usd": 1690825.59102,
-        "fills": 23,
-        "link": "https://polyvictor.com/markets/4521486"
+        "market_id": "3664837",
+        "question": "Rams vs. Broncos",
+        "volume_usd": 4340458.069437999,
+        "fills": 85,
+        "link": "https://polyvictor.com/markets/3664837"
       },
       {
-        "market_id": "4855332",
-        "question": "Spread: Bills (-7.5)",
-        "volume_usd": 877857.7296539999,
-        "fills": 15,
-        "link": "https://polyvictor.com/markets/4855332"
+        "market_id": "3664783",
+        "question": "Chiefs vs. Dolphins",
+        "volume_usd": 2589575.0378,
+        "fills": 33,
+        "link": "https://polyvictor.com/markets/3664783"
       },
       {
-        "market_id": "4806516",
-        "question": "Ole Miss vs. Florida",
-        "volume_usd": 850409.7620000001,
-        "fills": 21,
-        "link": "https://polyvictor.com/markets/4806516"
+        "market_id": "3664737",
+        "question": "Ravens vs. Cowboys",
+        "volume_usd": 1379683.945731,
+        "fills": 37,
+        "link": "https://polyvictor.com/markets/3664737"
       }
     ],
     "top_whales": [
       {
-        "address": "0xe6ca6ebbec97e8a46ff3dbdb2a99d46254fbbff4",
-        "volume_usd": 1807581.6098299997,
-        "fills": 18,
-        "link": "https://polyvictor.com/whales/0xe6ca6ebbec97e8a46ff3dbdb2a99d46254fbbff4"
+        "address": "0x6211f97a76ed5c4b1d658f637041ac5f293db89e",
+        "volume_usd": 3098980.8325999994,
+        "fills": 27,
+        "link": "https://polyvictor.com/whales/0x6211f97a76ed5c4b1d658f637041ac5f293db89e"
       },
       {
-        "address": "0xcbc666209b4c17ea84c03c0dda71b5dab9e4ec62",
-        "volume_usd": 1549330.8134,
-        "fills": 16,
-        "link": "https://polyvictor.com/whales/0xcbc666209b4c17ea84c03c0dda71b5dab9e4ec62"
+        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+        "volume_usd": 1855967.033825,
+        "fills": 45,
+        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
       },
       {
-        "address": "0xc8075693f48668a264b9fa313b47f52712fcc12b",
-        "volume_usd": 1142615.377,
-        "fills": 25,
-        "link": "https://polyvictor.com/whales/0xc8075693f48668a264b9fa313b47f52712fcc12b"
+        "address": "0xa90429bc88a1d22eb40e4aac9aaf0bcefd29d20c",
+        "volume_usd": 1799623.2574,
+        "fills": 28,
+        "link": "https://polyvictor.com/whales/0xa90429bc88a1d22eb40e4aac9aaf0bcefd29d20c"
       }
     ],
     "biggest_fill": {
-      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-      "usd": 281831.01599999995,
+      "address": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
+      "usd": 546000,
       "side": "buy",
-      "price": 0.48,
-      "market_id": "3701393",
-      "question": "Spread: Lions (-6.5)",
-      "link": "https://polyvictor.com/markets/3701393"
+      "price": 0.84,
+      "market_id": "3664783",
+      "question": "Chiefs vs. Dolphins",
+      "link": "https://polyvictor.com/markets/3664783"
     }
   }
 }
