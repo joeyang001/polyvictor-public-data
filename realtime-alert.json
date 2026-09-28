@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-28T03:22:01.405Z",
+  "generated_at": "2026-09-28T17:48:01.764Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "69a0438a-01ae-4107-a0ea-97085f488ce0",
-      "ts": "2026-09-28T03:20:10+00:00",
-      "address": "0x26b46988d027c6c03cfa12a7c0c6d778be49b8a9",
-      "side": "sell",
+      "id": "07d173a6-5db4-4535-af8f-e1329188f34f",
+      "ts": "2026-09-28T17:46:40+00:00",
+      "address": "0x80d5aebbe7a714879177e4dae0014195beb3987e",
+      "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Over",
-      "price": 0.999,
-      "shares": 29041.68,
-      "usd_value": 29012.638320000002,
-      "price_shift_pp": 27.900000000000002,
+      "outcome_label": "YES",
+      "price": 0.4042621416303367,
+      "shares": 191208.264737,
+      "usd_value": 77298.2626,
+      "price_shift_pp": 7.4262141752908075,
       "alert_reason": "shift",
-      "market_id": "4856932",
-      "condition_id": "4856932",
-      "token_id": "109448232483879797635659959578098473039742522602824977758567891123019407076864",
-      "question": "Rams vs. Broncos: O/U 38.5",
-      "link": "https://polyvictor.com/markets/4856932"
+      "market_id": null,
+      "condition_id": "0xe173073b68ad4b30a5e36a2cf132cdacda4432c4dba0ce98118b7e8726435217",
+      "token_id": "96882877376714494765950152717652393375461358249031594001681843240539491221685",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
