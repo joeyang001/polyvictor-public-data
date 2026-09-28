@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-28T18:32:11.107Z",
+  "generated_at": "2026-09-28T20:48:01.558Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "def80514-27a9-46dd-a367-e756942939c4",
-      "ts": "2026-09-28T18:30:07+00:00",
-      "address": "0x0f6f76ced62a911bccef92f50faaff143854d977",
+      "id": "6093535f-aa41-4e8b-b0e9-7d8a3681714a",
+      "ts": "2026-09-28T20:46:51+00:00",
+      "address": "0x26b46988d027c6c03cfa12a7c0c6d778be49b8a9",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "No",
-      "price": 0.57,
-      "shares": 601541,
-      "usd_value": 342878.37,
-      "price_shift_pp": 0.9999999999999898,
-      "alert_reason": "size",
-      "market_id": "4581768",
-      "condition_id": "4581768",
-      "token_id": "6570736768586531778305906800330243503420851954788128056678194310642051325190",
-      "question": "Will France win on 2026-09-28?",
-      "link": "https://polyvictor.com/markets/4581768"
+      "outcome_index": 0,
+      "outcome_label": "YES",
+      "price": 0.6153816088888889,
+      "shares": 45000,
+      "usd_value": 27692.172400000003,
+      "price_shift_pp": 3.538160888888897,
+      "alert_reason": "shift",
+      "market_id": null,
+      "condition_id": "0xa6915211d743a123a5ca806b337498b7203be122cb9a13a9fec81d4b2e6cdb3e",
+      "token_id": "80453713851750619555275674493480819489938651191062830604042514818453132669737",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
