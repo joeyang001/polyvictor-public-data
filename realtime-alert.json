@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-29T01:42:01.530Z",
+  "generated_at": "2026-09-29T12:50:07.715Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "0615ac3b-f406-4337-9067-b5c6089cadf3",
-      "ts": "2026-09-29T01:40:05+00:00",
-      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+      "id": "d3b6a052-e6bb-4428-8306-0d176015e9f3",
+      "ts": "2026-09-29T12:48:43+00:00",
+      "address": "0xd1c769317bd15de7768a70d0214cf0bbcc531d2b",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Eagles",
-      "price": 0.58,
-      "shares": 500000,
-      "usd_value": 290000,
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.999,
+      "shares": 321656.18,
+      "usd_value": 321334.52382,
       "price_shift_pp": 0,
       "alert_reason": "size",
-      "market_id": "3695205",
-      "condition_id": "3695205",
-      "token_id": "29652429512130463118665284075870201747739909237084592893331546208800561253258",
-      "question": "Eagles vs. Bears",
-      "link": "https://polyvictor.com/markets/3695205"
+      "market_id": "2774057",
+      "condition_id": "2774057",
+      "token_id": "111344475342969784116702975577723982549674037196345086059563486202499238579830",
+      "question": "Strait of Hormuz traffic returns to normal by September 30?",
+      "link": "https://polyvictor.com/markets/2774057"
     }
   ]
 }
