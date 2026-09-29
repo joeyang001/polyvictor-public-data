@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-09-29T12:50:07.715Z",
+  "generated_at": "2026-09-29T19:14:01.517Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "d3b6a052-e6bb-4428-8306-0d176015e9f3",
-      "ts": "2026-09-29T12:48:43+00:00",
-      "address": "0xd1c769317bd15de7768a70d0214cf0bbcc531d2b",
+      "id": "57639c56-ef45-40e4-a6e2-62e527f82102",
+      "ts": "2026-09-29T19:12:31+00:00",
+      "address": "0x389d2790cd8ead87028f68eaa7cfadb6c53f5866",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "No",
-      "price": 0.999,
-      "shares": 321656.18,
-      "usd_value": 321334.52382,
-      "price_shift_pp": 0,
-      "alert_reason": "size",
-      "market_id": "2774057",
-      "condition_id": "2774057",
-      "token_id": "111344475342969784116702975577723982549674037196345086059563486202499238579830",
-      "question": "Strait of Hormuz traffic returns to normal by September 30?",
-      "link": "https://polyvictor.com/markets/2774057"
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.5641991804789177,
+      "shares": 49707.08,
+      "usd_value": 28044.6938,
+      "price_shift_pp": 24.950268246237673,
+      "alert_reason": "shift",
+      "market_id": "682705",
+      "condition_id": "682705",
+      "token_id": "20006732765674855733524007935991362439352594042415161039767275461950712817548",
+      "question": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
+      "link": "https://polyvictor.com/markets/682705"
     }
   ]
 }
