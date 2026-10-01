@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-01T20:48:01.295Z",
+  "generated_at": "2026-10-01T23:28:01.442Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "794ca6f1-627e-45ce-8a2d-65b4f1739015",
-      "ts": "2026-10-01T20:46:18+00:00",
-      "address": "0xe6ca6ebbec97e8a46ff3dbdb2a99d46254fbbff4",
-      "side": "sell",
+      "id": "c269a2fd-3fdb-4afb-90e9-02e054b43165",
+      "ts": "2026-10-01T23:27:26+00:00",
+      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+      "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.999,
-      "shares": 1692340.26,
-      "usd_value": 1690647.91974,
-      "price_shift_pp": 0,
+      "outcome_label": "Steelers",
+      "price": 0.58,
+      "shares": 525958.97,
+      "usd_value": 305056.20259999996,
+      "price_shift_pp": 3.0160000052958935e-7,
       "alert_reason": "size",
-      "market_id": "4678642",
-      "condition_id": "4678642",
-      "token_id": "30832906867199915342888320351856964164180073964149724713946648532860513266622",
-      "question": "Will Portugal win on 2026-10-01?",
-      "link": "https://polyvictor.com/markets/4678642"
+      "market_id": "3760412",
+      "condition_id": "3760412",
+      "token_id": "114452029473938322994940072047457517711080146350796218905893406566691475251935",
+      "question": "Steelers vs. Browns",
+      "link": "https://polyvictor.com/markets/3760412"
     }
   ]
 }
