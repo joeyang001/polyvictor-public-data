@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-01T02:30:06.212Z",
+  "generated_at": "2026-10-01T18:38:02.725Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "d89d16ee-36a2-48a1-a788-d282515525d1",
-      "ts": "2026-10-01T02:28:26+00:00",
-      "address": "0x26b46988d027c6c03cfa12a7c0c6d778be49b8a9",
+      "id": "0276d9d3-5565-4ffa-888e-be18fa13c311",
+      "ts": "2026-10-01T18:36:47+00:00",
+      "address": "0xe6ca6ebbec97e8a46ff3dbdb2a99d46254fbbff4",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Taylor Fritz",
-      "price": 0.6075886217080113,
-      "shares": 47729.662742,
-      "usd_value": 29000,
-      "price_shift_pp": -3.24113782919887,
-      "alert_reason": "shift",
-      "market_id": "5121611",
-      "condition_id": "5121611",
-      "token_id": "17344135861369448280904138536462267006982529708380468868340823699800214481875",
-      "question": "Japan Open Tennis Championships: Taylor Fritz vs Jaume Munar",
-      "link": "https://polyvictor.com/markets/5121611"
+      "outcome_label": "Yes",
+      "price": 0.536929722235991,
+      "shares": 1185450.92,
+      "usd_value": 636503.8332,
+      "price_shift_pp": 0.6929747288510812,
+      "alert_reason": "size",
+      "market_id": "4678642",
+      "condition_id": "4678642",
+      "token_id": "30832906867199915342888320351856964164180073964149724713946648532860513266622",
+      "question": "Will Portugal win on 2026-10-01?",
+      "link": "https://polyvictor.com/markets/4678642"
     }
   ]
 }
