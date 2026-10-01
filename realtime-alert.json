@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-01T18:38:02.725Z",
+  "generated_at": "2026-10-01T19:54:01.584Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "0276d9d3-5565-4ffa-888e-be18fa13c311",
-      "ts": "2026-10-01T18:36:47+00:00",
-      "address": "0xe6ca6ebbec97e8a46ff3dbdb2a99d46254fbbff4",
+      "id": "1a943396-993e-4e99-a0d6-14230a50ddef",
+      "ts": "2026-10-01T19:52:08+00:00",
+      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.536929722235991,
-      "shares": 1185450.92,
-      "usd_value": 636503.8332,
-      "price_shift_pp": 0.6929747288510812,
-      "alert_reason": "size",
-      "market_id": "4678642",
-      "condition_id": "4678642",
-      "token_id": "30832906867199915342888320351856964164180073964149724713946648532860513266622",
-      "question": "Will Portugal win on 2026-10-01?",
-      "link": "https://polyvictor.com/markets/4678642"
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.29,
+      "shares": 331353.56,
+      "usd_value": 96092.5324,
+      "price_shift_pp": -3.0000000000000027,
+      "alert_reason": "shift",
+      "market_id": "4678627",
+      "condition_id": "4678627",
+      "token_id": "41265720075824540646696708063569830874494303284477678136375695277552896789407",
+      "question": "Will Wales win on 2026-10-01?",
+      "link": "https://polyvictor.com/markets/4678627"
     }
   ]
 }
