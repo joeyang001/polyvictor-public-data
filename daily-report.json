@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-09-30",
-  "generated_at": "2026-09-30T14:00:09.622Z",
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T14:00:07.906Z",
   "status": "success",
   "tweet_ids": [
-    "2105296643327230150",
-    "2105296644665139329"
+    "2105659024771293400",
+    "2105659025949962706"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 248,
-    "total_volume_usd": 10281864.297583995,
-    "unique_whales": 96,
-    "buy_volume_usd": 8088348.538893999,
-    "sell_volume_usd": 2193515.75869,
+    "total_fills": 231,
+    "total_volume_usd": 8639320.690669,
+    "unique_whales": 82,
+    "buy_volume_usd": 6330356.105809,
+    "sell_volume_usd": 2308964.58486,
     "top_markets": [
       {
-        "market_id": "5073567",
+        "market_id": "5073584",
         "question": "Philadelphia Phillies vs. Atlanta Braves",
-        "volume_usd": 1126728.73376,
-        "fills": 22,
-        "link": "https://polyvictor.com/markets/5073567"
+        "volume_usd": 1634450.2104149996,
+        "fills": 30,
+        "link": "https://polyvictor.com/markets/5073584"
       },
       {
-        "market_id": "4609854",
-        "question": "Will Spain win on 2026-09-29?",
-        "volume_usd": 827140.014126,
-        "fills": 12,
-        "link": "https://polyvictor.com/markets/4609854"
+        "market_id": "4978501",
+        "question": "Boston Red Sox vs. New York Yankees",
+        "volume_usd": 576795.463868,
+        "fills": 14,
+        "link": "https://polyvictor.com/markets/4978501"
       },
       {
-        "market_id": "2744060",
-        "question": "Will Samuel Alito announce his retirement by September 30, 2026?",
-        "volume_usd": 613214.37023,
-        "fills": 4,
-        "link": "https://polyvictor.com/markets/2744060"
+        "market_id": "5073587",
+        "question": "Chicago White Sox vs. Houston Astros",
+        "volume_usd": 491789.737936,
+        "fills": 11,
+        "link": "https://polyvictor.com/markets/5073587"
       }
     ],
     "top_whales": [
       {
-        "address": "0x8e92289bbff5635543812defcb7acc4e514c15de",
-        "volume_usd": 734043.74468,
+        "address": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+        "volume_usd": 1424092.1867799996,
+        "fills": 25,
+        "link": "https://polyvictor.com/whales/0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998"
+      },
+      {
+        "address": "0x26b46988d027c6c03cfa12a7c0c6d778be49b8a9",
+        "volume_usd": 494939.48149800004,
+        "fills": 12,
+        "link": "https://polyvictor.com/whales/0x26b46988d027c6c03cfa12a7c0c6d778be49b8a9"
+      },
+      {
+        "address": "0x1250846658e2a118930edb02e31f7a7e82258f99",
+        "volume_usd": 427069.12159600004,
         "fills": 8,
-        "link": "https://polyvictor.com/whales/0x8e92289bbff5635543812defcb7acc4e514c15de"
-      },
-      {
-        "address": "0xc5a2337f82aafe82a7eaae248586fbbc3c736dd9",
-        "volume_usd": 593856.1468000001,
-        "fills": 9,
-        "link": "https://polyvictor.com/whales/0xc5a2337f82aafe82a7eaae248586fbbc3c736dd9"
-      },
-      {
-        "address": "0xed107a85a4585a381e48c7f7ca4144909e7dd2e5",
-        "volume_usd": 544113.28512,
-        "fills": 4,
-        "link": "https://polyvictor.com/whales/0xed107a85a4585a381e48c7f7ca4144909e7dd2e5"
+        "link": "https://polyvictor.com/whales/0x1250846658e2a118930edb02e31f7a7e82258f99"
       }
     ],
     "biggest_fill": {
-      "address": "0xed107a85a4585a381e48c7f7ca4144909e7dd2e5",
-      "usd": 237751.93995,
+      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+      "usd": 227014.176735,
       "side": "buy",
-      "price": 0.998,
-      "market_id": "2744060",
-      "question": "Will Samuel Alito announce his retirement by September 30, 2026?",
-      "link": "https://polyvictor.com/markets/2744060"
+      "price": 0.51,
+      "market_id": "5073584",
+      "question": "Philadelphia Phillies vs. Atlanta Braves",
+      "link": "https://polyvictor.com/markets/5073584"
     }
   }
 }
