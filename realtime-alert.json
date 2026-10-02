@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-02T03:48:01.582Z",
+  "generated_at": "2026-10-02T17:20:06.383Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "2ffc0ee8-dd56-4ee8-abba-efa59ed123a7",
-      "ts": "2026-10-02T03:45:53+00:00",
-      "address": "0x11fe63de4b738f0c663276687f6dd8df26b841b4",
-      "side": "sell",
-      "outcome_index": 1,
-      "outcome_label": "Browns",
-      "price": 0.999,
-      "shares": 445881.85,
-      "usd_value": 445435.96815,
-      "price_shift_pp": 0,
+      "id": "ab215eb2-b43b-4289-818a-3b854492d194",
+      "ts": "2026-10-02T17:18:18+00:00",
+      "address": "0xe6ca6ebbec97e8a46ff3dbdb2a99d46254fbbff4",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.66,
+      "shares": 1261474.27,
+      "usd_value": 832573.0182,
+      "price_shift_pp": 1.320496374415847,
       "alert_reason": "size",
-      "market_id": "3760412",
-      "condition_id": "3760412",
-      "token_id": "98756637703320879198441871470345384821367334051929992047845197222571333888980",
-      "question": "Steelers vs. Browns",
-      "link": "https://polyvictor.com/markets/3760412"
+      "market_id": "4720686",
+      "condition_id": "4720686",
+      "token_id": "104379086576444458007896843592399621439233955324799272605300933651479707035301",
+      "question": "Will Belgium win on 2026-10-02?",
+      "link": "https://polyvictor.com/markets/4720686"
     }
   ]
 }
