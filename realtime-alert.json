@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-02T20:38:01.278Z",
+  "generated_at": "2026-10-03T03:34:01.054Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "ec4b8d00-6b7d-46df-87d7-1eea576858cd",
-      "ts": "2026-10-02T20:36:19+00:00",
-      "address": "0xe6ca6ebbec97e8a46ff3dbdb2a99d46254fbbff4",
-      "side": "sell",
+      "id": "ef641bc0-4da2-4454-848d-4c735eb9fd19",
+      "ts": "2026-10-03T03:33:32+00:00",
+      "address": "0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1",
+      "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.999,
-      "shares": 1832047.09,
-      "usd_value": 1830215.04291,
-      "price_shift_pp": 0,
+      "outcome_label": "YES",
+      "price": 0.7399828362496547,
+      "shares": 1539360.54,
+      "usd_value": 1139100.3784,
+      "price_shift_pp": -0.0017163750345328133,
       "alert_reason": "size",
-      "market_id": "4720686",
-      "condition_id": "4720686",
-      "token_id": "104379086576444458007896843592399621439233955324799272605300933651479707035301",
-      "question": "Will Belgium win on 2026-10-02?",
-      "link": "https://polyvictor.com/markets/4720686"
+      "market_id": null,
+      "condition_id": "",
+      "token_id": "20621519246800373463929283328591050251154112436099078193801249547038917389982",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
