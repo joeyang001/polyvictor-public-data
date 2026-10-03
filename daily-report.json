@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-10-02",
-  "generated_at": "2026-10-02T14:00:07.419Z",
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T14:00:08.422Z",
   "status": "success",
   "tweet_ids": [
-    "2106021410275463341",
-    "2106021411542138984"
+    "2106383802545156552",
+    "2106383803732160739"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 305,
-    "total_volume_usd": 16948355.577484,
-    "unique_whales": 117,
-    "buy_volume_usd": 12771854.053913992,
-    "sell_volume_usd": 4176501.5235699993,
+    "total_fills": 339,
+    "total_volume_usd": 21346496.039752983,
+    "unique_whales": 130,
+    "buy_volume_usd": 14549225.878772993,
+    "sell_volume_usd": 6797270.160979998,
     "top_markets": [
       {
-        "market_id": "4678642",
-        "question": "Will Portugal win on 2026-10-01?",
-        "volume_usd": 5168238.348460001,
-        "fills": 30,
-        "link": "https://polyvictor.com/markets/4678642"
+        "market_id": "4720686",
+        "question": "Will Belgium win on 2026-10-02?",
+        "volume_usd": 6775414.10014,
+        "fills": 18,
+        "link": "https://polyvictor.com/markets/4720686"
       },
       {
-        "market_id": "3760412",
-        "question": "Steelers vs. Browns",
-        "volume_usd": 2476949.695289,
-        "fills": 27,
-        "link": "https://polyvictor.com/markets/3760412"
+        "market_id": "5126779",
+        "question": "Will Indiana enact a data center moratorium by December 31, 2027?",
+        "volume_usd": 1302282.55218,
+        "fills": 7,
+        "link": "https://polyvictor.com/markets/5126779"
       },
       {
-        "market_id": "3875337",
-        "question": "Spread: Steelers (-2.5)",
-        "volume_usd": 419175.94408000004,
-        "fills": 6,
-        "link": "https://polyvictor.com/markets/3875337"
+        "market_id": "4814136",
+        "question": "Pittsburgh vs. Virginia Tech",
+        "volume_usd": 675258.17759,
+        "fills": 11,
+        "link": "https://polyvictor.com/markets/4814136"
       }
     ],
     "top_whales": [
       {
         "address": "0xe6ca6ebbec97e8a46ff3dbdb2a99d46254fbbff4",
-        "volume_usd": 3953708.59654,
-        "fills": 11,
+        "volume_usd": 4808200.61357,
+        "fills": 6,
         "link": "https://polyvictor.com/whales/0xe6ca6ebbec97e8a46ff3dbdb2a99d46254fbbff4"
       },
       {
-        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 1521552.3491500001,
-        "fills": 18,
-        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
+        "address": "0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1",
+        "volume_usd": 2337786.9484200003,
+        "fills": 4,
+        "link": "https://polyvictor.com/whales/0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1"
       },
       {
-        "address": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
-        "volume_usd": 464055.28500000003,
-        "fills": 7,
-        "link": "https://polyvictor.com/whales/0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e"
+        "address": "0xfc25f141ed27bb1787338d2c4e7f51e3a15e1f7f",
+        "volume_usd": 999159.6973600001,
+        "fills": 9,
+        "link": "https://polyvictor.com/whales/0xfc25f141ed27bb1787338d2c4e7f51e3a15e1f7f"
       }
     ],
     "biggest_fill": {
       "address": "0xe6ca6ebbec97e8a46ff3dbdb2a99d46254fbbff4",
-      "usd": 1690647.91974,
+      "usd": 1830215.04291,
       "side": "sell",
       "price": 0.999,
-      "market_id": "4678642",
-      "question": "Will Portugal win on 2026-10-01?",
-      "link": "https://polyvictor.com/markets/4678642"
+      "market_id": "4720686",
+      "question": "Will Belgium win on 2026-10-02?",
+      "link": "https://polyvictor.com/markets/4720686"
     }
   }
 }
