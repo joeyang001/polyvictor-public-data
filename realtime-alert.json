@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-04T16:40:01.521Z",
+  "generated_at": "2026-10-04T16:42:15.378Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "3348f2db-3f97-4462-b801-b9ea27cbd89e",
+      "ts": "2026-10-04T16:40:01+00:00",
+      "address": "0x6211f97a76ed5c4b1d658f637041ac5f293db89e",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "Texans",
+      "price": 0.58,
+      "shares": 431159,
+      "usd_value": 250072.21999999997,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "3871418",
+      "condition_id": "3871418",
+      "token_id": "3583393485474166686913248297334197319629389088040448613569945943726572499207",
+      "question": "Cowboys vs. Texans",
+      "link": "https://polyvictor.com/markets/3871418"
+    },
     {
       "id": "2f20341b-31c1-4ca0-81f7-8c43a2fcafb3",
       "ts": "2026-10-04T16:39:19+00:00",
