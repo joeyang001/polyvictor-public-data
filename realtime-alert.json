@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-04T12:46:01.136Z",
+  "generated_at": "2026-10-04T12:50:01.799Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "ee7aa20d-7790-4951-887d-1a34d10f63bd",
+      "ts": "2026-10-04T12:48:39+00:00",
+      "address": "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Team WE",
+      "price": 0.5005493647310916,
+      "shares": 128766.73,
+      "usd_value": 64454.10489999999,
+      "price_shift_pp": -3.542794619327816,
+      "alert_reason": "shift",
+      "market_id": "5233550",
+      "condition_id": "5233550",
+      "token_id": "102595591650356431532369368983541367816453497766505757832295839501871605950149",
+      "question": "LoL: Team WE vs HANJIN BRION (BO3) - Demacia Cup Global Invitational Group Stage",
+      "link": "https://polyvictor.com/markets/5233550"
+    },
     {
       "id": "aa77f700-8dff-4cdf-93b2-b361ffb02650",
       "ts": "2026-10-04T12:43:55+00:00",
