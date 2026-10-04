@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-10-03",
-  "generated_at": "2026-10-03T14:00:08.422Z",
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T14:00:07.779Z",
   "status": "success",
   "tweet_ids": [
-    "2106383802545156552",
-    "2106383803732160739"
+    "2106746187726377335",
+    "2106746188976333204"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 339,
-    "total_volume_usd": 21346496.039752983,
-    "unique_whales": 130,
-    "buy_volume_usd": 14549225.878772993,
-    "sell_volume_usd": 6797270.160979998,
+    "total_fills": 675,
+    "total_volume_usd": 27539045.041888017,
+    "unique_whales": 177,
+    "buy_volume_usd": 23655512.38416799,
+    "sell_volume_usd": 3883532.6577200014,
     "top_markets": [
       {
-        "market_id": "4720686",
-        "question": "Will Belgium win on 2026-10-02?",
-        "volume_usd": 6775414.10014,
-        "fills": 18,
-        "link": "https://polyvictor.com/markets/4720686"
+        "market_id": "4819769",
+        "question": "Washington vs. USC",
+        "volume_usd": 1221272.9741999998,
+        "fills": 25,
+        "link": "https://polyvictor.com/markets/4819769"
       },
       {
-        "market_id": "5126779",
-        "question": "Will Indiana enact a data center moratorium by December 31, 2027?",
-        "volume_usd": 1302282.55218,
-        "fills": 7,
-        "link": "https://polyvictor.com/markets/5126779"
+        "market_id": "4753005",
+        "question": "Will Spain win on 2026-10-03?",
+        "volume_usd": 1017189.8671200001,
+        "fills": 19,
+        "link": "https://polyvictor.com/markets/4753005"
       },
       {
-        "market_id": "4814136",
-        "question": "Pittsburgh vs. Virginia Tech",
-        "volume_usd": 675258.17759,
-        "fills": 11,
-        "link": "https://polyvictor.com/markets/4814136"
+        "market_id": "5203688",
+        "question": "Atlanta Braves vs. Los Angeles Dodgers",
+        "volume_usd": 943197.6311499999,
+        "fills": 10,
+        "link": "https://polyvictor.com/markets/5203688"
       }
     ],
     "top_whales": [
       {
-        "address": "0xe6ca6ebbec97e8a46ff3dbdb2a99d46254fbbff4",
-        "volume_usd": 4808200.61357,
-        "fills": 6,
-        "link": "https://polyvictor.com/whales/0xe6ca6ebbec97e8a46ff3dbdb2a99d46254fbbff4"
+        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+        "volume_usd": 2421064.9212700007,
+        "fills": 43,
+        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
       },
       {
-        "address": "0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1",
-        "volume_usd": 2337786.9484200003,
-        "fills": 4,
-        "link": "https://polyvictor.com/whales/0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1"
+        "address": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+        "volume_usd": 976066.2342000001,
+        "fills": 15,
+        "link": "https://polyvictor.com/whales/0x4bff30af91642dc7d2b19a8664378fe55c45fc26"
       },
       {
-        "address": "0xfc25f141ed27bb1787338d2c4e7f51e3a15e1f7f",
-        "volume_usd": 999159.6973600001,
-        "fills": 9,
-        "link": "https://polyvictor.com/whales/0xfc25f141ed27bb1787338d2c4e7f51e3a15e1f7f"
+        "address": "0xf28e42d20e4826f2b10a24bc952001697947cab2",
+        "volume_usd": 963206.1105,
+        "fills": 27,
+        "link": "https://polyvictor.com/whales/0xf28e42d20e4826f2b10a24bc952001697947cab2"
       }
     ],
     "biggest_fill": {
-      "address": "0xe6ca6ebbec97e8a46ff3dbdb2a99d46254fbbff4",
-      "usd": 1830215.04291,
-      "side": "sell",
-      "price": 0.999,
-      "market_id": "4720686",
-      "question": "Will Belgium win on 2026-10-02?",
-      "link": "https://polyvictor.com/markets/4720686"
+      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+      "usd": 337895.76,
+      "side": "buy",
+      "price": 0.92,
+      "market_id": "4753005",
+      "question": "Will Spain win on 2026-10-03?",
+      "link": "https://polyvictor.com/markets/4753005"
     }
   }
 }
