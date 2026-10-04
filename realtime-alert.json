@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-04T01:46:01.256Z",
+  "generated_at": "2026-10-04T01:50:02.856Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "0ad1252f-a9cf-41bc-a025-90ea79f1abc4",
+      "ts": "2026-10-04T01:48:20+00:00",
+      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Washington",
+      "price": 0.54,
+      "shares": 71958.07,
+      "usd_value": 38857.357800000005,
+      "price_shift_pp": -7.999998201450342,
+      "alert_reason": "shift",
+      "market_id": "4819769",
+      "condition_id": "4819769",
+      "token_id": "34238315277169980781282849550206687867594591419491433122857192487029024821938",
+      "question": "Washington vs. USC",
+      "link": "https://polyvictor.com/markets/4819769"
+    },
     {
       "id": "66066ae9-c0e6-4695-9736-82e708e3aaf8",
       "ts": "2026-10-04T01:45:46+00:00",
