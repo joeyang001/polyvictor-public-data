@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-04T11:14:06.077Z",
+  "generated_at": "2026-10-04T12:46:01.136Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "d90819d3-dd0f-415f-949c-28c335141f01",
-      "ts": "2026-10-04T11:12:28+00:00",
-      "address": "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e",
-      "side": "buy",
+      "id": "aa77f700-8dff-4cdf-93b2-b361ffb02650",
+      "ts": "2026-10-04T12:43:55+00:00",
+      "address": "0x6377359bb579a71717c56b3974615297e90cc275",
+      "side": "sell",
       "outcome_index": 1,
-      "outcome_label": "HANJIN BRION",
-      "price": 0.5133810389083601,
-      "shares": 53349.46,
-      "usd_value": 27388.601199999997,
-      "price_shift_pp": -16.161896109163997,
+      "outcome_label": "No",
+      "price": 0.9,
+      "shares": 30030.03,
+      "usd_value": 27027.027,
+      "price_shift_pp": -9.899999999999999,
       "alert_reason": "shift",
-      "market_id": "5233548",
-      "condition_id": "0xcc2eaa332ceca769221bf9d3c51012565eab7fb1e02b4acf4770eb90bb897343",
-      "token_id": "72757424767791962314150327696685184830250442616630446484458337268162402865839",
-      "question": "LoL: Team WE vs HANJIN BRION - Game 1 Winner",
-      "link": "https://polyvictor.com/markets/5233548"
+      "market_id": "5083825",
+      "condition_id": "5083825",
+      "token_id": "41103720021412347395297293515509006921775031397309890931443670984820195046659",
+      "question": "Chris Moore: 2+ Touchdowns",
+      "link": "https://polyvictor.com/markets/5083825"
     }
   ]
 }
