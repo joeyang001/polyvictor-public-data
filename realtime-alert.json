@@ -1,44 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-04T12:50:01.799Z",
+  "generated_at": "2026-10-04T13:38:01.143Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 1,
   "alerts": [
     {
-      "id": "ee7aa20d-7790-4951-887d-1a34d10f63bd",
-      "ts": "2026-10-04T12:48:39+00:00",
+      "id": "b608f0cd-bff0-4cd7-b9d9-ead1066410d4",
+      "ts": "2026-10-04T13:37:19+00:00",
       "address": "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Team WE",
-      "price": 0.5005493647310916,
-      "shares": 128766.73,
-      "usd_value": 64454.10489999999,
-      "price_shift_pp": -3.542794619327816,
+      "outcome_label": "FURIA",
+      "price": 0.4760841204077423,
+      "shares": 215984.45,
+      "usd_value": 102826.7669,
+      "price_shift_pp": -3.6709779359625383,
       "alert_reason": "shift",
-      "market_id": "5233550",
-      "condition_id": "5233550",
-      "token_id": "102595591650356431532369368983541367816453497766505757832295839501871605950149",
-      "question": "LoL: Team WE vs HANJIN BRION (BO3) - Demacia Cup Global Invitational Group Stage",
-      "link": "https://polyvictor.com/markets/5233550"
-    },
-    {
-      "id": "aa77f700-8dff-4cdf-93b2-b361ffb02650",
-      "ts": "2026-10-04T12:43:55+00:00",
-      "address": "0x6377359bb579a71717c56b3974615297e90cc275",
-      "side": "sell",
-      "outcome_index": 1,
-      "outcome_label": "No",
-      "price": 0.9,
-      "shares": 30030.03,
-      "usd_value": 27027.027,
-      "price_shift_pp": -9.899999999999999,
-      "alert_reason": "shift",
-      "market_id": "5083825",
-      "condition_id": "5083825",
-      "token_id": "41103720021412347395297293515509006921775031397309890931443670984820195046659",
-      "question": "Chris Moore: 2+ Touchdowns",
-      "link": "https://polyvictor.com/markets/5083825"
+      "market_id": "5247381",
+      "condition_id": "5247381",
+      "token_id": "38998266407066202630973118012160497633097798163520805644319464420639222694189",
+      "question": "Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Group Stage",
+      "link": "https://polyvictor.com/markets/5247381"
     }
   ]
 }
