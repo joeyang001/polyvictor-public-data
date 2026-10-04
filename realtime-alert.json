@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-04T18:26:01.072Z",
+  "generated_at": "2026-10-04T20:10:06.118Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "9c774f0b-5d1e-4eaf-b9e9-bd019115ba8f",
-      "ts": "2026-10-04T18:24:04+00:00",
-      "address": "0xe6ca6ebbec97e8a46ff3dbdb2a99d46254fbbff4",
+      "id": "d4e0f357-c331-4d9d-81ad-5c7dfb46fc86",
+      "ts": "2026-10-04T20:08:21+00:00",
+      "address": "0x67ac9e1ad7d7e74ef0215d14fc8edb538e4fedf1",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.6,
-      "shares": 441512.22,
-      "usd_value": 264907.332,
-      "price_shift_pp": 0.9993044377901383,
-      "alert_reason": "size",
-      "market_id": "4785943",
-      "condition_id": "4785943",
-      "token_id": "40305326140055911612210535501305224225238353667716691326148210995793112815256",
-      "question": "Will Portugal win on 2026-10-04?",
-      "link": "https://polyvictor.com/markets/4785943"
+      "outcome_label": "Cardinals",
+      "price": 0.64,
+      "shares": 53365.73,
+      "usd_value": 34154.067200000005,
+      "price_shift_pp": -7.999994240000463,
+      "alert_reason": "shift",
+      "market_id": "3871421",
+      "condition_id": "3871421",
+      "token_id": "72246934062619254858598608942083418119821898480654244040473201735482142304798",
+      "question": "Cardinals vs. Giants",
+      "link": "https://polyvictor.com/markets/3871421"
     }
   ]
 }
