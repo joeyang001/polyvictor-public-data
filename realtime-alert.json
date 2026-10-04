@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-03T20:52:02.668Z",
+  "generated_at": "2026-10-04T01:46:01.256Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "952bf33b-4784-414f-906f-9e4abafa8fe6",
-      "ts": "2026-10-03T20:50:39+00:00",
-      "address": "0xe30e74595517de48f1fb19f4553dd3d9f1e96b87",
-      "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "YES",
-      "price": 0.7499750623441397,
-      "shares": 40100,
-      "usd_value": 30074,
-      "price_shift_pp": -3.002491893585335,
+      "id": "66066ae9-c0e6-4695-9736-82e708e3aaf8",
+      "ts": "2026-10-04T01:45:46+00:00",
+      "address": "0x3e1352a7659c914b6359359ad79b3eaa82769f22",
+      "side": "sell",
+      "outcome_index": 1,
+      "outcome_label": "Under",
+      "price": 0.999,
+      "shares": 35893.99,
+      "usd_value": 35858.09601,
+      "price_shift_pp": 21.9,
       "alert_reason": "shift",
-      "market_id": null,
-      "condition_id": "0xe252a85e04ac9ba4757fc7f3e51021336d2da5e887f97a708d42dc5be4f7dd9c",
-      "token_id": "99220686835584702678171114607438252420367236707634781274791470857418213129321",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
+      "market_id": "4292981",
+      "condition_id": "4292981",
+      "token_id": "61948321397932622723677800951033927719048080031825095152219112346894473822110",
+      "question": "Kraken vs. Oilers: O/U 5.5",
+      "link": "https://polyvictor.com/markets/4292981"
     }
   ]
 }
