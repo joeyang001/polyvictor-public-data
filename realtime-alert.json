@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-04T16:42:15.378Z",
+  "generated_at": "2026-10-04T16:52:11.744Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 3,
   "alerts": [
+    {
+      "id": "4cab6cc8-5a3d-451e-b56d-b7ab5b4ad8c9",
+      "ts": "2026-10-04T16:50:24+00:00",
+      "address": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Rams",
+      "price": 0.6299999999992125,
+      "shares": 444444.444445,
+      "usd_value": 280000,
+      "price_shift_pp": 0.000005459924423689699,
+      "alert_reason": "size",
+      "market_id": "3871423",
+      "condition_id": "3871423",
+      "token_id": "5221793757117831071159655852450033355086775124068751029399319513607725883166",
+      "question": "Rams vs. Eagles",
+      "link": "https://polyvictor.com/markets/3871423"
+    },
     {
       "id": "3348f2db-3f97-4462-b801-b9ea27cbd89e",
       "ts": "2026-10-04T16:40:01+00:00",
