@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-05T18:34:02.932Z",
+  "generated_at": "2026-10-05T19:48:01.198Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "52ce476d-7766-4011-a553-2de0e2e138d3",
-      "ts": "2026-10-05T18:32:09+00:00",
-      "address": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
+      "id": "79ee58eb-e917-4fe8-886a-57176b51db1e",
+      "ts": "2026-10-05T19:47:43+00:00",
+      "address": "0xcbc666209b4c17ea84c03c0dda71b5dab9e4ec62",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.5381433144248825,
-      "shares": 834492.83,
-      "usd_value": 449076.7374,
-      "price_shift_pp": -1.144231972851717,
+      "outcome_index": 1,
+      "outcome_label": "Falcons",
+      "price": 0.51,
+      "shares": 575230.5,
+      "usd_value": 293367.555,
+      "price_shift_pp": 1.631999979601062e-7,
       "alert_reason": "size",
-      "market_id": "4835355",
-      "condition_id": "4835355",
-      "token_id": "79048631080752918471135422146125024265315017052244131108778004877717971269076",
-      "question": "Will Sweden win on 2026-10-05?",
-      "link": "https://polyvictor.com/markets/4835355"
+      "market_id": "3875113",
+      "condition_id": "3875113",
+      "token_id": "71186216948081830742015220744573725442727229208615745993735758156670060968164",
+      "question": "Spread: Saints (-1.5)",
+      "link": "https://polyvictor.com/markets/3875113"
     }
   ]
 }
