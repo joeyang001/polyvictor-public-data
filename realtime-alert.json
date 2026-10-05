@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-05T11:50:01.991Z",
+  "generated_at": "2026-10-05T18:34:02.932Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "82443383-3ad5-4e3c-bc25-37556a773431",
-      "ts": "2026-10-05T11:48:27+00:00",
-      "address": "0xe30e74595517de48f1fb19f4553dd3d9f1e96b87",
+      "id": "52ce476d-7766-4011-a553-2de0e2e138d3",
+      "ts": "2026-10-05T18:32:09+00:00",
+      "address": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Daniil Medvedev",
-      "price": 0.5996984154107915,
-      "shares": 65309.04,
-      "usd_value": 39165.7278,
-      "price_shift_pp": -3.887010947919467,
-      "alert_reason": "shift",
-      "market_id": "5290772",
-      "condition_id": "5290772",
-      "token_id": "47879910500497965658923096915912684845675016440226725444460332756503479956559",
-      "question": "China Open: Novak Djokovic vs Daniil Medvedev",
-      "link": "https://polyvictor.com/markets/5290772"
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.5381433144248825,
+      "shares": 834492.83,
+      "usd_value": 449076.7374,
+      "price_shift_pp": -1.144231972851717,
+      "alert_reason": "size",
+      "market_id": "4835355",
+      "condition_id": "4835355",
+      "token_id": "79048631080752918471135422146125024265315017052244131108778004877717971269076",
+      "question": "Will Sweden win on 2026-10-05?",
+      "link": "https://polyvictor.com/markets/4835355"
     }
   ]
 }
