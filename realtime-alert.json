@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-05T08:08:01.124Z",
+  "generated_at": "2026-10-05T11:50:01.991Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "5f5801a0-8d76-46bd-9876-d2f06373fe41",
-      "ts": "2026-10-05T08:07:09+00:00",
-      "address": "0xeae1e3f0da9c9adcdd69c021cd0385d9a6b4a67b",
+      "id": "82443383-3ad5-4e3c-bc25-37556a773431",
+      "ts": "2026-10-05T11:48:27+00:00",
+      "address": "0xe30e74595517de48f1fb19f4553dd3d9f1e96b87",
       "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "Bernard Tomic",
-      "price": 0.9696713338200564,
-      "shares": 67923.63,
-      "usd_value": 65863.5969,
-      "price_shift_pp": 5.96713338200564,
+      "outcome_label": "Daniil Medvedev",
+      "price": 0.5996984154107915,
+      "shares": 65309.04,
+      "usd_value": 39165.7278,
+      "price_shift_pp": -3.887010947919467,
       "alert_reason": "shift",
-      "market_id": "5276802",
-      "condition_id": "5276802",
-      "token_id": "91083417441452676135911064415036035441197029675783689287012965327377879192112",
-      "question": "Shanghai Rolex Masters, Qualification: Terence Atmane vs Bernard Tomic",
-      "link": "https://polyvictor.com/markets/5276802"
+      "market_id": "5290772",
+      "condition_id": "5290772",
+      "token_id": "47879910500497965658923096915912684845675016440226725444460332756503479956559",
+      "question": "China Open: Novak Djokovic vs Daniil Medvedev",
+      "link": "https://polyvictor.com/markets/5290772"
     }
   ]
 }
