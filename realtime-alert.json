@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-06T11:04:21.072Z",
+  "generated_at": "2026-10-06T16:52:12.279Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "8a64f29b-ed9e-4c7e-9aa2-0bbb8ec8014d",
-      "ts": "2026-10-06T11:02:22+00:00",
-      "address": "0x59229282121256ed2d629ce5adf0e04cc7fb3388",
+      "id": "230ce3fb-1d33-4f55-8de8-760d972ee0e8",
+      "ts": "2026-10-06T16:50:12+00:00",
+      "address": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "HULIGANI",
-      "price": 0.9658708704211273,
-      "shares": 27710.15,
-      "usd_value": 26764.426700000004,
-      "price_shift_pp": 14.853698020377315,
-      "alert_reason": "shift",
-      "market_id": "5339794",
-      "condition_id": "5339794",
-      "token_id": "111730466348360369703965587736801872958771495726459085827767170601950459740126",
-      "question": "Dota 2: HULIGANI vs CyberHero - Game 2 Winner",
-      "link": "https://polyvictor.com/markets/5339794"
+      "outcome_label": "Yes",
+      "price": 0.79,
+      "shares": 521221,
+      "usd_value": 411764.59,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "4877193",
+      "condition_id": "4877193",
+      "token_id": "29066270452685560826989070278602031797236725768662533602750565582979546866778",
+      "question": "Will Spain win on 2026-10-06?",
+      "link": "https://polyvictor.com/markets/4877193"
     }
   ]
 }
