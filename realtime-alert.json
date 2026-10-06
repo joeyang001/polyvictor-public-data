@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-06T18:46:01.304Z",
+  "generated_at": "2026-10-06T19:06:01.216Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 3,
   "alerts": [
+    {
+      "id": "c6a8f405-3f14-431d-9eb4-6d55026595ac",
+      "ts": "2026-10-06T19:04:41+00:00",
+      "address": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "Natus Vincere",
+      "price": 0.43,
+      "shares": 811791.69,
+      "usd_value": 349070.42669999995,
+      "price_shift_pp": 0.000011179997089216798,
+      "alert_reason": "size",
+      "market_id": "5342769",
+      "condition_id": "5342769",
+      "token_id": "103665253154573643942247958237057573862703568357643460471235174607933888206323",
+      "question": "Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage",
+      "link": "https://polyvictor.com/markets/5342769"
+    },
     {
       "id": "0a3cbb71-9169-4ebb-ac9c-4e86ec537e2e",
       "ts": "2026-10-06T18:45:14+00:00",
