@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-10-05",
-  "generated_at": "2026-10-05T14:00:07.507Z",
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T14:00:07.632Z",
   "status": "success",
   "tweet_ids": [
-    "2107108574312739281",
-    "2107108575470334240"
+    "2107470962606182414",
+    "2107470963826667950"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 905,
-    "total_volume_usd": 51743668.16205003,
-    "unique_whales": 190,
-    "buy_volume_usd": 42045841.58584998,
-    "sell_volume_usd": 9697826.576199997,
+    "total_fills": 294,
+    "total_volume_usd": 16005318.331727006,
+    "unique_whales": 118,
+    "buy_volume_usd": 11481694.407147003,
+    "sell_volume_usd": 4523623.9245799985,
     "top_markets": [
       {
-        "market_id": "4785943",
-        "question": "Will Portugal win on 2026-10-04?",
-        "volume_usd": 4793343.237239,
-        "fills": 21,
-        "link": "https://polyvictor.com/markets/4785943"
+        "market_id": "4835355",
+        "question": "Will Sweden win on 2026-10-05?",
+        "volume_usd": 5664658.382300001,
+        "fills": 33,
+        "link": "https://polyvictor.com/markets/4835355"
       },
       {
-        "market_id": "3871436",
-        "question": "Lions vs. Panthers",
-        "volume_usd": 4427455.9309,
-        "fills": 52,
-        "link": "https://polyvictor.com/markets/3871436"
+        "market_id": "3871438",
+        "question": "Falcons vs. Saints",
+        "volume_usd": 1712661.0851679998,
+        "fills": 38,
+        "link": "https://polyvictor.com/markets/3871438"
       },
       {
-        "market_id": "3871435",
-        "question": "Broncos vs. 49ers",
-        "volume_usd": 3279888.8087199996,
-        "fills": 57,
-        "link": "https://polyvictor.com/markets/3871435"
+        "market_id": "3875113",
+        "question": "Spread: Saints (-1.5)",
+        "volume_usd": 690735.11,
+        "fills": 4,
+        "link": "https://polyvictor.com/markets/3875113"
       }
     ],
     "top_whales": [
       {
-        "address": "0xe6ca6ebbec97e8a46ff3dbdb2a99d46254fbbff4",
-        "volume_usd": 6086183.939910002,
-        "fills": 20,
-        "link": "https://polyvictor.com/whales/0xe6ca6ebbec97e8a46ff3dbdb2a99d46254fbbff4"
+        "address": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
+        "volume_usd": 5304856.744299999,
+        "fills": 25,
+        "link": "https://polyvictor.com/whales/0xcdcccd0f2d86e450d973da415ad2430e5cc7935a"
       },
       {
-        "address": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
-        "volume_usd": 2608505.764075,
-        "fills": 34,
-        "link": "https://polyvictor.com/whales/0x67542c3219b37fd1610aad290676ff91cdbfe3bc"
+        "address": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+        "volume_usd": 699304.961034,
+        "fills": 6,
+        "link": "https://polyvictor.com/whales/0x821dab0565ebf5b327f51db06223fdcfe01acf16"
       },
       {
-        "address": "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e",
-        "volume_usd": 2572424.2610950004,
-        "fills": 32,
-        "link": "https://polyvictor.com/whales/0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e"
+        "address": "0xcbc666209b4c17ea84c03c0dda71b5dab9e4ec62",
+        "volume_usd": 586735.11,
+        "fills": 2,
+        "link": "https://polyvictor.com/whales/0xcbc666209b4c17ea84c03c0dda71b5dab9e4ec62"
       }
     ],
     "biggest_fill": {
-      "address": "0xe6ca6ebbec97e8a46ff3dbdb2a99d46254fbbff4",
-      "usd": 1189416.2231700001,
+      "address": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
+      "usd": 2576655.24552,
       "side": "sell",
       "price": 0.999,
-      "market_id": "4785943",
-      "question": "Will Portugal win on 2026-10-04?",
-      "link": "https://polyvictor.com/markets/4785943"
+      "market_id": "4835355",
+      "question": "Will Sweden win on 2026-10-05?",
+      "link": "https://polyvictor.com/markets/4835355"
     }
   }
 }
