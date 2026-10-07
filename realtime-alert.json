@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-07T06:28:01.273Z",
+  "generated_at": "2026-10-07T10:30:06.398Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "2296a866-a079-4163-82f4-a4945ac39e95",
-      "ts": "2026-10-07T06:27:03+00:00",
-      "address": "0xeae1e3f0da9c9adcdd69c021cd0385d9a6b4a67b",
-      "side": "buy",
+      "id": "1260fc1d-e4a1-4377-8828-e72359f9fd1b",
+      "ts": "2026-10-07T10:28:23+00:00",
+      "address": "0x08a30a0a0fb71ebddc8907145791030782b88666",
+      "side": "sell",
       "outcome_index": 0,
-      "outcome_label": "Adrian Mannarino",
-      "price": 0.8934566701560674,
-      "shares": 105481.34,
-      "usd_value": 94243.0068,
-      "price_shift_pp": 9.34566701560674,
-      "alert_reason": "shift",
-      "market_id": "5380288",
-      "condition_id": "5380288",
-      "token_id": "28476650239280217572242848737380115432763334229293736283237676379246702493219",
-      "question": "Shanghai Rolex Masters: Adrian Mannarino vs Nikoloz Basilashvili",
-      "link": "https://polyvictor.com/markets/5380288"
+      "outcome_label": "Quentin Halys",
+      "price": 0.999,
+      "shares": 253724.07,
+      "usd_value": 253470.34593,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "5380273",
+      "condition_id": "5380273",
+      "token_id": "105574299049079084263113438916537869790357501446931836195190455116489724834024",
+      "question": "Shanghai Rolex Masters: Quentin Halys vs Coleman Wong",
+      "link": "https://polyvictor.com/markets/5380273"
     }
   ]
 }
