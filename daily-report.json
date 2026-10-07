@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-10-06",
-  "generated_at": "2026-10-06T14:00:07.632Z",
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T14:00:04.683Z",
   "status": "success",
   "tweet_ids": [
-    "2107470962606182414",
-    "2107470963826667950"
+    "2107833338325074249",
+    "2107833339537220042"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 294,
-    "total_volume_usd": 16005318.331727006,
-    "unique_whales": 118,
-    "buy_volume_usd": 11481694.407147003,
-    "sell_volume_usd": 4523623.9245799985,
+    "total_fills": 469,
+    "total_volume_usd": 27049415.179130986,
+    "unique_whales": 143,
+    "buy_volume_usd": 18492855.55484099,
+    "sell_volume_usd": 8556559.624289999,
     "top_markets": [
       {
-        "market_id": "4835355",
-        "question": "Will Sweden win on 2026-10-05?",
-        "volume_usd": 5664658.382300001,
-        "fills": 33,
-        "link": "https://polyvictor.com/markets/4835355"
+        "market_id": "4877193",
+        "question": "Will Spain win on 2026-10-06?",
+        "volume_usd": 8815694.679114,
+        "fills": 66,
+        "link": "https://polyvictor.com/markets/4877193"
       },
       {
-        "market_id": "3871438",
-        "question": "Falcons vs. Saints",
-        "volume_usd": 1712661.0851679998,
-        "fills": 38,
-        "link": "https://polyvictor.com/markets/3871438"
+        "market_id": "5342769",
+        "question": "Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage",
+        "volume_usd": 2778613.472347,
+        "fills": 37,
+        "link": "https://polyvictor.com/markets/5342769"
       },
       {
-        "market_id": "3875113",
-        "question": "Spread: Saints (-1.5)",
-        "volume_usd": 690735.11,
-        "fills": 4,
-        "link": "https://polyvictor.com/markets/3875113"
+        "market_id": "5330841",
+        "question": "China Open: Coco Gauff vs Elise Mertens",
+        "volume_usd": 659989.4896200001,
+        "fills": 9,
+        "link": "https://polyvictor.com/markets/5330841"
       }
     ],
     "top_whales": [
       {
         "address": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
-        "volume_usd": 5304856.744299999,
-        "fills": 25,
+        "volume_usd": 6705773.40793,
+        "fills": 26,
         "link": "https://polyvictor.com/whales/0xcdcccd0f2d86e450d973da415ad2430e5cc7935a"
       },
       {
-        "address": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
-        "volume_usd": 699304.961034,
-        "fills": 6,
-        "link": "https://polyvictor.com/whales/0x821dab0565ebf5b327f51db06223fdcfe01acf16"
+        "address": "0x08a30a0a0fb71ebddc8907145791030782b88666",
+        "volume_usd": 2885397.1272899993,
+        "fills": 30,
+        "link": "https://polyvictor.com/whales/0x08a30a0a0fb71ebddc8907145791030782b88666"
       },
       {
-        "address": "0xcbc666209b4c17ea84c03c0dda71b5dab9e4ec62",
-        "volume_usd": 586735.11,
-        "fills": 2,
-        "link": "https://polyvictor.com/whales/0xcbc666209b4c17ea84c03c0dda71b5dab9e4ec62"
+        "address": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+        "volume_usd": 1752716.1864999998,
+        "fills": 30,
+        "link": "https://polyvictor.com/whales/0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e"
       }
     ],
     "biggest_fill": {
       "address": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
-      "usd": 2576655.24552,
+      "usd": 1608207.72246,
       "side": "sell",
       "price": 0.999,
-      "market_id": "4835355",
-      "question": "Will Sweden win on 2026-10-05?",
-      "link": "https://polyvictor.com/markets/4835355"
+      "market_id": "4877193",
+      "question": "Will Spain win on 2026-10-06?",
+      "link": "https://polyvictor.com/markets/4877193"
     }
   }
 }
