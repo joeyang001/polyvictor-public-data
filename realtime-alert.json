@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-07T13:22:13.877Z",
+  "generated_at": "2026-10-07T18:54:02.910Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "8311912b-7041-4195-8b15-aece0b42f67c",
-      "ts": "2026-10-07T13:21:58+00:00",
-      "address": "0x44a1159b925c145e70f746bb3f0f58380553bd21",
-      "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Qinwen Zheng",
-      "price": 0.9045923071153846,
-      "shares": 52000,
-      "usd_value": 47038.79997,
-      "price_shift_pp": 3.959236402345534,
-      "alert_reason": "shift",
-      "market_id": "5319471",
-      "condition_id": "5319471",
-      "token_id": "14137523114087095112738641530724064465711200821441052102299597362364623636320",
-      "question": "China Open: Alina Charaeva vs Qinwen Zheng",
-      "link": "https://polyvictor.com/markets/5319471"
+      "id": "33900630-3074-4d71-9de7-f7366e2e506d",
+      "ts": "2026-10-07T18:52:33+00:00",
+      "address": "0x31e5d54aded22aa7cd80dbe9e33102abe2504879",
+      "side": "sell",
+      "outcome_index": 0,
+      "outcome_label": "Spirit",
+      "price": 0.999,
+      "shares": 286327.09,
+      "usd_value": 286040.76291000005,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "5393036",
+      "condition_id": "5393036",
+      "token_id": "20987215048195670077453129352245062488336421154437277252991633462787673237331",
+      "question": "Counter-Strike: Spirit vs M80 - Map 1 Winner",
+      "link": "https://polyvictor.com/markets/5393036"
     }
   ]
 }
