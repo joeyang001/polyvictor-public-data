@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-07T04:52:50.128Z",
+  "generated_at": "2026-10-07T06:28:01.273Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "f117010c-e9c7-4f42-8be9-26378e45acd7",
-      "ts": "2026-10-07T04:51:15+00:00",
-      "address": "0x9ee49c02ae1ade698bf9e06d4ca271f236b8697b",
+      "id": "2296a866-a079-4163-82f4-a4945ac39e95",
+      "ts": "2026-10-07T06:27:03+00:00",
+      "address": "0xeae1e3f0da9c9adcdd69c021cd0385d9a6b4a67b",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.4891598825924175,
-      "shares": 76608.34,
-      "usd_value": 37473.7266,
-      "price_shift_pp": 3.9159882592417485,
+      "outcome_label": "Adrian Mannarino",
+      "price": 0.8934566701560674,
+      "shares": 105481.34,
+      "usd_value": 94243.0068,
+      "price_shift_pp": 9.34566701560674,
       "alert_reason": "shift",
-      "market_id": "1447964",
-      "condition_id": "1447964",
-      "token_id": "106793828637747300887183950903926652453090335801945688421510972568556782805547",
-      "question": "Will Dallas Cowboys win the 2026 NFC East?",
-      "link": "https://polyvictor.com/markets/1447964"
+      "market_id": "5380288",
+      "condition_id": "5380288",
+      "token_id": "28476650239280217572242848737380115432763334229293736283237676379246702493219",
+      "question": "Shanghai Rolex Masters: Adrian Mannarino vs Nikoloz Basilashvili",
+      "link": "https://polyvictor.com/markets/5380288"
     }
   ]
 }
