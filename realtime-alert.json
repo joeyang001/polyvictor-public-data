@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-08T08:50:01.268Z",
+  "generated_at": "2026-10-08T15:16:01.397Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "0d225418-24a7-4fe4-8a43-768c84f1a8aa",
-      "ts": "2026-10-08T08:49:16+00:00",
-      "address": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+      "id": "94f8c59b-cf76-4474-8189-4d9dbb06fee5",
+      "ts": "2026-10-08T15:14:29+00:00",
+      "address": "0xd3b034d7bfb2473fb252d0414646d9786bac329e",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Pablo Carreno Busta",
-      "price": 0.46,
-      "shares": 122347.56,
-      "usd_value": 56279.8776,
-      "price_shift_pp": -4.999999999999999,
+      "outcome_index": 0,
+      "outcome_label": "Aurora",
+      "price": 0.515170448045326,
+      "shares": 52970.98,
+      "usd_value": 27289.083500000004,
+      "price_shift_pp": 3.5170448045325986,
       "alert_reason": "shift",
-      "market_id": "5320343",
-      "condition_id": "5320343",
-      "token_id": "8386131973376542315288605990456191078902428958079873182459243474877455786555",
-      "question": "Shanghai Rolex Masters: Mariano Navone vs Pablo Carreno Busta",
-      "link": "https://polyvictor.com/markets/5320343"
+      "market_id": "5247179",
+      "condition_id": "5247179",
+      "token_id": "45561549291116127810416983461273877130748777000869646343354804105261027086267",
+      "question": "Dota 2: Aurora vs 1win - Game 2 Winner",
+      "link": "https://polyvictor.com/markets/5247179"
     }
   ]
 }
