@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-08T21:06:00.955Z",
+  "generated_at": "2026-10-08T23:16:01.218Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "56fca815-1c9e-4c8c-b82b-2501a0ffc89d",
-      "ts": "2026-10-08T21:04:48+00:00",
-      "address": "0x49f268b2bf6a036aecc080958cf7b1af5759506a",
+      "id": "b5d3d2e5-2ae2-4978-bb64-6591f5933760",
+      "ts": "2026-10-08T23:14:53+00:00",
+      "address": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Cowboys",
-      "price": 0.81,
-      "shares": 383501.34,
-      "usd_value": 310636.08540000004,
-      "price_shift_pp": 1.0290795993128654e-7,
-      "alert_reason": "size",
-      "market_id": "3951230",
-      "condition_id": "3951230",
-      "token_id": "66616602105135321479456151494379932980062039030841962258728108349184895983957",
-      "question": "Buccaneers vs. Cowboys",
-      "link": "https://polyvictor.com/markets/3951230"
+      "outcome_index": 0,
+      "outcome_label": "YES",
+      "price": 0.999,
+      "shares": 74999.989,
+      "usd_value": 74924.989011,
+      "price_shift_pp": 7.100000742400137,
+      "alert_reason": "shift",
+      "market_id": null,
+      "condition_id": "",
+      "token_id": "85924333298538145942579681191568338114213851647536973597252192823515681204214",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
