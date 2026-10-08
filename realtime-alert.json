@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-07T21:12:11.831Z",
+  "generated_at": "2026-10-08T02:06:01.691Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "d922c586-8e49-42ef-b823-8b42b730ee16",
-      "ts": "2026-10-07T21:09:55+00:00",
-      "address": "0x9db82de5a71ae539bc82f4d9ac3a007c7d742eff",
+      "id": "d6a81cf8-e19f-4b52-80ad-8726c6fc1a99",
+      "ts": "2026-10-08T02:04:11+00:00",
+      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Cleveland Guardians",
-      "price": 0.78,
-      "shares": 44271.95,
-      "usd_value": 34532.121,
-      "price_shift_pp": 3.0000000000000027,
-      "alert_reason": "shift",
-      "market_id": "5175503",
-      "condition_id": "5175503",
-      "token_id": "51096858324864501574598774624513409237685550158141675198400074127903649966059",
-      "question": "Cleveland Guardians vs. Chicago White Sox",
-      "link": "https://polyvictor.com/markets/5175503"
+      "outcome_index": 1,
+      "outcome_label": "Golden State Valkyries",
+      "price": 0.77,
+      "shares": 347703.51,
+      "usd_value": 267731.7027,
+      "price_shift_pp": 0.0000011273791900023866,
+      "alert_reason": "size",
+      "market_id": "5242637",
+      "condition_id": "0x7f062e0835408c4911984f0bab71a88b116535294185b9c9dd8f43bc27dd0af3",
+      "token_id": "27338715724469320500319687715196584988256820141984799592005190390321514121842",
+      "question": "Las Vegas Aces vs. Golden State Valkyries",
+      "link": "https://polyvictor.com/markets/5242637"
     }
   ]
 }
