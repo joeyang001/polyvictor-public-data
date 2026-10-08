@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-08T15:16:01.397Z",
+  "generated_at": "2026-10-08T21:06:00.955Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "94f8c59b-cf76-4474-8189-4d9dbb06fee5",
-      "ts": "2026-10-08T15:14:29+00:00",
-      "address": "0xd3b034d7bfb2473fb252d0414646d9786bac329e",
+      "id": "56fca815-1c9e-4c8c-b82b-2501a0ffc89d",
+      "ts": "2026-10-08T21:04:48+00:00",
+      "address": "0x49f268b2bf6a036aecc080958cf7b1af5759506a",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Aurora",
-      "price": 0.515170448045326,
-      "shares": 52970.98,
-      "usd_value": 27289.083500000004,
-      "price_shift_pp": 3.5170448045325986,
-      "alert_reason": "shift",
-      "market_id": "5247179",
-      "condition_id": "5247179",
-      "token_id": "45561549291116127810416983461273877130748777000869646343354804105261027086267",
-      "question": "Dota 2: Aurora vs 1win - Game 2 Winner",
-      "link": "https://polyvictor.com/markets/5247179"
+      "outcome_index": 1,
+      "outcome_label": "Cowboys",
+      "price": 0.81,
+      "shares": 383501.34,
+      "usd_value": 310636.08540000004,
+      "price_shift_pp": 1.0290795993128654e-7,
+      "alert_reason": "size",
+      "market_id": "3951230",
+      "condition_id": "3951230",
+      "token_id": "66616602105135321479456151494379932980062039030841962258728108349184895983957",
+      "question": "Buccaneers vs. Cowboys",
+      "link": "https://polyvictor.com/markets/3951230"
     }
   ]
 }
