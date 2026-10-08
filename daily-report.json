@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-10-07",
-  "generated_at": "2026-10-07T14:00:04.683Z",
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T14:00:07.337Z",
   "status": "success",
   "tweet_ids": [
-    "2107833338325074249",
-    "2107833339537220042"
+    "2108195736722584023",
+    "2108195738400285106"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 469,
-    "total_volume_usd": 27049415.179130986,
-    "unique_whales": 143,
-    "buy_volume_usd": 18492855.55484099,
-    "sell_volume_usd": 8556559.624289999,
+    "total_fills": 201,
+    "total_volume_usd": 8525899.244487,
+    "unique_whales": 82,
+    "buy_volume_usd": 6361883.313077001,
+    "sell_volume_usd": 2164015.93141,
     "top_markets": [
       {
-        "market_id": "4877193",
-        "question": "Will Spain win on 2026-10-06?",
-        "volume_usd": 8815694.679114,
-        "fills": 66,
-        "link": "https://polyvictor.com/markets/4877193"
+        "market_id": "5393036",
+        "question": "Counter-Strike: Spirit vs M80 - Map 1 Winner",
+        "volume_usd": 831145.4937900001,
+        "fills": 3,
+        "link": "https://polyvictor.com/markets/5393036"
       },
       {
-        "market_id": "5342769",
-        "question": "Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage",
-        "volume_usd": 2778613.472347,
-        "fills": 37,
-        "link": "https://polyvictor.com/markets/5342769"
+        "market_id": "5393037",
+        "question": "Counter-Strike: Spirit vs M80 - Map 2 Winner",
+        "volume_usd": 518657.44063,
+        "fills": 8,
+        "link": "https://polyvictor.com/markets/5393037"
       },
       {
-        "market_id": "5330841",
-        "question": "China Open: Coco Gauff vs Elise Mertens",
-        "volume_usd": 659989.4896200001,
-        "fills": 9,
-        "link": "https://polyvictor.com/markets/5330841"
+        "market_id": "5175503",
+        "question": "Cleveland Guardians vs. Chicago White Sox",
+        "volume_usd": 429982.52437500004,
+        "fills": 13,
+        "link": "https://polyvictor.com/markets/5175503"
       }
     ],
     "top_whales": [
       {
-        "address": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
-        "volume_usd": 6705773.40793,
-        "fills": 26,
-        "link": "https://polyvictor.com/whales/0xcdcccd0f2d86e450d973da415ad2430e5cc7935a"
+        "address": "0x31e5d54aded22aa7cd80dbe9e33102abe2504879",
+        "volume_usd": 1456668.7786800002,
+        "fills": 14,
+        "link": "https://polyvictor.com/whales/0x31e5d54aded22aa7cd80dbe9e33102abe2504879"
       },
       {
-        "address": "0x08a30a0a0fb71ebddc8907145791030782b88666",
-        "volume_usd": 2885397.1272899993,
-        "fills": 30,
-        "link": "https://polyvictor.com/whales/0x08a30a0a0fb71ebddc8907145791030782b88666"
+        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+        "volume_usd": 705654.4986800001,
+        "fills": 7,
+        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
       },
       {
-        "address": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
-        "volume_usd": 1752716.1864999998,
-        "fills": 30,
-        "link": "https://polyvictor.com/whales/0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e"
+        "address": "0x26b46988d027c6c03cfa12a7c0c6d778be49b8a9",
+        "volume_usd": 350532.757339,
+        "fills": 10,
+        "link": "https://polyvictor.com/whales/0x26b46988d027c6c03cfa12a7c0c6d778be49b8a9"
       }
     ],
     "biggest_fill": {
-      "address": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
-      "usd": 1608207.72246,
+      "address": "0x31e5d54aded22aa7cd80dbe9e33102abe2504879",
+      "usd": 286040.76291000005,
       "side": "sell",
       "price": 0.999,
-      "market_id": "4877193",
-      "question": "Will Spain win on 2026-10-06?",
-      "link": "https://polyvictor.com/markets/4877193"
+      "market_id": "5393036",
+      "question": "Counter-Strike: Spirit vs M80 - Map 1 Winner",
+      "link": "https://polyvictor.com/markets/5393036"
     }
   }
 }
