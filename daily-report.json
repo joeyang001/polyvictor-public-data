@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-10-08",
-  "generated_at": "2026-10-08T14:00:07.337Z",
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T14:00:07.402Z",
   "status": "success",
   "tweet_ids": [
-    "2108195736722584023",
-    "2108195738400285106"
+    "2108558124789485638",
+    "2108558126488158485"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 201,
-    "total_volume_usd": 8525899.244487,
-    "unique_whales": 82,
-    "buy_volume_usd": 6361883.313077001,
-    "sell_volume_usd": 2164015.93141,
+    "total_fills": 216,
+    "total_volume_usd": 9065627.287948009,
+    "unique_whales": 95,
+    "buy_volume_usd": 7674386.429477999,
+    "sell_volume_usd": 1391240.8584699999,
     "top_markets": [
       {
-        "market_id": "5393036",
-        "question": "Counter-Strike: Spirit vs M80 - Map 1 Winner",
-        "volume_usd": 831145.4937900001,
-        "fills": 3,
-        "link": "https://polyvictor.com/markets/5393036"
+        "market_id": "3951230",
+        "question": "Buccaneers vs. Cowboys",
+        "volume_usd": 1266571.382436,
+        "fills": 21,
+        "link": "https://polyvictor.com/markets/3951230"
       },
       {
-        "market_id": "5393037",
-        "question": "Counter-Strike: Spirit vs M80 - Map 2 Winner",
-        "volume_usd": 518657.44063,
-        "fills": 8,
-        "link": "https://polyvictor.com/markets/5393037"
+        "market_id": "5414684",
+        "question": "Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs",
+        "volume_usd": 935615.87787,
+        "fills": 10,
+        "link": "https://polyvictor.com/markets/5414684"
       },
       {
-        "market_id": "5175503",
-        "question": "Cleveland Guardians vs. Chicago White Sox",
-        "volume_usd": 429982.52437500004,
-        "fills": 13,
-        "link": "https://polyvictor.com/markets/5175503"
+        "market_id": "4469857",
+        "question": "Maple Leafs vs. Golden Knights",
+        "volume_usd": 472271.68293999997,
+        "fills": 4,
+        "link": "https://polyvictor.com/markets/4469857"
       }
     ],
     "top_whales": [
       {
-        "address": "0x31e5d54aded22aa7cd80dbe9e33102abe2504879",
-        "volume_usd": 1456668.7786800002,
-        "fills": 14,
-        "link": "https://polyvictor.com/whales/0x31e5d54aded22aa7cd80dbe9e33102abe2504879"
+        "address": "0x291de54f32a3ee495ff0c624fa9bfeca23451f97",
+        "volume_usd": 681897.03696,
+        "fills": 12,
+        "link": "https://polyvictor.com/whales/0x291de54f32a3ee495ff0c624fa9bfeca23451f97"
       },
       {
-        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 705654.4986800001,
-        "fills": 7,
-        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
+        "address": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+        "volume_usd": 587139.54735,
+        "fills": 4,
+        "link": "https://polyvictor.com/whales/0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e"
       },
       {
-        "address": "0x26b46988d027c6c03cfa12a7c0c6d778be49b8a9",
-        "volume_usd": 350532.757339,
-        "fills": 10,
-        "link": "https://polyvictor.com/whales/0x26b46988d027c6c03cfa12a7c0c6d778be49b8a9"
+        "address": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+        "volume_usd": 534908.59221,
+        "fills": 11,
+        "link": "https://polyvictor.com/whales/0x4bff30af91642dc7d2b19a8664378fe55c45fc26"
       }
     ],
     "biggest_fill": {
-      "address": "0x31e5d54aded22aa7cd80dbe9e33102abe2504879",
-      "usd": 286040.76291000005,
-      "side": "sell",
-      "price": 0.999,
-      "market_id": "5393036",
-      "question": "Counter-Strike: Spirit vs M80 - Map 1 Winner",
-      "link": "https://polyvictor.com/markets/5393036"
+      "address": "0x49f268b2bf6a036aecc080958cf7b1af5759506a",
+      "usd": 310636.08540000004,
+      "side": "buy",
+      "price": 0.81,
+      "market_id": "3951230",
+      "question": "Buccaneers vs. Cowboys",
+      "link": "https://polyvictor.com/markets/3951230"
     }
   }
 }
