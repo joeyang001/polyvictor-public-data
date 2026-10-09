@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-09T17:00:04.440Z",
+  "generated_at": "2026-10-09T18:00:06.994Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "6050c444-6551-4ab2-b370-8a3f28f6cb9b",
-      "ts": "2026-10-09T16:59:44+00:00",
-      "address": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
-      "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Spirit",
-      "price": 0.59,
-      "shares": 439854.34,
-      "usd_value": 259514.0606,
-      "price_shift_pp": 0,
-      "alert_reason": "size",
-      "market_id": "5414695",
-      "condition_id": "5414695",
-      "token_id": "52432326592766985889904864072120027476423452394801032577489977348186625403937",
-      "question": "Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs",
-      "link": "https://polyvictor.com/markets/5414695"
+      "id": "15aec725-f2a5-4ce6-933a-6b0907388984",
+      "ts": "2026-10-09T17:59:55+00:00",
+      "address": "0x17c4f7e008fe22d69865f73f29329b6e76b92471",
+      "side": "sell",
+      "outcome_index": 0,
+      "outcome_label": "Massimo Giunta",
+      "price": 0.3496404339878393,
+      "shares": 75515.48,
+      "usd_value": 26403.265199999998,
+      "price_shift_pp": -5.035956601216074,
+      "alert_reason": "shift",
+      "market_id": "5419061",
+      "condition_id": "5419061",
+      "token_id": "54363769874685190206924856585567028125547029522358429218755001303306414842433",
+      "question": "Palermo: Massimo Giunta vs Alejandro Moro Canas",
+      "link": "https://polyvictor.com/markets/5419061"
     }
   ]
 }
