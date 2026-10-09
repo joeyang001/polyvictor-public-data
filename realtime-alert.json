@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-09T12:06:09.415Z",
+  "generated_at": "2026-10-09T17:00:04.440Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "6b71e362-5bf7-41ba-86ec-1ab2ce8e25cf",
-      "ts": "2026-10-09T12:01:54+00:00",
-      "address": "0x4be1fa92e6ceaf886aac0bbec3be6c527133aa70",
+      "id": "6050c444-6551-4ab2-b370-8a3f28f6cb9b",
+      "ts": "2026-10-09T16:59:44+00:00",
+      "address": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
       "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "Arthur Fery",
-      "price": 0.477873889679417,
-      "shares": 62778.068959,
-      "usd_value": 30000,
-      "price_shift_pp": -7.212605532058847,
-      "alert_reason": "shift",
-      "market_id": "5424067",
-      "condition_id": "5424067",
-      "token_id": "56728820309458487381424242875509748147340015216790176341015121384841538317507",
-      "question": "Shanghai Rolex Masters: Karen Khachanov vs Arthur Fery",
-      "link": "https://polyvictor.com/markets/5424067"
+      "outcome_label": "Spirit",
+      "price": 0.59,
+      "shares": 439854.34,
+      "usd_value": 259514.0606,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "5414695",
+      "condition_id": "5414695",
+      "token_id": "52432326592766985889904864072120027476423452394801032577489977348186625403937",
+      "question": "Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs",
+      "link": "https://polyvictor.com/markets/5414695"
     }
   ]
 }
