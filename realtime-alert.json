@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-08T23:16:01.218Z",
+  "generated_at": "2026-10-09T12:06:08.315Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "b5d3d2e5-2ae2-4978-bb64-6591f5933760",
-      "ts": "2026-10-08T23:14:53+00:00",
-      "address": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+      "id": "6b71e362-5bf7-41ba-86ec-1ab2ce8e25cf",
+      "ts": "2026-10-09T12:01:54+00:00",
+      "address": "0x4be1fa92e6ceaf886aac0bbec3be6c527133aa70",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "YES",
-      "price": 0.999,
-      "shares": 74999.989,
-      "usd_value": 74924.989011,
-      "price_shift_pp": 7.100000742400137,
+      "outcome_index": 1,
+      "outcome_label": "Arthur Fery",
+      "price": 0.477873889679417,
+      "shares": 62778.068959,
+      "usd_value": 30000,
+      "price_shift_pp": -7.212605532058847,
       "alert_reason": "shift",
-      "market_id": null,
-      "condition_id": "",
-      "token_id": "85924333298538145942579681191568338114213851647536973597252192823515681204214",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
+      "market_id": "5424067",
+      "condition_id": "5424067",
+      "token_id": "56728820309458487381424242875509748147340015216790176341015121384841538317507",
+      "question": "Shanghai Rolex Masters: Karen Khachanov vs Arthur Fery",
+      "link": "https://polyvictor.com/markets/5424067"
     }
   ]
 }
