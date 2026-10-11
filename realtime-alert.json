@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-11T22:30:02.215Z",
+  "generated_at": "2026-10-11T23:34:23.833Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "ad8f776a-557d-4f29-a613-38e72fbe1e45",
-      "ts": "2026-10-11T22:29:47+00:00",
-      "address": "0xb7fffe75ad88a55987cd8c60ad6a53640e80aa79",
+      "id": "f9e65c12-8684-41fa-b97c-a8af2614aa5a",
+      "ts": "2026-10-11T23:30:27+00:00",
+      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
       "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "Chargers",
-      "price": 0.7,
-      "shares": 65661.9,
-      "usd_value": 45963.329999999994,
-      "price_shift_pp": -4.0000000000000036,
-      "alert_reason": "shift",
-      "market_id": "4024675",
-      "condition_id": "4024675",
-      "token_id": "51102114999633637413430928699806154673949360522651523449492458853304910453987",
-      "question": "Broncos vs. Chargers",
-      "link": "https://polyvictor.com/markets/4024675"
+      "outcome_label": "Falcons",
+      "price": 0.62,
+      "shares": 795055.84,
+      "usd_value": 492934.6208,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "4024681",
+      "condition_id": "4024681",
+      "token_id": "108622352570534381271916450643964132401769850077027305642142746550546607081595",
+      "question": "Ravens vs. Falcons",
+      "link": "https://polyvictor.com/markets/4024681"
     }
   ]
 }
