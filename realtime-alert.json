@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-11T20:02:18.165Z",
+  "generated_at": "2026-10-11T22:30:02.215Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "8cc44507-de3e-4772-963c-6b35d6f9ec73",
-      "ts": "2026-10-11T20:01:49+00:00",
-      "address": "0x9ee49c02ae1ade698bf9e06d4ca271f236b8697b",
+      "id": "ad8f776a-557d-4f29-a613-38e72fbe1e45",
+      "ts": "2026-10-11T22:29:47+00:00",
+      "address": "0xb7fffe75ad88a55987cd8c60ad6a53640e80aa79",
       "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "Jets",
-      "price": 0.91070923175,
-      "shares": 400000,
-      "usd_value": 364283.69269999996,
-      "price_shift_pp": -0.9290768250000081,
-      "alert_reason": "size",
-      "market_id": "4024666",
-      "condition_id": "4024666",
-      "token_id": "13178437423787613306714793123862154236291774865703775281016183012011117761161",
-      "question": "Browns vs. Jets",
-      "link": "https://polyvictor.com/markets/4024666"
+      "outcome_label": "Chargers",
+      "price": 0.7,
+      "shares": 65661.9,
+      "usd_value": 45963.329999999994,
+      "price_shift_pp": -4.0000000000000036,
+      "alert_reason": "shift",
+      "market_id": "4024675",
+      "condition_id": "4024675",
+      "token_id": "51102114999633637413430928699806154673949360522651523449492458853304910453987",
+      "question": "Broncos vs. Chargers",
+      "link": "https://polyvictor.com/markets/4024675"
     }
   ]
 }
