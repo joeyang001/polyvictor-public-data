@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-10-10",
-  "generated_at": "2026-10-10T14:00:07.541Z",
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T14:00:07.173Z",
   "status": "success",
   "tweet_ids": [
-    "2108920513984626696",
-    "2108920515154829691"
+    "2109282899782451560",
+    "2109282901472748018"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 283,
-    "total_volume_usd": 10587500.591417,
-    "unique_whales": 112,
-    "buy_volume_usd": 9071896.257307,
-    "sell_volume_usd": 1515604.3341099997,
+    "total_fills": 503,
+    "total_volume_usd": 22081204.220930006,
+    "unique_whales": 152,
+    "buy_volume_usd": 18029129.49187601,
+    "sell_volume_usd": 4052074.729054,
     "top_markets": [
       {
-        "market_id": "5414695",
-        "question": "Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs",
-        "volume_usd": 1822858.9990299994,
-        "fills": 38,
-        "link": "https://polyvictor.com/markets/5414695"
+        "market_id": "5473050",
+        "question": "Counter-Strike: MOUZ vs Spirit (BO3) - ESL Pro League Playoffs",
+        "volume_usd": 1222729.068483,
+        "fills": 24,
+        "link": "https://polyvictor.com/markets/5473050"
       },
       {
-        "market_id": "5242638",
-        "question": "Golden State Valkyries vs. Las Vegas Aces",
-        "volume_usd": 634232.94431,
-        "fills": 8,
-        "link": "https://polyvictor.com/markets/5242638"
+        "market_id": "5015038",
+        "question": "Will FC Barcelona win on 2026-10-10?",
+        "volume_usd": 819910.52216,
+        "fills": 18,
+        "link": "https://polyvictor.com/markets/5015038"
       },
       {
-        "market_id": "5414684",
-        "question": "Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs",
-        "volume_usd": 508252.81577,
-        "fills": 10,
-        "link": "https://polyvictor.com/markets/5414684"
+        "market_id": "5097961",
+        "question": "Texas vs. Oklahoma",
+        "volume_usd": 805686.28362,
+        "fills": 19,
+        "link": "https://polyvictor.com/markets/5097961"
       }
     ],
     "top_whales": [
       {
-        "address": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
-        "volume_usd": 990619.0955899999,
-        "fills": 12,
-        "link": "https://polyvictor.com/whales/0x7c37b52eb226bcb9411375ec48b0169663fb6aeb"
+        "address": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+        "volume_usd": 1198222.5759200002,
+        "fills": 19,
+        "link": "https://polyvictor.com/whales/0x4bff30af91642dc7d2b19a8664378fe55c45fc26"
       },
       {
-        "address": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
-        "volume_usd": 583759.24796,
-        "fills": 7,
-        "link": "https://polyvictor.com/whales/0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747"
+        "address": "0x27989d8c715acc53e921ea0950ee97306b590b7d",
+        "volume_usd": 1189670.6468230002,
+        "fills": 18,
+        "link": "https://polyvictor.com/whales/0x27989d8c715acc53e921ea0950ee97306b590b7d"
       },
       {
         "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 503877.55390000006,
-        "fills": 9,
+        "volume_usd": 1067971.565299,
+        "fills": 22,
         "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
       }
     ],
     "biggest_fill": {
-      "address": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
-      "usd": 264834.09884,
+      "address": "0x6211f97a76ed5c4b1d658f637041ac5f293db89e",
+      "usd": 547689.1004,
       "side": "buy",
-      "price": 0.59,
-      "market_id": "5414695",
-      "question": "Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs",
-      "link": "https://polyvictor.com/markets/5414695"
+      "price": 0.52,
+      "market_id": "4865159",
+      "question": "Spread: Jaguars (-7.5)",
+      "link": "https://polyvictor.com/markets/4865159"
     }
   }
 }
