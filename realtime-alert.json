@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-11T19:30:05.004Z",
+  "generated_at": "2026-10-11T20:02:18.165Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "639b0183-0245-4ee6-8c8f-7f111cd078ec",
-      "ts": "2026-10-11T19:29:27+00:00",
-      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+      "id": "8cc44507-de3e-4772-963c-6b35d6f9ec73",
+      "ts": "2026-10-11T20:01:49+00:00",
+      "address": "0x9ee49c02ae1ade698bf9e06d4ca271f236b8697b",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Bengals",
-      "price": 0.9890008079747697,
-      "shares": 272285.73,
-      "usd_value": 269290.80697,
-      "price_shift_pp": 0.00008079747697564699,
+      "outcome_index": 1,
+      "outcome_label": "Jets",
+      "price": 0.91070923175,
+      "shares": 400000,
+      "usd_value": 364283.69269999996,
+      "price_shift_pp": -0.9290768250000081,
       "alert_reason": "size",
-      "market_id": "4024657",
-      "condition_id": "4024657",
-      "token_id": "41905876170548774506175380064342152768124644274899585387710898492546678798735",
-      "question": "Bengals vs. Dolphins",
-      "link": "https://polyvictor.com/markets/4024657"
+      "market_id": "4024666",
+      "condition_id": "4024666",
+      "token_id": "13178437423787613306714793123862154236291774865703775281016183012011117761161",
+      "question": "Browns vs. Jets",
+      "link": "https://polyvictor.com/markets/4024666"
     }
   ]
 }
