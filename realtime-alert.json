@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-10T20:32:25.593Z",
+  "generated_at": "2026-10-11T06:20:01.752Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "1c3862d2-dc85-43b7-9ee8-a15ce17c9654",
-      "ts": "2026-10-10T20:30:32+00:00",
-      "address": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+      "id": "eab76e6c-f13c-47c9-b1ba-58c247f24584",
+      "ts": "2026-10-11T06:19:53+00:00",
+      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.9,
-      "shares": 86941,
-      "usd_value": 78246.90000000001,
-      "price_shift_pp": -7.99999251457344,
+      "outcome_index": 1,
+      "outcome_label": "NO",
+      "price": 0.5883401079154861,
+      "shares": 51840.762832,
+      "usd_value": 30499.999999,
+      "price_shift_pp": 12.834011987548577,
       "alert_reason": "shift",
-      "market_id": "5015068",
-      "condition_id": "5015068",
-      "token_id": "10673046283513846079217946477340549796757489120194274800426989722716044944887",
-      "question": "Will Real Madrid CF win on 2026-10-10?",
-      "link": "https://polyvictor.com/markets/5015068"
+      "market_id": null,
+      "condition_id": "0x4c9d82cac2d847becf831a6aa7fe64d2d35ed331d30f77927da7f97b83335bb7",
+      "token_id": "63191932321590486706574478410809993507019450202228492899124145995461915392111",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
