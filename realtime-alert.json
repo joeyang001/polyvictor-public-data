@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-11T06:20:01.752Z",
+  "generated_at": "2026-10-11T12:50:04.032Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "eab76e6c-f13c-47c9-b1ba-58c247f24584",
-      "ts": "2026-10-11T06:19:53+00:00",
-      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+      "id": "52de40fa-d395-47f2-8005-e4b23c592457",
+      "ts": "2026-10-11T12:48:53+00:00",
+      "address": "0x0f6f76ced62a911bccef92f50faaff143854d977",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "NO",
-      "price": 0.5883401079154861,
-      "shares": 51840.762832,
-      "usd_value": 30499.999999,
-      "price_shift_pp": 12.834011987548577,
-      "alert_reason": "shift",
-      "market_id": null,
-      "condition_id": "0x4c9d82cac2d847becf831a6aa7fe64d2d35ed331d30f77927da7f97b83335bb7",
-      "token_id": "63191932321590486706574478410809993507019450202228492899124145995461915392111",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.49,
+      "shares": 560000,
+      "usd_value": 274400,
+      "price_shift_pp": 0.0000017639999405627549,
+      "alert_reason": "size",
+      "market_id": "5062253",
+      "condition_id": "5062253",
+      "token_id": "47337665503219813920931423806462859403360048912489948590864055542431995108925",
+      "question": "Will Everton FC win on 2026-10-11?",
+      "link": "https://polyvictor.com/markets/5062253"
     }
   ]
 }
