@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-11T17:32:19.038Z",
+  "generated_at": "2026-10-11T19:30:05.004Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "6a2f5fa6-2cb3-4a84-9539-f749a40e2b71",
-      "ts": "2026-10-11T17:30:42+00:00",
-      "address": "0x67ac9e1ad7d7e74ef0215d14fc8edb538e4fedf1",
+      "id": "639b0183-0245-4ee6-8c8f-7f111cd078ec",
+      "ts": "2026-10-11T19:29:27+00:00",
+      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Vikings",
-      "price": 0.73,
-      "shares": 60000,
-      "usd_value": 43800,
-      "price_shift_pp": 3.0000000699999974,
-      "alert_reason": "shift",
-      "market_id": "4024664",
-      "condition_id": "4024664",
-      "token_id": "94048367403399334881233656921662234936525469614188690647625616709120931530626",
-      "question": "Vikings vs. Saints",
-      "link": "https://polyvictor.com/markets/4024664"
+      "outcome_label": "Bengals",
+      "price": 0.9890008079747697,
+      "shares": 272285.73,
+      "usd_value": 269290.80697,
+      "price_shift_pp": 0.00008079747697564699,
+      "alert_reason": "size",
+      "market_id": "4024657",
+      "condition_id": "4024657",
+      "token_id": "41905876170548774506175380064342152768124644274899585387710898492546678798735",
+      "question": "Bengals vs. Dolphins",
+      "link": "https://polyvictor.com/markets/4024657"
     }
   ]
 }
