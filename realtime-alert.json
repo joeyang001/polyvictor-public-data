@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-13T16:52:14.204Z",
+  "generated_at": "2026-10-13T17:44:05.070Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "e114247d-e574-481c-9c69-68eb4e030bab",
-      "ts": "2026-10-13T16:51:48+00:00",
-      "address": "0xeae1e3f0da9c9adcdd69c021cd0385d9a6b4a67b",
+      "id": "3a156b46-a474-40ac-a55e-0a61ef169190",
+      "ts": "2026-10-13T17:42:48+00:00",
+      "address": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Maxim Mrva",
-      "price": 0.9512770218367302,
-      "shares": 66587.35,
-      "usd_value": 63343.016,
-      "price_shift_pp": 3.8941600853410474,
-      "alert_reason": "shift",
-      "market_id": "5569709",
-      "condition_id": "5569709",
-      "token_id": "1891835625834304923373185457476903125696136654918650631044360521486358951489",
-      "question": "Olbia: Hynek Barton vs Maxim Mrva",
-      "link": "https://polyvictor.com/markets/5569709"
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.54,
+      "shares": 966973.27,
+      "usd_value": 522165.56580000004,
+      "price_shift_pp": 1.0000077090897896,
+      "alert_reason": "size",
+      "market_id": "5158631",
+      "condition_id": "5158631",
+      "token_id": "102262019570077528008191167297133199972191647523896072664683864089997483441850",
+      "question": "Will Club Atlético de Madrid win on 2026-10-13?",
+      "link": "https://polyvictor.com/markets/5158631"
     }
   ]
 }
