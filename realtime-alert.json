@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-13T17:46:01.779Z",
+  "generated_at": "2026-10-13T18:12:14.650Z",
   "window_minutes": 30,
-  "count": 3,
+  "count": 4,
   "alerts": [
+    {
+      "id": "f96aab07-674c-4489-aa6d-c3215b058cd4",
+      "ts": "2026-10-13T18:10:39+00:00",
+      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Fenerbahce",
+      "price": 0.85,
+      "shares": 614935.28,
+      "usd_value": 522694.988,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "5405603",
+      "condition_id": "5405603",
+      "token_id": "100837376301680775994780033029142911173672704715595755620447589984431882584965",
+      "question": "Fenerbahce vs. Zalgiris Kaunas",
+      "link": "https://polyvictor.com/markets/5405603"
+    },
     {
       "id": "90cc5f74-6f24-460e-a455-617d2bab3e95",
       "ts": "2026-10-13T17:45:21+00:00",
