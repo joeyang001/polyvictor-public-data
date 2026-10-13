@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-13T20:00:06.780Z",
+  "generated_at": "2026-10-13T21:00:06.997Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "4400b7e0-16e7-4123-9988-08954e01f89d",
-      "ts": "2026-10-13T19:58:15+00:00",
-      "address": "0x21801da197fabf39eea52f64f70544574b9508f0",
+      "id": "2f52ef41-150a-47e2-9275-4f44d2bf6d75",
+      "ts": "2026-10-13T20:58:52+00:00",
+      "address": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
       "side": "sell",
-      "outcome_index": 1,
-      "outcome_label": "Etienne Donnet",
-      "price": 0.7530455724841931,
-      "shares": 36340.13,
-      "usd_value": 27365.773999999998,
-      "price_shift_pp": 5.304557248419317,
-      "alert_reason": "shift",
-      "market_id": "5613347",
-      "condition_id": "5613347",
-      "token_id": "39344469041281958734470940929105818818421124498668398518496152150320256886136",
-      "question": "Roanne: Giovanni Mpetshi Perricard vs Etienne Donnet",
-      "link": "https://polyvictor.com/markets/5613347"
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.999,
+      "shares": 983193.74,
+      "usd_value": 982210.54626,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "5158631",
+      "condition_id": "5158631",
+      "token_id": "102262019570077528008191167297133199972191647523896072664683864089997483441850",
+      "question": "Will Club Atlético de Madrid win on 2026-10-13?",
+      "link": "https://polyvictor.com/markets/5158631"
     }
   ]
 }
