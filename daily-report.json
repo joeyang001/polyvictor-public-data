@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-10-12",
-  "generated_at": "2026-10-12T14:00:07.505Z",
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T14:00:06.061Z",
   "status": "success",
   "tweet_ids": [
-    "2109645288570843326",
-    "2109645290630193411"
+    "2110007671097090263",
+    "2110007672594444744"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 593,
-    "total_volume_usd": 30308850.365635034,
-    "unique_whales": 147,
-    "buy_volume_usd": 25855968.14778403,
-    "sell_volume_usd": 4452882.217851,
+    "total_fills": 270,
+    "total_volume_usd": 11807528.133353997,
+    "unique_whales": 99,
+    "buy_volume_usd": 9384043.600825993,
+    "sell_volume_usd": 2423484.532528,
     "top_markets": [
       {
-        "market_id": "4024681",
-        "question": "Ravens vs. Falcons",
-        "volume_usd": 5140570.552909998,
-        "fills": 60,
-        "link": "https://polyvictor.com/markets/4024681"
-      },
-      {
-        "market_id": "4024680",
-        "question": "49ers vs. Seahawks",
-        "volume_usd": 1769168.60174,
-        "fills": 35,
-        "link": "https://polyvictor.com/markets/4024680"
-      },
-      {
-        "market_id": "4024664",
-        "question": "Vikings vs. Saints",
-        "volume_usd": 1742588.32673,
+        "market_id": "4058840",
+        "question": "Bills vs. Rams",
+        "volume_usd": 1641203.6992290001,
         "fills": 27,
-        "link": "https://polyvictor.com/markets/4024664"
+        "link": "https://polyvictor.com/markets/4058840"
+      },
+      {
+        "market_id": "5430568",
+        "question": "LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs",
+        "volume_usd": 794158.21517,
+        "fills": 15,
+        "link": "https://polyvictor.com/markets/5430568"
+      },
+      {
+        "market_id": "4841907",
+        "question": "Spread: Bills (-3.5)",
+        "volume_usd": 719059.42708,
+        "fills": 11,
+        "link": "https://polyvictor.com/markets/4841907"
       }
     ],
     "top_whales": [
       {
-        "address": "0x9ee49c02ae1ade698bf9e06d4ca271f236b8697b",
-        "volume_usd": 2870840.6316099996,
-        "fills": 22,
-        "link": "https://polyvictor.com/whales/0x9ee49c02ae1ade698bf9e06d4ca271f236b8697b"
+        "address": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+        "volume_usd": 659279.3211899999,
+        "fills": 10,
+        "link": "https://polyvictor.com/whales/0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e"
       },
       {
-        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 2530581.62883,
-        "fills": 31,
-        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
+        "address": "0xf4c95b636c71243531dfc82a97565a94c106f88c",
+        "volume_usd": 609592.5602800001,
+        "fills": 7,
+        "link": "https://polyvictor.com/whales/0xf4c95b636c71243531dfc82a97565a94c106f88c"
       },
       {
         "address": "0x27989d8c715acc53e921ea0950ee97306b590b7d",
-        "volume_usd": 2202758.9812600003,
-        "fills": 26,
+        "volume_usd": 566420.8310700001,
+        "fills": 12,
         "link": "https://polyvictor.com/whales/0x27989d8c715acc53e921ea0950ee97306b590b7d"
       }
     ],
     "biggest_fill": {
-      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-      "usd": 492934.6208,
+      "address": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+      "usd": 229870.57869999998,
       "side": "buy",
-      "price": 0.62,
-      "market_id": "4024681",
-      "question": "Ravens vs. Falcons",
-      "link": "https://polyvictor.com/markets/4024681"
+      "price": 0.49,
+      "market_id": "4058840",
+      "question": "Bills vs. Rams",
+      "link": "https://polyvictor.com/markets/4058840"
     }
   }
 }
