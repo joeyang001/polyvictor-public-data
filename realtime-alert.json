@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-14T16:22:16.802Z",
+  "generated_at": "2026-10-14T16:24:04.384Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 3,
   "alerts": [
+    {
+      "id": "3d2122f1-d005-4947-b9cc-028ba524eeb9",
+      "ts": "2026-10-14T16:23:33+00:00",
+      "address": "0xcbc666209b4c17ea84c03c0dda71b5dab9e4ec62",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "LASK Linz",
+      "price": 0.5779442690665914,
+      "shares": 614847.05,
+      "usd_value": 355347.32889999996,
+      "price_shift_pp": -0.2055730933408606,
+      "alert_reason": "size",
+      "market_id": "5159438",
+      "condition_id": "5159438",
+      "token_id": "92451565184766647674040460166499068766753612500965539258614622432121866676960",
+      "question": "Spread: Liverpool FC (-1.5)",
+      "link": "https://polyvictor.com/markets/5159438"
+    },
     {
       "id": "5168b851-dc05-4f78-94af-a9524accd48c",
       "ts": "2026-10-14T16:20:32+00:00",
