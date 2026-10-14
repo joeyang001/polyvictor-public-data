@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-10-13",
-  "generated_at": "2026-10-13T14:00:06.061Z",
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T14:00:08.940Z",
   "status": "success",
   "tweet_ids": [
-    "2110007671097090263",
-    "2110007672594444744"
+    "2110370070933172354",
+    "2110370072350839039"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 270,
-    "total_volume_usd": 11807528.133353997,
-    "unique_whales": 99,
-    "buy_volume_usd": 9384043.600825993,
-    "sell_volume_usd": 2423484.532528,
+    "total_fills": 342,
+    "total_volume_usd": 20756777.590569984,
+    "unique_whales": 130,
+    "buy_volume_usd": 15277491.169290006,
+    "sell_volume_usd": 5479286.421280001,
     "top_markets": [
       {
-        "market_id": "4058840",
-        "question": "Bills vs. Rams",
-        "volume_usd": 1641203.6992290001,
-        "fills": 27,
-        "link": "https://polyvictor.com/markets/4058840"
+        "market_id": "5158631",
+        "question": "Will Club Atlético de Madrid win on 2026-10-13?",
+        "volume_usd": 7634993.851720001,
+        "fills": 46,
+        "link": "https://polyvictor.com/markets/5158631"
       },
       {
-        "market_id": "5430568",
-        "question": "LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs",
-        "volume_usd": 794158.21517,
-        "fills": 15,
-        "link": "https://polyvictor.com/markets/5430568"
+        "market_id": "5159620",
+        "question": "Spread: FC Barcelona (-1.5)",
+        "volume_usd": 1536121.786055,
+        "fills": 17,
+        "link": "https://polyvictor.com/markets/5159620"
       },
       {
-        "market_id": "4841907",
-        "question": "Spread: Bills (-3.5)",
-        "volume_usd": 719059.42708,
-        "fills": 11,
-        "link": "https://polyvictor.com/markets/4841907"
+        "market_id": "5405603",
+        "question": "Fenerbahce vs. Zalgiris Kaunas",
+        "volume_usd": 731375.56,
+        "fills": 5,
+        "link": "https://polyvictor.com/markets/5405603"
       }
     ],
     "top_whales": [
       {
-        "address": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
-        "volume_usd": 659279.3211899999,
-        "fills": 10,
-        "link": "https://polyvictor.com/whales/0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e"
+        "address": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
+        "volume_usd": 6052479.796670002,
+        "fills": 13,
+        "link": "https://polyvictor.com/whales/0xcdcccd0f2d86e450d973da415ad2430e5cc7935a"
       },
       {
-        "address": "0xf4c95b636c71243531dfc82a97565a94c106f88c",
-        "volume_usd": 609592.5602800001,
-        "fills": 7,
-        "link": "https://polyvictor.com/whales/0xf4c95b636c71243531dfc82a97565a94c106f88c"
+        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+        "volume_usd": 1369686.56488,
+        "fills": 16,
+        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
       },
       {
-        "address": "0x27989d8c715acc53e921ea0950ee97306b590b7d",
-        "volume_usd": 566420.8310700001,
-        "fills": 12,
-        "link": "https://polyvictor.com/whales/0x27989d8c715acc53e921ea0950ee97306b590b7d"
+        "address": "0x168a51f1cac0ad3b166797069382495a8aa10d24",
+        "volume_usd": 1031478.6223499998,
+        "fills": 6,
+        "link": "https://polyvictor.com/whales/0x168a51f1cac0ad3b166797069382495a8aa10d24"
       }
     ],
     "biggest_fill": {
-      "address": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
-      "usd": 229870.57869999998,
-      "side": "buy",
-      "price": 0.49,
-      "market_id": "4058840",
-      "question": "Bills vs. Rams",
-      "link": "https://polyvictor.com/markets/4058840"
+      "address": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
+      "usd": 1816620.7643,
+      "side": "sell",
+      "price": 0.999,
+      "market_id": "5158631",
+      "question": "Will Club Atlético de Madrid win on 2026-10-13?",
+      "link": "https://polyvictor.com/markets/5158631"
     }
   }
 }
