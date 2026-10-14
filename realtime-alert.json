@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-14T18:16:01.150Z",
+  "generated_at": "2026-10-14T18:18:01.150Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 3,
   "alerts": [
+    {
+      "id": "9bfae7f3-88ce-4509-b162-8e0c831e6a54",
+      "ts": "2026-10-14T18:16:44+00:00",
+      "address": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.52,
+      "shares": 759642.11,
+      "usd_value": 395013.8972,
+      "price_shift_pp": 9.947831447476574e-9,
+      "alert_reason": "size",
+      "market_id": "5184009",
+      "condition_id": "5184009",
+      "token_id": "99922256573703734427424644866042539978898018643379690678401728453693287502048",
+      "question": "Will Real Madrid CF win on 2026-10-14?",
+      "link": "https://polyvictor.com/markets/5184009"
+    },
     {
       "id": "ceccde32-3a32-4414-a441-ee9dc8534b8b",
       "ts": "2026-10-14T18:14:09+00:00",
