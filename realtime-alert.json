@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-15T16:38:01.327Z",
+  "generated_at": "2026-10-15T18:38:01.183Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "79b7c396-cc74-4cc5-9c05-7e5723c4c52b",
-      "ts": "2026-10-15T16:37:37+00:00",
-      "address": "0xee00ba338c59557141789b127927a55f5cc5cea1",
-      "side": "buy",
+      "id": "ff896c9f-dfa3-4bab-b8d1-1e1e03631032",
+      "ts": "2026-10-15T18:37:30+00:00",
+      "address": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
+      "side": "sell",
       "outcome_index": 0,
-      "outcome_label": "YES",
-      "price": 0.5655853295895915,
-      "shares": 48297.49,
-      "usd_value": 27316.3518,
-      "price_shift_pp": 5.183532958959147,
-      "alert_reason": "shift",
-      "market_id": null,
-      "condition_id": "0xa4201a8ffc244025acff1ff5d420895c54946587125819bf9831121b64a720e7",
-      "token_id": "83243999608557233565448067143511511188854079105681295027899746143507119288",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
+      "outcome_label": "Yes",
+      "price": 0.999,
+      "shares": 2285623.07,
+      "usd_value": 2283337.4469299996,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "5187254",
+      "condition_id": "5187254",
+      "token_id": "95285260737263798444112551659703206447506000400989126316034606634999623167529",
+      "question": "Will Bayer 04 Leverkusen win on 2026-10-15?",
+      "link": "https://polyvictor.com/markets/5187254"
     }
   ]
 }
