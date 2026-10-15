@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-15T01:16:03.613Z",
+  "generated_at": "2026-10-15T02:58:01.206Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "23522008-d295-4d02-bd73-196c5fac28cd",
-      "ts": "2026-10-15T01:15:10+00:00",
-      "address": "0x7e3a1f95c558f39a51ff334d789e3e039b553246",
+      "id": "eff2708a-4d48-4bb9-9e28-fe164c4ed740",
+      "ts": "2026-10-15T02:57:49+00:00",
+      "address": "0xf68a281980f8c13828e84e147e3822381d6e5b1b",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Western Kentucky",
-      "price": 0.72,
-      "shares": 62889.28,
-      "usd_value": 45280.281599999995,
-      "price_shift_pp": -4.0000000000000036,
+      "outcome_label": "Nuggets",
+      "price": 0.5,
+      "shares": 77685.19,
+      "usd_value": 38842.595,
+      "price_shift_pp": -11.69390202001306,
       "alert_reason": "shift",
-      "market_id": "5347879",
-      "condition_id": "5347879",
-      "token_id": "40884257885501389186161861102281225393150238722521206165949749246905169314587",
-      "question": "Western Kentucky vs. Sam Houston",
-      "link": "https://polyvictor.com/markets/5347879"
+      "market_id": "5677499",
+      "condition_id": "5677499",
+      "token_id": "112696228624416642177189280276077266551456807316113488298495836377521150232787",
+      "question": "Spread: Nuggets (-10.5)",
+      "link": "https://polyvictor.com/markets/5677499"
     }
   ]
 }
