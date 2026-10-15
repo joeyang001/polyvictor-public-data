@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-15T18:38:01.183Z",
+  "generated_at": "2026-10-15T19:06:01.055Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "31fe82d4-3e06-4658-8ce0-cc8d79b9f9a8",
+      "ts": "2026-10-15T19:04:45+00:00",
+      "address": "0xeae1e3f0da9c9adcdd69c021cd0385d9a6b4a67b",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "Juan Manuel La Serna",
+      "price": 0.8159846289747351,
+      "shares": 66677.4,
+      "usd_value": 54407.733499999995,
+      "price_shift_pp": -7.22144796813442,
+      "alert_reason": "shift",
+      "market_id": "5674484",
+      "condition_id": "0xc319b7d19db531cc08ed13ac1c28933fbb25b67756a2d10bfda870a42504905f",
+      "token_id": "104628240022859487231870385684027410755515132584245710714629637303971201962798",
+      "question": "Santa Cruz 2: Guido Justo vs Juan Manuel La Serna",
+      "link": "https://polyvictor.com/markets/5674484"
+    },
     {
       "id": "ff896c9f-dfa3-4bab-b8d1-1e1e03631032",
       "ts": "2026-10-15T18:37:30+00:00",
