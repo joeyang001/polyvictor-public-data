@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-15T11:38:01.054Z",
+  "generated_at": "2026-10-15T13:32:20.969Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "77d17aba-f8a1-430e-8d8a-50526f16901b",
-      "ts": "2026-10-15T11:37:25+00:00",
-      "address": "0x8718865882e085b764825b637788043c16185040",
+      "id": "7e05e0c1-4a86-47e9-91ae-638fb666c2f1",
+      "ts": "2026-10-15T13:30:46+00:00",
+      "address": "0xf0ca28d5b0141f0a8e7b251dea80fd881cb166ed",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Team Falcons",
-      "price": 0.8458813076985077,
-      "shares": 32258.2,
-      "usd_value": 27286.6084,
-      "price_shift_pp": 3.5881307698507614,
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.3449214617267774,
+      "shares": 102569.1,
+      "usd_value": 35378.28390000001,
+      "price_shift_pp": 4.496515262994011,
       "alert_reason": "shift",
-      "market_id": "5688704",
-      "condition_id": "5688704",
-      "token_id": "74748518134515623558671710673219169636805576297764952096081201784061607976505",
-      "question": "Counter-Strike: 9z vs Team Falcons (BO3) - Thunderpick World Championship Group A",
-      "link": "https://polyvictor.com/markets/5688704"
+      "market_id": "676741",
+      "condition_id": "676741",
+      "token_id": "9875273331604434310973374077817381730908757452538191940842519381772366848",
+      "question": "Will Apple be the largest company in the world by market cap on December 31?",
+      "link": "https://polyvictor.com/markets/676741"
     }
   ]
 }
