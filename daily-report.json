@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-10-14",
-  "generated_at": "2026-10-14T14:00:08.940Z",
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T14:00:08.237Z",
   "status": "success",
   "tweet_ids": [
-    "2110370070933172354",
-    "2110370072350839039"
+    "2110732455363617103",
+    "2110732456848478451"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 342,
-    "total_volume_usd": 20756777.590569984,
-    "unique_whales": 130,
-    "buy_volume_usd": 15277491.169290006,
-    "sell_volume_usd": 5479286.421280001,
+    "total_fills": 341,
+    "total_volume_usd": 23474947.001088973,
+    "unique_whales": 125,
+    "buy_volume_usd": 17043898.412462004,
+    "sell_volume_usd": 6431048.5886269985,
     "top_markets": [
       {
-        "market_id": "5158631",
-        "question": "Will Club Atlético de Madrid win on 2026-10-13?",
-        "volume_usd": 7634993.851720001,
-        "fills": 46,
-        "link": "https://polyvictor.com/markets/5158631"
+        "market_id": "5184009",
+        "question": "Will Real Madrid CF win on 2026-10-14?",
+        "volume_usd": 9156715.893671999,
+        "fills": 52,
+        "link": "https://polyvictor.com/markets/5184009"
       },
       {
-        "market_id": "5159620",
-        "question": "Spread: FC Barcelona (-1.5)",
-        "volume_usd": 1536121.786055,
-        "fills": 17,
-        "link": "https://polyvictor.com/markets/5159620"
+        "market_id": "5126779",
+        "question": "Will Indiana enact a data center moratorium by December 31, 2027?",
+        "volume_usd": 1326473.81357,
+        "fills": 9,
+        "link": "https://polyvictor.com/markets/5126779"
       },
       {
-        "market_id": "5405603",
-        "question": "Fenerbahce vs. Zalgiris Kaunas",
-        "volume_usd": 731375.56,
-        "fills": 5,
-        "link": "https://polyvictor.com/markets/5405603"
+        "market_id": "5429331",
+        "question": "Milwaukee Brewers vs. Los Angeles Dodgers",
+        "volume_usd": 1222327.903056,
+        "fills": 24,
+        "link": "https://polyvictor.com/markets/5429331"
       }
     ],
     "top_whales": [
       {
         "address": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
-        "volume_usd": 6052479.796670002,
-        "fills": 13,
+        "volume_usd": 7093888.373228001,
+        "fills": 25,
         "link": "https://polyvictor.com/whales/0xcdcccd0f2d86e450d973da415ad2430e5cc7935a"
       },
       {
-        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 1369686.56488,
-        "fills": 16,
-        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
+        "address": "0xcbc666209b4c17ea84c03c0dda71b5dab9e4ec62",
+        "volume_usd": 1983866.4751000002,
+        "fills": 10,
+        "link": "https://polyvictor.com/whales/0xcbc666209b4c17ea84c03c0dda71b5dab9e4ec62"
       },
       {
-        "address": "0x168a51f1cac0ad3b166797069382495a8aa10d24",
-        "volume_usd": 1031478.6223499998,
-        "fills": 6,
-        "link": "https://polyvictor.com/whales/0x168a51f1cac0ad3b166797069382495a8aa10d24"
+        "address": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+        "volume_usd": 966000,
+        "fills": 4,
+        "link": "https://polyvictor.com/whales/0xf0318c32136c2db7fec88b84869aee6a1106c80c"
       }
     ],
     "biggest_fill": {
       "address": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
-      "usd": 1816620.7643,
+      "usd": 1880999.14797,
       "side": "sell",
       "price": 0.999,
-      "market_id": "5158631",
-      "question": "Will Club Atlético de Madrid win on 2026-10-13?",
-      "link": "https://polyvictor.com/markets/5158631"
+      "market_id": "5184009",
+      "question": "Will Real Madrid CF win on 2026-10-14?",
+      "link": "https://polyvictor.com/markets/5184009"
     }
   }
 }
