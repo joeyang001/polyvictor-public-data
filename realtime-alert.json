@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-15T02:58:01.206Z",
+  "generated_at": "2026-10-15T08:18:06.553Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "eff2708a-4d48-4bb9-9e28-fe164c4ed740",
-      "ts": "2026-10-15T02:57:49+00:00",
-      "address": "0xf68a281980f8c13828e84e147e3822381d6e5b1b",
+      "id": "8b116dd3-83a5-43cd-a914-b7dd0394441f",
+      "ts": "2026-10-15T08:16:01+00:00",
+      "address": "0x67ac9e1ad7d7e74ef0215d14fc8edb538e4fedf1",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Nuggets",
-      "price": 0.5,
-      "shares": 77685.19,
-      "usd_value": 38842.595,
-      "price_shift_pp": -11.69390202001306,
+      "outcome_index": 1,
+      "outcome_label": "NO",
+      "price": 0.6158705586080795,
+      "shares": 43894.46,
+      "usd_value": 27033.3056,
+      "price_shift_pp": 3.587055860807953,
       "alert_reason": "shift",
-      "market_id": "5677499",
-      "condition_id": "5677499",
-      "token_id": "112696228624416642177189280276077266551456807316113488298495836377521150232787",
-      "question": "Spread: Nuggets (-10.5)",
-      "link": "https://polyvictor.com/markets/5677499"
+      "market_id": null,
+      "condition_id": "0x90b8bace448a3c8d1a3ae2cafd3bee7e2495f15eb3310c932e6a1f1c6f67ed72",
+      "token_id": "93272485534577670333292514146572234415500039637715956091551535046379615246977",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
