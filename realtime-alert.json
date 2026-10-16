@@ -1,44 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-15T19:06:01.055Z",
+  "generated_at": "2026-10-16T00:16:01.373Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 1,
   "alerts": [
     {
-      "id": "31fe82d4-3e06-4658-8ce0-cc8d79b9f9a8",
-      "ts": "2026-10-15T19:04:45+00:00",
-      "address": "0xeae1e3f0da9c9adcdd69c021cd0385d9a6b4a67b",
+      "id": "2472cb5a-940e-4c6f-8463-43c25790b3fd",
+      "ts": "2026-10-16T00:14:11+00:00",
+      "address": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
       "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "Juan Manuel La Serna",
-      "price": 0.8159846289747351,
-      "shares": 66677.4,
-      "usd_value": 54407.733499999995,
-      "price_shift_pp": -7.22144796813442,
-      "alert_reason": "shift",
-      "market_id": "5674484",
-      "condition_id": "0xc319b7d19db531cc08ed13ac1c28933fbb25b67756a2d10bfda870a42504905f",
-      "token_id": "104628240022859487231870385684027410755515132584245710714629637303971201962798",
-      "question": "Santa Cruz 2: Guido Justo vs Juan Manuel La Serna",
-      "link": "https://polyvictor.com/markets/5674484"
-    },
-    {
-      "id": "ff896c9f-dfa3-4bab-b8d1-1e1e03631032",
-      "ts": "2026-10-15T18:37:30+00:00",
-      "address": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
-      "side": "sell",
-      "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.999,
-      "shares": 2285623.07,
-      "usd_value": 2283337.4469299996,
+      "outcome_label": "Broncos",
+      "price": 0.44,
+      "shares": 650945.84,
+      "usd_value": 286416.16959999996,
       "price_shift_pp": 0,
       "alert_reason": "size",
-      "market_id": "5187254",
-      "condition_id": "5187254",
-      "token_id": "95285260737263798444112551659703206447506000400989126316034606634999623167529",
-      "question": "Will Bayer 04 Leverkusen win on 2026-10-15?",
-      "link": "https://polyvictor.com/markets/5187254"
+      "market_id": "4212356",
+      "condition_id": "4212356",
+      "token_id": "78653414984017864835330593213700943479354040352698721042453780387223265497055",
+      "question": "Seahawks vs. Broncos",
+      "link": "https://polyvictor.com/markets/4212356"
     }
   ]
 }
