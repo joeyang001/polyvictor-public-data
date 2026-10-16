@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-16T16:54:01.268Z",
+  "generated_at": "2026-10-16T18:05:27.267Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "9a48b1f0-971f-43dc-9172-80a8adbcdd49",
-      "ts": "2026-10-16T16:53:14+00:00",
-      "address": "0xdcd669c506a938bae9269a84b8bd2bdb220484cd",
+      "id": "afc584f8-fce1-47f8-80fa-faf1265ef5df",
+      "ts": "2026-10-16T18:01:55+00:00",
+      "address": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.999,
-      "shares": 457051.82,
-      "usd_value": 456594.76818,
+      "outcome_index": 1,
+      "outcome_label": "Cloud9",
+      "price": 0.83,
+      "shares": 315021.17,
+      "usd_value": 261467.57109999997,
       "price_shift_pp": 0,
       "alert_reason": "size",
-      "market_id": "5710779",
-      "condition_id": "5710779",
-      "token_id": "94224717266604487114880056965368574473849199236933634123623009387278649619310",
-      "question": "Will the Tesla Roadster's 0-60 time be less than 1 second?",
-      "link": "https://polyvictor.com/markets/5710779"
+      "market_id": "5765387",
+      "condition_id": "5765387",
+      "token_id": "102793571469161292484627993607097499419243863136812316107736027390306258403581",
+      "question": "LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In",
+      "link": "https://polyvictor.com/markets/5765387"
     }
   ]
 }
