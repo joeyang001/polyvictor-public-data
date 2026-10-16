@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-10-15",
-  "generated_at": "2026-10-15T14:00:08.237Z",
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T14:00:07.687Z",
   "status": "success",
   "tweet_ids": [
-    "2110732455363617103",
-    "2110732456848478451"
+    "2111094841153114371",
+    "2111094842533052766"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 341,
-    "total_volume_usd": 23474947.001088973,
-    "unique_whales": 125,
-    "buy_volume_usd": 17043898.412462004,
-    "sell_volume_usd": 6431048.5886269985,
+    "total_fills": 429,
+    "total_volume_usd": 25253161.990567986,
+    "unique_whales": 134,
+    "buy_volume_usd": 17738740.580627985,
+    "sell_volume_usd": 7514421.409939997,
     "top_markets": [
       {
-        "market_id": "5184009",
-        "question": "Will Real Madrid CF win on 2026-10-14?",
-        "volume_usd": 9156715.893671999,
-        "fills": 52,
-        "link": "https://polyvictor.com/markets/5184009"
+        "market_id": "5187254",
+        "question": "Will Bayer 04 Leverkusen win on 2026-10-15?",
+        "volume_usd": 9198259.10452,
+        "fills": 49,
+        "link": "https://polyvictor.com/markets/5187254"
       },
       {
-        "market_id": "5126779",
-        "question": "Will Indiana enact a data center moratorium by December 31, 2027?",
-        "volume_usd": 1326473.81357,
-        "fills": 9,
-        "link": "https://polyvictor.com/markets/5126779"
+        "market_id": "4212356",
+        "question": "Seahawks vs. Broncos",
+        "volume_usd": 3499443.0376100014,
+        "fills": 40,
+        "link": "https://polyvictor.com/markets/4212356"
       },
       {
-        "market_id": "5429331",
-        "question": "Milwaukee Brewers vs. Los Angeles Dodgers",
-        "volume_usd": 1222327.903056,
+        "market_id": "5524116",
+        "question": "LoL: Cloud9 vs Karmine Corp (BO5) - Worlds Play-In",
+        "volume_usd": 1001548.2003479999,
         "fills": 24,
-        "link": "https://polyvictor.com/markets/5429331"
+        "link": "https://polyvictor.com/markets/5524116"
       }
     ],
     "top_whales": [
       {
         "address": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
-        "volume_usd": 7093888.373228001,
-        "fills": 25,
+        "volume_usd": 7711341.196670001,
+        "fills": 34,
         "link": "https://polyvictor.com/whales/0xcdcccd0f2d86e450d973da415ad2430e5cc7935a"
       },
       {
-        "address": "0xcbc666209b4c17ea84c03c0dda71b5dab9e4ec62",
-        "volume_usd": 1983866.4751000002,
-        "fills": 10,
-        "link": "https://polyvictor.com/whales/0xcbc666209b4c17ea84c03c0dda71b5dab9e4ec62"
+        "address": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+        "volume_usd": 996957.7844,
+        "fills": 6,
+        "link": "https://polyvictor.com/whales/0xf0318c32136c2db7fec88b84869aee6a1106c80c"
       },
       {
-        "address": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
-        "volume_usd": 966000,
-        "fills": 4,
-        "link": "https://polyvictor.com/whales/0xf0318c32136c2db7fec88b84869aee6a1106c80c"
+        "address": "0xccd81fbd3395dc43a0531f8484b21c2462daf4de",
+        "volume_usd": 798788.90103,
+        "fills": 11,
+        "link": "https://polyvictor.com/whales/0xccd81fbd3395dc43a0531f8484b21c2462daf4de"
       }
     ],
     "biggest_fill": {
       "address": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
-      "usd": 1880999.14797,
+      "usd": 2283337.4469299996,
       "side": "sell",
       "price": 0.999,
-      "market_id": "5184009",
-      "question": "Will Real Madrid CF win on 2026-10-14?",
-      "link": "https://polyvictor.com/markets/5184009"
+      "market_id": "5187254",
+      "question": "Will Bayer 04 Leverkusen win on 2026-10-15?",
+      "link": "https://polyvictor.com/markets/5187254"
     }
   }
 }
