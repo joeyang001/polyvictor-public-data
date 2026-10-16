@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-16T01:54:32.918Z",
+  "generated_at": "2026-10-16T02:06:01.108Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "6e450aee-a417-4713-b0aa-00cef0271ece",
+      "ts": "2026-10-16T02:04:39+00:00",
+      "address": "0xb3cfe7615d64db8dfa743a1b1a2b976911460ebd",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.9499984790342476,
+      "shares": 98621.55,
+      "usd_value": 93690.32250000001,
+      "price_shift_pp": 4.202120630697492,
+      "alert_reason": "shift",
+      "market_id": "1235572",
+      "condition_id": "1235572",
+      "token_id": "65347099416413012038874568960137034756796660297895673058090101511987410403548",
+      "question": "Will the Los Angeles Dodgers win the 2026 World Series?",
+      "link": "https://polyvictor.com/markets/1235572"
+    },
     {
       "id": "4fcd49d5-f43e-4c23-9e28-41c8135a7212",
       "ts": "2026-10-16T01:51:48+00:00",
