@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-16T20:34:01.487Z",
+  "generated_at": "2026-10-17T00:04:31.218Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "68573802-b57c-4ea6-8350-161319755885",
-      "ts": "2026-10-16T20:33:13+00:00",
-      "address": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
-      "side": "sell",
-      "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.999,
-      "shares": 448761.18,
-      "usd_value": 448312.41882,
-      "price_shift_pp": 0,
-      "alert_reason": "size",
-      "market_id": "5223461",
-      "condition_id": "5223461",
-      "token_id": "64706258363418915586087316921912166619908322059066915567579668725731740970126",
-      "question": "Will Eintracht Frankfurt win on 2026-10-16?",
-      "link": "https://polyvictor.com/markets/5223461"
+      "id": "5ec12c85-6827-4fb6-a033-c69b6da95a75",
+      "ts": "2026-10-17T00:01:28+00:00",
+      "address": "0x6100acd1f9ebe426750cb5cf7bc89e262beaed95",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "Cloud9",
+      "price": 0.726420210552368,
+      "shares": 60121.86,
+      "usd_value": 43673.73419999999,
+      "price_shift_pp": 27.642021055236803,
+      "alert_reason": "shift",
+      "market_id": "5765386",
+      "condition_id": "5765386",
+      "token_id": "2257979908330339786014020195986641394630779822037930896650569640581118665186",
+      "question": "LoL: FURIA Esports vs Cloud9 - Game 4 Winner",
+      "link": "https://polyvictor.com/markets/5765386"
     }
   ]
 }
