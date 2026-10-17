@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-17T00:04:31.218Z",
+  "generated_at": "2026-10-17T09:34:01.213Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "5ec12c85-6827-4fb6-a033-c69b6da95a75",
-      "ts": "2026-10-17T00:01:28+00:00",
-      "address": "0x6100acd1f9ebe426750cb5cf7bc89e262beaed95",
+      "id": "583c0ffc-5bb2-4c00-9a06-d1a0a69c486e",
+      "ts": "2026-10-17T09:32:54+00:00",
+      "address": "0xc4373f98a0ec7acb54485b322a1011bd2e619886",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Cloud9",
-      "price": 0.726420210552368,
-      "shares": 60121.86,
-      "usd_value": 43673.73419999999,
-      "price_shift_pp": 27.642021055236803,
+      "outcome_index": 0,
+      "outcome_label": "BNK FEARX",
+      "price": 0.9142722045890841,
+      "shares": 31333.05,
+      "usd_value": 28646.936700000002,
+      "price_shift_pp": -7.135576211640771,
       "alert_reason": "shift",
-      "market_id": "5765386",
-      "condition_id": "5765386",
-      "token_id": "2257979908330339786014020195986641394630779822037930896650569640581118665186",
-      "question": "LoL: FURIA Esports vs Cloud9 - Game 4 Winner",
-      "link": "https://polyvictor.com/markets/5765386"
+      "market_id": "5731259",
+      "condition_id": "5731259",
+      "token_id": "17274907270018460817954182928733105972904471148044178021905912766404487518259",
+      "question": "LoL: BNK FEARX vs Team WE (BO5) - Demacia Cup Global Invitational Playoffs",
+      "link": "https://polyvictor.com/markets/5731259"
     }
   ]
 }
