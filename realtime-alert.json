@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-17T17:50:06.288Z",
+  "generated_at": "2026-10-17T18:40:01.730Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "d2c1d033-c4bc-40cf-a228-ac80aa294594",
-      "ts": "2026-10-17T17:48:01+00:00",
-      "address": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+      "id": "9e890cdb-d1b8-4b21-a5ce-d5a19acbbfd1",
+      "ts": "2026-10-17T18:39:51+00:00",
+      "address": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Under",
-      "price": 0.92,
-      "shares": 48503.75,
-      "usd_value": 44623.450000000004,
-      "price_shift_pp": -4.395180239628848,
+      "outcome_index": 0,
+      "outcome_label": "Florida",
+      "price": 0.527,
+      "shares": 97678.64,
+      "usd_value": 51476.643280000004,
+      "price_shift_pp": 5.200000000000005,
       "alert_reason": "shift",
-      "market_id": "5269893",
-      "condition_id": "5269893",
-      "token_id": "4694802340724360838908712883015069509303795429178107082458948714590720019967",
-      "question": "Real Betis Balompié vs. FC Barcelona: O/U 7.5",
-      "link": "https://polyvictor.com/markets/5269893"
+      "market_id": "5349030",
+      "condition_id": "5349030",
+      "token_id": "7747707981481052392081681466261081810646547388631108154271487277589031952684",
+      "question": "Florida vs. Texas",
+      "link": "https://polyvictor.com/markets/5349030"
     }
   ]
 }
