@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-17T09:34:01.213Z",
+  "generated_at": "2026-10-17T16:16:45.359Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "583c0ffc-5bb2-4c00-9a06-d1a0a69c486e",
-      "ts": "2026-10-17T09:32:54+00:00",
-      "address": "0xc4373f98a0ec7acb54485b322a1011bd2e619886",
-      "side": "buy",
+      "id": "3db6eff4-4ab4-4724-aa84-70f0b77867e1",
+      "ts": "2026-10-17T16:11:06+00:00",
+      "address": "0x53fdefb84fe4cfdaa0ec7249ea13f4c804bd177e",
+      "side": "sell",
       "outcome_index": 0,
-      "outcome_label": "BNK FEARX",
-      "price": 0.9142722045890841,
-      "shares": 31333.05,
-      "usd_value": 28646.936700000002,
-      "price_shift_pp": -7.135576211640771,
+      "outcome_label": "Over",
+      "price": 0.7447960949657287,
+      "shares": 56929.59,
+      "usd_value": 42400.93632,
+      "price_shift_pp": -25.420390503427125,
       "alert_reason": "shift",
-      "market_id": "5731259",
-      "condition_id": "5731259",
-      "token_id": "17274907270018460817954182928733105972904471148044178021905912766404487518259",
-      "question": "LoL: BNK FEARX vs Team WE (BO5) - Demacia Cup Global Invitational Playoffs",
-      "link": "https://polyvictor.com/markets/5731259"
+      "market_id": "5267752",
+      "condition_id": "0x7edbd34e76018061c117bb8256145f8a610b3d29b521b992232ab9d1b72cb1b2",
+      "token_id": "43452973343515296668107901335542156021218645253003801501356621463261261047478",
+      "question": "Brentford FC vs. Liverpool FC: Liverpool FC O/U 1.5",
+      "link": "https://polyvictor.com/markets/5267752"
     }
   ]
 }
