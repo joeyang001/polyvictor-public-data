@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-10-16",
-  "generated_at": "2026-10-16T14:00:07.687Z",
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T14:00:07.641Z",
   "status": "success",
   "tweet_ids": [
-    "2111094841153114371",
-    "2111094842533052766"
+    "2111457229282972150",
+    "2111457230587359477"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 429,
-    "total_volume_usd": 25253161.990567986,
-    "unique_whales": 134,
-    "buy_volume_usd": 17738740.580627985,
-    "sell_volume_usd": 7514421.409939997,
+    "total_fills": 400,
+    "total_volume_usd": 20523710.324599,
+    "unique_whales": 127,
+    "buy_volume_usd": 16657179.304659002,
+    "sell_volume_usd": 3866531.019939998,
     "top_markets": [
       {
-        "market_id": "5187254",
-        "question": "Will Bayer 04 Leverkusen win on 2026-10-15?",
-        "volume_usd": 9198259.10452,
-        "fills": 49,
-        "link": "https://polyvictor.com/markets/5187254"
+        "market_id": "5710779",
+        "question": "Will the Tesla Roadster's 0-60 time be less than 1 second?",
+        "volume_usd": 3253391.384189999,
+        "fills": 32,
+        "link": "https://polyvictor.com/markets/5710779"
       },
       {
-        "market_id": "4212356",
-        "question": "Seahawks vs. Broncos",
-        "volume_usd": 3499443.0376100014,
-        "fills": 40,
-        "link": "https://polyvictor.com/markets/4212356"
+        "market_id": "5765387",
+        "question": "LoL: FURIA Esports vs Cloud9 (BO5) - Worlds Play-In",
+        "volume_usd": 2290782.3858700003,
+        "fills": 26,
+        "link": "https://polyvictor.com/markets/5765387"
       },
       {
-        "market_id": "5524116",
-        "question": "LoL: Cloud9 vs Karmine Corp (BO5) - Worlds Play-In",
-        "volume_usd": 1001548.2003479999,
-        "fills": 24,
-        "link": "https://polyvictor.com/markets/5524116"
+        "market_id": "5765351",
+        "question": "LoL: MVK Esports vs Karmine Corp (BO5) - Worlds Play-In",
+        "volume_usd": 1147816.9625,
+        "fills": 12,
+        "link": "https://polyvictor.com/markets/5765351"
       }
     ],
     "top_whales": [
       {
-        "address": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
-        "volume_usd": 7711341.196670001,
-        "fills": 34,
-        "link": "https://polyvictor.com/whales/0xcdcccd0f2d86e450d973da415ad2430e5cc7935a"
+        "address": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+        "volume_usd": 2862960.3175100004,
+        "fills": 30,
+        "link": "https://polyvictor.com/whales/0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e"
       },
       {
-        "address": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
-        "volume_usd": 996957.7844,
-        "fills": 6,
-        "link": "https://polyvictor.com/whales/0xf0318c32136c2db7fec88b84869aee6a1106c80c"
+        "address": "0xdcd669c506a938bae9269a84b8bd2bdb220484cd",
+        "volume_usd": 1225170.63779,
+        "fills": 7,
+        "link": "https://polyvictor.com/whales/0xdcd669c506a938bae9269a84b8bd2bdb220484cd"
       },
       {
-        "address": "0xccd81fbd3395dc43a0531f8484b21c2462daf4de",
-        "volume_usd": 798788.90103,
-        "fills": 11,
-        "link": "https://polyvictor.com/whales/0xccd81fbd3395dc43a0531f8484b21c2462daf4de"
+        "address": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+        "volume_usd": 1185292.149279,
+        "fills": 23,
+        "link": "https://polyvictor.com/whales/0x7c37b52eb226bcb9411375ec48b0169663fb6aeb"
       }
     ],
     "biggest_fill": {
-      "address": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
-      "usd": 2283337.4469299996,
-      "side": "sell",
+      "address": "0xdcd669c506a938bae9269a84b8bd2bdb220484cd",
+      "usd": 456617.59791,
+      "side": "buy",
       "price": 0.999,
-      "market_id": "5187254",
-      "question": "Will Bayer 04 Leverkusen win on 2026-10-15?",
-      "link": "https://polyvictor.com/markets/5187254"
+      "market_id": "5710779",
+      "question": "Will the Tesla Roadster's 0-60 time be less than 1 second?",
+      "link": "https://polyvictor.com/markets/5710779"
     }
   }
 }
