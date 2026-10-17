@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-17T18:40:01.730Z",
+  "generated_at": "2026-10-17T18:46:01.157Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "6e2b17b2-738b-4f7a-abf5-011079160e9e",
+      "ts": "2026-10-17T18:44:52+00:00",
+      "address": "0x0f6f76ced62a911bccef92f50faaff143854d977",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.4,
+      "shares": 692160.17,
+      "usd_value": 276864.068,
+      "price_shift_pp": 1.0000000000000009,
+      "alert_reason": "size",
+      "market_id": "5258769",
+      "condition_id": "5258769",
+      "token_id": "113011446540820251803369735352936767946790077540482326828428223863572043113933",
+      "question": "Will AS Roma win on 2026-10-17?",
+      "link": "https://polyvictor.com/markets/5258769"
+    },
     {
       "id": "9e890cdb-d1b8-4b21-a5ce-d5a19acbbfd1",
       "ts": "2026-10-17T18:39:51+00:00",
