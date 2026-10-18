@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-18T17:18:05.687Z",
+  "generated_at": "2026-10-18T17:28:01.942Z",
   "window_minutes": 30,
-  "count": 4,
+  "count": 3,
   "alerts": [
+    {
+      "id": "0efaab21-c717-47a7-a61e-c77ba6735437",
+      "ts": "2026-10-18T17:26:28+00:00",
+      "address": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
+      "side": "sell",
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.999,
+      "shares": 4620000,
+      "usd_value": 4615380,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "5311940",
+      "condition_id": "5311940",
+      "token_id": "73245421796922750466829041889725203633090129283314240032365966286987444361172",
+      "question": "Will Arsenal FC win on 2026-10-18?",
+      "link": "https://polyvictor.com/markets/5311940"
+    },
     {
       "id": "9b88c1ad-1684-449b-b7ef-ce76bc228a69",
       "ts": "2026-10-18T17:17:32+00:00",
@@ -39,42 +57,6 @@
       "token_id": "9967932858388223541493973634685981203561705592783906524711827335965147813954",
       "question": "European Open, Qualification: Martin Damm vs Andrea Guerrieri",
       "link": "https://polyvictor.com/markets/5843209"
-    },
-    {
-      "id": "73777109-aec1-4357-9a42-3474ad707a5e",
-      "ts": "2026-10-18T16:57:35+00:00",
-      "address": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
-      "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Bears",
-      "price": 0.52,
-      "shares": 597128.91,
-      "usd_value": 310507.0332,
-      "price_shift_pp": 0.000002079999916748676,
-      "alert_reason": "size",
-      "market_id": "4329883",
-      "condition_id": "4329883",
-      "token_id": "79757993487308721870645729402015468850899053366152558318911049657776154836791",
-      "question": "Bears vs. Falcons",
-      "link": "https://polyvictor.com/markets/4329883"
-    },
-    {
-      "id": "f5d01821-fa56-40c2-8b16-ceee0981bd0e",
-      "ts": "2026-10-18T16:55:04+00:00",
-      "address": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
-      "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Patriots",
-      "price": 0.76,
-      "shares": 400000,
-      "usd_value": 304000,
-      "price_shift_pp": 0.000004053335822540305,
-      "alert_reason": "size",
-      "market_id": "4329886",
-      "condition_id": "4329886",
-      "token_id": "99159010658684664429261007871676241030596537802268056909897056709633368229273",
-      "question": "Jets vs. Patriots",
-      "link": "https://polyvictor.com/markets/4329886"
     }
   ]
 }
