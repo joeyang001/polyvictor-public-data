@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-18T16:56:01.340Z",
+  "generated_at": "2026-10-18T16:58:02.637Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "73777109-aec1-4357-9a42-3474ad707a5e",
+      "ts": "2026-10-18T16:57:35+00:00",
+      "address": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Bears",
+      "price": 0.52,
+      "shares": 597128.91,
+      "usd_value": 310507.0332,
+      "price_shift_pp": 0.000002079999916748676,
+      "alert_reason": "size",
+      "market_id": "4329883",
+      "condition_id": "4329883",
+      "token_id": "79757993487308721870645729402015468850899053366152558318911049657776154836791",
+      "question": "Bears vs. Falcons",
+      "link": "https://polyvictor.com/markets/4329883"
+    },
     {
       "id": "f5d01821-fa56-40c2-8b16-ceee0981bd0e",
       "ts": "2026-10-18T16:55:04+00:00",
