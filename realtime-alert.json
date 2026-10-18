@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-18T00:30:04.633Z",
+  "generated_at": "2026-10-18T03:00:03.786Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "6c2665f7-3c02-43c2-9974-21bf38e6b1da",
-      "ts": "2026-10-18T00:28:25+00:00",
-      "address": "0x7e3a1f95c558f39a51ff334d789e3e039b553246",
+      "id": "ea3b8d1e-9652-4554-aa24-e2141e75f8fa",
+      "ts": "2026-10-18T02:58:34+00:00",
+      "address": "0x5bfe9469c7c4035325024c846bc530c9d29e3258",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Notre Dame",
-      "price": 0.73,
-      "shares": 40953.9,
-      "usd_value": 29896.347,
-      "price_shift_pp": 4.962566844919792,
+      "outcome_index": 1,
+      "outcome_label": "Emerson Jones",
+      "price": 0.8726420054249379,
+      "shares": 43838.29,
+      "usd_value": 38255.1333,
+      "price_shift_pp": 3.264200542493789,
       "alert_reason": "shift",
-      "market_id": "5354636",
-      "condition_id": "5354636",
-      "token_id": "97150916226459082220274815563228592437178668778433046462776389252623068079787",
-      "question": "Notre Dame vs. BYU",
-      "link": "https://polyvictor.com/markets/5354636"
+      "market_id": "5801179",
+      "condition_id": "5801179",
+      "token_id": "28487673802410057770703087127836847962236736664233631894248501496615250176305",
+      "question": "Japan Women's Open, Qualification: Taylah Preston vs Emerson Jones",
+      "link": "https://polyvictor.com/markets/5801179"
     }
   ]
 }
