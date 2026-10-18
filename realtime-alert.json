@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-18T16:58:02.637Z",
+  "generated_at": "2026-10-18T17:10:03.959Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 3,
   "alerts": [
+    {
+      "id": "d84ba880-b75d-4388-9020-76d92b2d25c4",
+      "ts": "2026-10-18T17:08:00+00:00",
+      "address": "0xebfdb8164f0e0748818d6c7a9ac85a323267fd63",
+      "side": "sell",
+      "outcome_index": 1,
+      "outcome_label": "Andrea Guerrieri",
+      "price": 0.7036276131306191,
+      "shares": 79453.07,
+      "usd_value": 55905.374,
+      "price_shift_pp": -5.637238686938096,
+      "alert_reason": "shift",
+      "market_id": "5843209",
+      "condition_id": "5843209",
+      "token_id": "9967932858388223541493973634685981203561705592783906524711827335965147813954",
+      "question": "European Open, Qualification: Martin Damm vs Andrea Guerrieri",
+      "link": "https://polyvictor.com/markets/5843209"
+    },
     {
       "id": "73777109-aec1-4357-9a42-3474ad707a5e",
       "ts": "2026-10-18T16:57:35+00:00",
