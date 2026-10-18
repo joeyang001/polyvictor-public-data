@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-18T15:08:35.624Z",
+  "generated_at": "2026-10-18T15:26:01.246Z",
   "window_minutes": 30,
   "count": 2,
   "alerts": [
+    {
+      "id": "e0c6af96-9f3c-4867-9194-b44388750e37",
+      "ts": "2026-10-18T15:24:34+00:00",
+      "address": "0x4c982a50b94a12e62daf4a01d24ec1fd9915c304",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "Jaguars",
+      "price": 0.428494099477547,
+      "shares": 457341.186819,
+      "usd_value": 195968,
+      "price_shift_pp": -4.150590052245295,
+      "alert_reason": "shift",
+      "market_id": "4329882",
+      "condition_id": "4329882",
+      "token_id": "61115085550455107197522841588697596611280045392796758443977785602594944030932",
+      "question": "Texans vs. Jaguars",
+      "link": "https://polyvictor.com/markets/4329882"
+    },
     {
       "id": "cd4df4b5-70ea-4567-81ef-549d7242e2f5",
       "ts": "2026-10-18T15:06:50+00:00",
@@ -21,24 +39,6 @@
       "token_id": "23731465618636982271474456232437862434006178325273382285042706888502737721801",
       "question": "Lyon Open, Qualification: Valentin Royer vs Clement Tabur",
       "link": "https://polyvictor.com/markets/5843216"
-    },
-    {
-      "id": "ea0ce0cd-a3a1-4a49-93ae-366b342b07c7",
-      "ts": "2026-10-18T14:38:37+00:00",
-      "address": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
-      "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.65,
-      "shares": 613956.23,
-      "usd_value": 399071.5495,
-      "price_shift_pp": 4.875000070292401e-7,
-      "alert_reason": "size",
-      "market_id": "5311940",
-      "condition_id": "5311940",
-      "token_id": "73245421796922750466829041889725203633090129283314240032365966286987444361172",
-      "question": "Will Arsenal FC win on 2026-10-18?",
-      "link": "https://polyvictor.com/markets/5311940"
     }
   ]
 }
