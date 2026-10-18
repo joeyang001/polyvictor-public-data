@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-18T13:40:01.824Z",
+  "generated_at": "2026-10-18T14:34:08.854Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "fa821afb-75df-409e-aad1-aeadcb777d57",
-      "ts": "2026-10-18T13:39:10+00:00",
-      "address": "0xcfe8f6cc8ff9cb68985b7af650ef6dbe9a373a6c",
+      "id": "c9b50c53-bba6-4faa-a904-1e57e57e0c45",
+      "ts": "2026-10-18T14:33:32+00:00",
+      "address": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
       "side": "sell",
       "outcome_index": 0,
-      "outcome_label": "Joao Domingues",
-      "price": 0.99,
-      "shares": 313747.99,
-      "usd_value": 310610.5101,
+      "outcome_label": "Yes",
+      "price": 0.999,
+      "shares": 3032338.55,
+      "usd_value": 3029306.21145,
       "price_shift_pp": 0,
       "alert_reason": "size",
-      "market_id": "5843443",
-      "condition_id": "5843443",
-      "token_id": "55007876317055303478843725386067929734074438045433320524044059723571997608496",
-      "question": "Lisbon: Joao Domingues vs Ivan Gakhov",
-      "link": "https://polyvictor.com/markets/5843443"
+      "market_id": "5311859",
+      "condition_id": "5311859",
+      "token_id": "84518819913964152527507553069384722562110220338873347628048170033408286829113",
+      "question": "Will Brighton & Hove Albion FC win on 2026-10-18?",
+      "link": "https://polyvictor.com/markets/5311859"
     }
   ]
 }
