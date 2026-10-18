@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-17T19:20:30.176Z",
+  "generated_at": "2026-10-18T00:30:04.633Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "a1839880-afd9-4eac-b01d-2f4233cbf43f",
-      "ts": "2026-10-17T19:18:35+00:00",
-      "address": "0xa2a78bb796f56b1b174b29eff72af4f0c558627b",
+      "id": "6c2665f7-3c02-43c2-9974-21bf38e6b1da",
+      "ts": "2026-10-18T00:28:25+00:00",
+      "address": "0x7e3a1f95c558f39a51ff334d789e3e039b553246",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.5608429155860405,
-      "shares": 51551.9,
-      "usd_value": 28912.517900000003,
-      "price_shift_pp": -4.132743604783762,
+      "outcome_label": "Notre Dame",
+      "price": 0.73,
+      "shares": 40953.9,
+      "usd_value": 29896.347,
+      "price_shift_pp": 4.962566844919792,
       "alert_reason": "shift",
-      "market_id": "5258769",
-      "condition_id": "5258769",
-      "token_id": "114618711846482181620271744378897526265040397337089968590694307677108742674078",
-      "question": "Will AS Roma win on 2026-10-17?",
-      "link": "https://polyvictor.com/markets/5258769"
+      "market_id": "5354636",
+      "condition_id": "5354636",
+      "token_id": "97150916226459082220274815563228592437178668778433046462776389252623068079787",
+      "question": "Notre Dame vs. BYU",
+      "link": "https://polyvictor.com/markets/5354636"
     }
   ]
 }
