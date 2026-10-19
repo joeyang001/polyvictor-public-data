@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-10-18",
-  "generated_at": "2026-10-18T14:00:07.556Z",
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T14:00:07.553Z",
   "status": "success",
   "tweet_ids": [
-    "2111819616984957244",
-    "2111819618096443774"
+    "2112182004686922167",
+    "2112182005882339841"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 575,
-    "total_volume_usd": 27896226.901428998,
-    "unique_whales": 162,
-    "buy_volume_usd": 23462790.083519008,
-    "sell_volume_usd": 4433436.817910001,
+    "total_fills": 729,
+    "total_volume_usd": 59373880.603680044,
+    "unique_whales": 176,
+    "buy_volume_usd": 38809568.33302003,
+    "sell_volume_usd": 20564312.270659994,
     "top_markets": [
+      {
+        "market_id": "5311940",
+        "question": "Will Arsenal FC win on 2026-10-18?",
+        "volume_usd": 18384659.824489996,
+        "fills": 67,
+        "link": "https://polyvictor.com/markets/5311940"
+      },
       {
         "market_id": "5311859",
         "question": "Will Brighton & Hove Albion FC win on 2026-10-18?",
-        "volume_usd": 2289406.9628000003,
-        "fills": 15,
+        "volume_usd": 9131553.405839998,
+        "fills": 16,
         "link": "https://polyvictor.com/markets/5311859"
       },
       {
-        "market_id": "5787759",
-        "question": "Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs",
-        "volume_usd": 1474615.1307660004,
-        "fills": 32,
-        "link": "https://polyvictor.com/markets/5787759"
-      },
-      {
-        "market_id": "5354636",
-        "question": "Notre Dame vs. BYU",
-        "volume_usd": 1319217.4739000003,
-        "fills": 23,
-        "link": "https://polyvictor.com/markets/5354636"
+        "market_id": "4329890",
+        "question": "Cardinals vs. Rams",
+        "volume_usd": 2149017.1331800004,
+        "fills": 36,
+        "link": "https://polyvictor.com/markets/4329890"
       }
     ],
     "top_whales": [
       {
         "address": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
-        "volume_usd": 2061582.5498999998,
-        "fills": 11,
+        "volume_usd": 21310270.161889,
+        "fills": 25,
         "link": "https://polyvictor.com/whales/0xcdcccd0f2d86e450d973da415ad2430e5cc7935a"
       },
       {
-        "address": "0xee15aebd75faa8486bd803bc31c874d8a88a112c",
-        "volume_usd": 1601312.1037899998,
-        "fills": 16,
-        "link": "https://polyvictor.com/whales/0xee15aebd75faa8486bd803bc31c874d8a88a112c"
+        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+        "volume_usd": 3712105.405481,
+        "fills": 33,
+        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
       },
       {
-        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 1427565.30989,
-        "fills": 28,
-        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
+        "address": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+        "volume_usd": 3275441.4381399998,
+        "fills": 34,
+        "link": "https://polyvictor.com/whales/0xf0318c32136c2db7fec88b84869aee6a1106c80c"
       }
     ],
     "biggest_fill": {
       "address": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
-      "usd": 440172.11,
-      "side": "buy",
-      "price": 0.7,
-      "market_id": "5311859",
-      "question": "Will Brighton & Hove Albion FC win on 2026-10-18?",
-      "link": "https://polyvictor.com/markets/5311859"
+      "usd": 4615380,
+      "side": "sell",
+      "price": 0.999,
+      "market_id": "5311940",
+      "question": "Will Arsenal FC win on 2026-10-18?",
+      "link": "https://polyvictor.com/markets/5311940"
     }
   }
 }
