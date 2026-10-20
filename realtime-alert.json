@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-20T03:00:05.214Z",
+  "generated_at": "2026-10-20T06:46:00.948Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "fd447b0c-af5c-42e4-a5ed-e14101218002",
-      "ts": "2026-10-20T02:58:12+00:00",
-      "address": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+      "id": "5347663c-66a5-413b-8f09-ac8bbe1e82f0",
+      "ts": "2026-10-20T06:45:37+00:00",
+      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
       "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "49ers",
-      "price": 0.6586000722568657,
-      "shares": 44258.77,
-      "usd_value": 29148.82912,
-      "price_shift_pp": -3.021786097772472,
-      "alert_reason": "shift",
-      "market_id": "4362230",
-      "condition_id": "4362230",
-      "token_id": "72606408478996886782196258516088112597394181689680572649949325086679293474154",
-      "question": "Commanders vs. 49ers",
-      "link": "https://polyvictor.com/markets/4362230"
+      "outcome_label": "No",
+      "price": 0.6,
+      "shares": 724172.43,
+      "usd_value": 434503.45800000004,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "5409680",
+      "condition_id": "5409680",
+      "token_id": "35772838963935585792839997134197060501925727691916538220111436124788169722819",
+      "question": "Will FC Barcelona win on 2026-10-20?",
+      "link": "https://polyvictor.com/markets/5409680"
     }
   ]
 }
