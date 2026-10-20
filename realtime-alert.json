@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-20T06:46:00.948Z",
+  "generated_at": "2026-10-20T13:28:01.833Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "5347663c-66a5-413b-8f09-ac8bbe1e82f0",
-      "ts": "2026-10-20T06:45:37+00:00",
-      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+      "id": "48cb46b2-45e1-4749-9292-0c53ea931455",
+      "ts": "2026-10-20T13:26:25+00:00",
+      "address": "0xe7870d0e1bfc65a23e3d66caf00ca1b9129e5034",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "No",
-      "price": 0.6,
-      "shares": 724172.43,
-      "usd_value": 434503.45800000004,
-      "price_shift_pp": 0,
-      "alert_reason": "size",
-      "market_id": "5409680",
-      "condition_id": "5409680",
-      "token_id": "35772838963935585792839997134197060501925727691916538220111436124788169722819",
-      "question": "Will FC Barcelona win on 2026-10-20?",
-      "link": "https://polyvictor.com/markets/5409680"
+      "outcome_index": 0,
+      "outcome_label": "Arthur Fery",
+      "price": 0.3438149458547918,
+      "shares": 76069.52,
+      "usd_value": 26153.837900000002,
+      "price_shift_pp": -3.618505414520823,
+      "alert_reason": "shift",
+      "market_id": "5931572",
+      "condition_id": "5931572",
+      "token_id": "72696974390417508260142680339126217479941478411417610334549326950862400903795",
+      "question": "Lyon Open: Arthur Fery vs Borna Gojo",
+      "link": "https://polyvictor.com/markets/5931572"
     }
   ]
 }
