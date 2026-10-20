@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-19T18:10:06.357Z",
+  "generated_at": "2026-10-20T03:00:05.214Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "36e660fd-5453-4336-baed-f05ca979f89c",
-      "ts": "2026-10-19T18:09:47+00:00",
-      "address": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+      "id": "fd447b0c-af5c-42e4-a5ed-e14101218002",
+      "ts": "2026-10-20T02:58:12+00:00",
+      "address": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "YES",
-      "price": 0.999,
-      "shares": 49999.989,
-      "usd_value": 49949.989011,
-      "price_shift_pp": 54.89999999999999,
+      "outcome_index": 1,
+      "outcome_label": "49ers",
+      "price": 0.6586000722568657,
+      "shares": 44258.77,
+      "usd_value": 29148.82912,
+      "price_shift_pp": -3.021786097772472,
       "alert_reason": "shift",
-      "market_id": null,
-      "condition_id": "",
-      "token_id": "17722484392005556312087815536438183440348357534123649276119770263912547602006",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
+      "market_id": "4362230",
+      "condition_id": "4362230",
+      "token_id": "72606408478996886782196258516088112597394181689680572649949325086679293474154",
+      "question": "Commanders vs. 49ers",
+      "link": "https://polyvictor.com/markets/4362230"
     }
   ]
 }
