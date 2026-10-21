@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-10-20",
-  "generated_at": "2026-10-20T14:00:07.042Z",
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T14:00:06.573Z",
   "status": "success",
   "tweet_ids": [
-    "2112544390308630876",
-    "2112544391524958263"
+    "2112906775649247478",
+    "2112906777238908939"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 213,
-    "total_volume_usd": 10493202.052830001,
-    "unique_whales": 89,
-    "buy_volume_usd": 8321950.547972001,
-    "sell_volume_usd": 2171251.504858,
+    "total_fills": 377,
+    "total_volume_usd": 15029678.788094992,
+    "unique_whales": 138,
+    "buy_volume_usd": 12896249.062185995,
+    "sell_volume_usd": 2133429.725909,
     "top_markets": [
       {
-        "market_id": "4362230",
-        "question": "Commanders vs. 49ers",
-        "volume_usd": 2433337.392999999,
-        "fills": 31,
-        "link": "https://polyvictor.com/markets/4362230"
+        "market_id": "5676021",
+        "question": "76ers vs. Knicks",
+        "volume_usd": 2165305.54718,
+        "fills": 58,
+        "link": "https://polyvictor.com/markets/5676021"
       },
       {
-        "market_id": "5409680",
-        "question": "Will FC Barcelona win on 2026-10-20?",
-        "volume_usd": 917696.98516,
-        "fills": 3,
-        "link": "https://polyvictor.com/markets/5409680"
+        "market_id": "5680507",
+        "question": "Thunder vs. Spurs",
+        "volume_usd": 1160970.27474,
+        "fills": 27,
+        "link": "https://polyvictor.com/markets/5680507"
       },
       {
-        "market_id": "5481970",
-        "question": "Atlanta Dream vs. Golden State Valkyries",
-        "volume_usd": 421081.35656,
-        "fills": 7,
-        "link": "https://polyvictor.com/markets/5481970"
+        "market_id": "5410011",
+        "question": "Paris Saint-Germain FC vs. FC Barcelona: O/U 4.5",
+        "volume_usd": 1037621.6982699999,
+        "fills": 24,
+        "link": "https://polyvictor.com/markets/5410011"
       }
     ],
     "top_whales": [
       {
-        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 1130363.54476,
+        "address": "0xe221be3b45dfe5ed562ee9dc16f47205728e06f6",
+        "volume_usd": 783930.06973,
+        "fills": 14,
+        "link": "https://polyvictor.com/whales/0xe221be3b45dfe5ed562ee9dc16f47205728e06f6"
+      },
+      {
+        "address": "0x0f6f76ced62a911bccef92f50faaff143854d977",
+        "volume_usd": 709437.6075800001,
         "fills": 9,
+        "link": "https://polyvictor.com/whales/0x0f6f76ced62a911bccef92f50faaff143854d977"
+      },
+      {
+        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+        "volume_usd": 667250.6795300001,
+        "fills": 12,
         "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
-      },
-      {
-        "address": "0xf4c95b636c71243531dfc82a97565a94c106f88c",
-        "volume_usd": 1123657.4950400002,
-        "fills": 10,
-        "link": "https://polyvictor.com/whales/0xf4c95b636c71243531dfc82a97565a94c106f88c"
-      },
-      {
-        "address": "0x3c3ac5fb217e2aee15e00198f4c47f6bb29c8b5f",
-        "volume_usd": 730240.2098000001,
-        "fills": 16,
-        "link": "https://polyvictor.com/whales/0x3c3ac5fb217e2aee15e00198f4c47f6bb29c8b5f"
       }
     ],
     "biggest_fill": {
-      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-      "usd": 443193.52716,
+      "address": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+      "usd": 235184.1908,
       "side": "buy",
-      "price": 0.6,
-      "market_id": "5409680",
-      "question": "Will FC Barcelona win on 2026-10-20?",
-      "link": "https://polyvictor.com/markets/5409680"
+      "price": 0.62,
+      "market_id": "5676021",
+      "question": "76ers vs. Knicks",
+      "link": "https://polyvictor.com/markets/5676021"
     }
   }
 }
