@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-22T21:52:01.629Z",
+  "generated_at": "2026-10-22T22:48:01.305Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "d163983e-ddab-400c-ae71-58a7618d2a1b",
-      "ts": "2026-10-22T21:50:40+00:00",
-      "address": "0xce937f66d91dc6fd78e2b0e405f703a7d208ab2c",
-      "side": "sell",
+      "id": "74b76f4b-2361-4ca4-bc44-cd9d17c6bc37",
+      "ts": "2026-10-22T22:46:04+00:00",
+      "address": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+      "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.999,
-      "shares": 302964.49,
-      "usd_value": 302661.52551,
+      "outcome_label": "Cavaliers",
+      "price": 0.45,
+      "shares": 863760.47,
+      "usd_value": 388692.2115,
       "price_shift_pp": 0,
       "alert_reason": "size",
-      "market_id": "5470505",
-      "condition_id": "5470505",
-      "token_id": "88552865142495348654012307262116260900120015235199362514499060163831241695279",
-      "question": "Will AFC Bournemouth win on 2026-10-22?",
-      "link": "https://polyvictor.com/markets/5470505"
+      "market_id": "5765055",
+      "condition_id": "5765055",
+      "token_id": "68906769519502637492115594002417079303175599749654495063253171949172492456742",
+      "question": "Cavaliers vs. 76ers",
+      "link": "https://polyvictor.com/markets/5765055"
     }
   ]
 }
