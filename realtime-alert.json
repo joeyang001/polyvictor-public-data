@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-22T22:48:01.305Z",
+  "generated_at": "2026-10-22T23:02:07.690Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "f94e871e-1866-4994-9241-370126ddc1f0",
+      "ts": "2026-10-22T23:00:31+00:00",
+      "address": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "76ers",
+      "price": 0.56,
+      "shares": 550000,
+      "usd_value": 308000.00000000006,
+      "price_shift_pp": 0.0000014933332903588337,
+      "alert_reason": "size",
+      "market_id": "5765055",
+      "condition_id": "5765055",
+      "token_id": "47143820649775261285769273208479791595125922415563427079836497537360222080484",
+      "question": "Cavaliers vs. 76ers",
+      "link": "https://polyvictor.com/markets/5765055"
+    },
     {
       "id": "74b76f4b-2361-4ca4-bc44-cd9d17c6bc37",
       "ts": "2026-10-22T22:46:04+00:00",
