@@ -1,26 +1,44 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-22T20:24:08.815Z",
+  "generated_at": "2026-10-22T20:38:01.308Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "7f015dcc-58b5-49f4-9d9f-c65262e2d862",
+      "ts": "2026-10-22T20:36:17+00:00",
+      "address": "0x8e460e67eb35f8bc6cca413dfa6693c8a25c6c24",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "YES",
+      "price": 0.82,
+      "shares": 50000,
+      "usd_value": 41000,
+      "price_shift_pp": 13,
+      "alert_reason": "shift",
+      "market_id": null,
+      "condition_id": "0xd8fe835fd6ddd2d25a5adf8403f1de5e7e931656d61d0d9a1d482550a27d8a8e",
+      "token_id": "71406332231519353534770804437675368814342630983792774539716371882792162959105",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
+    },
     {
       "id": "06b93f99-15d9-4d79-a217-c8d669546ad9",
       "ts": "2026-10-22T20:23:43+00:00",
       "address": "0xf2e078fe373abe771dd4b5d33f79489fa7e277f0",
       "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "NO",
+      "outcome_label": "Enzo Aguiard",
       "price": 0.85,
       "shares": 70000,
       "usd_value": 59500,
       "price_shift_pp": 3.1000000000000028,
       "alert_reason": "shift",
-      "market_id": null,
+      "market_id": "6005229",
       "condition_id": "0xe5c1c31e389293e34803e69003e378fcb2437259b8c1e02a76c8925d2fddc862",
       "token_id": "9777393554919115510175100825659886347995965754655851549088005510976817533647",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
+      "question": "M25 Tamworth: Sam Ryan Ziegann vs Enzo Aguiard",
+      "link": "https://polyvictor.com/markets/6005229"
     }
   ]
 }
