@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-22T18:30:03.030Z",
+  "generated_at": "2026-10-22T20:24:08.815Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "39f96c2e-aaed-4633-b408-484cd73630aa",
-      "ts": "2026-10-22T18:29:43+00:00",
-      "address": "0x5a56fe0468618bbd44e0f278c080db59b30610f5",
+      "id": "06b93f99-15d9-4d79-a217-c8d669546ad9",
+      "ts": "2026-10-22T20:23:43+00:00",
+      "address": "0xf2e078fe373abe771dd4b5d33f79489fa7e277f0",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "PARIVISION",
-      "price": 0.955227165813043,
-      "shares": 26616.7053,
-      "usd_value": 25424.999967000003,
-      "price_shift_pp": 23.522716581304305,
+      "outcome_index": 1,
+      "outcome_label": "NO",
+      "price": 0.85,
+      "shares": 70000,
+      "usd_value": 59500,
+      "price_shift_pp": 3.1000000000000028,
       "alert_reason": "shift",
-      "market_id": "5798637",
-      "condition_id": "5798637",
-      "token_id": "26451627734762663237265995233747098614204808063467743314568400970750208150638",
-      "question": "Dota 2: PARIVISION vs Astra Invicta - Game 1 Winner",
-      "link": "https://polyvictor.com/markets/5798637"
+      "market_id": null,
+      "condition_id": "0xe5c1c31e389293e34803e69003e378fcb2437259b8c1e02a76c8925d2fddc862",
+      "token_id": "9777393554919115510175100825659886347995965754655851549088005510976817533647",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
