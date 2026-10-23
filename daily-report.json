@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-10-22",
-  "generated_at": "2026-10-22T14:00:09.344Z",
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T14:00:06.290Z",
   "status": "success",
   "tweet_ids": [
-    "2113269168489287938",
-    "2113269169789587667"
+    "2113631550730273271",
+    "2113631551955079539"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 450,
-    "total_volume_usd": 19976430.845123988,
-    "unique_whales": 147,
-    "buy_volume_usd": 17091451.113985002,
-    "sell_volume_usd": 2884979.731138999,
+    "total_fills": 424,
+    "total_volume_usd": 20911396.25263397,
+    "unique_whales": 136,
+    "buy_volume_usd": 17301635.285018995,
+    "sell_volume_usd": 3609760.967614999,
     "top_markets": [
       {
-        "market_id": "5716444",
-        "question": "Hornets vs. Nets",
-        "volume_usd": 1056161.7812,
-        "fills": 8,
-        "link": "https://polyvictor.com/markets/5716444"
+        "market_id": "5765055",
+        "question": "Cavaliers vs. 76ers",
+        "volume_usd": 2876844.398332,
+        "fills": 35,
+        "link": "https://polyvictor.com/markets/5765055"
       },
       {
-        "market_id": "1339767",
-        "question": "Will Bitcoin dip to $50,000 by December 31, 2026?",
-        "volume_usd": 961856.05121,
-        "fills": 9,
-        "link": "https://polyvictor.com/markets/1339767"
+        "market_id": "4465810",
+        "question": "Patriots vs. Bears",
+        "volume_usd": 1775821.8152599998,
+        "fills": 33,
+        "link": "https://polyvictor.com/markets/4465810"
       },
       {
-        "market_id": "5716421",
-        "question": "Bucks vs. Wizards",
-        "volume_usd": 879722.4834,
-        "fills": 14,
-        "link": "https://polyvictor.com/markets/5716421"
+        "market_id": "5769220",
+        "question": "Nuggets vs. Thunder",
+        "volume_usd": 876333.801105,
+        "fills": 18,
+        "link": "https://polyvictor.com/markets/5769220"
       }
     ],
     "top_whales": [
       {
-        "address": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
-        "volume_usd": 3088389.2579,
-        "fills": 35,
-        "link": "https://polyvictor.com/whales/0xe9b710551dd82a44e79203c2394a2b10163ace7b"
+        "address": "0x34a1eed3f6bb10dd2f99b79cb4e8ca8749ae7622",
+        "volume_usd": 1917618.24479,
+        "fills": 21,
+        "link": "https://polyvictor.com/whales/0x34a1eed3f6bb10dd2f99b79cb4e8ca8749ae7622"
       },
       {
-        "address": "0x3c3ac5fb217e2aee15e00198f4c47f6bb29c8b5f",
-        "volume_usd": 869538.1951479999,
-        "fills": 12,
-        "link": "https://polyvictor.com/whales/0x3c3ac5fb217e2aee15e00198f4c47f6bb29c8b5f"
+        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+        "volume_usd": 1470165.045159,
+        "fills": 22,
+        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
       },
       {
-        "address": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
-        "volume_usd": 671040.263,
-        "fills": 11,
-        "link": "https://polyvictor.com/whales/0xf0318c32136c2db7fec88b84869aee6a1106c80c"
+        "address": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+        "volume_usd": 903199.1188,
+        "fills": 6,
+        "link": "https://polyvictor.com/whales/0x57a85952044f2c8e4d31b475aab6987d2f98ebc2"
       }
     ],
     "biggest_fill": {
-      "address": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
-      "usd": 342919.6988,
+      "address": "0xfea31bc088000ff909be1dfd8d0e3f2c7ef2d227",
+      "usd": 758663.5468,
       "side": "buy",
-      "price": 0.49,
-      "market_id": "5716444",
-      "question": "Hornets vs. Nets",
-      "link": "https://polyvictor.com/markets/5716444"
+      "price": 0.92,
+      "market_id": "562831",
+      "question": "2026 Balance of Power: R Senate, R House",
+      "link": "https://polyvictor.com/markets/562831"
     }
   }
 }
