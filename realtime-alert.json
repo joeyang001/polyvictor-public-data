@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-23T03:38:01.383Z",
+  "generated_at": "2026-10-23T18:16:01.527Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "33c46bc7-4e94-4f82-8ccf-6881a6ec4808",
-      "ts": "2026-10-23T03:37:24+00:00",
-      "address": "0x6db568e61e5e3de7d87f831431b673f38ce2e279",
+      "id": "e8b5366f-3d0b-45ee-84c8-8c841cc95609",
+      "ts": "2026-10-23T18:15:44+00:00",
+      "address": "0x8ccedcdd40c9623a524c2e734879fc397b865c11",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Thunder",
-      "price": 0.8099859255553669,
-      "shares": 32683.35,
-      "usd_value": 26473.053499999998,
-      "price_shift_pp": 4.998592673978242,
+      "outcome_index": 0,
+      "outcome_label": "YES",
+      "price": 0.8132722942289055,
+      "shares": 37829.479888,
+      "usd_value": 30765.667898,
+      "price_shift_pp": 9.53366951220691,
       "alert_reason": "shift",
-      "market_id": "5769220",
-      "condition_id": "5769220",
-      "token_id": "52898197304639065929688835307438257833274847719041090648265206305738082841527",
-      "question": "Nuggets vs. Thunder",
-      "link": "https://polyvictor.com/markets/5769220"
+      "market_id": null,
+      "condition_id": "",
+      "token_id": "11364561559918277710656374954156132038589839884471049509343301788522471824435",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
