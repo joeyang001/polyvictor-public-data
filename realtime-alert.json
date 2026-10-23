@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-23T18:16:01.527Z",
+  "generated_at": "2026-10-23T20:20:02.118Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "e8b5366f-3d0b-45ee-84c8-8c841cc95609",
-      "ts": "2026-10-23T18:15:44+00:00",
-      "address": "0x8ccedcdd40c9623a524c2e734879fc397b865c11",
+      "id": "b3435c12-b127-4a79-80f2-b42d777b348f",
+      "ts": "2026-10-23T20:18:53+00:00",
+      "address": "0x285faa3e3d1465cf3ff1bff1e1d14891f5b8495f",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "YES",
-      "price": 0.8132722942289055,
-      "shares": 37829.479888,
-      "usd_value": 30765.667898,
-      "price_shift_pp": 9.53366951220691,
+      "outcome_index": 1,
+      "outcome_label": "Under",
+      "price": 0.44,
+      "shares": 86774.64,
+      "usd_value": 38180.8416,
+      "price_shift_pp": -3.9999983814542173,
       "alert_reason": "shift",
-      "market_id": null,
-      "condition_id": "",
-      "token_id": "11364561559918277710656374954156132038589839884471049509343301788522471824435",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
+      "market_id": "6036722",
+      "condition_id": "6036722",
+      "token_id": "89791950231542136094596288804059329039356379018934601881120431925215257860408",
+      "question": "Bulls vs. Bucks: O/U 236.5",
+      "link": "https://polyvictor.com/markets/6036722"
     }
   ]
 }
