@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-23T00:36:01.105Z",
+  "generated_at": "2026-10-23T02:26:01.081Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "c9b43cb1-fc01-44e7-b898-2aa3e58431b8",
-      "ts": "2026-10-23T00:35:20+00:00",
-      "address": "0xf72f81c7449f1c87f7131aaebeed13bcaf75a115",
+      "id": "14d9684b-64d9-46cd-88d2-82d634de10c5",
+      "ts": "2026-10-23T02:25:41+00:00",
+      "address": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Cavaliers",
-      "price": 0.8999573006086304,
-      "shares": 493166.28,
-      "usd_value": 443828.59410000005,
-      "price_shift_pp": 0.9957300608630426,
-      "alert_reason": "size",
-      "market_id": "5765055",
-      "condition_id": "5765055",
-      "token_id": "68906769519502637492115594002417079303175599749654495063253171949172492456742",
-      "question": "Cavaliers vs. 76ers",
-      "link": "https://polyvictor.com/markets/5765055"
+      "outcome_index": 1,
+      "outcome_label": "Bears",
+      "price": 0.73,
+      "shares": 42675.29,
+      "usd_value": 31152.9617,
+      "price_shift_pp": -3.9999994669230765,
+      "alert_reason": "shift",
+      "market_id": "4465810",
+      "condition_id": "4465810",
+      "token_id": "98455634397831700132935577320611350585110802128203461948662184473105090001848",
+      "question": "Patriots vs. Bears",
+      "link": "https://polyvictor.com/markets/4465810"
     }
   ]
 }
