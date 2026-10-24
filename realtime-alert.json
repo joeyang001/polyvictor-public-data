@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-24T19:38:01.172Z",
+  "generated_at": "2026-10-24T21:44:08.680Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "a15ea104-4b78-4f7d-9e11-366ecbd47cf3",
-      "ts": "2026-10-24T19:37:52+00:00",
-      "address": "0x88a6c8e00c4752a8c70d24025fa781fa046a7e77",
-      "side": "sell",
-      "outcome_index": 0,
-      "outcome_label": "LSU",
-      "price": 0.999,
-      "shares": 399727.63,
-      "usd_value": 399327.90237,
-      "price_shift_pp": 0,
+      "id": "3cc4ab60-7478-4c19-860d-f135bfc22eef",
+      "ts": "2026-10-24T21:43:24+00:00",
+      "address": "0xf28e42d20e4826f2b10a24bc952001697947cab2",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "NO",
+      "price": 0.71,
+      "shares": 362008.73,
+      "usd_value": 257026.19829999996,
+      "price_shift_pp": 0.05643835616437887,
       "alert_reason": "size",
-      "market_id": "5616780",
-      "condition_id": "5616780",
-      "token_id": "115647137279960848533040208193549908886215823077541181892629191127119683578344",
-      "question": "LSU vs. Auburn",
-      "link": "https://polyvictor.com/markets/5616780"
+      "market_id": null,
+      "condition_id": "0x6ad17b1df348defae614e24381f6e53e98c8ae092c029a120bf0ce71b7658383",
+      "token_id": "65967510606545756529939887711606134208618743754863167962445887031138952137995",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
