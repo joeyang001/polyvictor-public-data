@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-24T17:10:05.255Z",
+  "generated_at": "2026-10-24T19:38:01.172Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "f603f5b6-5005-4150-9cef-2c6052644f51",
-      "ts": "2026-10-24T17:08:52+00:00",
-      "address": "0x76a60771bba09e516812228818f7cb5e1d77b1f1",
-      "side": "buy",
+      "id": "a15ea104-4b78-4f7d-9e11-366ecbd47cf3",
+      "ts": "2026-10-24T19:37:52+00:00",
+      "address": "0x88a6c8e00c4752a8c70d24025fa781fa046a7e77",
+      "side": "sell",
       "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.7630502344854377,
-      "shares": 34221.4215,
-      "usd_value": 26112.663699999997,
-      "price_shift_pp": 6.305024214408094,
-      "alert_reason": "shift",
-      "market_id": "4824600",
-      "condition_id": "4824600",
-      "token_id": "40220000390489237442666590685171156363211017606636287738930798027342360240862",
-      "question": "Will Aleksandar Vučić – United Serbia win the most seats in the 2026 Serbian parliamentary election?",
-      "link": "https://polyvictor.com/markets/4824600"
+      "outcome_label": "LSU",
+      "price": 0.999,
+      "shares": 399727.63,
+      "usd_value": 399327.90237,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "5616780",
+      "condition_id": "5616780",
+      "token_id": "115647137279960848533040208193549908886215823077541181892629191127119683578344",
+      "question": "LSU vs. Auburn",
+      "link": "https://polyvictor.com/markets/5616780"
     }
   ]
 }
