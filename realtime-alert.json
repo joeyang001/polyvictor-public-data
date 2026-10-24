@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-24T23:04:01.477Z",
+  "generated_at": "2026-10-24T23:16:01.471Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "32e00697-1aec-4278-9eef-bc3fb882683e",
+      "ts": "2026-10-24T23:14:23+00:00",
+      "address": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "Bucks",
+      "price": 0.4994123911651233,
+      "shares": 618846.89,
+      "usd_value": 309059.80510000006,
+      "price_shift_pp": 0.9412391520711105,
+      "alert_reason": "size",
+      "market_id": "6103679",
+      "condition_id": "6103679",
+      "token_id": "91479430532746599086927991518574896264029178764098944112121777860450693866257",
+      "question": "Spread: 76ers (-12.5)",
+      "link": "https://polyvictor.com/markets/6103679"
+    },
     {
       "id": "ae15b01d-93c0-4509-9fbe-65d9518496cd",
       "ts": "2026-10-24T23:02:41+00:00",
