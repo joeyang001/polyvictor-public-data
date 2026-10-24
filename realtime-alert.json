@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-24T13:40:02.055Z",
+  "generated_at": "2026-10-24T13:52:01.281Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "24d02da3-9571-4a51-9bc5-91780a6e2d92",
+      "ts": "2026-10-24T13:50:55+00:00",
+      "address": "0x0f6f76ced62a911bccef92f50faaff143854d977",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.72,
+      "shares": 600000,
+      "usd_value": 432000,
+      "price_shift_pp": 3.455999930679354e-8,
+      "alert_reason": "size",
+      "market_id": "5534122",
+      "condition_id": "5534122",
+      "token_id": "114460869056021695126097471762228510096841940195417663873021964330022095891387",
+      "question": "Will Arsenal FC win on 2026-10-24?",
+      "link": "https://polyvictor.com/markets/5534122"
+    },
     {
       "id": "a001189c-4b66-4c63-b023-48b33cc9add6",
       "ts": "2026-10-24T13:38:28+00:00",
