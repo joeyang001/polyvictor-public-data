@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-23T23:06:01.046Z",
+  "generated_at": "2026-10-24T04:24:01.469Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "bc388e8a-c791-4ce2-9001-3afe344e81c4",
-      "ts": "2026-10-23T23:05:50+00:00",
-      "address": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+      "id": "14ae4bcf-4c65-400e-9879-c99495ce687e",
+      "ts": "2026-10-24T04:23:46+00:00",
+      "address": "0x753c24c5ba1999da98bd52df5c3497851a0b2f87",
       "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "Celtics",
-      "price": 0.5899145872285602,
-      "shares": 475517.88,
-      "usd_value": 280514.9339,
-      "price_shift_pp": 0.9914591288560315,
-      "alert_reason": "size",
-      "market_id": "5792063",
-      "condition_id": "5792063",
-      "token_id": "107758587644216920950409465217149197418727770617491891025656182794680710936028",
-      "question": "Knicks vs. Celtics",
-      "link": "https://polyvictor.com/markets/5792063"
+      "outcome_label": "Warriors",
+      "price": 0.9774423649990661,
+      "shares": 53734.6005,
+      "usd_value": 52522.474995000004,
+      "price_shift_pp": 7.744236499906609,
+      "alert_reason": "shift",
+      "market_id": "5797986",
+      "condition_id": "5797986",
+      "token_id": "50874862599182872803317254126145856799849577403881919537690980776041710979534",
+      "question": "Grizzlies vs. Warriors",
+      "link": "https://polyvictor.com/markets/5797986"
     }
   ]
 }
