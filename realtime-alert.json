@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-24T23:18:01.327Z",
+  "generated_at": "2026-10-24T23:44:01.502Z",
   "window_minutes": 30,
   "count": 3,
   "alerts": [
+    {
+      "id": "fecb141d-6767-40d4-b59b-251f54918a40",
+      "ts": "2026-10-24T23:42:17+00:00",
+      "address": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Jenson Brooksby",
+      "price": 0.7555446960135702,
+      "shares": 43483.52,
+      "usd_value": 32853.7429,
+      "price_shift_pp": -3.445530364421623,
+      "alert_reason": "shift",
+      "market_id": "6108173",
+      "condition_id": "6108173",
+      "token_id": "91654806167703875024166866153496484514503607001545194494263355738177365695546",
+      "question": "Fort Worth: Jenson Brooksby vs Gabriel Debru",
+      "link": "https://polyvictor.com/markets/6108173"
+    },
     {
       "id": "f05213eb-814a-4cf2-b707-b76ad381aa50",
       "ts": "2026-10-24T23:16:12+00:00",
@@ -39,24 +57,6 @@
       "token_id": "91479430532746599086927991518574896264029178764098944112121777860450693866257",
       "question": "Spread: 76ers (-12.5)",
       "link": "https://polyvictor.com/markets/6103679"
-    },
-    {
-      "id": "ae15b01d-93c0-4509-9fbe-65d9518496cd",
-      "ts": "2026-10-24T23:02:41+00:00",
-      "address": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
-      "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Bulls",
-      "price": 0.53,
-      "shares": 657873.69,
-      "usd_value": 348673.05569999997,
-      "price_shift_pp": 0.0000029581393778954634,
-      "alert_reason": "size",
-      "market_id": "5847758",
-      "condition_id": "5847758",
-      "token_id": "106662461312450344797905195613894027625751949856847998545315168130802117474561",
-      "question": "Wizards vs. Bulls",
-      "link": "https://polyvictor.com/markets/5847758"
     }
   ]
 }
