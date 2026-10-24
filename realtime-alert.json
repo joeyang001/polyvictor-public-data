@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-24T23:16:01.471Z",
+  "generated_at": "2026-10-24T23:18:01.327Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 3,
   "alerts": [
+    {
+      "id": "f05213eb-814a-4cf2-b707-b76ad381aa50",
+      "ts": "2026-10-24T23:16:12+00:00",
+      "address": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "Bulls",
+      "price": 0.54,
+      "shares": 555000,
+      "usd_value": 299700,
+      "price_shift_pp": 0.000008485712954531266,
+      "alert_reason": "size",
+      "market_id": "5847758",
+      "condition_id": "5847758",
+      "token_id": "106662461312450344797905195613894027625751949856847998545315168130802117474561",
+      "question": "Wizards vs. Bulls",
+      "link": "https://polyvictor.com/markets/5847758"
+    },
     {
       "id": "32e00697-1aec-4278-9eef-bc3fb882683e",
       "ts": "2026-10-24T23:14:23+00:00",
