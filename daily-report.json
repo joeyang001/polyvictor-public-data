@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-10-23",
-  "generated_at": "2026-10-23T14:00:06.290Z",
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T14:00:08.148Z",
   "status": "success",
   "tweet_ids": [
-    "2113631550730273271",
-    "2113631551955079539"
+    "2113993946263097511",
+    "2113993947492032967"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 424,
-    "total_volume_usd": 20911396.25263397,
-    "unique_whales": 136,
-    "buy_volume_usd": 17301635.285018995,
-    "sell_volume_usd": 3609760.967614999,
+    "total_fills": 628,
+    "total_volume_usd": 28900773.327880017,
+    "unique_whales": 166,
+    "buy_volume_usd": 24575014.136200026,
+    "sell_volume_usd": 4325759.191679999,
     "top_markets": [
       {
-        "market_id": "5765055",
-        "question": "Cavaliers vs. 76ers",
-        "volume_usd": 2876844.398332,
-        "fills": 35,
-        "link": "https://polyvictor.com/markets/5765055"
+        "market_id": "5533914",
+        "question": "Will Manchester City FC win on 2026-10-24?",
+        "volume_usd": 2252442.9278900004,
+        "fills": 28,
+        "link": "https://polyvictor.com/markets/5533914"
       },
       {
-        "market_id": "4465810",
-        "question": "Patriots vs. Bears",
-        "volume_usd": 1775821.8152599998,
-        "fills": 33,
-        "link": "https://polyvictor.com/markets/4465810"
+        "market_id": "5792063",
+        "question": "Knicks vs. Celtics",
+        "volume_usd": 1325603.4185,
+        "fills": 14,
+        "link": "https://polyvictor.com/markets/5792063"
       },
       {
-        "market_id": "5769220",
-        "question": "Nuggets vs. Thunder",
-        "volume_usd": 876333.801105,
-        "fills": 18,
-        "link": "https://polyvictor.com/markets/5769220"
+        "market_id": "5906208",
+        "question": "LoL: Anyone's Legend vs Karmine Corp (BO1) - Worlds Group Stage",
+        "volume_usd": 1158794.67167,
+        "fills": 28,
+        "link": "https://polyvictor.com/markets/5906208"
       }
     ],
     "top_whales": [
       {
-        "address": "0x34a1eed3f6bb10dd2f99b79cb4e8ca8749ae7622",
-        "volume_usd": 1917618.24479,
-        "fills": 21,
-        "link": "https://polyvictor.com/whales/0x34a1eed3f6bb10dd2f99b79cb4e8ca8749ae7622"
+        "address": "0x983eedfbd75803602e4a6e6ea9aab6dc6b9c6748",
+        "volume_usd": 2547488.72691,
+        "fills": 32,
+        "link": "https://polyvictor.com/whales/0x983eedfbd75803602e4a6e6ea9aab6dc6b9c6748"
+      },
+      {
+        "address": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+        "volume_usd": 2141390.962,
+        "fills": 16,
+        "link": "https://polyvictor.com/whales/0xe9b710551dd82a44e79203c2394a2b10163ace7b"
       },
       {
         "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 1470165.045159,
-        "fills": 22,
+        "volume_usd": 1548983.17421,
+        "fills": 32,
         "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
-      },
-      {
-        "address": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
-        "volume_usd": 903199.1188,
-        "fills": 6,
-        "link": "https://polyvictor.com/whales/0x57a85952044f2c8e4d31b475aab6987d2f98ebc2"
       }
     ],
     "biggest_fill": {
-      "address": "0xfea31bc088000ff909be1dfd8d0e3f2c7ef2d227",
-      "usd": 758663.5468,
+      "address": "0x0f6f76ced62a911bccef92f50faaff143854d977",
+      "usd": 432000,
       "side": "buy",
-      "price": 0.92,
-      "market_id": "562831",
-      "question": "2026 Balance of Power: R Senate, R House",
-      "link": "https://polyvictor.com/markets/562831"
+      "price": 0.72,
+      "market_id": "5534122",
+      "question": "Will Arsenal FC win on 2026-10-24?",
+      "link": "https://polyvictor.com/markets/5534122"
     }
   }
 }
