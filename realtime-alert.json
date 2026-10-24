@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-24T15:58:01.513Z",
+  "generated_at": "2026-10-24T16:06:01.198Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 3,
   "alerts": [
+    {
+      "id": "d3934f8f-7615-4f4b-938b-b7a262d74e07",
+      "ts": "2026-10-24T16:03:56+00:00",
+      "address": "0xcbc666209b4c17ea84c03c0dda71b5dab9e4ec62",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.49,
+      "shares": 600000,
+      "usd_value": 294000,
+      "price_shift_pp": 3.234000012231064e-7,
+      "alert_reason": "size",
+      "market_id": "5534599",
+      "condition_id": "5534599",
+      "token_id": "79870535198453873524169202963659583179039989574712770453035527100221750591619",
+      "question": "Will Chelsea FC win on 2026-10-24?",
+      "link": "https://polyvictor.com/markets/5534599"
+    },
     {
       "id": "da292c75-04d2-41f6-a130-a8ccc7593a34",
       "ts": "2026-10-24T15:57:22+00:00",
