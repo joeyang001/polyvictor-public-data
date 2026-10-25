@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-25T00:52:04.352Z",
+  "generated_at": "2026-10-25T02:08:01.299Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "44f0ae75-4575-4978-8fac-75d950116814",
-      "ts": "2026-10-25T00:51:46+00:00",
-      "address": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+      "id": "e0bf870c-142e-409e-8aa6-bd329538f640",
+      "ts": "2026-10-25T02:06:33+00:00",
+      "address": "0x9b89ef1f344d3e17b37ccdff3bccf62d04f04244",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Pelicans",
-      "price": 0.5298804975,
-      "shares": 600000,
-      "usd_value": 317928.2985,
-      "price_shift_pp": 0.9880497762954632,
-      "alert_reason": "size",
-      "market_id": "6095595",
-      "condition_id": "6095595",
-      "token_id": "11901438191119058990803754590715126916101669819621335374897588358413561834858",
-      "question": "Spread: Nuggets (-11.5)",
-      "link": "https://polyvictor.com/markets/6095595"
+      "outcome_index": 0,
+      "outcome_label": "Tampa Bay Rays",
+      "price": 0.62,
+      "shares": 59895.66,
+      "usd_value": 37135.3092,
+      "price_shift_pp": 3.0000000000000027,
+      "alert_reason": "shift",
+      "market_id": "5969237",
+      "condition_id": "5969237",
+      "token_id": "23430564805726924548467275261154711707442749163651438283881814019533352025418",
+      "question": "Tampa Bay Rays vs. Milwaukee Brewers",
+      "link": "https://polyvictor.com/markets/5969237"
     }
   ]
 }
