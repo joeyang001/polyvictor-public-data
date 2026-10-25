@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-25T17:42:32.327Z",
+  "generated_at": "2026-10-25T20:16:05.820Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "51f9a697-5fe0-4cc3-a979-984a59fc55f6",
-      "ts": "2026-10-25T17:41:28+00:00",
-      "address": "0x94a428cfa4f84b264e01f70d93d02bc96cb36356",
+      "id": "75ce28a8-ade2-40fc-8000-595e96fcac2e",
+      "ts": "2026-10-25T20:14:53+00:00",
+      "address": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.8303437072012001,
-      "shares": 37811.028092,
-      "usd_value": 31396.149239,
-      "price_shift_pp": 10.948504640829348,
-      "alert_reason": "shift",
-      "market_id": "2757891",
-      "condition_id": "2757891",
-      "token_id": "113036572395843970447593101017818963449633996776632310882541416364942207828991",
-      "question": "Will Aleksandar Vučić be the next Prime Minister of Serbia?",
-      "link": "https://polyvictor.com/markets/2757891"
+      "outcome_label": "Rams",
+      "price": 0.62,
+      "shares": 561410.22,
+      "usd_value": 348074.3364,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "4551294",
+      "condition_id": "4551294",
+      "token_id": "90635844554975619499513160555849439300671871096029809929867973058225825552081",
+      "question": "Rams vs. Raiders",
+      "link": "https://polyvictor.com/markets/4551294"
     }
   ]
 }
