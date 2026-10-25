@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-24T23:44:01.502Z",
+  "generated_at": "2026-10-25T00:02:05.977Z",
   "window_minutes": 30,
-  "count": 3,
+  "count": 2,
   "alerts": [
+    {
+      "id": "a73447dd-25aa-4aab-88bb-da00109bf5f8",
+      "ts": "2026-10-25T00:00:41+00:00",
+      "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Dplus KIA",
+      "price": 0.9894173619160653,
+      "shares": 27417.02,
+      "usd_value": 27126.875600000003,
+      "price_shift_pp": 7.94173619160653,
+      "alert_reason": "shift",
+      "market_id": "6102354",
+      "condition_id": "6102354",
+      "token_id": "73671766847733039924808986444978424765133487283741169069359765240728527044547",
+      "question": "LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage",
+      "link": "https://polyvictor.com/markets/6102354"
+    },
     {
       "id": "fecb141d-6767-40d4-b59b-251f54918a40",
       "ts": "2026-10-24T23:42:17+00:00",
@@ -21,42 +39,6 @@
       "token_id": "91654806167703875024166866153496484514503607001545194494263355738177365695546",
       "question": "Fort Worth: Jenson Brooksby vs Gabriel Debru",
       "link": "https://polyvictor.com/markets/6108173"
-    },
-    {
-      "id": "f05213eb-814a-4cf2-b707-b76ad381aa50",
-      "ts": "2026-10-24T23:16:12+00:00",
-      "address": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
-      "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Bulls",
-      "price": 0.54,
-      "shares": 555000,
-      "usd_value": 299700,
-      "price_shift_pp": 0.000008485712954531266,
-      "alert_reason": "size",
-      "market_id": "5847758",
-      "condition_id": "5847758",
-      "token_id": "106662461312450344797905195613894027625751949856847998545315168130802117474561",
-      "question": "Wizards vs. Bulls",
-      "link": "https://polyvictor.com/markets/5847758"
-    },
-    {
-      "id": "32e00697-1aec-4278-9eef-bc3fb882683e",
-      "ts": "2026-10-24T23:14:23+00:00",
-      "address": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
-      "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Bucks",
-      "price": 0.4994123911651233,
-      "shares": 618846.89,
-      "usd_value": 309059.80510000006,
-      "price_shift_pp": 0.9412391520711105,
-      "alert_reason": "size",
-      "market_id": "6103679",
-      "condition_id": "6103679",
-      "token_id": "91479430532746599086927991518574896264029178764098944112121777860450693866257",
-      "question": "Spread: 76ers (-12.5)",
-      "link": "https://polyvictor.com/markets/6103679"
     }
   ]
 }
