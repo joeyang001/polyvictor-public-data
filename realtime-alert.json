@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-25T16:48:02.779Z",
+  "generated_at": "2026-10-25T17:00:07.106Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 3,
   "alerts": [
+    {
+      "id": "11a1a2ee-f2dd-45ea-85ea-80aebe99da77",
+      "ts": "2026-10-25T16:59:37+00:00",
+      "address": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Browns",
+      "price": 0.55,
+      "shares": 530942.54,
+      "usd_value": 292018.39700000006,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "4551285",
+      "condition_id": "4551285",
+      "token_id": "4620080113344970379648706374846042350200548728927938492955991331604293181058",
+      "question": "Browns vs. Titans",
+      "link": "https://polyvictor.com/markets/4551285"
+    },
     {
       "id": "c2cc6621-d7ad-4688-bb02-460af9ae7b4c",
       "ts": "2026-10-25T16:47:38+00:00",
