@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-25T14:02:01.487Z",
+  "generated_at": "2026-10-25T15:24:16.132Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "1347fced-ed6e-4baf-ac38-284c42bf808b",
-      "ts": "2026-10-25T14:01:23+00:00",
-      "address": "0x4ad6cadefae3c28f5b2caa32a99ebba3a614464c",
+      "id": "db99fdea-31ab-43b6-8f82-8b2c1cdb162f",
+      "ts": "2026-10-25T15:23:23+00:00",
+      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
       "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "Aurora Gaming",
-      "price": 0.9469929214285714,
-      "shares": 70000,
-      "usd_value": 66289.5045,
-      "price_shift_pp": -4.10070785714286,
-      "alert_reason": "shift",
-      "market_id": "6153877",
-      "condition_id": "6153877",
-      "token_id": "61334500658524636669091215195275824769764792631268698724395072650444387318630",
-      "question": "Counter-Strike: G2 vs Aurora Gaming - Map 1 Winner",
-      "link": "https://polyvictor.com/markets/6153877"
+      "outcome_label": "No",
+      "price": 0.91,
+      "shares": 492953.22,
+      "usd_value": 448587.4302,
+      "price_shift_pp": 1.0000000000000009,
+      "alert_reason": "size",
+      "market_id": "5594092",
+      "condition_id": "5594092",
+      "token_id": "59049651617232166874854959049365137780317037681638277873595575373260916316020",
+      "question": "Will Manchester United FC vs. AFC Bournemouth end in a draw?",
+      "link": "https://polyvictor.com/markets/5594092"
     }
   ]
 }
