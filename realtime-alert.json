@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-25T02:08:01.299Z",
+  "generated_at": "2026-10-25T02:10:03.021Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "a7574eb9-838a-4c5e-af3a-54c2e36f931c",
+      "ts": "2026-10-25T02:07:59+00:00",
+      "address": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Virginia Tech",
+      "price": 0.8,
+      "shares": 47717.87,
+      "usd_value": 38174.296,
+      "price_shift_pp": 7.000001060853755,
+      "alert_reason": "shift",
+      "market_id": "5619316",
+      "condition_id": "5619316",
+      "token_id": "14768024570199317445162356079821891839888883746348975060156481164445125069942",
+      "question": "Virginia Tech vs. Clemson",
+      "link": "https://polyvictor.com/markets/5619316"
+    },
     {
       "id": "e0bf870c-142e-409e-8aa6-bd329538f640",
       "ts": "2026-10-25T02:06:33+00:00",
