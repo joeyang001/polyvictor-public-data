@@ -1,6 +1,6 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-25T02:52:08.133Z",
+  "generated_at": "2026-10-25T02:54:01.582Z",
   "window_minutes": 30,
   "count": 2,
   "alerts": [
