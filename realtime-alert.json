@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-25T09:58:01.335Z",
+  "generated_at": "2026-10-25T11:36:05.550Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "5952d571-5fa5-4958-aad6-2c8a70aac172",
-      "ts": "2026-10-25T09:57:26+00:00",
-      "address": "0x4b3dd75fbd34d3c2be88f779f19040b4e89d5a0b",
+      "id": "9ea1cc2d-a395-4f14-9b66-c9d691aab764",
+      "ts": "2026-10-25T11:35:08+00:00",
+      "address": "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "No",
-      "price": 0.8644499378524282,
-      "shares": 90848.28,
-      "usd_value": 78533.79,
-      "price_shift_pp": -4.0790701922458155,
+      "outcome_index": 0,
+      "outcome_label": "Team Liquid",
+      "price": 0.6832131966983283,
+      "shares": 40461.747713,
+      "usd_value": 27643.999999,
+      "price_shift_pp": -3.6748250308013097,
       "alert_reason": "shift",
-      "market_id": "5880782",
-      "condition_id": "5880782",
-      "token_id": "111430984856851780949621123976699816082609043131975118110678987176427687338615",
-      "question": "France declares state of emergency by December 31, 2026?",
-      "link": "https://polyvictor.com/markets/5880782"
+      "market_id": "6085321",
+      "condition_id": "6085321",
+      "token_id": "32475866054695900839989188937877783607928810741506658969919317804949933800278",
+      "question": "Dota 2: Team Liquid vs OG (BO3) - PARI Universe Group A",
+      "link": "https://polyvictor.com/markets/6085321"
     }
   ]
 }
