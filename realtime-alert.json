@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-25T02:54:01.582Z",
+  "generated_at": "2026-10-25T03:08:01.342Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 3,
   "alerts": [
+    {
+      "id": "5e0133e6-6ff2-4c36-bef1-8d671757df72",
+      "ts": "2026-10-25T03:07:54+00:00",
+      "address": "0x91e67d77b45558ce69238bf8a79e2e902b1ee9c5",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Pelicans",
+      "price": 0.8591913519268306,
+      "shares": 46682.730464,
+      "usd_value": 40109.398299,
+      "price_shift_pp": 7.8844967061946996,
+      "alert_reason": "shift",
+      "market_id": "5861655",
+      "condition_id": "5861655",
+      "token_id": "88019373116635081261519602612562000365275272142754072850429554703342139390796",
+      "question": "Pelicans vs. Nuggets",
+      "link": "https://polyvictor.com/markets/5861655"
+    },
     {
       "id": "4df2d895-0b10-4ef7-9f82-374e4bb07395",
       "ts": "2026-10-25T02:51:57+00:00",
