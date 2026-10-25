@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-25T15:24:16.132Z",
+  "generated_at": "2026-10-25T16:06:01.238Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "db99fdea-31ab-43b6-8f82-8b2c1cdb162f",
-      "ts": "2026-10-25T15:23:23+00:00",
-      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+      "id": "70031393-974b-40c5-8e00-f741e1076b96",
+      "ts": "2026-10-25T16:04:10+00:00",
+      "address": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "No",
-      "price": 0.91,
-      "shares": 492953.22,
-      "usd_value": 448587.4302,
-      "price_shift_pp": 1.0000000000000009,
+      "outcome_index": 0,
+      "outcome_label": "Browns",
+      "price": 0.55,
+      "shares": 544307.74,
+      "usd_value": 299369.25700000004,
+      "price_shift_pp": 0,
       "alert_reason": "size",
-      "market_id": "5594092",
-      "condition_id": "5594092",
-      "token_id": "59049651617232166874854959049365137780317037681638277873595575373260916316020",
-      "question": "Will Manchester United FC vs. AFC Bournemouth end in a draw?",
-      "link": "https://polyvictor.com/markets/5594092"
+      "market_id": "4551285",
+      "condition_id": "4551285",
+      "token_id": "4620080113344970379648706374846042350200548728927938492955991331604293181058",
+      "question": "Browns vs. Titans",
+      "link": "https://polyvictor.com/markets/4551285"
     }
   ]
 }
