@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-10-25",
-  "generated_at": "2026-10-25T14:00:07.380Z",
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T14:00:08.741Z",
   "status": "success",
   "tweet_ids": [
-    "2114356331083690193",
-    "2114356332300009881"
+    "2114718720152973430",
+    "2114718721369407933"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 846,
-    "total_volume_usd": 42899641.41820103,
-    "unique_whales": 202,
-    "buy_volume_usd": 37731308.821681,
-    "sell_volume_usd": 5168332.596520001,
+    "total_fills": 1000,
+    "total_volume_usd": 55699714.280805044,
+    "unique_whales": 275,
+    "buy_volume_usd": 41044074.99137097,
+    "sell_volume_usd": 14655639.289434003,
     "top_markets": [
       {
-        "market_id": "5534599",
-        "question": "Will Chelsea FC win on 2026-10-24?",
-        "volume_usd": 6126965.8203799995,
-        "fills": 50,
-        "link": "https://polyvictor.com/markets/5534599"
+        "market_id": "601819",
+        "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+        "volume_usd": 8313251.598484,
+        "fills": 123,
+        "link": "https://polyvictor.com/markets/601819"
       },
       {
-        "market_id": "5847758",
-        "question": "Wizards vs. Bulls",
-        "volume_usd": 2110463.8063999997,
-        "fills": 18,
-        "link": "https://polyvictor.com/markets/5847758"
+        "market_id": "601826",
+        "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+        "volume_usd": 5972397.993408999,
+        "fills": 112,
+        "link": "https://polyvictor.com/markets/601826"
       },
       {
-        "market_id": "6102354",
-        "question": "LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage",
-        "volume_usd": 1447383.07597,
-        "fills": 35,
-        "link": "https://polyvictor.com/markets/6102354"
+        "market_id": "4551296",
+        "question": "Chiefs vs. Seahawks",
+        "volume_usd": 3588513.4363800013,
+        "fills": 45,
+        "link": "https://polyvictor.com/markets/4551296"
       }
     ],
     "top_whales": [
       {
+        "address": "0x7c75be8139d0e333e7c8c2e17b53575ef0804d1d",
+        "volume_usd": 3965413.62075,
+        "fills": 14,
+        "link": "https://polyvictor.com/whales/0x7c75be8139d0e333e7c8c2e17b53575ef0804d1d"
+      },
+      {
+        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+        "volume_usd": 2777752.05638,
+        "fills": 29,
+        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
+      },
+      {
         "address": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
-        "volume_usd": 3558766.5669,
-        "fills": 24,
+        "volume_usd": 2586896.6899,
+        "fills": 25,
         "link": "https://polyvictor.com/whales/0xe9b710551dd82a44e79203c2394a2b10163ace7b"
-      },
-      {
-        "address": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
-        "volume_usd": 3171589.63291,
-        "fills": 20,
-        "link": "https://polyvictor.com/whales/0xcdcccd0f2d86e450d973da415ad2430e5cc7935a"
-      },
-      {
-        "address": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
-        "volume_usd": 2737615.360680001,
-        "fills": 56,
-        "link": "https://polyvictor.com/whales/0x57a85952044f2c8e4d31b475aab6987d2f98ebc2"
       }
     ],
     "biggest_fill": {
-      "address": "0x88a6c8e00c4752a8c70d24025fa781fa046a7e77",
-      "usd": 399327.90237,
+      "address": "0x7c75be8139d0e333e7c8c2e17b53575ef0804d1d",
+      "usd": 1356191.405,
       "side": "sell",
-      "price": 0.999,
-      "market_id": "5616780",
-      "question": "LSU vs. Auburn",
-      "link": "https://polyvictor.com/markets/5616780"
+      "price": 0.9935469551,
+      "market_id": "601819",
+      "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+      "link": "https://polyvictor.com/markets/601819"
     }
   }
 }
