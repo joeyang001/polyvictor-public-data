@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-26T02:56:01.307Z",
+  "generated_at": "2026-10-26T08:44:01.762Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "df556930-e14e-4847-9cfc-d816e3e85254",
-      "ts": "2026-10-26T02:55:06+00:00",
-      "address": "0xccd81fbd3395dc43a0531f8484b21c2462daf4de",
-      "side": "buy",
+      "id": "d131a52f-22b7-4acc-b6ed-74d4f074dc45",
+      "ts": "2026-10-26T08:41:59+00:00",
+      "address": "0x4b3dd75fbd34d3c2be88f779f19040b4e89d5a0b",
+      "side": "sell",
       "outcome_index": 1,
-      "outcome_label": "Seahawks",
-      "price": 0.989990663023897,
-      "shares": 354181.05,
-      "usd_value": 350635.93252000003,
-      "price_shift_pp": 0.19906630238970546,
-      "alert_reason": "size",
-      "market_id": "4551296",
-      "condition_id": "4551296",
-      "token_id": "93995507154001427575574582811896861027002638929981177760560576954856608112512",
-      "question": "Chiefs vs. Seahawks",
-      "link": "https://polyvictor.com/markets/4551296"
+      "outcome_label": "No",
+      "price": 0.8955192726155713,
+      "shares": 52412.45,
+      "usd_value": 46936.359099999994,
+      "price_shift_pp": 6.551927261557133,
+      "alert_reason": "shift",
+      "market_id": "5880782",
+      "condition_id": "0x230637a2f974ebdaa5b56974c3daec95938f8a7bfcee9f351441bf8483a115f1",
+      "token_id": "111430984856851780949621123976699816082609043131975118110678987176427687338615",
+      "question": "France declares state of emergency by December 31, 2026?",
+      "link": "https://polyvictor.com/markets/5880782"
     }
   ]
 }
