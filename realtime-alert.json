@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-26T18:02:08.691Z",
+  "generated_at": "2026-10-26T22:14:02.661Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "0fc0a4eb-1e2e-422b-93f0-038ad3f4312a",
-      "ts": "2026-10-26T17:59:05+00:00",
-      "address": "0x3d680413d1e5ace1c82ef6b6ccbb4bfa3bafa444",
+      "id": "4715da83-d52f-4f39-a9ad-2a009ac7aac4",
+      "ts": "2026-10-26T22:13:21+00:00",
+      "address": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
       "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "No",
-      "price": 0.8845911876054998,
-      "shares": 616967.84,
-      "usd_value": 545764.3143,
-      "price_shift_pp": -5.005176704792602,
+      "outcome_label": "Hornets",
+      "price": 0.5996110787133233,
+      "shares": 503720.95,
+      "usd_value": 302036.6622,
+      "price_shift_pp": 0.961107910808956,
       "alert_reason": "size",
-      "market_id": "5880782",
-      "condition_id": "5880782",
-      "token_id": "111430984856851780949621123976699816082609043131975118110678987176427687338615",
-      "question": "France declares state of emergency by December 31, 2026?",
-      "link": "https://polyvictor.com/markets/5880782"
+      "market_id": "5951674",
+      "condition_id": "5951674",
+      "token_id": "95961695264360466139144162071210418318236796773109860401299809761144553027955",
+      "question": "Wizards vs. Hornets",
+      "link": "https://polyvictor.com/markets/5951674"
     }
   ]
 }
