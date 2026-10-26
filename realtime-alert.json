@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-26T22:14:02.661Z",
+  "generated_at": "2026-10-26T23:04:01.898Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "4715da83-d52f-4f39-a9ad-2a009ac7aac4",
-      "ts": "2026-10-26T22:13:21+00:00",
-      "address": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
-      "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Hornets",
-      "price": 0.5996110787133233,
-      "shares": 503720.95,
-      "usd_value": 302036.6622,
-      "price_shift_pp": 0.961107910808956,
+      "id": "632e82da-3c91-40ec-ab45-f3c034b082f3",
+      "ts": "2026-10-26T23:02:14+00:00",
+      "address": "0x58f5f813bb7d2a6078070573f4d1b7d319fbc6c9",
+      "side": "sell",
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.999,
+      "shares": 290350.73,
+      "usd_value": 290060.37927,
+      "price_shift_pp": 0,
       "alert_reason": "size",
-      "market_id": "5951674",
-      "condition_id": "5951674",
-      "token_id": "95961695264360466139144162071210418318236796773109860401299809761144553027955",
-      "question": "Wizards vs. Hornets",
-      "link": "https://polyvictor.com/markets/5951674"
+      "market_id": "608547",
+      "condition_id": "608547",
+      "token_id": "72710166409980712002774407052535905861151156175854323762835102340552522606004",
+      "question": "Will Harry Kane win the 2026 Ballon d'Or?",
+      "link": "https://polyvictor.com/markets/608547"
     }
   ]
 }
