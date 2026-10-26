@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-26T23:04:01.898Z",
+  "generated_at": "2026-10-26T23:56:05.836Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "632e82da-3c91-40ec-ab45-f3c034b082f3",
-      "ts": "2026-10-26T23:02:14+00:00",
-      "address": "0x58f5f813bb7d2a6078070573f4d1b7d319fbc6c9",
-      "side": "sell",
-      "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.999,
-      "shares": 290350.73,
-      "usd_value": 290060.37927,
-      "price_shift_pp": 0,
+      "id": "8a94ddc0-6631-47fb-ac4a-83dc90a4cd13",
+      "ts": "2026-10-26T23:54:05+00:00",
+      "address": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "Suns",
+      "price": 0.52,
+      "shares": 916974.1,
+      "usd_value": 476826.532,
+      "price_shift_pp": 7.858941941663034e-7,
       "alert_reason": "size",
-      "market_id": "608547",
-      "condition_id": "608547",
-      "token_id": "72710166409980712002774407052535905861151156175854323762835102340552522606004",
-      "question": "Will Harry Kane win the 2026 Ballon d'Or?",
-      "link": "https://polyvictor.com/markets/608547"
+      "market_id": "6235345",
+      "condition_id": "6235345",
+      "token_id": "47747529185149480885311701175109575325484535456822483151536281370442599028186",
+      "question": "Spread: Thunder (-8.5)",
+      "link": "https://polyvictor.com/markets/6235345"
     }
   ]
 }
