@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-10-26",
-  "generated_at": "2026-10-26T14:00:08.741Z",
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T14:00:04.981Z",
   "status": "success",
   "tweet_ids": [
-    "2114718720152973430",
-    "2114718721369407933"
+    "2115081095762878848",
+    "2115081097075740817"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 1000,
-    "total_volume_usd": 55699714.280805044,
-    "unique_whales": 275,
-    "buy_volume_usd": 41044074.99137097,
-    "sell_volume_usd": 14655639.289434003,
+    "total_fills": 715,
+    "total_volume_usd": 35868543.36720001,
+    "unique_whales": 209,
+    "buy_volume_usd": 29691838.04413601,
+    "sell_volume_usd": 6176705.323064001,
     "top_markets": [
       {
-        "market_id": "601819",
-        "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
-        "volume_usd": 8313251.598484,
-        "fills": 123,
-        "link": "https://polyvictor.com/markets/601819"
+        "market_id": "5962889",
+        "question": "Grizzlies vs. Jazz",
+        "volume_usd": 2377532.7716,
+        "fills": 37,
+        "link": "https://polyvictor.com/markets/5962889"
       },
       {
-        "market_id": "601826",
-        "question": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
-        "volume_usd": 5972397.993408999,
-        "fills": 112,
-        "link": "https://polyvictor.com/markets/601826"
+        "market_id": "608547",
+        "question": "Will Harry Kane win the 2026 Ballon d'Or?",
+        "volume_usd": 2335746.3560399995,
+        "fills": 30,
+        "link": "https://polyvictor.com/markets/608547"
       },
       {
-        "market_id": "4551296",
-        "question": "Chiefs vs. Seahawks",
-        "volume_usd": 3588513.4363800013,
-        "fills": 45,
-        "link": "https://polyvictor.com/markets/4551296"
+        "market_id": "4584357",
+        "question": "Cowboys vs. Eagles",
+        "volume_usd": 1972483.9634900002,
+        "fills": 43,
+        "link": "https://polyvictor.com/markets/4584357"
       }
     ],
     "top_whales": [
       {
-        "address": "0x7c75be8139d0e333e7c8c2e17b53575ef0804d1d",
-        "volume_usd": 3965413.62075,
-        "fills": 14,
-        "link": "https://polyvictor.com/whales/0x7c75be8139d0e333e7c8c2e17b53575ef0804d1d"
-      },
-      {
-        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 2777752.05638,
-        "fills": 29,
-        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
-      },
-      {
         "address": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
-        "volume_usd": 2586896.6899,
-        "fills": 25,
+        "volume_usd": 4393242.0353,
+        "fills": 44,
         "link": "https://polyvictor.com/whales/0xe9b710551dd82a44e79203c2394a2b10163ace7b"
+      },
+      {
+        "address": "0xf72f81c7449f1c87f7131aaebeed13bcaf75a115",
+        "volume_usd": 1397514.8646999998,
+        "fills": 21,
+        "link": "https://polyvictor.com/whales/0xf72f81c7449f1c87f7131aaebeed13bcaf75a115"
+      },
+      {
+        "address": "0xed107a85a4585a381e48c7f7ca4144909e7dd2e5",
+        "volume_usd": 1168340.25088,
+        "fills": 13,
+        "link": "https://polyvictor.com/whales/0xed107a85a4585a381e48c7f7ca4144909e7dd2e5"
       }
     ],
     "biggest_fill": {
-      "address": "0x7c75be8139d0e333e7c8c2e17b53575ef0804d1d",
-      "usd": 1356191.405,
-      "side": "sell",
-      "price": 0.9935469551,
-      "market_id": "601819",
-      "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
-      "link": "https://polyvictor.com/markets/601819"
+      "address": "0x3d680413d1e5ace1c82ef6b6ccbb4bfa3bafa444",
+      "usd": 545764.3143,
+      "side": "buy",
+      "price": 0.8845911876,
+      "market_id": "5880782",
+      "question": "France declares state of emergency by December 31, 2026?",
+      "link": "https://polyvictor.com/markets/5880782"
     }
   }
 }
