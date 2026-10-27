@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-27T15:32:53.087Z",
+  "generated_at": "2026-10-27T15:34:01.401Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 3,
   "alerts": [
+    {
+      "id": "c0e95340-4fe3-4f21-9235-087cbb475273",
+      "ts": "2026-10-27T15:33:04+00:00",
+      "address": "0x850960d94806a358c51fcb658c67e4068543e981",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.8294079891034943,
+      "shares": 95560.91,
+      "usd_value": 79258.98220000001,
+      "price_shift_pp": 3.94079891034943,
+      "alert_reason": "shift",
+      "market_id": "682705",
+      "condition_id": "682705",
+      "token_id": "54533569528927082430133047556849600511985191158927477533124630301934489498530",
+      "question": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
+      "link": "https://polyvictor.com/markets/682705"
+    },
     {
       "id": "0810c969-c705-4ee8-bb85-56a569eb237b",
       "ts": "2026-10-27T15:32:26+00:00",
