@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-27T02:38:01.386Z",
+  "generated_at": "2026-10-27T14:22:06.164Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "d80ac229-1cb1-4a6d-b4b1-77fada71da60",
-      "ts": "2026-10-27T02:36:26+00:00",
-      "address": "0x33b1e49db9a9a54aa21f298185798c04e650af25",
+      "id": "880c9c63-afb1-4cd6-80a8-936c5e12cfbe",
+      "ts": "2026-10-27T14:20:04+00:00",
+      "address": "0x869909eeaa3637081a7383b177c20dedd7957bb2",
       "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "Nuggets",
-      "price": 0.7896529880237908,
-      "shares": 45089.1758,
-      "usd_value": 35604.80239799999,
-      "price_shift_pp": 3.362620019342899,
+      "outcome_label": "NO",
+      "price": 0.655470995,
+      "shares": 40000,
+      "usd_value": 26218.839799999998,
+      "price_shift_pp": -4.452900500000001,
       "alert_reason": "shift",
-      "market_id": "5962892",
-      "condition_id": "5962892",
-      "token_id": "37804039917921364341934320758155271104509271003668853707774772872554306390303",
-      "question": "Warriors vs. Nuggets",
-      "link": "https://polyvictor.com/markets/5962892"
+      "market_id": null,
+      "condition_id": "0xa332dc3646e45779aab974b8bc075c030bae5b8f52d35c096fa0624b1f7b3044",
+      "token_id": "83485972339567901966741604239615747088965085093374064076617186306059157166550",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
