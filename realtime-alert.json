@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-28T21:40:06.230Z",
+  "generated_at": "2026-10-28T22:58:01.386Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "dffb7a83-7a55-4963-9d08-995f011be567",
-      "ts": "2026-10-28T21:39:16+00:00",
-      "address": "0xeae1e3f0da9c9adcdd69c021cd0385d9a6b4a67b",
+      "id": "0d0b239f-f3dd-4d07-9d5f-ff0e4acc2f11",
+      "ts": "2026-10-28T22:56:11+00:00",
+      "address": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "YES",
-      "price": 0.7026145288631032,
-      "shares": 75859.48,
-      "usd_value": 53299.972799999996,
-      "price_shift_pp": 5.245592084464357,
-      "alert_reason": "shift",
-      "market_id": null,
-      "condition_id": "0x334c1a190ca4de152b59b5c08d49488fa9317a1ae802a714f8f435f007476d1b",
-      "token_id": "2792336476223049261696957049511292717529834033701221980525004436700746308247",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
+      "outcome_index": 1,
+      "outcome_label": "Cavaliers",
+      "price": 0.78,
+      "shares": 563199.56,
+      "usd_value": 439295.65680000006,
+      "price_shift_pp": 1.0000012320004692,
+      "alert_reason": "size",
+      "market_id": "6032749",
+      "condition_id": "6032749",
+      "token_id": "7434120822026608318785214935972665285503401268970064882846742249441070011895",
+      "question": "Wizards vs. Cavaliers",
+      "link": "https://polyvictor.com/markets/6032749"
     }
   ]
 }
