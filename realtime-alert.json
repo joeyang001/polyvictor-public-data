@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-28T02:54:01.305Z",
+  "generated_at": "2026-10-28T05:08:01.293Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "074cb047-5ba3-40b9-ad58-b9a286b4cb45",
-      "ts": "2026-10-28T02:53:56+00:00",
-      "address": "0xe34b8deb3de95e27dc8b9d915d53aa42ca7203a3",
+      "id": "056f6231-fe40-482f-ab46-1828a90e2120",
+      "ts": "2026-10-28T05:07:25+00:00",
+      "address": "0x14494e6733e86a05888610dfabf3c98eeffea618",
       "side": "sell",
-      "outcome_index": 0,
-      "outcome_label": "Milwaukee Brewers",
-      "price": 0.4585378406779661,
-      "shares": 59000,
-      "usd_value": 27053.7326,
-      "price_shift_pp": -3.146215932203389,
+      "outcome_index": 1,
+      "outcome_label": "Lakers",
+      "price": 0.6535312785977427,
+      "shares": 42617,
+      "usd_value": 27851.542500000003,
+      "price_shift_pp": -5.600609873335771,
       "alert_reason": "shift",
-      "market_id": "6010997",
-      "condition_id": "6010997",
-      "token_id": "7577535600076294260991020415184328474123945516249499417902681873767213894820",
-      "question": "Milwaukee Brewers vs. Tampa Bay Rays",
-      "link": "https://polyvictor.com/markets/6010997"
+      "market_id": "6004693",
+      "condition_id": "6004693",
+      "token_id": "98698264443464749785742107658929915438492662265238782654487644537186874617787",
+      "question": "Trail Blazers vs. Lakers",
+      "link": "https://polyvictor.com/markets/6004693"
     }
   ]
 }
