@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-28T02:10:03.368Z",
+  "generated_at": "2026-10-28T02:54:01.305Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "977b8fb8-aa8e-4970-976d-ba6524d4012b",
-      "ts": "2026-10-28T02:09:28+00:00",
-      "address": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
-      "side": "buy",
+      "id": "074cb047-5ba3-40b9-ad58-b9a286b4cb45",
+      "ts": "2026-10-28T02:53:56+00:00",
+      "address": "0xe34b8deb3de95e27dc8b9d915d53aa42ca7203a3",
+      "side": "sell",
       "outcome_index": 0,
-      "outcome_label": "Trail Blazers",
-      "price": 0.4699979925696891,
-      "shares": 620843.47,
-      "usd_value": 291795.1846,
-      "price_shift_pp": -0.00019667663305189542,
-      "alert_reason": "size",
-      "market_id": "6004693",
-      "condition_id": "6004693",
-      "token_id": "52070667132725896722448712774485178212277393952285454464687714321951031331829",
-      "question": "Trail Blazers vs. Lakers",
-      "link": "https://polyvictor.com/markets/6004693"
+      "outcome_label": "Milwaukee Brewers",
+      "price": 0.4585378406779661,
+      "shares": 59000,
+      "usd_value": 27053.7326,
+      "price_shift_pp": -3.146215932203389,
+      "alert_reason": "shift",
+      "market_id": "6010997",
+      "condition_id": "6010997",
+      "token_id": "7577535600076294260991020415184328474123945516249499417902681873767213894820",
+      "question": "Milwaukee Brewers vs. Tampa Bay Rays",
+      "link": "https://polyvictor.com/markets/6010997"
     }
   ]
 }
