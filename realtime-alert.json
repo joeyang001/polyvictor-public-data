@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-28T05:08:01.293Z",
+  "generated_at": "2026-10-28T07:06:01.038Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "056f6231-fe40-482f-ab46-1828a90e2120",
-      "ts": "2026-10-28T05:07:25+00:00",
-      "address": "0x14494e6733e86a05888610dfabf3c98eeffea618",
-      "side": "sell",
+      "id": "692d1fea-5d70-4321-bb7c-1d96df3606ae",
+      "ts": "2026-10-28T07:05:01+00:00",
+      "address": "0x00eca75f93d2dba8cd7c7e58cc1f0c26f1b78240",
+      "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "Lakers",
-      "price": 0.6535312785977427,
-      "shares": 42617,
-      "usd_value": 27851.542500000003,
-      "price_shift_pp": -5.600609873335771,
+      "outcome_label": "No",
+      "price": 0.8357040373151005,
+      "shares": 35897.876111,
+      "usd_value": 29999.999996999995,
+      "price_shift_pp": 6.866324264641676,
       "alert_reason": "shift",
-      "market_id": "6004693",
-      "condition_id": "6004693",
-      "token_id": "98698264443464749785742107658929915438492662265238782654487644537186874617787",
-      "question": "Trail Blazers vs. Lakers",
-      "link": "https://polyvictor.com/markets/6004693"
+      "market_id": "682708",
+      "condition_id": "682708",
+      "token_id": "1507744758511144558263623459899956467548763419522526462308518027912401299177",
+      "question": "Will Gadi Eizenkot be the next Prime Minister of Israel?",
+      "link": "https://polyvictor.com/markets/682708"
     }
   ]
 }
