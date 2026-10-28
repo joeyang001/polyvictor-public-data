@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-28T07:06:01.038Z",
+  "generated_at": "2026-10-28T12:56:01.331Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "692d1fea-5d70-4321-bb7c-1d96df3606ae",
-      "ts": "2026-10-28T07:05:01+00:00",
-      "address": "0x00eca75f93d2dba8cd7c7e58cc1f0c26f1b78240",
+      "id": "3a647f15-4029-4369-aab6-9f6c6912c125",
+      "ts": "2026-10-28T12:55:03+00:00",
+      "address": "0x989b67c86daa5675c2a7d0ee4107d2a38f628ef3",
       "side": "buy",
       "outcome_index": 1,
       "outcome_label": "No",
-      "price": 0.8357040373151005,
-      "shares": 35897.876111,
-      "usd_value": 29999.999996999995,
-      "price_shift_pp": 6.866324264641676,
-      "alert_reason": "shift",
-      "market_id": "682708",
-      "condition_id": "682708",
-      "token_id": "1507744758511144558263623459899956467548763419522526462308518027912401299177",
-      "question": "Will Gadi Eizenkot be the next Prime Minister of Israel?",
-      "link": "https://polyvictor.com/markets/682708"
+      "price": 0.997,
+      "shares": 300000,
+      "usd_value": 299100,
+      "price_shift_pp": 0.10000000000000009,
+      "alert_reason": "size",
+      "market_id": "2589814",
+      "condition_id": "2589814",
+      "token_id": "41864497411878191766967581422432961750808440991174085516384293402629587721839",
+      "question": "Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?",
+      "link": "https://polyvictor.com/markets/2589814"
     }
   ]
 }
