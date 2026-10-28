@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-28T18:56:01.407Z",
+  "generated_at": "2026-10-28T19:20:06.394Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "5b4d462e-0401-49c0-b91f-2e4d9367d56f",
+      "ts": "2026-10-28T19:18:31+00:00",
+      "address": "0xfea31bc088000ff909be1dfd8d0e3f2c7ef2d227",
+      "side": "sell",
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.92,
+      "shares": 402866.15,
+      "usd_value": 370636.85800000007,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "562803",
+      "condition_id": "562803",
+      "token_id": "17371217118862125782438074585166210555214661810823929795910191856905580975576",
+      "question": "Will the Republican Party control the House after the 2026 Midterm elections?",
+      "link": "https://polyvictor.com/markets/562803"
+    },
     {
       "id": "da05c5e3-c4ed-4a09-bfca-733063f2903e",
       "ts": "2026-10-28T18:54:52+00:00",
