@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-28T18:02:01.506Z",
+  "generated_at": "2026-10-28T18:56:01.407Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "0fd92632-9712-4235-aaeb-80ffc2175f5b",
-      "ts": "2026-10-28T18:00:08+00:00",
-      "address": "0x6ffb4354cbe6e0f9989e3b55564ec5fb8646a834",
-      "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.999,
-      "shares": 255555,
-      "usd_value": 255299.445,
-      "price_shift_pp": 0.10000000000000009,
-      "alert_reason": "size",
-      "market_id": "2589812",
-      "condition_id": "2589812",
-      "token_id": "111061902544814266207267295505639408607400625795891618462682726460921782993748",
-      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
-      "link": "https://polyvictor.com/markets/2589812"
+      "id": "da05c5e3-c4ed-4a09-bfca-733063f2903e",
+      "ts": "2026-10-28T18:54:52+00:00",
+      "address": "0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1",
+      "side": "sell",
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.5135075230787828,
+      "shares": 295419.61,
+      "usd_value": 151700.1922,
+      "price_shift_pp": 3.3507523078782797,
+      "alert_reason": "shift",
+      "market_id": "682705",
+      "condition_id": "682705",
+      "token_id": "54533569528927082430133047556849600511985191158927477533124630301934489498530",
+      "question": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
+      "link": "https://polyvictor.com/markets/682705"
     }
   ]
 }
