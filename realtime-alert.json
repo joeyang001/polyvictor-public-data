@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-29T17:16:01.860Z",
+  "generated_at": "2026-10-29T17:18:03.915Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "02f53c83-f6b8-4e7c-b7c3-49c3d08a2934",
+      "ts": "2026-10-29T17:16:08+00:00",
+      "address": "0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b",
+      "side": "sell",
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.987538973773456,
+      "shares": 268602.68,
+      "usd_value": 265255.61496,
+      "price_shift_pp": -0.7461026226543988,
+      "alert_reason": "size",
+      "market_id": "2100981",
+      "condition_id": "2100981",
+      "token_id": "40530616708770133196461535468385029946615148250396571867031554779644977064648",
+      "question": "Will Likud win the most seats in the 2026 Israeli legislative election?",
+      "link": "https://polyvictor.com/markets/2100981"
+    },
     {
       "id": "eaf31c69-5ccc-4975-bbaa-f07e399380d6",
       "ts": "2026-10-29T17:15:55+00:00",
