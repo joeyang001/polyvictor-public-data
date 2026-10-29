@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-29T17:48:01.484Z",
+  "generated_at": "2026-10-29T17:52:02.179Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 3,
   "alerts": [
+    {
+      "id": "9bdf6160-ed58-47e0-893d-f9433df24ee3",
+      "ts": "2026-10-29T17:51:36+00:00",
+      "address": "0x122cdd9db64fd8dc3ebab813218e3effe21f821f",
+      "side": "sell",
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.7315306176653421,
+      "shares": 65135.11,
+      "usd_value": 47648.32725,
+      "price_shift_pp": -4.513026444205637,
+      "alert_reason": "shift",
+      "market_id": "561229",
+      "condition_id": "561229",
+      "token_id": "94476829201604408463453426454480212459887267917122244941405244686637914508323",
+      "question": "Will JD Vance win the 2028 US Presidential Election?",
+      "link": "https://polyvictor.com/markets/561229"
+    },
     {
       "id": "882b7fd8-3a23-4b58-a0dd-ce1092cd9008",
       "ts": "2026-10-29T17:47:44+00:00",
