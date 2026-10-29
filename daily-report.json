@@ -1,66 +1,66 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-10-28",
-  "generated_at": "2026-10-28T14:00:08.047Z",
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T14:00:11.517Z",
   "status": "success",
   "tweet_ids": [
-    "2115443497293500445",
-    "2115443498463690792"
+    "2115805899583324476",
+    "2115805900929667519"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 467,
-    "total_volume_usd": 20479849.24461298,
-    "unique_whales": 193,
-    "buy_volume_usd": 16290464.136648998,
-    "sell_volume_usd": 4189385.107963999,
+    "total_fills": 727,
+    "total_volume_usd": 37990919.04940096,
+    "unique_whales": 219,
+    "buy_volume_usd": 30185232.837705,
+    "sell_volume_usd": 7805686.211695998,
     "top_markets": [
       {
-        "market_id": "682705",
-        "question": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
-        "volume_usd": 2534064.1986,
-        "fills": 58,
-        "link": "https://polyvictor.com/markets/682705"
+        "market_id": "2589814",
+        "question": "Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?",
+        "volume_usd": 2479228.3995399997,
+        "fills": 25,
+        "link": "https://polyvictor.com/markets/2589814"
       },
       {
-        "market_id": "6004693",
-        "question": "Trail Blazers vs. Lakers",
-        "volume_usd": 2281733.9723,
-        "fills": 31,
-        "link": "https://polyvictor.com/markets/6004693"
+        "market_id": "2589812",
+        "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+        "volume_usd": 1835142.8216800008,
+        "fills": 37,
+        "link": "https://polyvictor.com/markets/2589812"
       },
       {
-        "market_id": "2100981",
-        "question": "Will Likud win the most seats in the 2026 Israeli legislative election?",
-        "volume_usd": 1193801.1385800003,
-        "fills": 32,
-        "link": "https://polyvictor.com/markets/2100981"
+        "market_id": "6326715",
+        "question": "Spread: Raptors (-4.5)",
+        "volume_usd": 1651850.1502,
+        "fills": 7,
+        "link": "https://polyvictor.com/markets/6326715"
       }
     ],
     "top_whales": [
       {
         "address": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
-        "volume_usd": 1825397.2958,
-        "fills": 16,
+        "volume_usd": 6333987.048699997,
+        "fills": 69,
         "link": "https://polyvictor.com/whales/0xe9b710551dd82a44e79203c2394a2b10163ace7b"
       },
       {
-        "address": "0x989b67c86daa5675c2a7d0ee4107d2a38f628ef3",
-        "volume_usd": 1046850,
-        "fills": 2,
-        "link": "https://polyvictor.com/whales/0x989b67c86daa5675c2a7d0ee4107d2a38f628ef3"
+        "address": "0xfea31bc088000ff909be1dfd8d0e3f2c7ef2d227",
+        "volume_usd": 1183789.087055,
+        "fills": 14,
+        "link": "https://polyvictor.com/whales/0xfea31bc088000ff909be1dfd8d0e3f2c7ef2d227"
       },
       {
-        "address": "0x850960d94806a358c51fcb658c67e4068543e981",
-        "volume_usd": 793592.7709000001,
-        "fills": 13,
-        "link": "https://polyvictor.com/whales/0x850960d94806a358c51fcb658c67e4068543e981"
+        "address": "0x88b21efc4aa4e08cdc125300ad6b3a520811e1d1",
+        "volume_usd": 942630.3631,
+        "fills": 3,
+        "link": "https://polyvictor.com/whales/0x88b21efc4aa4e08cdc125300ad6b3a520811e1d1"
       }
     ],
     "biggest_fill": {
-      "address": "0x989b67c86daa5675c2a7d0ee4107d2a38f628ef3",
-      "usd": 747750,
+      "address": "0x88b21efc4aa4e08cdc125300ad6b3a520811e1d1",
+      "usd": 788938.3631,
       "side": "buy",
       "price": 0.997,
       "market_id": "2589814",
