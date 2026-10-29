@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-29T17:32:01.292Z",
+  "generated_at": "2026-10-29T17:48:01.484Z",
   "window_minutes": 30,
-  "count": 3,
+  "count": 2,
   "alerts": [
+    {
+      "id": "882b7fd8-3a23-4b58-a0dd-ce1092cd9008",
+      "ts": "2026-10-29T17:47:44+00:00",
+      "address": "0x122cdd9db64fd8dc3ebab813218e3effe21f821f",
+      "side": "sell",
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.1213600389343671,
+      "shares": 209788.95,
+      "usd_value": 25459.995139999995,
+      "price_shift_pp": -5.268062634967989,
+      "alert_reason": "shift",
+      "market_id": "561229",
+      "condition_id": "561229",
+      "token_id": "16040015440196279900485035793550429453516625694844857319147506590755961451627",
+      "question": "Will JD Vance win the 2028 US Presidential Election?",
+      "link": "https://polyvictor.com/markets/561229"
+    },
     {
       "id": "d4bb9c5b-540e-4f51-a162-f41568a941cf",
       "ts": "2026-10-29T17:31:22+00:00",
@@ -21,42 +39,6 @@
       "token_id": "12933385462445051219548039807631278921517469211617755773732773415883384410827",
       "question": "US obtains Iranian enriched uranium by December 31?",
       "link": "https://polyvictor.com/markets/2006983"
-    },
-    {
-      "id": "02f53c83-f6b8-4e7c-b7c3-49c3d08a2934",
-      "ts": "2026-10-29T17:16:08+00:00",
-      "address": "0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b",
-      "side": "sell",
-      "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.987538973773456,
-      "shares": 268602.68,
-      "usd_value": 265255.61496,
-      "price_shift_pp": -0.7461026226543988,
-      "alert_reason": "size",
-      "market_id": "2100981",
-      "condition_id": "2100981",
-      "token_id": "40530616708770133196461535468385029946615148250396571867031554779644977064648",
-      "question": "Will Likud win the most seats in the 2026 Israeli legislative election?",
-      "link": "https://polyvictor.com/markets/2100981"
-    },
-    {
-      "id": "eaf31c69-5ccc-4975-bbaa-f07e399380d6",
-      "ts": "2026-10-29T17:15:55+00:00",
-      "address": "0x44a1159b925c145e70f746bb3f0f58380553bd21",
-      "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Carlos Alcaraz",
-      "price": 0.9332750641818182,
-      "shares": 55000,
-      "usd_value": 51330.12853,
-      "price_shift_pp": -3.969214682145039,
-      "alert_reason": "shift",
-      "market_id": "6369768",
-      "condition_id": "6369768",
-      "token_id": "35391798504142326906807773017867268151723052112412028502108166369079786698673",
-      "question": "Erste Bank Open: Nikoloz Basilashvili vs Carlos Alcaraz",
-      "link": "https://polyvictor.com/markets/6369768"
     }
   ]
 }
