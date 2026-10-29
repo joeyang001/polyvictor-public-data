@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-29T17:18:03.915Z",
+  "generated_at": "2026-10-29T17:32:01.292Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 3,
   "alerts": [
+    {
+      "id": "d4bb9c5b-540e-4f51-a162-f41568a941cf",
+      "ts": "2026-10-29T17:31:22+00:00",
+      "address": "0xbaa2bcb5439e985ce4ccf815b4700027d1b92c73",
+      "side": "sell",
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.9500400164107361,
+      "shares": 40022.58,
+      "usd_value": 38023.05256,
+      "price_shift_pp": 3.004001641073606,
+      "alert_reason": "shift",
+      "market_id": "2006983",
+      "condition_id": "2006983",
+      "token_id": "12933385462445051219548039807631278921517469211617755773732773415883384410827",
+      "question": "US obtains Iranian enriched uranium by December 31?",
+      "link": "https://polyvictor.com/markets/2006983"
+    },
     {
       "id": "02f53c83-f6b8-4e7c-b7c3-49c3d08a2934",
       "ts": "2026-10-29T17:16:08+00:00",
