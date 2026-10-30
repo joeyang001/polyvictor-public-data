@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-30T16:24:04.482Z",
+  "generated_at": "2026-10-30T19:00:07.254Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "73a193fb-fb09-48eb-8d3a-9fece83affb8",
-      "ts": "2026-10-30T16:23:10+00:00",
-      "address": "0xfea31bc088000ff909be1dfd8d0e3f2c7ef2d227",
+      "id": "aa9929ee-4c84-4aa3-a173-cf713e4479be",
+      "ts": "2026-10-30T18:59:47+00:00",
+      "address": "0xa31c26cb45331da8389bece7a1250fceb5d6bdf7",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "No",
-      "price": 0.94,
-      "shares": 309158.39,
-      "usd_value": 290608.88659999997,
-      "price_shift_pp": 0,
-      "alert_reason": "size",
-      "market_id": "562831",
-      "condition_id": "562831",
-      "token_id": "25869296386911654049715489068824757745174681288397238521780118949553760488529",
-      "question": "2026 Balance of Power: R Senate, R House",
-      "link": "https://polyvictor.com/markets/562831"
+      "outcome_index": 0,
+      "outcome_label": "YES",
+      "price": 0.7829200208335776,
+      "shares": 58502.485926,
+      "usd_value": 45802.7675,
+      "price_shift_pp": 3.297775473264941,
+      "alert_reason": "shift",
+      "market_id": null,
+      "condition_id": "0x9d235847fb30672b0109a733df5f272a8b10d0474bcbea8abf2ef61a08d09df5",
+      "token_id": "95792408422420836524682328100683825604887822715207310795554353538125730568979",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
