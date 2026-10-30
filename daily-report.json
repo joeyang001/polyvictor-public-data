@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-10-29",
-  "generated_at": "2026-10-29T14:00:11.517Z",
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T14:00:08.171Z",
   "status": "success",
   "tweet_ids": [
-    "2115805899583324476",
-    "2115805900929667519"
+    "2116168273662259262",
+    "2116168274828202227"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 727,
-    "total_volume_usd": 37990919.04940096,
-    "unique_whales": 219,
-    "buy_volume_usd": 30185232.837705,
-    "sell_volume_usd": 7805686.211695998,
+    "total_fills": 479,
+    "total_volume_usd": 20915739.344496,
+    "unique_whales": 165,
+    "buy_volume_usd": 12780374.130618002,
+    "sell_volume_usd": 8135365.213877999,
     "top_markets": [
       {
-        "market_id": "2589814",
-        "question": "Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?",
-        "volume_usd": 2479228.3995399997,
-        "fills": 25,
-        "link": "https://polyvictor.com/markets/2589814"
+        "market_id": "562803",
+        "question": "Will the Republican Party control the House after the 2026 Midterm elections?",
+        "volume_usd": 2239253.8115,
+        "fills": 16,
+        "link": "https://polyvictor.com/markets/562803"
       },
       {
-        "market_id": "2589812",
-        "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
-        "volume_usd": 1835142.8216800008,
-        "fills": 37,
-        "link": "https://polyvictor.com/markets/2589812"
+        "market_id": "2100981",
+        "question": "Will Likud win the most seats in the 2026 Israeli legislative election?",
+        "volume_usd": 1017236.0262500001,
+        "fills": 19,
+        "link": "https://polyvictor.com/markets/2100981"
       },
       {
-        "market_id": "6326715",
-        "question": "Spread: Raptors (-4.5)",
-        "volume_usd": 1651850.1502,
-        "fills": 7,
-        "link": "https://polyvictor.com/markets/6326715"
+        "market_id": "6280177",
+        "question": "LoL: Top Esports vs Bilibili Gaming - Game 2 Winner",
+        "volume_usd": 812459.7740200001,
+        "fills": 17,
+        "link": "https://polyvictor.com/markets/6280177"
       }
     ],
     "top_whales": [
       {
-        "address": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
-        "volume_usd": 6333987.048699997,
-        "fills": 69,
-        "link": "https://polyvictor.com/whales/0xe9b710551dd82a44e79203c2394a2b10163ace7b"
-      },
-      {
         "address": "0xfea31bc088000ff909be1dfd8d0e3f2c7ef2d227",
-        "volume_usd": 1183789.087055,
-        "fills": 14,
+        "volume_usd": 1908032.1116900002,
+        "fills": 13,
         "link": "https://polyvictor.com/whales/0xfea31bc088000ff909be1dfd8d0e3f2c7ef2d227"
       },
       {
-        "address": "0x88b21efc4aa4e08cdc125300ad6b3a520811e1d1",
-        "volume_usd": 942630.3631,
-        "fills": 3,
-        "link": "https://polyvictor.com/whales/0x88b21efc4aa4e08cdc125300ad6b3a520811e1d1"
+        "address": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+        "volume_usd": 943288.28128,
+        "fills": 15,
+        "link": "https://polyvictor.com/whales/0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e"
+      },
+      {
+        "address": "0xbaa2bcb5439e985ce4ccf815b4700027d1b92c73",
+        "volume_usd": 887131.5810199999,
+        "fills": 12,
+        "link": "https://polyvictor.com/whales/0xbaa2bcb5439e985ce4ccf815b4700027d1b92c73"
       }
     ],
     "biggest_fill": {
-      "address": "0x88b21efc4aa4e08cdc125300ad6b3a520811e1d1",
-      "usd": 788938.3631,
+      "address": "0xfea31bc088000ff909be1dfd8d0e3f2c7ef2d227",
+      "usd": 505698.0648,
       "side": "buy",
-      "price": 0.997,
-      "market_id": "2589814",
-      "question": "Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?",
-      "link": "https://polyvictor.com/markets/2589814"
+      "price": 0.93,
+      "market_id": "562803",
+      "question": "Will the Republican Party control the House after the 2026 Midterm elections?",
+      "link": "https://polyvictor.com/markets/562803"
     }
   }
 }
