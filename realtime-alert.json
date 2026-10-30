@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-30T00:04:02.771Z",
+  "generated_at": "2026-10-30T13:18:01.381Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "f38cae12-116f-4b73-b6d8-c0200a933d00",
-      "ts": "2026-10-30T00:03:39+00:00",
-      "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
+      "id": "bb3cada5-07cd-4092-97fd-d12db16600c8",
+      "ts": "2026-10-30T13:16:57+00:00",
+      "address": "0x71200ff742dde7f1ada753d2e9b0a8b50c717c4e",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Top Esports",
-      "price": 0.9721790025052568,
-      "shares": 34331.81,
-      "usd_value": 33376.6648,
-      "price_shift_pp": 12.217900398095116,
+      "outcome_index": 1,
+      "outcome_label": "NO",
+      "price": 0.9808473623878987,
+      "shares": 44491,
+      "usd_value": 43638.880000000005,
+      "price_shift_pp": 21.601030273935496,
       "alert_reason": "shift",
-      "market_id": "6280177",
-      "condition_id": "6280177",
-      "token_id": "95552052245545676171818861235890285207660393372971782180564279251013443370350",
-      "question": "LoL: Top Esports vs Bilibili Gaming - Game 2 Winner",
-      "link": "https://polyvictor.com/markets/6280177"
+      "market_id": null,
+      "condition_id": "0xd6dc33a7da166d58aabac7466708ebde03d9ae834c4bc6d9224903feae234311",
+      "token_id": "58790377535237852392376731437740657063145374284582611992485470846245863240725",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
