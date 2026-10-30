@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-29T23:26:01.032Z",
+  "generated_at": "2026-10-30T00:04:02.771Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "b8e8a25f-1efa-4f79-bc26-4641ff6015fd",
-      "ts": "2026-10-29T23:24:14+00:00",
-      "address": "0x2a214973f38f9052a08a419b97141a66e84b9853",
-      "side": "sell",
-      "outcome_index": 1,
-      "outcome_label": "Jerome Kym",
-      "price": 0.8491954815319095,
-      "shares": 47372.25,
-      "usd_value": 40228.30065,
-      "price_shift_pp": -3.0613129467689126,
+      "id": "f38cae12-116f-4b73-b6d8-c0200a933d00",
+      "ts": "2026-10-30T00:03:39+00:00",
+      "address": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Top Esports",
+      "price": 0.9721790025052568,
+      "shares": 34331.81,
+      "usd_value": 33376.6648,
+      "price_shift_pp": 12.217900398095116,
       "alert_reason": "shift",
-      "market_id": "6326878",
-      "condition_id": "6326878",
-      "token_id": "55219775744333211542901265137405908679933053197564246918345375726919516202722",
-      "question": "Swiss Indoors Basel: Ben Shelton vs Jerome Kym",
-      "link": "https://polyvictor.com/markets/6326878"
+      "market_id": "6280177",
+      "condition_id": "6280177",
+      "token_id": "95552052245545676171818861235890285207660393372971782180564279251013443370350",
+      "question": "LoL: Top Esports vs Bilibili Gaming - Game 2 Winner",
+      "link": "https://polyvictor.com/markets/6280177"
     }
   ]
 }
