@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-31T01:58:00.936Z",
+  "generated_at": "2026-10-31T02:34:01.295Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "4f1580e0-d50e-4d29-94ac-5b454c439bcc",
-      "ts": "2026-10-31T01:56:15+00:00",
-      "address": "0x385edd359037625b95dd057794ba3ea25a9c40ce",
+      "id": "371898b9-42e4-4862-bb72-7b85a176974d",
+      "ts": "2026-10-31T02:32:26+00:00",
+      "address": "0x9b89ef1f344d3e17b37ccdff3bccf62d04f04244",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "76ers",
-      "price": 0.92,
-      "shares": 292516.04,
-      "usd_value": 269114.7568,
-      "price_shift_pp": 1.0000000000000009,
-      "alert_reason": "size",
-      "market_id": "6101711",
-      "condition_id": "6101711",
-      "token_id": "47591100899041404909370279193081997651507741300143168870268204575817136832723",
-      "question": "Knicks vs. 76ers",
-      "link": "https://polyvictor.com/markets/6101711"
+      "outcome_index": 0,
+      "outcome_label": "Nuggets",
+      "price": 0.5583642413164861,
+      "shares": 57681.43,
+      "usd_value": 32207.247900000002,
+      "price_shift_pp": -11.163575868351394,
+      "alert_reason": "shift",
+      "market_id": "6110059",
+      "condition_id": "6110059",
+      "token_id": "4818280115786594840469169988990123772230759082983751838506931059965200386943",
+      "question": "Nuggets vs. Suns",
+      "link": "https://polyvictor.com/markets/6110059"
     }
   ]
 }
