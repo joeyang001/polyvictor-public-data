@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-31T02:34:01.295Z",
+  "generated_at": "2026-10-31T16:32:07.868Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "371898b9-42e4-4862-bb72-7b85a176974d",
-      "ts": "2026-10-31T02:32:26+00:00",
-      "address": "0x9b89ef1f344d3e17b37ccdff3bccf62d04f04244",
+      "id": "c38c9a70-7802-42ca-a3e8-d2289f358967",
+      "ts": "2026-10-31T16:31:34+00:00",
+      "address": "0xed107a85a4585a381e48c7f7ca4144909e7dd2e5",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Nuggets",
-      "price": 0.5583642413164861,
-      "shares": 57681.43,
-      "usd_value": 32207.247900000002,
-      "price_shift_pp": -11.163575868351394,
-      "alert_reason": "shift",
-      "market_id": "6110059",
-      "condition_id": "6110059",
-      "token_id": "4818280115786594840469169988990123772230759082983751838506931059965200386943",
-      "question": "Nuggets vs. Suns",
-      "link": "https://polyvictor.com/markets/6110059"
+      "outcome_label": "Yes",
+      "price": 0.95,
+      "shares": 500000,
+      "usd_value": 475000,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "562802",
+      "condition_id": "562802",
+      "token_id": "83247781037352156539108067944461291821683755894607244160607042790356561625563",
+      "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
+      "link": "https://polyvictor.com/markets/562802"
     }
   ]
 }
