@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-31T19:46:00.885Z",
+  "generated_at": "2026-10-31T20:18:01.716Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "4609f675-a2a3-4b8f-8328-890e18afbce0",
-      "ts": "2026-10-31T19:44:38+00:00",
-      "address": "0xb3cfe7615d64db8dfa743a1b1a2b976911460ebd",
+      "id": "5257cdfa-8898-4c82-aaf5-9f44edf7821d",
+      "ts": "2026-10-31T20:16:24+00:00",
+      "address": "0xb38a4db7a7c94973193ee586865c8c3d05563293",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Michigan",
-      "price": 0.9987939819879337,
-      "shares": 268525.55,
-      "usd_value": 268201.70334999997,
-      "price_shift_pp": 0.17939819879336794,
-      "alert_reason": "size",
-      "market_id": "5943074",
-      "condition_id": "5943074",
-      "token_id": "99172068014197919170012494550228542815999869074931948365118905804441858683996",
-      "question": "Michigan vs. Rutgers",
-      "link": "https://polyvictor.com/markets/5943074"
+      "outcome_label": "Yes",
+      "price": 0.7361153366013617,
+      "shares": 41492.003332,
+      "usd_value": 30542.899999000005,
+      "price_shift_pp": 4.61153366013618,
+      "alert_reason": "shift",
+      "market_id": "5852727",
+      "condition_id": "5852727",
+      "token_id": "63836700781975532256871758046818265135873894836552725310494198156221913058577",
+      "question": "Will Aston Villa FC win on 2026-10-31?",
+      "link": "https://polyvictor.com/markets/5852727"
     }
   ]
 }
