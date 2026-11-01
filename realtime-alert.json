@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-01T01:46:01.038Z",
+  "generated_at": "2026-11-01T03:10:03.914Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "d8927994-d195-4c0a-b19a-368973c6eb65",
-      "ts": "2026-11-01T01:44:39+00:00",
-      "address": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+      "id": "deab56f0-4262-443f-ba64-1ecc838d3c5c",
+      "ts": "2026-11-01T03:08:54+00:00",
+      "address": "0x9b89ef1f344d3e17b37ccdff3bccf62d04f04244",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Ohio State",
-      "price": 0.35,
-      "shares": 101988.78,
-      "usd_value": 35696.073,
-      "price_shift_pp": 5.000000059999998,
+      "outcome_label": "Masamichi Imamura",
+      "price": 0.9252721689821019,
+      "shares": 47384.9,
+      "usd_value": 43843.9292,
+      "price_shift_pp": 5.5272168982101855,
       "alert_reason": "shift",
-      "market_id": "5946846",
-      "condition_id": "5946846",
-      "token_id": "69272956865330139750948850110368508062245270232116537364294796330899819406978",
-      "question": "Ohio State vs. USC",
-      "link": "https://polyvictor.com/markets/5946846"
+      "market_id": "6480473",
+      "condition_id": "0x9ca7c5d28a417dabb27190ed7252249ba4faa3c4f86dcd2ecf4e015cb9661334",
+      "token_id": "110958453830412370079610758666662814158604103955356401754617223365667164129847",
+      "question": "Taipei: Masamichi Imamura vs Luca Staeheli",
+      "link": "https://polyvictor.com/markets/6480473"
     }
   ]
 }
