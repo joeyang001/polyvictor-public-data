@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-01T13:20:06.301Z",
+  "generated_at": "2026-11-01T15:54:01.416Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "84ca6014-8df1-4f90-92c2-11040fe56ea1",
-      "ts": "2026-11-01T13:19:56+00:00",
-      "address": "0x5815db9fdf0e0ffdc1d1f759916b221339570ae7",
-      "side": "buy",
+      "id": "febabf67-ffc0-4c37-8876-002ebd4985fb",
+      "ts": "2026-11-01T15:52:59+00:00",
+      "address": "0x61a3f1ef9c9618f532eb49f0cb260486c168e508",
+      "side": "sell",
       "outcome_index": 0,
-      "outcome_label": "YES",
-      "price": 0.5037602214567479,
-      "shares": 57271.68,
-      "usd_value": 28851.1942,
-      "price_shift_pp": 3.376022145674795,
+      "outcome_label": "Yes",
+      "price": 0.9138577893326806,
+      "shares": 47718.08,
+      "usd_value": 43607.5391,
+      "price_shift_pp": -3.6142210667319374,
       "alert_reason": "shift",
-      "market_id": null,
-      "condition_id": "0xdd0d6f59aea6861de2be95f60356d0c1555ac581e4ba72800c8fbe64e4b561c5",
-      "token_id": "47117479029005206558254360956741883841114971749569904990106047047319062274020",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
+      "market_id": "5909510",
+      "condition_id": "5909510",
+      "token_id": "66223043539157872442132614673138385124662196551962139599830125088117540522708",
+      "question": "Will SS Lazio win on 2026-11-01?",
+      "link": "https://polyvictor.com/markets/5909510"
     }
   ]
 }
