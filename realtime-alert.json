@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-01T21:42:03.507Z",
+  "generated_at": "2026-11-01T22:38:01.361Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "62dc4596-5145-4822-89b8-8904df2ebc89",
-      "ts": "2026-11-01T21:41:53+00:00",
-      "address": "0x88a6c8e00c4752a8c70d24025fa781fa046a7e77",
-      "side": "sell",
-      "outcome_index": 1,
-      "outcome_label": "Bills",
-      "price": 0.999,
-      "shares": 339999.99,
-      "usd_value": 339659.99001,
-      "price_shift_pp": 0,
-      "alert_reason": "size",
-      "market_id": "5603301",
-      "condition_id": "5603301",
-      "token_id": "43210198229947266739275509672182918749849138005596578323550661242708614701747",
-      "question": "Ravens vs. Bills",
-      "link": "https://polyvictor.com/markets/5603301"
+      "id": "fce2e175-5652-4388-8861-b8d05eb368dd",
+      "ts": "2026-11-01T22:37:08+00:00",
+      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Chiefs",
+      "price": 0.69,
+      "shares": 49930,
+      "usd_value": 34451.7,
+      "price_shift_pp": 20.999999999999996,
+      "alert_reason": "shift",
+      "market_id": "5657780",
+      "condition_id": "5657780",
+      "token_id": "107556928334585137214709145416262001686220836866724086410988197209350770876757",
+      "question": "Spread: Chiefs (-1.5)",
+      "link": "https://polyvictor.com/markets/5657780"
     }
   ]
 }
