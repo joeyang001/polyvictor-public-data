@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-01T15:54:01.416Z",
+  "generated_at": "2026-11-01T17:04:01.585Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "febabf67-ffc0-4c37-8876-002ebd4985fb",
-      "ts": "2026-11-01T15:52:59+00:00",
-      "address": "0x61a3f1ef9c9618f532eb49f0cb260486c168e508",
-      "side": "sell",
-      "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.9138577893326806,
-      "shares": 47718.08,
-      "usd_value": 43607.5391,
-      "price_shift_pp": -3.6142210667319374,
-      "alert_reason": "shift",
-      "market_id": "5909510",
-      "condition_id": "5909510",
-      "token_id": "66223043539157872442132614673138385124662196551962139599830125088117540522708",
-      "question": "Will SS Lazio win on 2026-11-01?",
-      "link": "https://polyvictor.com/markets/5909510"
+      "id": "54a5b53c-a237-4425-8be6-215ed5a21092",
+      "ts": "2026-11-01T17:02:55+00:00",
+      "address": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "Steelers",
+      "price": 0.65,
+      "shares": 550000,
+      "usd_value": 357500,
+      "price_shift_pp": 0.0000016352202925062898,
+      "alert_reason": "size",
+      "market_id": "5603316",
+      "condition_id": "5603316",
+      "token_id": "46032175510256434028893756378954093075432194615983233494337200719073165215499",
+      "question": "Browns vs. Steelers",
+      "link": "https://polyvictor.com/markets/5603316"
     }
   ]
 }
