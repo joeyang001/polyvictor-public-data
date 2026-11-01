@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-01T03:10:03.914Z",
+  "generated_at": "2026-11-01T13:20:06.301Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "deab56f0-4262-443f-ba64-1ecc838d3c5c",
-      "ts": "2026-11-01T03:08:54+00:00",
-      "address": "0x9b89ef1f344d3e17b37ccdff3bccf62d04f04244",
+      "id": "84ca6014-8df1-4f90-92c2-11040fe56ea1",
+      "ts": "2026-11-01T13:19:56+00:00",
+      "address": "0x5815db9fdf0e0ffdc1d1f759916b221339570ae7",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Masamichi Imamura",
-      "price": 0.9252721689821019,
-      "shares": 47384.9,
-      "usd_value": 43843.9292,
-      "price_shift_pp": 5.5272168982101855,
+      "outcome_label": "YES",
+      "price": 0.5037602214567479,
+      "shares": 57271.68,
+      "usd_value": 28851.1942,
+      "price_shift_pp": 3.376022145674795,
       "alert_reason": "shift",
-      "market_id": "6480473",
-      "condition_id": "0x9ca7c5d28a417dabb27190ed7252249ba4faa3c4f86dcd2ecf4e015cb9661334",
-      "token_id": "110958453830412370079610758666662814158604103955356401754617223365667164129847",
-      "question": "Taipei: Masamichi Imamura vs Luca Staeheli",
-      "link": "https://polyvictor.com/markets/6480473"
+      "market_id": null,
+      "condition_id": "0xdd0d6f59aea6861de2be95f60356d0c1555ac581e4ba72800c8fbe64e4b561c5",
+      "token_id": "47117479029005206558254360956741883841114971749569904990106047047319062274020",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
