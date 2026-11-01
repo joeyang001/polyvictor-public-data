@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-10-31",
-  "generated_at": "2026-10-31T14:00:07.329Z",
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T14:00:17.949Z",
   "status": "success",
   "tweet_ids": [
-    "2116530658205892639",
-    "2116530659359432748"
+    "2116893090220785844",
+    "2116893091407745101"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 558,
-    "total_volume_usd": 26131926.547542986,
-    "unique_whales": 163,
-    "buy_volume_usd": 22510594.852962993,
-    "sell_volume_usd": 3621331.694580001,
+    "total_fills": 698,
+    "total_volume_usd": 31890637.800763026,
+    "unique_whales": 189,
+    "buy_volume_usd": 26167594.65696502,
+    "sell_volume_usd": 5723043.143798,
     "top_markets": [
       {
-        "market_id": "6101711",
-        "question": "Knicks vs. 76ers",
-        "volume_usd": 2151397.966695,
+        "market_id": "5858528",
+        "question": "Atlanta Dream vs. Golden State Valkyries",
+        "volume_usd": 1880521.58432,
+        "fills": 16,
+        "link": "https://polyvictor.com/markets/5858528"
+      },
+      {
+        "market_id": "6167325",
+        "question": "76ers vs. Hornets",
+        "volume_usd": 1542109.558019,
+        "fills": 31,
+        "link": "https://polyvictor.com/markets/6167325"
+      },
+      {
+        "market_id": "6167340",
+        "question": "Thunder vs. Rockets",
+        "volume_usd": 1137997.683508,
         "fills": 30,
-        "link": "https://polyvictor.com/markets/6101711"
-      },
-      {
-        "market_id": "562803",
-        "question": "Will the Republican Party control the House after the 2026 Midterm elections?",
-        "volume_usd": 1850911.4611719998,
-        "fills": 7,
-        "link": "https://polyvictor.com/markets/562803"
-      },
-      {
-        "market_id": "6110056",
-        "question": "Lakers vs. Warriors",
-        "volume_usd": 1122899.333737,
-        "fills": 27,
-        "link": "https://polyvictor.com/markets/6110056"
+        "link": "https://polyvictor.com/markets/6167340"
       }
     ],
     "top_whales": [
       {
         "address": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
-        "volume_usd": 1915007.4978999998,
-        "fills": 35,
+        "volume_usd": 2772077.969999999,
+        "fills": 53,
         "link": "https://polyvictor.com/whales/0xe9b710551dd82a44e79203c2394a2b10163ace7b"
       },
       {
-        "address": "0xc4d1a863e9cc45d02ba22d3a1ae9ba7822018ce8",
-        "volume_usd": 1692000,
-        "fills": 2,
-        "link": "https://polyvictor.com/whales/0xc4d1a863e9cc45d02ba22d3a1ae9ba7822018ce8"
+        "address": "0x88a6c8e00c4752a8c70d24025fa781fa046a7e77",
+        "volume_usd": 2701661.92732,
+        "fills": 27,
+        "link": "https://polyvictor.com/whales/0x88a6c8e00c4752a8c70d24025fa781fa046a7e77"
       },
       {
         "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 1313975.9712,
-        "fills": 23,
+        "volume_usd": 1824602.09924,
+        "fills": 34,
         "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
       }
     ],
     "biggest_fill": {
-      "address": "0xc4d1a863e9cc45d02ba22d3a1ae9ba7822018ce8",
-      "usd": 846000,
+      "address": "0xed107a85a4585a381e48c7f7ca4144909e7dd2e5",
+      "usd": 475000,
       "side": "buy",
-      "price": 0.94,
-      "market_id": "562803",
-      "question": "Will the Republican Party control the House after the 2026 Midterm elections?",
-      "link": "https://polyvictor.com/markets/562803"
+      "price": 0.95,
+      "market_id": "562802",
+      "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
+      "link": "https://polyvictor.com/markets/562802"
     }
   }
 }
