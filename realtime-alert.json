@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-01T22:38:01.361Z",
+  "generated_at": "2026-11-01T23:40:02.446Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "fce2e175-5652-4388-8861-b8d05eb368dd",
-      "ts": "2026-11-01T22:37:08+00:00",
-      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+      "id": "817c683d-c033-42e0-bd59-98a3b31f0473",
+      "ts": "2026-11-01T23:39:21+00:00",
+      "address": "0xf68a281980f8c13828e84e147e3822381d6e5b1b",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Chiefs",
-      "price": 0.69,
-      "shares": 49930,
-      "usd_value": 34451.7,
-      "price_shift_pp": 20.999999999999996,
+      "outcome_label": "Patriots",
+      "price": 0.81,
+      "shares": 40000,
+      "usd_value": 32400.000000000004,
+      "price_shift_pp": 3.6666666666666736,
       "alert_reason": "shift",
-      "market_id": "5657780",
-      "condition_id": "5657780",
-      "token_id": "107556928334585137214709145416262001686220836866724086410988197209350770876757",
-      "question": "Spread: Chiefs (-1.5)",
-      "link": "https://polyvictor.com/markets/5657780"
+      "market_id": "5603328",
+      "condition_id": "5603328",
+      "token_id": "65207020168947602225009503341690938731635183547558681409980151779291143030900",
+      "question": "Patriots vs. Dolphins",
+      "link": "https://polyvictor.com/markets/5603328"
     }
   ]
 }
