@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-10-31T21:30:01.672Z",
+  "generated_at": "2026-11-01T01:46:01.038Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "cfac62c6-2172-449b-8938-646fdffb639f",
-      "ts": "2026-10-31T21:29:37+00:00",
-      "address": "0xebfdb8164f0e0748818d6c7a9ac85a323267fd63",
+      "id": "d8927994-d195-4c0a-b19a-368973c6eb65",
+      "ts": "2026-11-01T01:44:39+00:00",
+      "address": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "YES",
-      "price": 0.510371178637836,
-      "shares": 57608.288302,
-      "usd_value": 29401.61,
-      "price_shift_pp": -6.962865564778642,
+      "outcome_label": "Ohio State",
+      "price": 0.35,
+      "shares": 101988.78,
+      "usd_value": 35696.073,
+      "price_shift_pp": 5.000000059999998,
       "alert_reason": "shift",
-      "market_id": null,
-      "condition_id": "0xd2317dd0dab9b338cdd5062b1df3a243ae8d7e3591dda8e222298ccfc7176d33",
-      "token_id": "45190807604086637387793165049949636656906606517512644316066409596616729675341",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
+      "market_id": "5946846",
+      "condition_id": "5946846",
+      "token_id": "69272956865330139750948850110368508062245270232116537364294796330899819406978",
+      "question": "Ohio State vs. USC",
+      "link": "https://polyvictor.com/markets/5946846"
     }
   ]
 }
