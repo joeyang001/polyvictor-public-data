@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-01T17:04:01.585Z",
+  "generated_at": "2026-11-01T17:20:02.828Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "8f51905e-c0d8-494b-bb00-801e64780490",
+      "ts": "2026-11-01T17:18:14+00:00",
+      "address": "0xa2cced8bfae7d645f7f437fb76becf2fcbb70cbc",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Steelers",
+      "price": 0.51,
+      "shares": 600000,
+      "usd_value": 306000,
+      "price_shift_pp": 0.000010394902338894951,
+      "alert_reason": "size",
+      "market_id": "5654414",
+      "condition_id": "5654414",
+      "token_id": "98280415777843410977524403584862639074474442406289704208261767040435078263943",
+      "question": "Spread: Steelers (-3.5)",
+      "link": "https://polyvictor.com/markets/5654414"
+    },
     {
       "id": "54a5b53c-a237-4425-8be6-215ed5a21092",
       "ts": "2026-11-01T17:02:55+00:00",
