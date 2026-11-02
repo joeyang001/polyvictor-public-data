@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-11-01",
-  "generated_at": "2026-11-01T14:00:17.949Z",
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T14:00:07.275Z",
   "status": "success",
   "tweet_ids": [
-    "2116893090220785844",
-    "2116893091407745101"
+    "2117255433408618786",
+    "2117255434645995589"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 698,
-    "total_volume_usd": 31890637.800763026,
-    "unique_whales": 189,
-    "buy_volume_usd": 26167594.65696502,
-    "sell_volume_usd": 5723043.143798,
+    "total_fills": 663,
+    "total_volume_usd": 33239315.152694013,
+    "unique_whales": 168,
+    "buy_volume_usd": 27551919.980765026,
+    "sell_volume_usd": 5687395.171929,
     "top_markets": [
       {
-        "market_id": "5858528",
-        "question": "Atlanta Dream vs. Golden State Valkyries",
-        "volume_usd": 1880521.58432,
-        "fills": 16,
-        "link": "https://polyvictor.com/markets/5858528"
+        "market_id": "5603325",
+        "question": "Chiefs vs. Broncos",
+        "volume_usd": 2254015.66555,
+        "fills": 39,
+        "link": "https://polyvictor.com/markets/5603325"
       },
       {
-        "market_id": "6167325",
-        "question": "76ers vs. Hornets",
-        "volume_usd": 1542109.558019,
-        "fills": 31,
-        "link": "https://polyvictor.com/markets/6167325"
+        "market_id": "5987188",
+        "question": "Will 1win launch a token by October 31, 2026?",
+        "volume_usd": 2000268.6488199998,
+        "fills": 23,
+        "link": "https://polyvictor.com/markets/5987188"
       },
       {
-        "market_id": "6167340",
-        "question": "Thunder vs. Rockets",
-        "volume_usd": 1137997.683508,
-        "fills": 30,
-        "link": "https://polyvictor.com/markets/6167340"
+        "market_id": "5603301",
+        "question": "Ravens vs. Bills",
+        "volume_usd": 1901949.94692,
+        "fills": 18,
+        "link": "https://polyvictor.com/markets/5603301"
       }
     ],
     "top_whales": [
       {
-        "address": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
-        "volume_usd": 2772077.969999999,
-        "fills": 53,
-        "link": "https://polyvictor.com/whales/0xe9b710551dd82a44e79203c2394a2b10163ace7b"
-      },
-      {
         "address": "0x88a6c8e00c4752a8c70d24025fa781fa046a7e77",
-        "volume_usd": 2701661.92732,
-        "fills": 27,
+        "volume_usd": 3259143.4410200003,
+        "fills": 37,
         "link": "https://polyvictor.com/whales/0x88a6c8e00c4752a8c70d24025fa781fa046a7e77"
       },
       {
-        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 1824602.09924,
-        "fills": 34,
-        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
+        "address": "0xf4c95b636c71243531dfc82a97565a94c106f88c",
+        "volume_usd": 1214601.13508,
+        "fills": 14,
+        "link": "https://polyvictor.com/whales/0xf4c95b636c71243531dfc82a97565a94c106f88c"
+      },
+      {
+        "address": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+        "volume_usd": 1193814.0218,
+        "fills": 11,
+        "link": "https://polyvictor.com/whales/0xf0318c32136c2db7fec88b84869aee6a1106c80c"
       }
     ],
     "biggest_fill": {
-      "address": "0xed107a85a4585a381e48c7f7ca4144909e7dd2e5",
-      "usd": 475000,
+      "address": "0xadc2efbf97ce7b25f7a638aabdba196c657cd1c9",
+      "usd": 505331.17909,
       "side": "buy",
-      "price": 0.95,
-      "market_id": "562802",
-      "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
-      "link": "https://polyvictor.com/markets/562802"
+      "price": 0.999,
+      "market_id": "5987188",
+      "question": "Will 1win launch a token by October 31, 2026?",
+      "link": "https://polyvictor.com/markets/5987188"
     }
   }
 }
