@@ -1,44 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-02T23:50:01.960Z",
+  "generated_at": "2026-11-03T02:50:06.359Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 1,
   "alerts": [
     {
-      "id": "8bccc198-5a3c-4700-9118-32c3fa0ca406",
-      "ts": "2026-11-02T23:48:20+00:00",
-      "address": "0xa2cd4ccda9a1f95949df7a3355c4c2daa0642ba0",
+      "id": "3c106e08-ba3d-4fed-8dcd-2090add06f42",
+      "ts": "2026-11-03T02:49:00+00:00",
+      "address": "0x4b2995b6c8cc2cf56899ad62ee87c3f70c97716f",
       "side": "buy",
       "outcome_index": 0,
       "outcome_label": "Yes",
-      "price": 0.3499718159909216,
-      "shares": 923913.98,
-      "usd_value": 323343.8534,
-      "price_shift_pp": 0.9971817485427081,
+      "price": 0.95,
+      "shares": 320000,
+      "usd_value": 304000,
+      "price_shift_pp": 0,
       "alert_reason": "size",
-      "market_id": "6274257",
-      "condition_id": "6274257",
-      "token_id": "13535941900723044344907002451427688051727855016747811259193368015899108383450",
-      "question": "Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats?",
-      "link": "https://polyvictor.com/markets/6274257"
-    },
-    {
-      "id": "653769d2-2184-4e8c-b569-cdf471a7e1bf",
-      "ts": "2026-11-02T23:44:09+00:00",
-      "address": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
-      "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Cavaliers",
-      "price": 0.4892222422118424,
-      "shares": 718261.66,
-      "usd_value": 351389.5798,
-      "price_shift_pp": 0.9222257571841919,
-      "alert_reason": "size",
-      "market_id": "6544098",
-      "condition_id": "6544098",
-      "token_id": "30468666546688866505394697590352710177066942967691997658439023534686980904573",
-      "question": "Spread: Cavaliers (-4.5)",
-      "link": "https://polyvictor.com/markets/6544098"
+      "market_id": "562802",
+      "condition_id": "562802",
+      "token_id": "83247781037352156539108067944461291821683755894607244160607042790356561625563",
+      "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
+      "link": "https://polyvictor.com/markets/562802"
     }
   ]
 }
