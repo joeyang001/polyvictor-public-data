@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-11-02",
-  "generated_at": "2026-11-02T14:00:07.275Z",
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T14:00:07.519Z",
   "status": "success",
   "tweet_ids": [
-    "2117255433408618786",
-    "2117255434645995589"
+    "2117617821899198798",
+    "2117617823497285747"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 663,
-    "total_volume_usd": 33239315.152694013,
-    "unique_whales": 168,
-    "buy_volume_usd": 27551919.980765026,
-    "sell_volume_usd": 5687395.171929,
+    "total_fills": 365,
+    "total_volume_usd": 18405123.879580002,
+    "unique_whales": 159,
+    "buy_volume_usd": 14820780.517349994,
+    "sell_volume_usd": 3584343.36223,
     "top_markets": [
       {
-        "market_id": "5603325",
-        "question": "Chiefs vs. Broncos",
-        "volume_usd": 2254015.66555,
-        "fills": 39,
-        "link": "https://polyvictor.com/markets/5603325"
+        "market_id": "562802",
+        "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
+        "volume_usd": 2124833.434455,
+        "fills": 27,
+        "link": "https://polyvictor.com/markets/562802"
       },
       {
-        "market_id": "5987188",
-        "question": "Will 1win launch a token by October 31, 2026?",
-        "volume_usd": 2000268.6488199998,
+        "market_id": "562831",
+        "question": "2026 Balance of Power: R Senate, R House",
+        "volume_usd": 1846861.1310510004,
         "fills": 23,
-        "link": "https://polyvictor.com/markets/5987188"
+        "link": "https://polyvictor.com/markets/562831"
       },
       {
-        "market_id": "5603301",
-        "question": "Ravens vs. Bills",
-        "volume_usd": 1901949.94692,
-        "fills": 18,
-        "link": "https://polyvictor.com/markets/5603301"
+        "market_id": "5647429",
+        "question": "Bears vs. Seahawks",
+        "volume_usd": 1241053.1410000003,
+        "fills": 24,
+        "link": "https://polyvictor.com/markets/5647429"
       }
     ],
     "top_whales": [
       {
-        "address": "0x88a6c8e00c4752a8c70d24025fa781fa046a7e77",
-        "volume_usd": 3259143.4410200003,
-        "fills": 37,
-        "link": "https://polyvictor.com/whales/0x88a6c8e00c4752a8c70d24025fa781fa046a7e77"
+        "address": "0x61a3f1ef9c9618f532eb49f0cb260486c168e508",
+        "volume_usd": 913584.883658,
+        "fills": 17,
+        "link": "https://polyvictor.com/whales/0x61a3f1ef9c9618f532eb49f0cb260486c168e508"
       },
       {
-        "address": "0xf4c95b636c71243531dfc82a97565a94c106f88c",
-        "volume_usd": 1214601.13508,
-        "fills": 14,
-        "link": "https://polyvictor.com/whales/0xf4c95b636c71243531dfc82a97565a94c106f88c"
-      },
-      {
-        "address": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
-        "volume_usd": 1193814.0218,
+        "address": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+        "volume_usd": 822638.5696,
         "fills": 11,
-        "link": "https://polyvictor.com/whales/0xf0318c32136c2db7fec88b84869aee6a1106c80c"
+        "link": "https://polyvictor.com/whales/0xe9b710551dd82a44e79203c2394a2b10163ace7b"
+      },
+      {
+        "address": "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e",
+        "volume_usd": 775600.831309,
+        "fills": 8,
+        "link": "https://polyvictor.com/whales/0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e"
       }
     ],
     "biggest_fill": {
-      "address": "0xadc2efbf97ce7b25f7a638aabdba196c657cd1c9",
-      "usd": 505331.17909,
+      "address": "0xf4c95b636c71243531dfc82a97565a94c106f88c",
+      "usd": 446056.4798,
       "side": "buy",
-      "price": 0.999,
-      "market_id": "5987188",
-      "question": "Will 1win launch a token by October 31, 2026?",
-      "link": "https://polyvictor.com/markets/5987188"
+      "price": 0.94,
+      "market_id": "562831",
+      "question": "2026 Balance of Power: R Senate, R House",
+      "link": "https://polyvictor.com/markets/562831"
     }
   }
 }
