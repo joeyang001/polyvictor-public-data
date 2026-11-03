@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-03T23:18:01.366Z",
+  "generated_at": "2026-11-03T23:20:02.571Z",
   "window_minutes": 30,
-  "count": 3,
+  "count": 4,
   "alerts": [
+    {
+      "id": "afc49657-4b64-4662-ab13-c2f454013bf8",
+      "ts": "2026-11-03T23:18:14+00:00",
+      "address": "0xa2cd4ccda9a1f95949df7a3355c4c2daa0642ba0",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.3687424727467599,
+      "shares": 744544.5,
+      "usd_value": 274545.18,
+      "price_shift_pp": 0.8742472746759933,
+      "alert_reason": "size",
+      "market_id": "6274257",
+      "condition_id": "6274257",
+      "token_id": "13535941900723044344907002451427688051727855016747811259193368015899108383450",
+      "question": "Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats?",
+      "link": "https://polyvictor.com/markets/6274257"
+    },
     {
       "id": "c355f3a5-7030-4e57-b86d-10ad922d11c3",
       "ts": "2026-11-03T23:17:53+00:00",
