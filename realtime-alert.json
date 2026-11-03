@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-03T04:06:00.978Z",
+  "generated_at": "2026-11-03T04:18:04.261Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "5048a12c-7ba3-4a93-a3e0-c208f33e324a",
+      "ts": "2026-11-03T04:16:42+00:00",
+      "address": "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "G2",
+      "price": 0.4679680026059456,
+      "shares": 65450.33,
+      "usd_value": 30628.660200000002,
+      "price_shift_pp": -3.9301122610413297,
+      "alert_reason": "shift",
+      "market_id": "6573530",
+      "condition_id": "6573530",
+      "token_id": "52936877218483108697212405315754186260962229780820142424308728069422056536822",
+      "question": "Counter-Strike: Aurora Gaming vs G2 (BO3) - IEM Beijing Group B",
+      "link": "https://polyvictor.com/markets/6573530"
+    },
     {
       "id": "c91a9c6d-2ceb-44d7-a8ce-7c44f8c9bf5d",
       "ts": "2026-11-03T04:03:57+00:00",
