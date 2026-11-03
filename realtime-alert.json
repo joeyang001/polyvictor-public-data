@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-03T02:50:06.359Z",
+  "generated_at": "2026-11-03T04:06:00.978Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "3c106e08-ba3d-4fed-8dcd-2090add06f42",
-      "ts": "2026-11-03T02:49:00+00:00",
-      "address": "0x4b2995b6c8cc2cf56899ad62ee87c3f70c97716f",
-      "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.95,
-      "shares": 320000,
-      "usd_value": 304000,
+      "id": "c91a9c6d-2ceb-44d7-a8ce-7c44f8c9bf5d",
+      "ts": "2026-11-03T04:03:57+00:00",
+      "address": "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e",
+      "side": "sell",
+      "outcome_index": 1,
+      "outcome_label": "PARIVISION",
+      "price": 0.999,
+      "shares": 265330.19,
+      "usd_value": 265064.85981,
       "price_shift_pp": 0,
       "alert_reason": "size",
-      "market_id": "562802",
-      "condition_id": "562802",
-      "token_id": "83247781037352156539108067944461291821683755894607244160607042790356561625563",
-      "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
-      "link": "https://polyvictor.com/markets/562802"
+      "market_id": "6573519",
+      "condition_id": "6573519",
+      "token_id": "29890570691153017283784685948394726129684743256093554091993331795822158055634",
+      "question": "Counter-Strike: Liquid vs PARIVISION (BO3) - IEM Beijing Group B",
+      "link": "https://polyvictor.com/markets/6573519"
     }
   ]
 }
