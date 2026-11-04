@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-04T19:52:01.552Z",
+  "generated_at": "2026-11-04T19:58:01.652Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "0d28b434-8b8f-4088-8db7-f60850c61e1e",
+      "ts": "2026-11-04T19:56:21+00:00",
+      "address": "0x0f6f76ced62a911bccef92f50faaff143854d977",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.6574107710693328,
+      "shares": 398898.37,
+      "usd_value": 262240.085,
+      "price_shift_pp": 0.7410966069274272,
+      "alert_reason": "size",
+      "market_id": "6053457",
+      "condition_id": "6053457",
+      "token_id": "68533368239881425569964775983853821749977582029120812641350510270949287202089",
+      "question": "Will BV Borussia 09 Dortmund win on 2026-11-04?",
+      "link": "https://polyvictor.com/markets/6053457"
+    },
     {
       "id": "33cec2e3-f77c-446e-ae3a-0e2b7355eb67",
       "ts": "2026-11-04T19:50:02+00:00",
