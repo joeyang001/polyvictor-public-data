@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-04T03:58:04.389Z",
+  "generated_at": "2026-11-04T04:24:03.746Z",
   "window_minutes": 30,
   "count": 2,
   "alerts": [
+    {
+      "id": "8cbc2cc9-c698-4ff9-8833-5c1c39de535a",
+      "ts": "2026-11-04T04:22:51+00:00",
+      "address": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+      "side": "sell",
+      "outcome_index": 0,
+      "outcome_label": "YES",
+      "price": 0.4985424363267371,
+      "shares": 54999.93,
+      "usd_value": 27419.7991,
+      "price_shift_pp": -4.145755692326302,
+      "alert_reason": "shift",
+      "market_id": null,
+      "condition_id": "0x55f0ac5275f2de00f7d6c8de83055ccc27ed144ce836556d68e5c05c1684a32d",
+      "token_id": "6339558144738265681936767274993203035097234655372066839605256390402045877821",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
+    },
     {
       "id": "5e22b1f5-ef90-46ba-9241-e86361880b9a",
       "ts": "2026-11-04T03:56:23+00:00",
@@ -21,24 +39,6 @@
       "token_id": "25869296386911654049715489068824757745174681288397238521780118949553760488529",
       "question": "2026 Balance of Power: R Senate, R House",
       "link": "https://polyvictor.com/markets/562831"
-    },
-    {
-      "id": "bed42f43-bc71-418c-a6f8-7223c51e87a4",
-      "ts": "2026-11-04T03:34:41+00:00",
-      "address": "0x0af037c59ede5b3b2a6625f23923057d8296d425",
-      "side": "sell",
-      "outcome_index": 1,
-      "outcome_label": "No",
-      "price": 0.998,
-      "shares": 499999.94,
-      "usd_value": 498999.94012,
-      "price_shift_pp": 0,
-      "alert_reason": "size",
-      "market_id": "562803",
-      "condition_id": "562803",
-      "token_id": "17371217118862125782438074585166210555214661810823929795910191856905580975576",
-      "question": "Will the Republican Party control the House after the 2026 Midterm elections?",
-      "link": "https://polyvictor.com/markets/562803"
     }
   ]
 }
