@@ -1,44 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-04T04:24:03.746Z",
+  "generated_at": "2026-11-04T05:56:05.025Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 1,
   "alerts": [
     {
-      "id": "8cbc2cc9-c698-4ff9-8833-5c1c39de535a",
-      "ts": "2026-11-04T04:22:51+00:00",
-      "address": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+      "id": "031c3942-f2a9-474f-aa09-2e44ce2410fa",
+      "ts": "2026-11-04T05:55:17+00:00",
+      "address": "0xdbf16bcffa41bd95faec2640daa2c95ab2bd86b5",
       "side": "sell",
       "outcome_index": 0,
-      "outcome_label": "YES",
-      "price": 0.4985424363267371,
-      "shares": 54999.93,
-      "usd_value": 27419.7991,
-      "price_shift_pp": -4.145755692326302,
-      "alert_reason": "shift",
-      "market_id": null,
-      "condition_id": "0x55f0ac5275f2de00f7d6c8de83055ccc27ed144ce836556d68e5c05c1684a32d",
-      "token_id": "6339558144738265681936767274993203035097234655372066839605256390402045877821",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
-    },
-    {
-      "id": "5e22b1f5-ef90-46ba-9241-e86361880b9a",
-      "ts": "2026-11-04T03:56:23+00:00",
-      "address": "0xd1c769317bd15de7768a70d0214cf0bbcc531d2b",
-      "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "No",
+      "outcome_label": "Yes",
       "price": 0.999,
-      "shares": 284301.3,
-      "usd_value": 284016.9987,
+      "shares": 304174.19,
+      "usd_value": 303870.01581,
       "price_shift_pp": 0,
       "alert_reason": "size",
-      "market_id": "562831",
-      "condition_id": "562831",
-      "token_id": "25869296386911654049715489068824757745174681288397238521780118949553760488529",
-      "question": "2026 Balance of Power: R Senate, R House",
-      "link": "https://polyvictor.com/markets/562831"
+      "market_id": "562828",
+      "condition_id": "562828",
+      "token_id": "34722410608062854697106861099776685947172185964394483545370684749662285977831",
+      "question": "2026 Balance of Power: D Senate, D House",
+      "link": "https://polyvictor.com/markets/562828"
     }
   ]
 }
