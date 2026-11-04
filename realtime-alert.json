@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-04T13:58:01.076Z",
+  "generated_at": "2026-11-04T19:52:01.552Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "7437be39-30d4-4002-84a1-6935ce5a3a1a",
-      "ts": "2026-11-04T13:57:18+00:00",
-      "address": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+      "id": "33cec2e3-f77c-446e-ae3a-0e2b7355eb67",
+      "ts": "2026-11-04T19:50:02+00:00",
+      "address": "0x0f6f76ced62a911bccef92f50faaff143854d977",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Real Madrid CF",
-      "price": 0.99,
-      "shares": 313153.9898,
-      "usd_value": 310022.44990199996,
-      "price_shift_pp": -0.5000000000000004,
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.62,
+      "shares": 814519.41,
+      "usd_value": 505002.0342,
+      "price_shift_pp": 0,
       "alert_reason": "size",
-      "market_id": "6021418",
-      "condition_id": "6021418",
-      "token_id": "91142229392437039200105724576123260242116117650449347770468840486817945972086",
-      "question": "Spread: AEK (-2.5)",
-      "link": "https://polyvictor.com/markets/6021418"
+      "market_id": "6053457",
+      "condition_id": "6053457",
+      "token_id": "68533368239881425569964775983853821749977582029120812641350510270949287202089",
+      "question": "Will BV Borussia 09 Dortmund win on 2026-11-04?",
+      "link": "https://polyvictor.com/markets/6053457"
     }
   ]
 }
