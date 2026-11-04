@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-04T03:36:07.023Z",
+  "generated_at": "2026-11-04T03:58:04.389Z",
   "window_minutes": 30,
   "count": 2,
   "alerts": [
+    {
+      "id": "5e22b1f5-ef90-46ba-9241-e86361880b9a",
+      "ts": "2026-11-04T03:56:23+00:00",
+      "address": "0xd1c769317bd15de7768a70d0214cf0bbcc531d2b",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.999,
+      "shares": 284301.3,
+      "usd_value": 284016.9987,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "562831",
+      "condition_id": "562831",
+      "token_id": "25869296386911654049715489068824757745174681288397238521780118949553760488529",
+      "question": "2026 Balance of Power: R Senate, R House",
+      "link": "https://polyvictor.com/markets/562831"
+    },
     {
       "id": "bed42f43-bc71-418c-a6f8-7223c51e87a4",
       "ts": "2026-11-04T03:34:41+00:00",
@@ -21,24 +39,6 @@
       "token_id": "17371217118862125782438074585166210555214661810823929795910191856905580975576",
       "question": "Will the Republican Party control the House after the 2026 Midterm elections?",
       "link": "https://polyvictor.com/markets/562803"
-    },
-    {
-      "id": "6ea6a687-714a-48da-a251-24ad2c05e3fe",
-      "ts": "2026-11-04T03:12:42+00:00",
-      "address": "0xe3f2ecfd3e648bdabcd3fb701ccf294f13afe1c1",
-      "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "No",
-      "price": 0.991926563728748,
-      "shares": 30213.68,
-      "usd_value": 29969.75178,
-      "price_shift_pp": 85.7926563728748,
-      "alert_reason": "shift",
-      "market_id": "3591982",
-      "condition_id": "0x7d3a48c3b8fa76ce0698331bd4ee89955bfee5381a16f7ee9591a6d5f6c1fad4",
-      "token_id": "71499348820045821843407747284307244514493968224297950223245705227732721616792",
-      "question": "First Round Outright Winner in the GA-09 House Election?",
-      "link": "https://polyvictor.com/markets/3591982"
     }
   ]
 }
