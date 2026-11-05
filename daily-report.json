@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-11-04",
-  "generated_at": "2026-11-04T14:00:07.621Z",
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T14:00:05.945Z",
   "status": "success",
   "tweet_ids": [
-    "2117980210716950858",
-    "2117980211857723640"
+    "2118342590789566508",
+    "2118342592186216745"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 569,
-    "total_volume_usd": 30719762.612808004,
-    "unique_whales": 243,
-    "buy_volume_usd": 22208278.924137987,
-    "sell_volume_usd": 8511483.68867,
+    "total_fills": 281,
+    "total_volume_usd": 14695896.952256994,
+    "unique_whales": 124,
+    "buy_volume_usd": 12663373.903896993,
+    "sell_volume_usd": 2032523.0483600001,
     "top_markets": [
       {
-        "market_id": "562802",
-        "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
-        "volume_usd": 4957222.9418520015,
-        "fills": 62,
-        "link": "https://polyvictor.com/markets/562802"
-      },
-      {
-        "market_id": "562793",
-        "question": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
-        "volume_usd": 1992039.098835,
-        "fills": 49,
-        "link": "https://polyvictor.com/markets/562793"
-      },
-      {
-        "market_id": "562803",
-        "question": "Will the Republican Party control the House after the 2026 Midterm elections?",
-        "volume_usd": 1941029.956442,
+        "market_id": "6053457",
+        "question": "Will BV Borussia 09 Dortmund win on 2026-11-04?",
+        "volume_usd": 1919126.0283000001,
         "fills": 16,
-        "link": "https://polyvictor.com/markets/562803"
+        "link": "https://polyvictor.com/markets/6053457"
+      },
+      {
+        "market_id": "6501460",
+        "question": "LoL: Gen.G vs LYON - Game 2 Winner",
+        "volume_usd": 844598.5333,
+        "fills": 16,
+        "link": "https://polyvictor.com/markets/6501460"
+      },
+      {
+        "market_id": "6018963",
+        "question": "Will AEK win on 2026-11-04?",
+        "volume_usd": 763701.1598,
+        "fills": 12,
+        "link": "https://polyvictor.com/markets/6018963"
       }
     ],
     "top_whales": [
       {
-        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 1929774.9536199998,
-        "fills": 22,
-        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
+        "address": "0x0f6f76ced62a911bccef92f50faaff143854d977",
+        "volume_usd": 1809385.171,
+        "fills": 13,
+        "link": "https://polyvictor.com/whales/0x0f6f76ced62a911bccef92f50faaff143854d977"
       },
       {
-        "address": "0xa2cd4ccda9a1f95949df7a3355c4c2daa0642ba0",
-        "volume_usd": 1501980.9719699998,
-        "fills": 4,
-        "link": "https://polyvictor.com/whales/0xa2cd4ccda9a1f95949df7a3355c4c2daa0642ba0"
+        "address": "0x549b491ac7f6a675b56ff0a261d147daa73ac0ae",
+        "volume_usd": 1227340.0994,
+        "fills": 21,
+        "link": "https://polyvictor.com/whales/0x549b491ac7f6a675b56ff0a261d147daa73ac0ae"
       },
       {
-        "address": "0xfcd0eadb24d78e016e88b9e2a7029e349ba6391d",
-        "volume_usd": 949299.1945,
-        "fills": 1,
-        "link": "https://polyvictor.com/whales/0xfcd0eadb24d78e016e88b9e2a7029e349ba6391d"
+        "address": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+        "volume_usd": 718759.3060999999,
+        "fills": 11,
+        "link": "https://polyvictor.com/whales/0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e"
       }
     ],
     "biggest_fill": {
-      "address": "0xfcd0eadb24d78e016e88b9e2a7029e349ba6391d",
-      "usd": 949299.1945,
+      "address": "0x0f6f76ced62a911bccef92f50faaff143854d977",
+      "usd": 505002.0342,
       "side": "buy",
-      "price": 0.95,
-      "market_id": "562802",
-      "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
-      "link": "https://polyvictor.com/markets/562802"
+      "price": 0.62,
+      "market_id": "6053457",
+      "question": "Will BV Borussia 09 Dortmund win on 2026-11-04?",
+      "link": "https://polyvictor.com/markets/6053457"
     }
   }
 }
