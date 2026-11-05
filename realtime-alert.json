@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-05T03:26:01.318Z",
+  "generated_at": "2026-11-05T09:33:41.832Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "162b1f40-6bcd-4b02-91b5-9183222fe34b",
-      "ts": "2026-11-05T03:24:24+00:00",
-      "address": "0xbe23032d56a012c531b372c7739bc1dbd4dfb587",
-      "side": "sell",
+      "id": "4824db0e-e2dd-4950-a0ee-e3f998af70d2",
+      "ts": "2026-11-05T09:30:45+00:00",
+      "address": "0xdbbbde184ab04018ce0373c0dbe4e5fd6be805a8",
+      "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Over",
-      "price": 0.9966905487350265,
-      "shares": 175370.07,
-      "usd_value": 174789.6913,
-      "price_shift_pp": 61.983407956330126,
+      "outcome_label": "YES",
+      "price": 0.8855642019394633,
+      "shares": 56461.180212,
+      "usd_value": 49999.999995,
+      "price_shift_pp": 3.5564286939794743,
       "alert_reason": "shift",
-      "market_id": "6268870",
-      "condition_id": "6268870",
-      "token_id": "92336544162559425359896874816578321895042676685069963747698205497811616048393",
-      "question": "Ball State vs. UMass: O/U 47.5",
-      "link": "https://polyvictor.com/markets/6268870"
+      "market_id": null,
+      "condition_id": "0xc0a58aeb353b14ebc8a63f0e6f081fc5c28b4d175e42e2dd64d99a23ffc121a2",
+      "token_id": "20590341649619561070536952212439368264869132874896413478907381111494558468891",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
