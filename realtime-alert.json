@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-06T14:36:01.885Z",
+  "generated_at": "2026-11-06T15:18:02.167Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "0c5d2ce6-fd4c-4068-9f26-ae3192d31733",
-      "ts": "2026-11-06T14:34:45+00:00",
-      "address": "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e",
-      "side": "sell",
-      "outcome_index": 1,
-      "outcome_label": "BetBoom Team",
-      "price": 0.999,
-      "shares": 475076.96,
-      "usd_value": 474601.88304000004,
-      "price_shift_pp": 0,
-      "alert_reason": "size",
-      "market_id": "6675992",
-      "condition_id": "6675992",
-      "token_id": "29008601036722659028880962658844978645174693850545195333535511190914757017599",
-      "question": "Counter-Strike: FURIA vs BetBoom Team (BO3) - IEM Beijing Playoffs",
-      "link": "https://polyvictor.com/markets/6675992"
+      "id": "88925ecc-83af-4384-ad0f-136390746a06",
+      "ts": "2026-11-06T15:17:26+00:00",
+      "address": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "YES",
+      "price": 0.52,
+      "shares": 50000,
+      "usd_value": 26000,
+      "price_shift_pp": -3.0000000000000027,
+      "alert_reason": "shift",
+      "market_id": null,
+      "condition_id": "0x26339fd19147a4c2671b333b902ac3191c803b00e414631a6ecd83dca9ecd295",
+      "token_id": "50074607561928139158050303601993540454318298615338526392332605856210074435458",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
