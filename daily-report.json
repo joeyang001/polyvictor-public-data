@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-11-05",
-  "generated_at": "2026-11-05T14:00:05.945Z",
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T14:00:07.447Z",
   "status": "success",
   "tweet_ids": [
-    "2118342590789566508",
-    "2118342592186216745"
+    "2118704985877758181",
+    "2118704987131851255"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 281,
-    "total_volume_usd": 14695896.952256994,
-    "unique_whales": 124,
-    "buy_volume_usd": 12663373.903896993,
-    "sell_volume_usd": 2032523.0483600001,
+    "total_fills": 262,
+    "total_volume_usd": 10624544.080939,
+    "unique_whales": 113,
+    "buy_volume_usd": 8698009.333448997,
+    "sell_volume_usd": 1926534.7474899993,
     "top_markets": [
       {
-        "market_id": "6053457",
-        "question": "Will BV Borussia 09 Dortmund win on 2026-11-04?",
-        "volume_usd": 1919126.0283000001,
-        "fills": 16,
-        "link": "https://polyvictor.com/markets/6053457"
+        "market_id": "5772981",
+        "question": "Jaguars vs. Ravens",
+        "volume_usd": 1725726.564608,
+        "fills": 20,
+        "link": "https://polyvictor.com/markets/5772981"
       },
       {
-        "market_id": "6501460",
-        "question": "LoL: Gen.G vs LYON - Game 2 Winner",
-        "volume_usd": 844598.5333,
-        "fills": 16,
-        "link": "https://polyvictor.com/markets/6501460"
+        "market_id": "6501390",
+        "question": "LoL: Dplus KIA vs Bilibili Gaming - Game 1 Winner",
+        "volume_usd": 1443109.78,
+        "fills": 35,
+        "link": "https://polyvictor.com/markets/6501390"
       },
       {
-        "market_id": "6018963",
-        "question": "Will AEK win on 2026-11-04?",
-        "volume_usd": 763701.1598,
-        "fills": 12,
-        "link": "https://polyvictor.com/markets/6018963"
+        "market_id": "6501392",
+        "question": "LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner",
+        "volume_usd": 754073.78715,
+        "fills": 18,
+        "link": "https://polyvictor.com/markets/6501392"
       }
     ],
     "top_whales": [
       {
-        "address": "0x0f6f76ced62a911bccef92f50faaff143854d977",
-        "volume_usd": 1809385.171,
-        "fills": 13,
-        "link": "https://polyvictor.com/whales/0x0f6f76ced62a911bccef92f50faaff143854d977"
-      },
-      {
         "address": "0x549b491ac7f6a675b56ff0a261d147daa73ac0ae",
-        "volume_usd": 1227340.0994,
-        "fills": 21,
+        "volume_usd": 981847.6364000001,
+        "fills": 20,
         "link": "https://polyvictor.com/whales/0x549b491ac7f6a675b56ff0a261d147daa73ac0ae"
       },
       {
-        "address": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
-        "volume_usd": 718759.3060999999,
+        "address": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+        "volume_usd": 882029.0547,
+        "fills": 4,
+        "link": "https://polyvictor.com/whales/0x4bff30af91642dc7d2b19a8664378fe55c45fc26"
+      },
+      {
+        "address": "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e",
+        "volume_usd": 467632.74241899996,
         "fills": 11,
-        "link": "https://polyvictor.com/whales/0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e"
+        "link": "https://polyvictor.com/whales/0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e"
       }
     ],
     "biggest_fill": {
-      "address": "0x0f6f76ced62a911bccef92f50faaff143854d977",
-      "usd": 505002.0342,
+      "address": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+      "usd": 599455.8726,
       "side": "buy",
-      "price": 0.62,
-      "market_id": "6053457",
-      "question": "Will BV Borussia 09 Dortmund win on 2026-11-04?",
-      "link": "https://polyvictor.com/markets/6053457"
+      "price": 0.78,
+      "market_id": "5772981",
+      "question": "Jaguars vs. Ravens",
+      "link": "https://polyvictor.com/markets/5772981"
     }
   }
 }
