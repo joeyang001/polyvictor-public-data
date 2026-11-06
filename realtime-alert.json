@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-06T07:10:02.189Z",
+  "generated_at": "2026-11-06T13:00:06.822Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "249c2f1e-c917-42fc-b28b-badd66f02cae",
-      "ts": "2026-11-06T07:09:18+00:00",
-      "address": "0xfbe66593e49c4e7a7180a2582f041158bfb800f8",
+      "id": "09a43872-8c19-4da0-a89a-7ba57c4f65e7",
+      "ts": "2026-11-06T12:59:15+00:00",
+      "address": "0x8bfee7aeca33003fe9d7398d5143dc7866542d74",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.72,
-      "shares": 102000,
-      "usd_value": 73440,
-      "price_shift_pp": 3.9999999999999925,
+      "outcome_index": 1,
+      "outcome_label": "Alexandra Eala",
+      "price": 0.84,
+      "shares": 36747.23,
+      "usd_value": 30867.6732,
+      "price_shift_pp": -3.0000000000000027,
       "alert_reason": "shift",
-      "market_id": "3580932",
-      "condition_id": "3580932",
-      "token_id": "100205215067722297517595068937257697192973299370955287626157382353628199508318",
-      "question": "Will Chiang Wan-an win the next Taipei Mayor election?",
-      "link": "https://polyvictor.com/markets/3580932"
+      "market_id": "6721551",
+      "condition_id": "6721551",
+      "token_id": "4153187084339769218358331298047555482644058292109756245638972401267111311615",
+      "question": "Prudential Hong Kong Tennis Open: Antonia Ruzic vs Alexandra Eala",
+      "link": "https://polyvictor.com/markets/6721551"
     }
   ]
 }
