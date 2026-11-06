@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-06T15:18:02.167Z",
+  "generated_at": "2026-11-06T21:22:02.392Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "88925ecc-83af-4384-ad0f-136390746a06",
-      "ts": "2026-11-06T15:17:26+00:00",
-      "address": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+      "id": "7d109d5e-f795-49e3-ac53-0f91e682c9e8",
+      "ts": "2026-11-06T21:20:34+00:00",
+      "address": "0xfc25f141ed27bb1787338d2c4e7f51e3a15e1f7f",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "YES",
-      "price": 0.52,
-      "shares": 50000,
-      "usd_value": 26000,
-      "price_shift_pp": -3.0000000000000027,
+      "outcome_index": 1,
+      "outcome_label": "Under",
+      "price": 0.999,
+      "shares": 130130.13,
+      "usd_value": 129999.99987,
+      "price_shift_pp": 3.9000000000000035,
       "alert_reason": "shift",
-      "market_id": null,
-      "condition_id": "0x26339fd19147a4c2671b333b902ac3191c803b00e414631a6ecd83dca9ecd295",
-      "token_id": "50074607561928139158050303601993540454318298615338526392332605856210074435458",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
+      "market_id": "6107497",
+      "condition_id": "6107497",
+      "token_id": "66900915420729961674878410019276512363528890100947771588425331130774401651867",
+      "question": "Hamburger SV vs. Borussia Mönchengladbach: O/U 5.5",
+      "link": "https://polyvictor.com/markets/6107497"
     }
   ]
 }
