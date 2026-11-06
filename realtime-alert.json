@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-05T09:33:41.832Z",
+  "generated_at": "2026-11-06T01:16:01.372Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "4824db0e-e2dd-4950-a0ee-e3f998af70d2",
-      "ts": "2026-11-05T09:30:45+00:00",
-      "address": "0xdbbbde184ab04018ce0373c0dbe4e5fd6be805a8",
+      "id": "8f212b10-0b79-431e-9c57-195c0085998d",
+      "ts": "2026-11-06T01:14:38+00:00",
+      "address": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "YES",
-      "price": 0.8855642019394633,
-      "shares": 56461.180212,
-      "usd_value": 49999.999995,
-      "price_shift_pp": 3.5564286939794743,
-      "alert_reason": "shift",
-      "market_id": null,
-      "condition_id": "0xc0a58aeb353b14ebc8a63f0e6f081fc5c28b4d175e42e2dd64d99a23ffc121a2",
-      "token_id": "20590341649619561070536952212439368264869132874896413478907381111494558468891",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
+      "outcome_label": "Jaguars",
+      "price": 0.78,
+      "shares": 768533.17,
+      "usd_value": 599455.8726,
+      "price_shift_pp": 1.0000000000000009,
+      "alert_reason": "size",
+      "market_id": "5772981",
+      "condition_id": "5772981",
+      "token_id": "46946790888457602468068092945515694852016445093270213103048841484524699155316",
+      "question": "Jaguars vs. Ravens",
+      "link": "https://polyvictor.com/markets/5772981"
     }
   ]
 }
