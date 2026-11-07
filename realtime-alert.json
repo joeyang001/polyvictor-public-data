@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-07T01:04:01.753Z",
+  "generated_at": "2026-11-07T11:38:01.529Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "98713a73-4448-4d8c-a321-ccf74efc68eb",
-      "ts": "2026-11-07T01:03:34+00:00",
-      "address": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
-      "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Bucks",
-      "price": 0.41,
-      "shares": 701389.72,
-      "usd_value": 287569.7852,
-      "price_shift_pp": 1.6399999691607547e-7,
+      "id": "589f954d-4ff3-42dc-a62b-04d3eebcea68",
+      "ts": "2026-11-07T11:36:37+00:00",
+      "address": "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e",
+      "side": "sell",
+      "outcome_index": 0,
+      "outcome_label": "MOUZ",
+      "price": 0.999,
+      "shares": 360627.79,
+      "usd_value": 360267.16221,
+      "price_shift_pp": 0,
       "alert_reason": "size",
-      "market_id": "6428602",
-      "condition_id": "6428602",
-      "token_id": "100774961222554041412633792531640567596158577345275773406377291017014144156253",
-      "question": "Raptors vs. Bucks",
-      "link": "https://polyvictor.com/markets/6428602"
+      "market_id": "6749862",
+      "condition_id": "6749862",
+      "token_id": "83222389021332613022083775269868082156021205431066804554386720273624770686750",
+      "question": "Counter-Strike: MOUZ vs BetBoom Team (BO3) - IEM Beijing Playoffs",
+      "link": "https://polyvictor.com/markets/6749862"
     }
   ]
 }
