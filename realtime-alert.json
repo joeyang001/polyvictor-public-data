@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-07T11:38:01.529Z",
+  "generated_at": "2026-11-07T14:48:06.519Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "589f954d-4ff3-42dc-a62b-04d3eebcea68",
-      "ts": "2026-11-07T11:36:37+00:00",
-      "address": "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e",
-      "side": "sell",
+      "id": "3c8daa3f-89b4-44ba-81ba-c36e6ae6edaf",
+      "ts": "2026-11-07T14:46:13+00:00",
+      "address": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+      "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "MOUZ",
-      "price": 0.999,
-      "shares": 360627.79,
-      "usd_value": 360267.16221,
-      "price_shift_pp": 0,
-      "alert_reason": "size",
-      "market_id": "6749862",
-      "condition_id": "6749862",
-      "token_id": "83222389021332613022083775269868082156021205431066804554386720273624770686750",
-      "question": "Counter-Strike: MOUZ vs BetBoom Team (BO3) - IEM Beijing Playoffs",
-      "link": "https://polyvictor.com/markets/6749862"
+      "outcome_label": "YES",
+      "price": 0.83,
+      "shares": 66151.79,
+      "usd_value": 54905.98569999999,
+      "price_shift_pp": -7.999999965640936,
+      "alert_reason": "shift",
+      "market_id": null,
+      "condition_id": "",
+      "token_id": "58109835461452544983475254588138482808728259896722892738435641088516046720412",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
