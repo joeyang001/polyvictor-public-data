@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-07T21:16:02.032Z",
+  "generated_at": "2026-11-07T21:28:06.145Z",
   "window_minutes": 30,
   "count": 2,
   "alerts": [
+    {
+      "id": "075fb343-1bba-4ffc-9a61-4a87b1505d4d",
+      "ts": "2026-11-07T21:27:50+00:00",
+      "address": "0x26b46988d027c6c03cfa12a7c0c6d778be49b8a9",
+      "side": "sell",
+      "outcome_index": 1,
+      "outcome_label": "Arkansas",
+      "price": 0.999,
+      "shares": 35000,
+      "usd_value": 34965,
+      "price_shift_pp": 3.6466278112636363,
+      "alert_reason": "shift",
+      "market_id": "6271191",
+      "condition_id": "6271191",
+      "token_id": "65813309692623295516133536942609174536566818834631310403601981303015998015621",
+      "question": "Spread: Auburn (-3.5)",
+      "link": "https://polyvictor.com/markets/6271191"
+    },
     {
       "id": "0806a4be-da6d-4fb3-aa17-8525689bcb46",
       "ts": "2026-11-07T21:15:53+00:00",
@@ -21,24 +39,6 @@
       "token_id": "57898550160304848507849718553063538796489859989999141615625090095504007791903",
       "question": "Will US Sassuolo Calcio win on 2026-11-07?",
       "link": "https://polyvictor.com/markets/6163549"
-    },
-    {
-      "id": "a30c20a5-ae66-4b78-b781-769be2051380",
-      "ts": "2026-11-07T20:52:48+00:00",
-      "address": "0x88a6c8e00c4752a8c70d24025fa781fa046a7e77",
-      "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Ohio State",
-      "price": 0.83,
-      "shares": 54313.04,
-      "usd_value": 45079.8232,
-      "price_shift_pp": 6.000000012084117,
-      "alert_reason": "shift",
-      "market_id": "6274161",
-      "condition_id": "6274161",
-      "token_id": "44750611721166040469166723627033051632993254209426895214027569990445297454434",
-      "question": "Oregon vs. Ohio State",
-      "link": "https://polyvictor.com/markets/6274161"
     }
   ]
 }
