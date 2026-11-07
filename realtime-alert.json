@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-07T21:28:06.145Z",
+  "generated_at": "2026-11-07T21:32:02.232Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 3,
   "alerts": [
+    {
+      "id": "bc94160e-14d0-4629-9ec7-400ce93029cb",
+      "ts": "2026-11-07T21:30:08+00:00",
+      "address": "0x26b46988d027c6c03cfa12a7c0c6d778be49b8a9",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "LSU",
+      "price": 0.6087044077781145,
+      "shares": 42713.671312,
+      "usd_value": 26000,
+      "price_shift_pp": -5.129559219318979,
+      "alert_reason": "shift",
+      "market_id": "6274396",
+      "condition_id": "6274396",
+      "token_id": "100616989749057082911038108098105241694784891918159200406893359574639004433713",
+      "question": "Alabama vs. LSU",
+      "link": "https://polyvictor.com/markets/6274396"
+    },
     {
       "id": "075fb343-1bba-4ffc-9a61-4a87b1505d4d",
       "ts": "2026-11-07T21:27:50+00:00",
