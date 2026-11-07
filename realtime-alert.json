@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-06T21:22:02.392Z",
+  "generated_at": "2026-11-07T01:04:01.753Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "7d109d5e-f795-49e3-ac53-0f91e682c9e8",
-      "ts": "2026-11-06T21:20:34+00:00",
-      "address": "0xfc25f141ed27bb1787338d2c4e7f51e3a15e1f7f",
+      "id": "98713a73-4448-4d8c-a321-ccf74efc68eb",
+      "ts": "2026-11-07T01:03:34+00:00",
+      "address": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
       "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "Under",
-      "price": 0.999,
-      "shares": 130130.13,
-      "usd_value": 129999.99987,
-      "price_shift_pp": 3.9000000000000035,
-      "alert_reason": "shift",
-      "market_id": "6107497",
-      "condition_id": "6107497",
-      "token_id": "66900915420729961674878410019276512363528890100947771588425331130774401651867",
-      "question": "Hamburger SV vs. Borussia Mönchengladbach: O/U 5.5",
-      "link": "https://polyvictor.com/markets/6107497"
+      "outcome_label": "Bucks",
+      "price": 0.41,
+      "shares": 701389.72,
+      "usd_value": 287569.7852,
+      "price_shift_pp": 1.6399999691607547e-7,
+      "alert_reason": "size",
+      "market_id": "6428602",
+      "condition_id": "6428602",
+      "token_id": "100774961222554041412633792531640567596158577345275773406377291017014144156253",
+      "question": "Raptors vs. Bucks",
+      "link": "https://polyvictor.com/markets/6428602"
     }
   ]
 }
