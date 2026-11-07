@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-07T18:34:01.760Z",
+  "generated_at": "2026-11-07T20:54:01.336Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "1b51fcde-4fa9-4226-bbc4-9a664da5db3f",
-      "ts": "2026-11-07T18:33:42+00:00",
-      "address": "0x983eedfbd75803602e4a6e6ea9aab6dc6b9c6748",
+      "id": "a30c20a5-ae66-4b78-b781-769be2051380",
+      "ts": "2026-11-07T20:52:48+00:00",
+      "address": "0x88a6c8e00c4752a8c70d24025fa781fa046a7e77",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.7198131332354089,
-      "shares": 967602.24,
-      "usd_value": 696492.8001,
-      "price_shift_pp": -0.01868667645911204,
-      "alert_reason": "size",
-      "market_id": "6172022",
-      "condition_id": "6172022",
-      "token_id": "11549330116287212787211909357117456555700553773658163699200966582584248474185",
-      "question": "Will Nottingham Forest FC win on 2026-11-07?",
-      "link": "https://polyvictor.com/markets/6172022"
+      "outcome_index": 1,
+      "outcome_label": "Ohio State",
+      "price": 0.83,
+      "shares": 54313.04,
+      "usd_value": 45079.8232,
+      "price_shift_pp": 6.000000012084117,
+      "alert_reason": "shift",
+      "market_id": "6274161",
+      "condition_id": "6274161",
+      "token_id": "44750611721166040469166723627033051632993254209426895214027569990445297454434",
+      "question": "Oregon vs. Ohio State",
+      "link": "https://polyvictor.com/markets/6274161"
     }
   ]
 }
