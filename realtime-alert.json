@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-08T10:22:04.282Z",
+  "generated_at": "2026-11-08T13:28:01.874Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "b99ae27f-79b8-4467-8972-4ff35d753fef",
-      "ts": "2026-11-08T10:21:06+00:00",
-      "address": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
+      "id": "6846fb6d-e471-47e7-825b-04abfd7ab0f1",
+      "ts": "2026-11-08T13:27:00+00:00",
+      "address": "0x4a1a27c4af018a874e97e551410953cb29e70208",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.52,
-      "shares": 781000,
-      "usd_value": 406120,
-      "price_shift_pp": 0.0000017948225683461771,
-      "alert_reason": "size",
-      "market_id": "6236747",
-      "condition_id": "6236747",
-      "token_id": "67836240062945612961015212026161341770020170335807890733564978252284352331343",
-      "question": "Will Chelsea FC win on 2026-11-08?",
-      "link": "https://polyvictor.com/markets/6236747"
+      "outcome_label": "YES",
+      "price": 0.9895871692993508,
+      "shares": 56754.5,
+      "usd_value": 56163.525,
+      "price_shift_pp": 4.958716929935081,
+      "alert_reason": "shift",
+      "market_id": null,
+      "condition_id": "0xe2fa1f02dd098aa006e0adfca0c6adb78260940e1bd70a7058f7815235c2d148",
+      "token_id": "62633337986217671256677913288245081072313237100456495215635130967601573909062",
+      "question": null,
+      "link": "https://polyvictor.com/whales"
     }
   ]
 }
