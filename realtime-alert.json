@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-08T21:06:01.793Z",
+  "generated_at": "2026-11-08T21:34:03.097Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "3caf785d-df6a-4ec5-8a27-8d9b731a243f",
+      "ts": "2026-11-08T21:31:51+00:00",
+      "address": "0xe6535d86446728d567f4929557c2c4eb3cdbc4a7",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "Saints",
+      "price": 0.9822817904069905,
+      "shares": 39427.46,
+      "usd_value": 38728.876000000004,
+      "price_shift_pp": 6.228179207971818,
+      "alert_reason": "shift",
+      "market_id": "5920627",
+      "condition_id": "0x62e01f20b8345769f914d06b7c695e40b57e7857226c3fe327ea20316ce91fb1",
+      "token_id": "25222039130089161290423399468636703200969025789584946075688375171984425446408",
+      "question": "Browns vs. Saints",
+      "link": "https://polyvictor.com/markets/5920627"
+    },
     {
       "id": "67d7c93c-27d6-4fb0-8aff-2cc5c2270f9e",
       "ts": "2026-11-08T21:04:23+00:00",
