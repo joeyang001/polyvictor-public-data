@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-07T23:58:01.424Z",
+  "generated_at": "2026-11-08T00:42:18.895Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "91fb6430-262b-4bd8-8749-12d962284693",
-      "ts": "2026-11-07T23:57:41+00:00",
-      "address": "0x88a6c8e00c4752a8c70d24025fa781fa046a7e77",
-      "side": "sell",
-      "outcome_index": 0,
-      "outcome_label": "Alabama",
-      "price": 0.999,
-      "shares": 413646.49,
-      "usd_value": 413232.84351,
-      "price_shift_pp": 0,
-      "alert_reason": "size",
-      "market_id": "6274396",
-      "condition_id": "6274396",
-      "token_id": "25756552894992778996679442132376008887465857314840077319068830479352478201047",
-      "question": "Alabama vs. LSU",
-      "link": "https://polyvictor.com/markets/6274396"
+      "id": "12faf650-4d7d-43d2-9027-3f80811f2744",
+      "ts": "2026-11-08T00:41:03+00:00",
+      "address": "0x52ecea7b3159f09db589e4f4ee64872fd0bba6f3",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "Gen.G",
+      "price": 0.99,
+      "shares": 27170.99,
+      "usd_value": 26899.2801,
+      "price_shift_pp": 3.0000000000000027,
+      "alert_reason": "shift",
+      "market_id": "6702334",
+      "condition_id": "6702334",
+      "token_id": "16710585497576957987588296468868832544981071899665001221974146191399890527693",
+      "question": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
+      "link": "https://polyvictor.com/markets/6702334"
     }
   ]
 }
