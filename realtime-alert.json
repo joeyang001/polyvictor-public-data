@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-08T15:56:01.849Z",
+  "generated_at": "2026-11-08T15:58:03.057Z",
   "window_minutes": 30,
-  "count": 2,
+  "count": 3,
   "alerts": [
+    {
+      "id": "cacd7de0-becd-48d5-b62e-c5e7f8be69ee",
+      "ts": "2026-11-08T15:56:32+00:00",
+      "address": "0x127e88ca7f26b32be5ff2b005c5478cbd3833dd8",
+      "side": "sell",
+      "outcome_index": 1,
+      "outcome_label": "Under",
+      "price": 0.999,
+      "shares": 26537.52,
+      "usd_value": 26510.98248,
+      "price_shift_pp": 5.218936256302031,
+      "alert_reason": "shift",
+      "market_id": "6240086",
+      "condition_id": "6240086",
+      "token_id": "54300045132785545514555864486219800387043758405146762423805716523600940537828",
+      "question": "Crystal Palace FC vs. Liverpool FC: O/U 5.5",
+      "link": "https://polyvictor.com/markets/6240086"
+    },
     {
       "id": "6f0ef6ba-3d69-47c4-8035-27fc13151c37",
       "ts": "2026-11-08T15:55:18+00:00",
