@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-08T05:58:01.658Z",
+  "generated_at": "2026-11-08T10:22:04.282Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "f6ae7c89-f8fe-4ec6-b438-29d98e09ea74",
-      "ts": "2026-11-08T05:57:07+00:00",
-      "address": "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e",
-      "side": "sell",
+      "id": "b99ae27f-79b8-4467-8972-4ff35d753fef",
+      "ts": "2026-11-08T10:21:06+00:00",
+      "address": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
+      "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Natus Vincere",
-      "price": 0.999,
-      "shares": 295610.5,
-      "usd_value": 295314.8895,
-      "price_shift_pp": 0,
+      "outcome_label": "Yes",
+      "price": 0.52,
+      "shares": 781000,
+      "usd_value": 406120,
+      "price_shift_pp": 0.0000017948225683461771,
       "alert_reason": "size",
-      "market_id": "6780954",
-      "condition_id": "6780954",
-      "token_id": "61137663953793107038053871173684391906264409960056791096947759137284631024899",
-      "question": "Counter-Strike: Natus Vincere vs BetBoom Team (BO3) - IEM Beijing Playoffs",
-      "link": "https://polyvictor.com/markets/6780954"
+      "market_id": "6236747",
+      "condition_id": "6236747",
+      "token_id": "67836240062945612961015212026161341770020170335807890733564978252284352331343",
+      "question": "Will Chelsea FC win on 2026-11-08?",
+      "link": "https://polyvictor.com/markets/6236747"
     }
   ]
 }
