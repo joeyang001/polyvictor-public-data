@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-08T17:00:07.797Z",
+  "generated_at": "2026-11-08T17:56:01.697Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "8af26634-4631-4064-bf23-ef1c524fe2e8",
-      "ts": "2026-11-08T16:59:50+00:00",
-      "address": "0xd60419ae698bd0ae7c0ef69470bfc1e0f9a9bc8a",
+      "id": "17ffeae3-ebc4-4de5-b519-04190caf09b8",
+      "ts": "2026-11-08T17:54:57+00:00",
+      "address": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
       "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "NO",
-      "price": 0.8071611113935009,
-      "shares": 123891.0034,
-      "usd_value": 99999.999996,
-      "price_shift_pp": 5.7161111393500885,
-      "alert_reason": "shift",
-      "market_id": null,
-      "condition_id": "0x95f44e8bb970742f1bfffdedce73c613041b0cffd76cd23fa5eb613b6436fa78",
-      "token_id": "94364142378269679022334875616859975558899655661145575202463197694598987915516",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
+      "outcome_label": "Chiefs",
+      "price": 0.81,
+      "shares": 481634.1,
+      "usd_value": 390123.621,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "5920623",
+      "condition_id": "5920623",
+      "token_id": "98755400007403441339753945703224591459369800189557728169704036790777451198150",
+      "question": "Jets vs. Chiefs",
+      "link": "https://polyvictor.com/markets/5920623"
     }
   ]
 }
