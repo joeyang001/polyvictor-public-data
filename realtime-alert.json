@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-08T04:12:27.049Z",
+  "generated_at": "2026-11-08T04:28:01.790Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "6afa7926-0c48-46a7-a278-a1014332b1eb",
+      "ts": "2026-11-08T04:26:37+00:00",
+      "address": "0x710b37bd7a3172de02c0b0aba26c60ec45fb30a6",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "Under",
+      "price": 0.5330039255370038,
+      "shares": 59903.23611,
+      "usd_value": 31928.659998999996,
+      "price_shift_pp": 4.300396508086029,
+      "alert_reason": "shift",
+      "market_id": "6801191",
+      "condition_id": "6801191",
+      "token_id": "77673309202959396332460710395039479640900639908876711032932741150469263832300",
+      "question": "Spurs vs. Trail Blazers: O/U 224.5",
+      "link": "https://polyvictor.com/markets/6801191"
+    },
     {
       "id": "8c62a702-26da-4318-b373-13cd013f8fc1",
       "ts": "2026-11-08T04:11:21+00:00",
