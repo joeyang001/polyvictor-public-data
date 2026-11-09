@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-11-08",
-  "generated_at": "2026-11-08T14:00:07.621Z",
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T14:00:09.206Z",
   "status": "success",
   "tweet_ids": [
-    "2119429762196058406",
-    "2119429763416625175"
+    "2119792155342282815",
+    "2119792157955330353"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 396,
-    "total_volume_usd": 20053983.906377994,
-    "unique_whales": 120,
-    "buy_volume_usd": 17119486.297287993,
-    "sell_volume_usd": 2934497.6090900004,
+    "total_fills": 458,
+    "total_volume_usd": 22008007.685295,
+    "unique_whales": 153,
+    "buy_volume_usd": 18013604.08643501,
+    "sell_volume_usd": 3994403.59886,
     "top_markets": [
       {
-        "market_id": "6236747",
-        "question": "Will Chelsea FC win on 2026-11-08?",
-        "volume_usd": 2674181.2865999993,
-        "fills": 32,
-        "link": "https://polyvictor.com/markets/6236747"
+        "market_id": "6767439",
+        "question": "LoL: Bilibili Gaming vs T1 - Game 2 Winner",
+        "volume_usd": 2022326.87712,
+        "fills": 31,
+        "link": "https://polyvictor.com/markets/6767439"
       },
       {
-        "market_id": "6702333",
-        "question": "LoL: Invictus Gaming vs Gen.G - Game 2 Winner",
-        "volume_usd": 1251032.1471300002,
-        "fills": 20,
-        "link": "https://polyvictor.com/markets/6702333"
+        "market_id": "6767438",
+        "question": "LoL: Bilibili Gaming vs T1 - Game 1 Winner",
+        "volume_usd": 1695458.4148899997,
+        "fills": 36,
+        "link": "https://polyvictor.com/markets/6767438"
       },
       {
-        "market_id": "6274396",
-        "question": "Alabama vs. LSU",
-        "volume_usd": 976833.9669289999,
-        "fills": 12,
-        "link": "https://polyvictor.com/markets/6274396"
+        "market_id": "5920623",
+        "question": "Jets vs. Chiefs",
+        "volume_usd": 1274611.36498,
+        "fills": 16,
+        "link": "https://polyvictor.com/markets/5920623"
       }
     ],
     "top_whales": [
       {
-        "address": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
-        "volume_usd": 1972650.0373999998,
-        "fills": 23,
-        "link": "https://polyvictor.com/whales/0xcdcccd0f2d86e450d973da415ad2430e5cc7935a"
+        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+        "volume_usd": 1971678.1250199997,
+        "fills": 24,
+        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
       },
       {
-        "address": "0x924379a79c64b77ad5816ad362122a5f6228658e",
-        "volume_usd": 1257399.2434999999,
-        "fills": 22,
-        "link": "https://polyvictor.com/whales/0x924379a79c64b77ad5816ad362122a5f6228658e"
+        "address": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+        "volume_usd": 1397720.4696000002,
+        "fills": 29,
+        "link": "https://polyvictor.com/whales/0xf0318c32136c2db7fec88b84869aee6a1106c80c"
       },
       {
-        "address": "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e",
-        "volume_usd": 980246.8496830001,
-        "fills": 15,
-        "link": "https://polyvictor.com/whales/0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e"
+        "address": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+        "volume_usd": 1373175.1899,
+        "fills": 11,
+        "link": "https://polyvictor.com/whales/0x4bff30af91642dc7d2b19a8664378fe55c45fc26"
       }
     ],
     "biggest_fill": {
-      "address": "0x983eedfbd75803602e4a6e6ea9aab6dc6b9c6748",
-      "usd": 696492.8001,
+      "address": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
+      "usd": 390123.621,
       "side": "buy",
-      "price": 0.7198131332354089,
-      "market_id": "6172022",
-      "question": "Will Nottingham Forest FC win on 2026-11-07?",
-      "link": "https://polyvictor.com/markets/6172022"
+      "price": 0.81,
+      "market_id": "5920623",
+      "question": "Jets vs. Chiefs",
+      "link": "https://polyvictor.com/markets/5920623"
     }
   }
 }
