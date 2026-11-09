@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-09T18:38:01.552Z",
+  "generated_at": "2026-11-09T23:24:01.618Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "871456b3-a2f3-4837-8e23-83d639d36ab8",
-      "ts": "2026-11-09T18:36:37+00:00",
-      "address": "0xebfdb8164f0e0748818d6c7a9ac85a323267fd63",
+      "id": "151f3c05-53c0-4af1-be3b-2489a49a06bc",
+      "ts": "2026-11-09T23:22:23+00:00",
+      "address": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Lukas Neumayer",
-      "price": 0.3472032314897716,
-      "shares": 81038.083889,
-      "usd_value": 28136.6846,
-      "price_shift_pp": 3.7254136751275926,
-      "alert_reason": "shift",
-      "market_id": "6827743",
-      "condition_id": "0x7b5d2cd995415368de2277ebd3c34cee3a906c2affac8c181f1f21d7818a4163",
-      "token_id": "42509251181210758604029369201673576707533529849709929763999920297833334805609",
-      "question": "Orleans: Clement Tabur vs Lukas Neumayer",
-      "link": "https://polyvictor.com/markets/6827743"
+      "outcome_index": 0,
+      "outcome_label": "Pistons",
+      "price": 0.4899664438129211,
+      "shares": 617754.93,
+      "usd_value": 302679.18620000005,
+      "price_shift_pp": 0.9966443812921111,
+      "alert_reason": "size",
+      "market_id": "6889094",
+      "condition_id": "6889094",
+      "token_id": "22875596676487660117393316142331650313604805847567373562919836950745218683665",
+      "question": "Spread: Pistons (-9.5)",
+      "link": "https://polyvictor.com/markets/6889094"
     }
   ]
 }
