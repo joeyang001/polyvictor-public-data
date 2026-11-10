@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-11-09",
-  "generated_at": "2026-11-09T14:00:09.206Z",
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T14:00:08.359Z",
   "status": "success",
   "tweet_ids": [
-    "2119792155342282815",
-    "2119792157955330353"
+    "2120154538749358232",
+    "2120154539999273112"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 458,
-    "total_volume_usd": 22008007.685295,
-    "unique_whales": 153,
-    "buy_volume_usd": 18013604.08643501,
-    "sell_volume_usd": 3994403.59886,
+    "total_fills": 147,
+    "total_volume_usd": 7044355.375796999,
+    "unique_whales": 68,
+    "buy_volume_usd": 5756748.510737,
+    "sell_volume_usd": 1287606.8650600002,
     "top_markets": [
       {
-        "market_id": "6767439",
-        "question": "LoL: Bilibili Gaming vs T1 - Game 2 Winner",
-        "volume_usd": 2022326.87712,
-        "fills": 31,
-        "link": "https://polyvictor.com/markets/6767439"
+        "market_id": "5968098",
+        "question": "Bills vs. Vikings",
+        "volume_usd": 743950.8892,
+        "fills": 8,
+        "link": "https://polyvictor.com/markets/5968098"
       },
       {
-        "market_id": "6767438",
-        "question": "LoL: Bilibili Gaming vs T1 - Game 1 Winner",
-        "volume_usd": 1695458.4148899997,
-        "fills": 36,
-        "link": "https://polyvictor.com/markets/6767438"
+        "market_id": "6428646",
+        "question": "Grizzlies vs. Raptors",
+        "volume_usd": 554843.216197,
+        "fills": 9,
+        "link": "https://polyvictor.com/markets/6428646"
       },
       {
-        "market_id": "5920623",
-        "question": "Jets vs. Chiefs",
-        "volume_usd": 1274611.36498,
-        "fills": 16,
-        "link": "https://polyvictor.com/markets/5920623"
+        "market_id": "6428643",
+        "question": "Lakers vs. Hawks",
+        "volume_usd": 425242.76051,
+        "fills": 10,
+        "link": "https://polyvictor.com/markets/6428643"
       }
     ],
     "top_whales": [
       {
-        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 1971678.1250199997,
-        "fills": 24,
-        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
+        "address": "0xebfdb8164f0e0748818d6c7a9ac85a323267fd63",
+        "volume_usd": 683968.3358299999,
+        "fills": 9,
+        "link": "https://polyvictor.com/whales/0xebfdb8164f0e0748818d6c7a9ac85a323267fd63"
       },
       {
-        "address": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
-        "volume_usd": 1397720.4696000002,
-        "fills": 29,
-        "link": "https://polyvictor.com/whales/0xf0318c32136c2db7fec88b84869aee6a1106c80c"
+        "address": "0x492442eab586f242b53bda933fd5de859c8a3782",
+        "volume_usd": 552270.7628,
+        "fills": 3,
+        "link": "https://polyvictor.com/whales/0x492442eab586f242b53bda933fd5de859c8a3782"
       },
       {
         "address": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
-        "volume_usd": 1373175.1899,
-        "fills": 11,
+        "volume_usd": 548830.6892,
+        "fills": 6,
         "link": "https://polyvictor.com/whales/0x4bff30af91642dc7d2b19a8664378fe55c45fc26"
       }
     ],
     "biggest_fill": {
-      "address": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
-      "usd": 390123.621,
+      "address": "0x492442eab586f242b53bda933fd5de859c8a3782",
+      "usd": 348111.0096,
       "side": "buy",
-      "price": 0.81,
-      "market_id": "5920623",
-      "question": "Jets vs. Chiefs",
-      "link": "https://polyvictor.com/markets/5920623"
+      "price": 0.48,
+      "market_id": "6877440",
+      "question": "Spread: Spurs (-9.5)",
+      "link": "https://polyvictor.com/markets/6877440"
     }
   }
 }
