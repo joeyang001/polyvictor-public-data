@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-09T23:24:01.618Z",
+  "generated_at": "2026-11-10T01:34:01.510Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "151f3c05-53c0-4af1-be3b-2489a49a06bc",
-      "ts": "2026-11-09T23:22:23+00:00",
-      "address": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+      "id": "462121ea-cb4b-4507-bb5a-34d2adb8db97",
+      "ts": "2026-11-10T01:33:10+00:00",
+      "address": "0x492442eab586f242b53bda933fd5de859c8a3782",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Pistons",
-      "price": 0.4899664438129211,
-      "shares": 617754.93,
-      "usd_value": 302679.18620000005,
-      "price_shift_pp": 0.9966443812921111,
+      "outcome_label": "Spurs",
+      "price": 0.48,
+      "shares": 725231.27,
+      "usd_value": 348111.0096,
+      "price_shift_pp": 0,
       "alert_reason": "size",
-      "market_id": "6889094",
-      "condition_id": "6889094",
-      "token_id": "22875596676487660117393316142331650313604805847567373562919836950745218683665",
-      "question": "Spread: Pistons (-9.5)",
-      "link": "https://polyvictor.com/markets/6889094"
+      "market_id": "6877440",
+      "condition_id": "6877440",
+      "token_id": "44767166454641346979425295438635687298672622773620756150473188423457435376398",
+      "question": "Spread: Spurs (-9.5)",
+      "link": "https://polyvictor.com/markets/6877440"
     }
   ]
 }
