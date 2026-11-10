@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-10T01:34:01.510Z",
+  "generated_at": "2026-11-10T02:32:16.541Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "462121ea-cb4b-4507-bb5a-34d2adb8db97",
-      "ts": "2026-11-10T01:33:10+00:00",
-      "address": "0x492442eab586f242b53bda933fd5de859c8a3782",
+      "id": "ced8f7d2-7d2a-4aa1-9e03-7797d49e01d5",
+      "ts": "2026-11-10T02:31:39+00:00",
+      "address": "0x6db568e61e5e3de7d87f831431b673f38ce2e279",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Spurs",
-      "price": 0.48,
-      "shares": 725231.27,
-      "usd_value": 348111.0096,
-      "price_shift_pp": 0,
-      "alert_reason": "size",
-      "market_id": "6877440",
-      "condition_id": "6877440",
-      "token_id": "44767166454641346979425295438635687298672622773620756150473188423457435376398",
-      "question": "Spread: Spurs (-9.5)",
-      "link": "https://polyvictor.com/markets/6877440"
+      "outcome_label": "Grizzlies",
+      "price": 0.7570544258187235,
+      "shares": 61818.31636,
+      "usd_value": 46799.829997,
+      "price_shift_pp": -5.2945574181276545,
+      "alert_reason": "shift",
+      "market_id": "6428646",
+      "condition_id": "6428646",
+      "token_id": "13022157493267360807479915968073255707103551764586903852482308683663473631322",
+      "question": "Grizzlies vs. Raptors",
+      "link": "https://polyvictor.com/markets/6428646"
     }
   ]
 }
