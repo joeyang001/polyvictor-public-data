@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-11T12:50:06.019Z",
+  "generated_at": "2026-11-11T21:56:04.964Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "8bdf5305-47c2-47b2-a80a-ee0b5eea9f53",
-      "ts": "2026-11-11T12:48:36+00:00",
-      "address": "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e",
-      "side": "sell",
-      "outcome_index": 1,
-      "outcome_label": "G2",
-      "price": 0.999,
-      "shares": 259431.91,
-      "usd_value": 259172.47809,
-      "price_shift_pp": 0,
-      "alert_reason": "size",
-      "market_id": "6338275",
-      "condition_id": "6338275",
-      "token_id": "114391561890166394687786091556461109941053909291786049128307703255529936209496",
-      "question": "Counter-Strike: MOUZ vs G2 (BO3) - BLAST Rivals Group B",
-      "link": "https://polyvictor.com/markets/6338275"
+      "id": "8885a187-12af-49a7-abcf-66940b44d902",
+      "ts": "2026-11-11T21:55:24+00:00",
+      "address": "0x88a6c8e00c4752a8c70d24025fa781fa046a7e77",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Elina Svitolina",
+      "price": 0.705849080783373,
+      "shares": 37533.59,
+      "usd_value": 26493.05,
+      "price_shift_pp": -3.4150918607430136,
+      "alert_reason": "shift",
+      "market_id": "6835463",
+      "condition_id": "6835463",
+      "token_id": "60133385087854467667298832945990887425905703052255634714562642069595733878370",
+      "question": "WTA Finals, Group B: Elina Svitolina vs Karolina Muchova",
+      "link": "https://polyvictor.com/markets/6835463"
     }
   ]
 }
