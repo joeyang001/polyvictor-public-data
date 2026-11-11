@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-11T09:56:02.941Z",
+  "generated_at": "2026-11-11T12:50:06.019Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "efcceef1-3955-4be5-9f5c-2b6611aa06c9",
-      "ts": "2026-11-11T09:54:57+00:00",
-      "address": "0x9b89ef1f344d3e17b37ccdff3bccf62d04f04244",
-      "side": "buy",
+      "id": "8bdf5305-47c2-47b2-a80a-ee0b5eea9f53",
+      "ts": "2026-11-11T12:48:36+00:00",
+      "address": "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e",
+      "side": "sell",
       "outcome_index": 1,
-      "outcome_label": "Alex Bolt",
-      "price": 0.576492148872179,
-      "shares": 71562.33,
-      "usd_value": 41255.1214,
-      "price_shift_pp": 3.4349348063574925,
-      "alert_reason": "shift",
-      "market_id": "6929935",
-      "condition_id": "6929935",
-      "token_id": "67170569542375505906176625037690413649844111078577281890280529593447105476850",
-      "question": "Brisbane 3: Alafia Ayeni vs Alex Bolt",
-      "link": "https://polyvictor.com/markets/6929935"
+      "outcome_label": "G2",
+      "price": 0.999,
+      "shares": 259431.91,
+      "usd_value": 259172.47809,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "6338275",
+      "condition_id": "6338275",
+      "token_id": "114391561890166394687786091556461109941053909291786049128307703255529936209496",
+      "question": "Counter-Strike: MOUZ vs G2 (BO3) - BLAST Rivals Group B",
+      "link": "https://polyvictor.com/markets/6338275"
     }
   ]
 }
