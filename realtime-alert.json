@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-10T20:20:06.280Z",
+  "generated_at": "2026-11-11T02:50:08.849Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "2b12e312-c0e9-45c7-967a-b1a81e3bd3d9",
-      "ts": "2026-11-10T20:18:39+00:00",
-      "address": "0xb2d2d1ad3bf842a778efb4169a0ae5d1b2353910",
+      "id": "19a7ffc6-3026-4dbc-90d3-99b4e228c740",
+      "ts": "2026-11-11T02:49:10+00:00",
+      "address": "0xbe23032d56a012c531b372c7739bc1dbd4dfb587",
       "side": "sell",
-      "outcome_index": 1,
-      "outcome_label": "Andrea Lazaro Garcia",
+      "outcome_index": 0,
+      "outcome_label": "Over",
       "price": 0.999,
-      "shares": 329742.16,
-      "usd_value": 329412.41783999995,
-      "price_shift_pp": 0,
-      "alert_reason": "size",
-      "market_id": "6885007",
-      "condition_id": "6885007",
-      "token_id": "4995524882378021872738104339691485019835517327554127306559070755836108017736",
-      "question": "Sopo: Katrina Scott vs Andrea Lazaro Garcia",
-      "link": "https://polyvictor.com/markets/6885007"
+      "shares": 33216.18,
+      "usd_value": 33182.96382,
+      "price_shift_pp": 81.89999999999999,
+      "alert_reason": "shift",
+      "market_id": "6600982",
+      "condition_id": "6600982",
+      "token_id": "53222621206450512309307684395657804428576015782148068055290717327710552086126",
+      "question": "Western Michigan vs. Akron: O/U 51.5",
+      "link": "https://polyvictor.com/markets/6600982"
     }
   ]
 }
