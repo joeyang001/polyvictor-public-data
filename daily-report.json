@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-11-11",
-  "generated_at": "2026-11-11T14:00:05.884Z",
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T14:00:08.182Z",
   "status": "success",
   "tweet_ids": [
-    "2120516917739864275",
-    "2120516919170130234"
+    "2120879314891649276",
+    "2120879316082774288"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 182,
-    "total_volume_usd": 8480639.410251005,
-    "unique_whales": 58,
-    "buy_volume_usd": 5610036.653281004,
-    "sell_volume_usd": 2870602.7569699995,
+    "total_fills": 239,
+    "total_volume_usd": 11523217.631677995,
+    "unique_whales": 112,
+    "buy_volume_usd": 9412024.815178001,
+    "sell_volume_usd": 2111192.8165,
     "top_markets": [
       {
-        "market_id": "6428656",
+        "market_id": "6976273",
+        "question": "Jensen Huang announced resignation or removal by November 11, 2026?",
+        "volume_usd": 1057020.849248,
+        "fills": 22,
+        "link": "https://polyvictor.com/markets/6976273"
+      },
+      {
+        "market_id": "6428667",
         "question": "Thunder vs. Trail Blazers",
-        "volume_usd": 555332.54339,
-        "fills": 8,
-        "link": "https://polyvictor.com/markets/6428656"
+        "volume_usd": 763927.6553399999,
+        "fills": 13,
+        "link": "https://polyvictor.com/markets/6428667"
       },
       {
-        "market_id": "6338275",
-        "question": "Counter-Strike: MOUZ vs G2 (BO3) - BLAST Rivals Group B",
-        "volume_usd": 542019.49605,
-        "fills": 7,
-        "link": "https://polyvictor.com/markets/6338275"
-      },
-      {
-        "market_id": "6428652",
-        "question": "Celtics vs. 76ers",
-        "volume_usd": 431065.84665,
-        "fills": 10,
-        "link": "https://polyvictor.com/markets/6428652"
+        "market_id": "6496387",
+        "question": "UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card)",
+        "volume_usd": 636543.57,
+        "fills": 3,
+        "link": "https://polyvictor.com/markets/6496387"
       }
     ],
     "top_whales": [
       {
-        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 938990.612,
+        "address": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+        "volume_usd": 1099754.9945,
         "fills": 14,
-        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
+        "link": "https://polyvictor.com/whales/0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e"
       },
       {
-        "address": "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e",
-        "volume_usd": 842580.0773969999,
-        "fills": 11,
-        "link": "https://polyvictor.com/whales/0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e"
+        "address": "0x88a6c8e00c4752a8c70d24025fa781fa046a7e77",
+        "volume_usd": 1027767.4678000001,
+        "fills": 12,
+        "link": "https://polyvictor.com/whales/0x88a6c8e00c4752a8c70d24025fa781fa046a7e77"
       },
       {
-        "address": "0xebfdb8164f0e0748818d6c7a9ac85a323267fd63",
-        "volume_usd": 655678.6077099999,
-        "fills": 9,
-        "link": "https://polyvictor.com/whales/0xebfdb8164f0e0748818d6c7a9ac85a323267fd63"
+        "address": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+        "volume_usd": 865089.7118,
+        "fills": 8,
+        "link": "https://polyvictor.com/whales/0x4bff30af91642dc7d2b19a8664378fe55c45fc26"
       }
     ],
     "biggest_fill": {
-      "address": "0xb2d2d1ad3bf842a778efb4169a0ae5d1b2353910",
-      "usd": 329412.41783999995,
-      "side": "sell",
-      "price": 0.999,
-      "market_id": "6885007",
-      "question": "Sopo: Katrina Scott vs Andrea Lazaro Garcia",
-      "link": "https://polyvictor.com/markets/6885007"
+      "address": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+      "usd": 360000,
+      "side": "buy",
+      "price": 0.6,
+      "market_id": "6428661",
+      "question": "Nuggets vs. Grizzlies",
+      "link": "https://polyvictor.com/markets/6428661"
     }
   }
 }
