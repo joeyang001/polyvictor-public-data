@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-12T02:28:02.465Z",
+  "generated_at": "2026-11-12T11:08:04.814Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "3e38884c-a4a7-4330-9114-88bd0b2a88cc",
-      "ts": "2026-11-12T02:26:24+00:00",
-      "address": "0x36625d44b2dc4c12a7da717da2a13af383fbd710",
-      "side": "sell",
-      "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.8738611574150399,
-      "shares": 34392.33,
-      "usd_value": 30054.1213,
-      "price_shift_pp": -3.4793877033370557,
+      "id": "982a34c0-5aac-490f-9b79-661f89409909",
+      "ts": "2026-11-12T11:06:33+00:00",
+      "address": "0xdbbbde184ab04018ce0373c0dbe4e5fd6be805a8",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.5837775283781789,
+      "shares": 95331.17,
+      "usd_value": 55652.19479999999,
+      "price_shift_pp": -4.543892142675244,
       "alert_reason": "shift",
-      "market_id": "6882826",
-      "condition_id": "6882826",
-      "token_id": "92740912934979695164482497757800283783237751328808772389036157576306520939319",
-      "question": "Jensen Huang announced resignation or removal by December 31, 2026?",
-      "link": "https://polyvictor.com/markets/6882826"
+      "market_id": "6975664",
+      "condition_id": "6975664",
+      "token_id": "49059554369443439132021076202548798831994166731162662055378257349004241428611",
+      "question": "Jensen Huang announced resignation or removal by November 12, 2026?",
+      "link": "https://polyvictor.com/markets/6975664"
     }
   ]
 }
