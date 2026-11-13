@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-13T01:00:07.407Z",
+  "generated_at": "2026-11-13T02:44:08.489Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "a3db2295-8eb5-4524-9ec8-936ad556e290",
-      "ts": "2026-11-13T00:58:05+00:00",
-      "address": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+      "id": "05322ff6-6342-402e-8cfe-1d1885c16533",
+      "ts": "2026-11-13T02:41:17+00:00",
+      "address": "0x6db568e61e5e3de7d87f831431b673f38ce2e279",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Giants",
-      "price": 0.51,
-      "shares": 518853.95,
-      "usd_value": 264615.5145,
-      "price_shift_pp": -1.0000000000000009,
-      "alert_reason": "size",
-      "market_id": "6301324",
-      "condition_id": "6301324",
-      "token_id": "89132586714630688840216500305463543075600124268752175798443509078147057405238",
-      "question": "Spread: Giants (-1.5)",
-      "link": "https://polyvictor.com/markets/6301324"
+      "outcome_index": 1,
+      "outcome_label": "Wizards",
+      "price": 0.7490408926358327,
+      "shares": 51075.7,
+      "usd_value": 38257.78792,
+      "price_shift_pp": -8.995910680229823,
+      "alert_reason": "shift",
+      "market_id": "6428670",
+      "condition_id": "6428670",
+      "token_id": "54114429336247523084473348408435237872348782895323854829133058677428720193835",
+      "question": "Pistons vs. Wizards",
+      "link": "https://polyvictor.com/markets/6428670"
     }
   ]
 }
