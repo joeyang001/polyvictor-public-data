@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-12T12:18:02.824Z",
+  "generated_at": "2026-11-13T01:00:07.407Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "02ed7e24-4e97-46ca-8c42-5cbc58b6f9cb",
-      "ts": "2026-11-12T12:16:49+00:00",
-      "address": "0xfd22b8843ae03a33a8a4c5e39ef1e5ff33ebad91",
+      "id": "a3db2295-8eb5-4524-9ec8-936ad556e290",
+      "ts": "2026-11-13T00:58:05+00:00",
+      "address": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Ciryl Gane",
-      "price": 0.64,
-      "shares": 518272.89,
-      "usd_value": 331694.6496,
-      "price_shift_pp": 0,
+      "outcome_index": 0,
+      "outcome_label": "Giants",
+      "price": 0.51,
+      "shares": 518853.95,
+      "usd_value": 264615.5145,
+      "price_shift_pp": -1.0000000000000009,
       "alert_reason": "size",
-      "market_id": "6496387",
-      "condition_id": "6496387",
-      "token_id": "60726126951539130594457745308006473154344457472431098929350080992899330708790",
-      "question": "UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card)",
-      "link": "https://polyvictor.com/markets/6496387"
+      "market_id": "6301324",
+      "condition_id": "6301324",
+      "token_id": "89132586714630688840216500305463543075600124268752175798443509078147057405238",
+      "question": "Spread: Giants (-1.5)",
+      "link": "https://polyvictor.com/markets/6301324"
     }
   ]
 }
