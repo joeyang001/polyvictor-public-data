@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-13T02:44:08.489Z",
+  "generated_at": "2026-11-13T02:46:01.961Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "105fd663-d8bf-4d41-b256-40fe5abf3b32",
+      "ts": "2026-11-13T02:45:34+00:00",
+      "address": "0x56d0ec3e42cebca3de14da378720aa32d1f681d6",
+      "side": "buy",
+      "outcome_index": 1,
+      "outcome_label": "No",
+      "price": 0.5298677033963843,
+      "shares": 64808.92,
+      "usd_value": 34340.1536,
+      "price_shift_pp": 11.986770339638436,
+      "alert_reason": "shift",
+      "market_id": "2299955",
+      "condition_id": "2299955",
+      "token_id": "68824290388674385176467771482523926661374466006709550624998958447771606894467",
+      "question": "Will Anthropic's valuation hit (HIGH) $1.75T by December 31?",
+      "link": "https://polyvictor.com/markets/2299955"
+    },
     {
       "id": "05322ff6-6342-402e-8cfe-1d1885c16533",
       "ts": "2026-11-13T02:41:17+00:00",
