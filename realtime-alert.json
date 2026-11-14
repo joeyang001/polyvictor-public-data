@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-14T14:28:01.400Z",
+  "generated_at": "2026-11-14T20:18:02.569Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "d626a80d-02ab-4a3c-a5b8-94c7fd6a6af8",
-      "ts": "2026-11-14T14:26:30+00:00",
-      "address": "0x403d7edbf7d8d80b765efd18323330ee4b9108e1",
-      "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Yes",
-      "price": 0.9988006527792489,
-      "shares": 27850.15,
-      "usd_value": 27816.748,
-      "price_shift_pp": 4.880065277924894,
-      "alert_reason": "shift",
-      "market_id": "6891211",
-      "condition_id": "6891211",
-      "token_id": "37349201581692759106195274161509534738425192515739596936102415306011032294982",
-      "question": "Will Bitcoin dip to $66,000 November 9-15?",
-      "link": "https://polyvictor.com/markets/6891211"
+      "id": "77dd037b-ea2d-4131-9496-3b5c527354bf",
+      "ts": "2026-11-14T20:16:22+00:00",
+      "address": "0x88a6c8e00c4752a8c70d24025fa781fa046a7e77",
+      "side": "sell",
+      "outcome_index": 1,
+      "outcome_label": "Ohio State",
+      "price": 0.999,
+      "shares": 270030.2,
+      "usd_value": 269760.16980000003,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "6602030",
+      "condition_id": "6602030",
+      "token_id": "93597451326324712801340021773276862085709413015003989174689219906942388505779",
+      "question": "Northwestern vs. Ohio State",
+      "link": "https://polyvictor.com/markets/6602030"
     }
   ]
 }
