@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-14T20:18:02.569Z",
+  "generated_at": "2026-11-14T22:12:01.760Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "77dd037b-ea2d-4131-9496-3b5c527354bf",
-      "ts": "2026-11-14T20:16:22+00:00",
-      "address": "0x88a6c8e00c4752a8c70d24025fa781fa046a7e77",
+      "id": "0f277e97-0948-43d7-9f00-868062891653",
+      "ts": "2026-11-14T22:10:27+00:00",
+      "address": "0x549b491ac7f6a675b56ff0a261d147daa73ac0ae",
       "side": "sell",
       "outcome_index": 1,
-      "outcome_label": "Ohio State",
+      "outcome_label": "Gen.G",
       "price": 0.999,
-      "shares": 270030.2,
-      "usd_value": 269760.16980000003,
+      "shares": 500000,
+      "usd_value": 499500,
       "price_shift_pp": 0,
       "alert_reason": "size",
-      "market_id": "6602030",
-      "condition_id": "6602030",
-      "token_id": "93597451326324712801340021773276862085709413015003989174689219906942388505779",
-      "question": "Northwestern vs. Ohio State",
-      "link": "https://polyvictor.com/markets/6602030"
+      "market_id": "6889023",
+      "condition_id": "6889023",
+      "token_id": "21511984995895534133672576252344556244504137815111515512988328443975466486455",
+      "question": "LoL: Bilibili Gaming vs Gen.G - Game 1 Winner",
+      "link": "https://polyvictor.com/markets/6889023"
     }
   ]
 }
