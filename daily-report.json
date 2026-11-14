@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-11-13",
-  "generated_at": "2026-11-13T14:00:07.474Z",
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T14:00:05.408Z",
   "status": "success",
   "tweet_ids": [
-    "2121241700949459418",
-    "2121241702212014316"
+    "2121604080317378841",
+    "2121604081483407493"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 227,
-    "total_volume_usd": 10620144.66881,
-    "unique_whales": 93,
-    "buy_volume_usd": 9245715.862389997,
-    "sell_volume_usd": 1374428.8064199998,
+    "total_fills": 145,
+    "total_volume_usd": 6218699.7637910005,
+    "unique_whales": 66,
+    "buy_volume_usd": 5559191.835381001,
+    "sell_volume_usd": 659507.9284099998,
     "top_markets": [
       {
-        "market_id": "6987911",
-        "question": "Counter-Strike: G2 vs Team Falcons (BO3) - BLAST Rivals Playoffs",
-        "volume_usd": 1078294.1133,
-        "fills": 16,
-        "link": "https://polyvictor.com/markets/6987911"
+        "market_id": "7014755",
+        "question": "Counter-Strike: FURIA vs Team Falcons (BO3) - BLAST Rivals Playoffs",
+        "volume_usd": 618946.6126999999,
+        "fills": 9,
+        "link": "https://polyvictor.com/markets/7014755"
       },
       {
-        "market_id": "6079816",
-        "question": "Commanders vs. Giants",
-        "volume_usd": 990970.149293,
-        "fills": 18,
-        "link": "https://polyvictor.com/markets/6079816"
+        "market_id": "6999695",
+        "question": "Spread: Hawks (-6.5)",
+        "volume_usd": 317546.348,
+        "fills": 5,
+        "link": "https://polyvictor.com/markets/6999695"
       },
       {
-        "market_id": "6987907",
-        "question": "Counter-Strike: Vitality vs MOUZ (BO3) - BLAST Rivals Playoffs",
-        "volume_usd": 913426.41282,
-        "fills": 14,
-        "link": "https://polyvictor.com/markets/6987907"
+        "market_id": "6428680",
+        "question": "Grizzlies vs. Pelicans",
+        "volume_usd": 307198.368417,
+        "fills": 7,
+        "link": "https://polyvictor.com/markets/6428680"
       }
     ],
     "top_whales": [
       {
-        "address": "0x549b491ac7f6a675b56ff0a261d147daa73ac0ae",
-        "volume_usd": 1587748.8039,
-        "fills": 24,
-        "link": "https://polyvictor.com/whales/0x549b491ac7f6a675b56ff0a261d147daa73ac0ae"
+        "address": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+        "volume_usd": 625155.0513,
+        "fills": 8,
+        "link": "https://polyvictor.com/whales/0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e"
       },
       {
         "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 1251910.9880699997,
-        "fills": 23,
+        "volume_usd": 481584.06295,
+        "fills": 12,
         "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
       },
       {
-        "address": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
-        "volume_usd": 640490.5027999999,
-        "fills": 13,
-        "link": "https://polyvictor.com/whales/0x84cfffc3f16dcc353094de30d4a45226eccd2f63"
+        "address": "0x549b491ac7f6a675b56ff0a261d147daa73ac0ae",
+        "volume_usd": 455392.4182,
+        "fills": 6,
+        "link": "https://polyvictor.com/whales/0x549b491ac7f6a675b56ff0a261d147daa73ac0ae"
       }
     ],
     "biggest_fill": {
-      "address": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
-      "usd": 264615.5145,
+      "address": "0x549b491ac7f6a675b56ff0a261d147daa73ac0ae",
+      "usd": 280800,
       "side": "buy",
-      "price": 0.51,
-      "market_id": "6301324",
-      "question": "Spread: Giants (-1.5)",
-      "link": "https://polyvictor.com/markets/6301324"
+      "price": 0.52,
+      "market_id": "7014755",
+      "question": "Counter-Strike: FURIA vs Team Falcons (BO3) - BLAST Rivals Playoffs",
+      "link": "https://polyvictor.com/markets/7014755"
     }
   }
 }
