@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-14T22:16:02.644Z",
+  "generated_at": "2026-11-14T22:40:05.972Z",
   "window_minutes": 30,
-  "count": 3,
+  "count": 4,
   "alerts": [
+    {
+      "id": "beee6408-854b-4bed-af4a-a07e27e7f629",
+      "ts": "2026-11-14T22:38:07+00:00",
+      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Over",
+      "price": 0.48,
+      "shares": 988615.36,
+      "usd_value": 474535.37279999995,
+      "price_shift_pp": 4.0922898403294994e-8,
+      "alert_reason": "size",
+      "market_id": "6889029",
+      "condition_id": "6889029",
+      "token_id": "55653963174872846621056534710852724801226837110944050877102670438037758750891",
+      "question": "Games Total: O/U 4.5",
+      "link": "https://polyvictor.com/markets/6889029"
+    },
     {
       "id": "8b383632-dac5-400d-8c9b-08712b6e29c8",
       "ts": "2026-11-14T22:16:00+00:00",
