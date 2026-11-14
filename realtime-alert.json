@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-14T00:54:01.654Z",
+  "generated_at": "2026-11-14T08:30:17.735Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "16166300-3c46-43af-8e70-82f71d397513",
-      "ts": "2026-11-14T00:53:09+00:00",
-      "address": "0xf68a281980f8c13828e84e147e3822381d6e5b1b",
+      "id": "2933e416-9cb1-4e37-866f-86e4fee8020e",
+      "ts": "2026-11-14T08:29:03+00:00",
+      "address": "0xa8a9c7a2f1d8eca2c20b6dc58df52caa85cdbb81",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Florida State",
-      "price": 0.66,
-      "shares": 72522.23,
-      "usd_value": 47864.6718,
-      "price_shift_pp": 5.000002090725952,
+      "outcome_label": "Yes",
+      "price": 0.3377315399139061,
+      "shares": 142033.33,
+      "usd_value": 47969.13525999999,
+      "price_shift_pp": -4.173699127391123,
       "alert_reason": "shift",
-      "market_id": "6601692",
-      "condition_id": "6601692",
-      "token_id": "21163995553402517232754245269508953353039800367929776436767834648013227695006",
-      "question": "Florida State vs. Pittsburgh",
-      "link": "https://polyvictor.com/markets/6601692"
+      "market_id": "561974",
+      "condition_id": "561974",
+      "token_id": "40081275558852222228080198821361202017557872256707631666334039001378518619916",
+      "question": "Will J.D. Vance win the 2028 Republican presidential nomination?",
+      "link": "https://polyvictor.com/markets/561974"
     }
   ]
 }
