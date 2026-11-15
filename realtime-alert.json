@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-15T01:54:01.901Z",
+  "generated_at": "2026-11-15T03:14:01.253Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "75e85d93-70ea-481f-949d-f2e4eb2d7171",
-      "ts": "2026-11-15T01:53:47+00:00",
-      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+      "id": "df233aa3-39b3-4dce-b515-ef2da37a377f",
+      "ts": "2026-11-15T03:12:40+00:00",
+      "address": "0x6db568e61e5e3de7d87f831431b673f38ce2e279",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "BYU",
-      "price": 0.9859997400556086,
-      "shares": 270019.29,
-      "usd_value": 266238.94974999997,
-      "price_shift_pp": -0.000025768507738721524,
-      "alert_reason": "size",
-      "market_id": "6605176",
-      "condition_id": "6605176",
-      "token_id": "96882815970286438828301633899439325538060318561911175629243400006450355696948",
-      "question": "Baylor vs. BYU",
-      "link": "https://polyvictor.com/markets/6605176"
+      "outcome_index": 0,
+      "outcome_label": "Kevin Holland",
+      "price": 0.5502475528172659,
+      "shares": 50237.36,
+      "usd_value": 27642.9844,
+      "price_shift_pp": -13.975244718273405,
+      "alert_reason": "shift",
+      "market_id": "6496462",
+      "condition_id": "6496462",
+      "token_id": "34717719393900922849944382031712742833012474823431263540945245516600188424297",
+      "question": "UFC 334: Kevin Holland vs. Uroš Medic (Welterweight, Main Card)",
+      "link": "https://polyvictor.com/markets/6496462"
     }
   ]
 }
