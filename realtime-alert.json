@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-15T05:04:01.658Z",
+  "generated_at": "2026-11-15T05:48:01.397Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "74ed7708-768a-4b55-82d2-8577084de799",
-      "ts": "2026-11-15T05:01:31+00:00",
-      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+      "id": "a3f90e9d-b2cf-4c3a-be23-4250aa70bd24",
+      "ts": "2026-11-15T05:47:49+00:00",
+      "address": "0x6db568e61e5e3de7d87f831431b673f38ce2e279",
       "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "No",
-      "price": 0.8499960630891985,
-      "shares": 98554.43,
-      "usd_value": 83770.87749999999,
-      "price_shift_pp": -7.000393691080154,
+      "outcome_label": "Ciryl Gane",
+      "price": 0.929347563370634,
+      "shares": 32511.51,
+      "usd_value": 30214.492599999998,
+      "price_shift_pp": 3.9347563370633942,
       "alert_reason": "shift",
-      "market_id": "6496409",
-      "condition_id": "6496409",
-      "token_id": "83846891809496080184219864993065693718654356284039926330807045695260473369880",
-      "question": "Will Ciryl Gane win in Round 2?",
-      "link": "https://polyvictor.com/markets/6496409"
+      "market_id": "6496387",
+      "condition_id": "6496387",
+      "token_id": "60726126951539130594457745308006473154344457472431098929350080992899330708790",
+      "question": "UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card)",
+      "link": "https://polyvictor.com/markets/6496387"
     }
   ]
 }
