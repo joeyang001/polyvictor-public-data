@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-15T17:52:10.529Z",
+  "generated_at": "2026-11-15T17:56:02.017Z",
   "window_minutes": 30,
-  "count": 1,
+  "count": 2,
   "alerts": [
+    {
+      "id": "2fe9435c-3134-4107-8f4e-94a808364f31",
+      "ts": "2026-11-15T17:54:38+00:00",
+      "address": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Chiefs",
+      "price": 0.64,
+      "shares": 530913.04,
+      "usd_value": 339784.34560000006,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "6248146",
+      "condition_id": "6248146",
+      "token_id": "17184141407576861502562385153812083736919937266928768236176396841080675993050",
+      "question": "Chiefs vs. Falcons",
+      "link": "https://polyvictor.com/markets/6248146"
+    },
     {
       "id": "493fd01e-c143-4e7d-b674-ed2f699c5960",
       "ts": "2026-11-15T17:49:52+00:00",
