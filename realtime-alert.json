@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-15T21:20:06.032Z",
+  "generated_at": "2026-11-15T22:26:03.879Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "86cd5e5e-57a6-4a17-a5a9-c605c7a9eb2c",
-      "ts": "2026-11-15T21:19:01+00:00",
+      "id": "2e63880c-95ed-46c5-b5e9-37d8c1ec605f",
+      "ts": "2026-11-15T22:24:51+00:00",
       "address": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Cowboys",
-      "price": 0.37,
-      "shares": 743907.56,
-      "usd_value": 275245.79720000003,
-      "price_shift_pp": 0.0000013319999492278356,
+      "outcome_index": 0,
+      "outcome_label": "Seahawks",
+      "price": 0.54,
+      "shares": 722590.18,
+      "usd_value": 390198.69720000005,
+      "price_shift_pp": -1.0000000000000009,
       "alert_reason": "size",
-      "market_id": "6248157",
-      "condition_id": "6248157",
-      "token_id": "111116445215105452402195447335570138990948116962434354359812521722521696149089",
-      "question": "49ers vs. Cowboys",
-      "link": "https://polyvictor.com/markets/6248157"
+      "market_id": "6248152",
+      "condition_id": "6248152",
+      "token_id": "1339463723260226502438923715546767332463073367564908774776926562714272325194",
+      "question": "Seahawks vs. Raiders",
+      "link": "https://polyvictor.com/markets/6248152"
     }
   ]
 }
