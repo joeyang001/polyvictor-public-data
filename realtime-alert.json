@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-15T00:36:01.528Z",
+  "generated_at": "2026-11-15T01:54:01.901Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "d11a4528-e882-49db-891a-f784f2a5246d",
-      "ts": "2026-11-15T00:33:53+00:00",
-      "address": "0x88a6c8e00c4752a8c70d24025fa781fa046a7e77",
+      "id": "75e85d93-70ea-481f-949d-f2e4eb2d7171",
+      "ts": "2026-11-15T01:53:47+00:00",
+      "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
       "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "NO",
-      "price": 0.9190359060293763,
-      "shares": 54531.51,
-      "usd_value": 50116.4157,
-      "price_shift_pp": 4.903590602937635,
-      "alert_reason": "shift",
-      "market_id": null,
-      "condition_id": "0xc18568cec8ff8bc9b3a7efb2a1c3c464618f4557f18f3191069ab1f8c5945802",
+      "outcome_label": "BYU",
+      "price": 0.9859997400556086,
+      "shares": 270019.29,
+      "usd_value": 266238.94974999997,
+      "price_shift_pp": -0.000025768507738721524,
+      "alert_reason": "size",
+      "market_id": "6605176",
+      "condition_id": "6605176",
       "token_id": "96882815970286438828301633899439325538060318561911175629243400006450355696948",
-      "question": null,
-      "link": "https://polyvictor.com/whales"
+      "question": "Baylor vs. BYU",
+      "link": "https://polyvictor.com/markets/6605176"
     }
   ]
 }
