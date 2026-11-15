@@ -1,9 +1,27 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-15T17:58:04.186Z",
+  "generated_at": "2026-11-15T18:00:03.747Z",
   "window_minutes": 30,
-  "count": 3,
+  "count": 4,
   "alerts": [
+    {
+      "id": "d35a4e7d-1cc0-4471-9b42-30b06cc56148",
+      "ts": "2026-11-15T17:59:49+00:00",
+      "address": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+      "side": "buy",
+      "outcome_index": 0,
+      "outcome_label": "Bills",
+      "price": 0.8,
+      "shares": 596085.89,
+      "usd_value": 476868.71200000006,
+      "price_shift_pp": 0,
+      "alert_reason": "size",
+      "market_id": "6248129",
+      "condition_id": "6248129",
+      "token_id": "58143940831672657190277806878514061226499271064909458189824159543213466682953",
+      "question": "Bills vs. Jets",
+      "link": "https://polyvictor.com/markets/6248129"
+    },
     {
       "id": "073bed7f-e683-40bd-8364-5f948dc9e0f3",
       "ts": "2026-11-15T17:57:42+00:00",
