@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-11-15",
-  "generated_at": "2026-11-15T14:00:19.155Z",
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T14:00:06.746Z",
   "status": "success",
   "tweet_ids": [
-    "2121966525208834217",
-    "2121966526362263562"
+    "2122328861664788953",
+    "2122328862793027862"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 335,
-    "total_volume_usd": 16833452.54559401,
-    "unique_whales": 136,
-    "buy_volume_usd": 11176469.20385401,
-    "sell_volume_usd": 5656983.341740001,
+    "total_fills": 275,
+    "total_volume_usd": 16086982.187108003,
+    "unique_whales": 97,
+    "buy_volume_usd": 14929700.700858004,
+    "sell_volume_usd": 1157281.4862499998,
     "top_markets": [
       {
-        "market_id": "6889024",
-        "question": "LoL: Bilibili Gaming vs Gen.G - Game 2 Winner",
-        "volume_usd": 1852070.12744,
-        "fills": 32,
-        "link": "https://polyvictor.com/markets/6889024"
+        "market_id": "6248157",
+        "question": "49ers vs. Cowboys",
+        "volume_usd": 2238471.5431599994,
+        "fills": 33,
+        "link": "https://polyvictor.com/markets/6248157"
       },
       {
-        "market_id": "6889023",
-        "question": "LoL: Bilibili Gaming vs Gen.G - Game 1 Winner",
-        "volume_usd": 1530360.68665,
+        "market_id": "6248131",
+        "question": "Panthers vs. Saints",
+        "volume_usd": 1450036.9657,
+        "fills": 13,
+        "link": "https://polyvictor.com/markets/6248131"
+      },
+      {
+        "market_id": "6248140",
+        "question": "Vikings vs. Packers",
+        "volume_usd": 1303759.31831,
         "fills": 16,
-        "link": "https://polyvictor.com/markets/6889023"
-      },
-      {
-        "market_id": "6889027",
-        "question": "LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs",
-        "volume_usd": 1132154.8474100002,
-        "fills": 25,
-        "link": "https://polyvictor.com/markets/6889027"
+        "link": "https://polyvictor.com/markets/6248140"
       }
     ],
     "top_whales": [
       {
+        "address": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+        "volume_usd": 4258117.4982,
+        "fills": 40,
+        "link": "https://polyvictor.com/whales/0xf0318c32136c2db7fec88b84869aee6a1106c80c"
+      },
+      {
+        "address": "0x88a6c8e00c4752a8c70d24025fa781fa046a7e77",
+        "volume_usd": 1199634.87337,
+        "fills": 17,
+        "link": "https://polyvictor.com/whales/0x88a6c8e00c4752a8c70d24025fa781fa046a7e77"
+      },
+      {
         "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 2215192.0597199993,
-        "fills": 31,
+        "volume_usd": 1049802.4702,
+        "fills": 19,
         "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
-      },
-      {
-        "address": "0x549b491ac7f6a675b56ff0a261d147daa73ac0ae",
-        "volume_usd": 1624791.55042,
-        "fills": 11,
-        "link": "https://polyvictor.com/whales/0x549b491ac7f6a675b56ff0a261d147daa73ac0ae"
-      },
-      {
-        "address": "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e",
-        "volume_usd": 955605.934989,
-        "fills": 13,
-        "link": "https://polyvictor.com/whales/0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e"
       }
     ],
     "biggest_fill": {
-      "address": "0x549b491ac7f6a675b56ff0a261d147daa73ac0ae",
-      "usd": 501418.06002,
-      "side": "sell",
-      "price": 0.999,
-      "market_id": "6889023",
-      "question": "LoL: Bilibili Gaming vs Gen.G - Game 1 Winner",
-      "link": "https://polyvictor.com/markets/6889023"
+      "address": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+      "usd": 486955.17429999996,
+      "side": "buy",
+      "price": 0.49,
+      "market_id": "6248131",
+      "question": "Panthers vs. Saints",
+      "link": "https://polyvictor.com/markets/6248131"
     }
   }
 }
