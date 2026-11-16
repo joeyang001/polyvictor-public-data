@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-15T22:26:03.879Z",
+  "generated_at": "2026-11-16T01:22:01.544Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "2e63880c-95ed-46c5-b5e9-37d8c1ec605f",
-      "ts": "2026-11-15T22:24:51+00:00",
+      "id": "7e7d118d-d8ff-490f-a54c-f743fa09c3ef",
+      "ts": "2026-11-16T01:20:00+00:00",
       "address": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
       "side": "buy",
       "outcome_index": 0,
-      "outcome_label": "Seahawks",
-      "price": 0.54,
-      "shares": 722590.18,
-      "usd_value": 390198.69720000005,
-      "price_shift_pp": -1.0000000000000009,
+      "outcome_label": "Steelers",
+      "price": 0.34,
+      "shares": 898070.36,
+      "usd_value": 305343.92240000004,
+      "price_shift_pp": 0,
       "alert_reason": "size",
-      "market_id": "6248152",
-      "condition_id": "6248152",
-      "token_id": "1339463723260226502438923715546767332463073367564908774776926562714272325194",
-      "question": "Seahawks vs. Raiders",
-      "link": "https://polyvictor.com/markets/6248152"
+      "market_id": "6248161",
+      "condition_id": "6248161",
+      "token_id": "47061086399045908266743311224668164594653136097274117390598875431536590795429",
+      "question": "Steelers vs. Bengals",
+      "link": "https://polyvictor.com/markets/6248161"
     }
   ]
 }
