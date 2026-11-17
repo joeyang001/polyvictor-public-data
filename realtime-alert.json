@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-16T01:22:01.544Z",
+  "generated_at": "2026-11-17T02:54:01.382Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "7e7d118d-d8ff-490f-a54c-f743fa09c3ef",
-      "ts": "2026-11-16T01:20:00+00:00",
-      "address": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+      "id": "0d6112bb-35a1-4e43-8fe6-e12b190d4667",
+      "ts": "2026-11-17T02:52:30+00:00",
+      "address": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
       "side": "buy",
-      "outcome_index": 0,
-      "outcome_label": "Steelers",
-      "price": 0.34,
-      "shares": 898070.36,
-      "usd_value": 305343.92240000004,
-      "price_shift_pp": 0,
-      "alert_reason": "size",
-      "market_id": "6248161",
-      "condition_id": "6248161",
-      "token_id": "47061086399045908266743311224668164594653136097274117390598875431536590795429",
-      "question": "Steelers vs. Bengals",
-      "link": "https://polyvictor.com/markets/6248161"
+      "outcome_index": 1,
+      "outcome_label": "Ravens",
+      "price": 0.51,
+      "shares": 79301.7,
+      "usd_value": 40443.867,
+      "price_shift_pp": 8.000000000000002,
+      "alert_reason": "shift",
+      "market_id": "6305575",
+      "condition_id": "6305575",
+      "token_id": "15180845596962149451839872903594934140425406533221820396531702945224148639234",
+      "question": "Spread: Chargers (-3.5)",
+      "link": "https://polyvictor.com/markets/6305575"
     }
   ]
 }
