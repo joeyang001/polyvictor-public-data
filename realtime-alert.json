@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-17T02:54:01.382Z",
+  "generated_at": "2026-11-17T11:26:01.999Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "0d6112bb-35a1-4e43-8fe6-e12b190d4667",
-      "ts": "2026-11-17T02:52:30+00:00",
-      "address": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+      "id": "b10bbe33-219d-451d-a943-2cbfeced54b7",
+      "ts": "2026-11-17T11:24:24+00:00",
+      "address": "0x4ab94e53e702dbfba644b25f33310650e490077b",
       "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "Ravens",
-      "price": 0.51,
-      "shares": 79301.7,
-      "usd_value": 40443.867,
-      "price_shift_pp": 8.000000000000002,
-      "alert_reason": "shift",
-      "market_id": "6305575",
-      "condition_id": "6305575",
-      "token_id": "15180845596962149451839872903594934140425406533221820396531702945224148639234",
-      "question": "Spread: Chargers (-3.5)",
-      "link": "https://polyvictor.com/markets/6305575"
+      "outcome_label": "Soon-Woo Kwon",
+      "price": 0.9630431810869565,
+      "shares": 460000,
+      "usd_value": 442999.8633,
+      "price_shift_pp": 0.10431810869565572,
+      "alert_reason": "size",
+      "market_id": "7046434",
+      "condition_id": "7046434",
+      "token_id": "68619309572194410864279581905293549976511553757043860902010632384152453204907",
+      "question": "Metz: Vitaliy Sachko vs Soon-Woo Kwon",
+      "link": "https://polyvictor.com/markets/7046434"
     }
   ]
 }
