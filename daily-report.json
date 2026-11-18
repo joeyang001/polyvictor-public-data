@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-11-17",
-  "generated_at": "2026-11-17T14:00:09.072Z",
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T14:00:08.809Z",
   "status": "success",
   "tweet_ids": [
-    "2122691259122741684",
-    "2122691260423061695"
+    "2123053645864292396",
+    "2123053647181291712"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 145,
-    "total_volume_usd": 5786852.709115001,
-    "unique_whales": 76,
-    "buy_volume_usd": 4324177.133855001,
-    "sell_volume_usd": 1462675.5752599996,
+    "total_fills": 121,
+    "total_volume_usd": 4817188.048231998,
+    "unique_whales": 65,
+    "buy_volume_usd": 3885439.2987719984,
+    "sell_volume_usd": 931748.74946,
     "top_markets": [
       {
-        "market_id": "7046434",
-        "question": "Metz: Vitaliy Sachko vs Soon-Woo Kwon",
-        "volume_usd": 442999.8633,
-        "fills": 1,
-        "link": "https://polyvictor.com/markets/7046434"
+        "market_id": "7105511",
+        "question": "Spread: Lakers (-6.5)",
+        "volume_usd": 445636.83999999997,
+        "fills": 5,
+        "link": "https://polyvictor.com/markets/7105511"
       },
       {
-        "market_id": "6567953",
-        "question": "Rockets vs. Heat",
-        "volume_usd": 407484.0131,
-        "fills": 7,
-        "link": "https://polyvictor.com/markets/6567953"
+        "market_id": "6627717",
+        "question": "Jazz vs. Clippers",
+        "volume_usd": 411625.54261,
+        "fills": 6,
+        "link": "https://polyvictor.com/markets/6627717"
       },
       {
-        "market_id": "6567955",
-        "question": "Warriors vs. Pelicans",
-        "volume_usd": 267045.0039,
-        "fills": 4,
-        "link": "https://polyvictor.com/markets/6567955"
+        "market_id": "6627713",
+        "question": "Knicks vs. Raptors",
+        "volume_usd": 392381.61319999996,
+        "fills": 8,
+        "link": "https://polyvictor.com/markets/6627713"
       }
     ],
     "top_whales": [
       {
-        "address": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
-        "volume_usd": 486304.1953000001,
-        "fills": 11,
-        "link": "https://polyvictor.com/whales/0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e"
-      },
-      {
-        "address": "0x4ab94e53e702dbfba644b25f33310650e490077b",
-        "volume_usd": 442999.8633,
-        "fills": 1,
-        "link": "https://polyvictor.com/whales/0x4ab94e53e702dbfba644b25f33310650e490077b"
-      },
-      {
         "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 411257.23939999996,
-        "fills": 9,
+        "volume_usd": 517424.52969999996,
+        "fills": 10,
         "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
+      },
+      {
+        "address": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+        "volume_usd": 475333.29,
+        "fills": 6,
+        "link": "https://polyvictor.com/whales/0x84cfffc3f16dcc353094de30d4a45226eccd2f63"
+      },
+      {
+        "address": "0x492442eab586f242b53bda933fd5de859c8a3782",
+        "volume_usd": 301185.506,
+        "fills": 3,
+        "link": "https://polyvictor.com/whales/0x492442eab586f242b53bda933fd5de859c8a3782"
       }
     ],
     "biggest_fill": {
-      "address": "0x4ab94e53e702dbfba644b25f33310650e490077b",
-      "usd": 442999.8633,
+      "address": "0x492442eab586f242b53bda933fd5de859c8a3782",
+      "usd": 180057.8565,
       "side": "buy",
-      "price": 0.9630431810869565,
-      "market_id": "7046434",
-      "question": "Metz: Vitaliy Sachko vs Soon-Woo Kwon",
-      "link": "https://polyvictor.com/markets/7046434"
+      "price": 0.45,
+      "market_id": "6627713",
+      "question": "Knicks vs. Raptors",
+      "link": "https://polyvictor.com/markets/6627713"
     }
   }
 }
