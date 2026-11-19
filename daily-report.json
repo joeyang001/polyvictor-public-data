@@ -1,71 +1,71 @@
 {
   "schema": "polyvictor.daily-report/v1",
-  "date": "2026-11-18",
-  "generated_at": "2026-11-18T14:00:08.809Z",
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T14:00:03.678Z",
   "status": "success",
   "tweet_ids": [
-    "2123053645864292396",
-    "2123053647181291712"
+    "2123416011751723379",
+    "2123416012863254675"
   ],
   "site": "https://polyvictor.com",
   "summary": {
     "window_hours": 24,
-    "total_fills": 121,
-    "total_volume_usd": 4817188.048231998,
-    "unique_whales": 65,
-    "buy_volume_usd": 3885439.2987719984,
-    "sell_volume_usd": 931748.74946,
+    "total_fills": 124,
+    "total_volume_usd": 6284226.025925001,
+    "unique_whales": 63,
+    "buy_volume_usd": 5557884.891074999,
+    "sell_volume_usd": 726341.13485,
     "top_markets": [
       {
-        "market_id": "7105511",
-        "question": "Spread: Lakers (-6.5)",
-        "volume_usd": 445636.83999999997,
-        "fills": 5,
-        "link": "https://polyvictor.com/markets/7105511"
-      },
-      {
-        "market_id": "6627717",
-        "question": "Jazz vs. Clippers",
-        "volume_usd": 411625.54261,
+        "market_id": "7158008",
+        "question": "Anthropic IPO closing market cap above $1.1T?",
+        "volume_usd": 1209129.54879,
         "fills": 6,
-        "link": "https://polyvictor.com/markets/6627717"
+        "link": "https://polyvictor.com/markets/7158008"
       },
       {
-        "market_id": "6627713",
-        "question": "Knicks vs. Raptors",
-        "volume_usd": 392381.61319999996,
-        "fills": 8,
-        "link": "https://polyvictor.com/markets/6627713"
+        "market_id": "6668808",
+        "question": "76ers vs. Magic",
+        "volume_usd": 800224.27424,
+        "fills": 12,
+        "link": "https://polyvictor.com/markets/6668808"
+      },
+      {
+        "market_id": "6668814",
+        "question": "Warriors vs. Mavericks",
+        "volume_usd": 280970.3143,
+        "fills": 3,
+        "link": "https://polyvictor.com/markets/6668814"
       }
     ],
     "top_whales": [
       {
-        "address": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-        "volume_usd": 517424.52969999996,
-        "fills": 10,
-        "link": "https://polyvictor.com/whales/0x2c335066fe58fe9237c3d3dc7b275c2a034a0563"
+        "address": "0x084dc4b3faa6c3c7a0c4ddd135a4d9421abb2a54",
+        "volume_usd": 1367666.6349499999,
+        "fills": 9,
+        "link": "https://polyvictor.com/whales/0x084dc4b3faa6c3c7a0c4ddd135a4d9421abb2a54"
       },
       {
-        "address": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
-        "volume_usd": 475333.29,
+        "address": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+        "volume_usd": 466119.5298000001,
         "fills": 6,
-        "link": "https://polyvictor.com/whales/0x84cfffc3f16dcc353094de30d4a45226eccd2f63"
+        "link": "https://polyvictor.com/whales/0xf0318c32136c2db7fec88b84869aee6a1106c80c"
       },
       {
-        "address": "0x492442eab586f242b53bda933fd5de859c8a3782",
-        "volume_usd": 301185.506,
-        "fills": 3,
-        "link": "https://polyvictor.com/whales/0x492442eab586f242b53bda933fd5de859c8a3782"
+        "address": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+        "volume_usd": 348779.66809999995,
+        "fills": 7,
+        "link": "https://polyvictor.com/whales/0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e"
       }
     ],
     "biggest_fill": {
-      "address": "0x492442eab586f242b53bda933fd5de859c8a3782",
-      "usd": 180057.8565,
+      "address": "0x084dc4b3faa6c3c7a0c4ddd135a4d9421abb2a54",
+      "usd": 593920.06384,
       "side": "buy",
-      "price": 0.45,
-      "market_id": "6627713",
-      "question": "Knicks vs. Raptors",
-      "link": "https://polyvictor.com/markets/6627713"
+      "price": 0.9865781791362126,
+      "market_id": "7158008",
+      "question": "Anthropic IPO closing market cap above $1.1T?",
+      "link": "https://polyvictor.com/markets/7158008"
     }
   }
 }
