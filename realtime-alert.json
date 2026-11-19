@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-19T00:32:36.138Z",
+  "generated_at": "2026-11-19T11:54:01.973Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "e13a75d9-d761-4858-ad8b-6708d20e9188",
-      "ts": "2026-11-19T00:30:08+00:00",
-      "address": "0x2c866881290c2197960f06448d3a236d9f20d939",
+      "id": "9078df9a-1a0f-4573-976e-5a49551fd6ec",
+      "ts": "2026-11-19T11:53:39+00:00",
+      "address": "0x084dc4b3faa6c3c7a0c4ddd135a4d9421abb2a54",
       "side": "buy",
-      "outcome_index": 1,
-      "outcome_label": "Pelicans",
-      "price": 0.5,
-      "shares": 50150,
-      "usd_value": 25075,
-      "price_shift_pp": -3.0000000000000027,
-      "alert_reason": "shift",
-      "market_id": "7127047",
-      "condition_id": "7127047",
-      "token_id": "43024956646368420153987310826940363809932384311914637480942006147799937927291",
-      "question": "Spread: Pistons (-5.5)",
-      "link": "https://polyvictor.com/markets/7127047"
+      "outcome_index": 0,
+      "outcome_label": "Yes",
+      "price": 0.9885553295998498,
+      "shares": 319630,
+      "usd_value": 315971.94,
+      "price_shift_pp": -0.04380109017395606,
+      "alert_reason": "size",
+      "market_id": "7158008",
+      "condition_id": "7158008",
+      "token_id": "57388608948582339240558983120821705965823644984712450502261042416305023416887",
+      "question": "Anthropic IPO closing market cap above $1.1T?",
+      "link": "https://polyvictor.com/markets/7158008"
     }
   ]
 }
