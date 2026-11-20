@@ -1,26 +1,26 @@
 {
   "schema": "polyvictor.whale-alert/v1",
-  "generated_at": "2026-11-19T23:58:01.441Z",
+  "generated_at": "2026-11-20T01:10:02.774Z",
   "window_minutes": 30,
   "count": 1,
   "alerts": [
     {
-      "id": "2b1c6e38-1d3f-4eaa-8deb-2bffb321d025",
-      "ts": "2026-11-19T23:57:46+00:00",
-      "address": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+      "id": "38cff7b1-d9d1-4815-815d-085ece5d90dc",
+      "ts": "2026-11-20T01:09:11+00:00",
+      "address": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
       "side": "buy",
       "outcome_index": 1,
-      "outcome_label": "Hurricanes",
-      "price": 0.76,
-      "shares": 330570.35,
-      "usd_value": 251233.466,
-      "price_shift_pp": 0,
+      "outcome_label": "Colts",
+      "price": 0.55,
+      "shares": 478974.88,
+      "usd_value": 263436.184,
+      "price_shift_pp": 0.00000168024435476255,
       "alert_reason": "size",
-      "market_id": "6083800",
-      "condition_id": "6083800",
-      "token_id": "102536145479213821486627844177932336544928459909067016767174549136489578353943",
-      "question": "Canadiens vs. Hurricanes",
-      "link": "https://polyvictor.com/markets/6083800"
+      "market_id": "6639485",
+      "condition_id": "6639485",
+      "token_id": "91155868616471111608486812742977305368841002313691176912852593533729066959657",
+      "question": "Spread: Texans (-13.5)",
+      "link": "https://polyvictor.com/markets/6639485"
     }
   ]
 }
